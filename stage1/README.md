@@ -1,10 +1,11 @@
-#UW-Madison CS 839 Data Science
-#Project Stage 1
-#Team Koala Ninja (10)
+# UW-Madison CS 839 Data Science
+
+## Team Koala Ninja (10)
 * Ankit Vij
 * Amanpreet Singh Saini
 * Joel Haynie
 
+## Project Stage 1
 Entity type: "People Names"; Tag in file with(as in assignment):  **<person>...</>**
 
 Prefix Titles are not included:**Dr., Mr., Mrs., Ms., CEO, President, etc**
