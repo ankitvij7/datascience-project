@@ -1,0 +1,31 @@
+How biometrics is giving identities to 'invisible citizens'
+Updated 6:14 AM ET, Mon February 19, 2018
+(CNN) - Around the globe an estimated 1.1 billion people are unable to prove their identity. They have no official ID -- no passport, no birth certificate, no bank card -- and as a result they're unable to access basic services, such as healthcare.
+
+Most of these "invisible citizens" live in Africa and Asia, and a third are children, according to the World Bank. But UK-based startup Simprints is trying to help them.
+
+Simprints makes portable fingerprint readers for charities around the world. It's working with charities in Kenya to provide digital healthcare records for people in poorer communities, who don't have any official documents.
+
+READ: Dad designs and 3D prints a prosthetic arm for his son
+
+For each person who has their fingerprint scanned, an algorithm creates a unique ID, which can be linked to their health records. Health workers can access the information and update health records using an app on a cell phone or tablet.
+
+"The biometric technology is enabling a lot of charities and organizations to leapfrog a computer-based system and go straight from a paper-based system to a mobile system," Simprints co-founder <person>Alexandra Grigore</> told CNN.
+
+Scanners providing a new hope
+
+<person>Nicholas Mwaura</> is head of technology at the Kenyan community health charity COHESU. He is working with a team of doctors and volunteers, using Simprints' technology to scan prints and create one of the country's first biometric identification databases.
+
+"Biometrics as a technology has completely changed our way of thinking," <person>Mwaura</> told CNN. He says Simprints is giving citizens without identities hope and access to a better synced healthcare system.
+
+"Without it they'd probably stay at home and accept their fate."
+
+READ: Darkest building on Earth unveiled at Winter Olympics
+
+Once someone is successfully enrolled they can easily visit a doctor -- who can then access their entire medical history digitally.
+
+Although it's revolutionizing healthcare in developing countries, fingerprint scanning isn't the newest or most technologically advanced biometric tool.
+
+Today, technology firms are racing to find a new, universal identifier that will replace the need for passwords and change our digital lives. Soon your face, iris, or even your heartbeat could be used to make payments, unlock your front door or to access your emails.
+
+Watch CNN's mini-documentary, above, for more on incredible innovations in biometrics.
