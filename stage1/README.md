@@ -26,4 +26,5 @@ Names when used in organizations are not persons eg **anti-Trump movement, Trump
 
 Names when used in proper nouns are not persons eg **Guillain-Barré syndrome**
 
+Fictional Characters are persons eg **Harry Potter, Mona Lisa, Venus** (this one we should debate)
 
