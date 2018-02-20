@@ -14,7 +14,7 @@ Suffix Titles are not included: **PHD, OBE, CPA, PE, etc**
 
 Suffix Names are included: **Sr., Jr., the third, III, IV, etc**
 
-Last Names only are considered a Name.
+First or Last Names only are considered a Person.
 
 All files should be in ASCII and English
 
