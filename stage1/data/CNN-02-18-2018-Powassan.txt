@@ -56,7 +56,7 @@ Dr. <person>Paul E. Jarris</>, chief medical officer at the nonprofit March of D
 
 Analysis based on previous research suggests that the Zika virus, first identified more than half a century ago, has been slightly increasing rates of birth defects since its discovery, the authors of the new study found.
 
-It is the Aedes species mosquito that infects humans with the Zika virus. According to the World Health Organization, there is scientific consensus that Zika virus causes Guillain-Barré syndrome in humans and microcephaly in children born to infected mothers. The virus could be associated with other neurological complications as well.
+It is the Aedes species mosquito that infects humans with the Zika virus. According to the World Health Organization, there is scientific consensus that Zika virus causes <person>Guillain</>-<person>Barré</> syndrome in humans and microcephaly in children born to infected mothers. The virus could be associated with other neurological complications as well.
 
 "We need to do more research here," <person>Jarris</> said. He added that mosquitoes and ticks are just "bad actors; I think we need to be concerned about them in any case." The same mosquito that spreads Zika spreads dengue, and "dengue can be a deadly disease," he said. "Yet one more reason that you need to avoid mosquito bites and tick bites as well as get rid of standing water in your backyard and take other precautions to keep mosquitoes from breeding."
 
