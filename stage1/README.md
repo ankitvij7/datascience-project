@@ -14,15 +14,15 @@ Suffix Titles are not included: **PHD, OBE, CPA, PE, etc**
 
 Suffix Names are included: **Sr., Jr., the third, III, IV, etc**
 
-Last Names only are considered a Name.
+First or Last Names only are considered a Person.
+
+Names when used in organizations/schools/campaigns are persons eg **Godman Sachs, Trump campaign**
 
 All files should be in ASCII and English
 
 File Name: **SOURCE-DATE-FIRST_WORD_IN_TITLE.txt, ex "CNN-02-16-2018-flu.txt"**
 
 Names with Ownership: Do not include the **'s**, eg **<person>Joel Haynie</>'s face**
-
-Names when used in organizations are not persons eg **anti-Trump movement, Trump campaign**
 
 Names when used in proper nouns are not persons eg **Guillain-Barré syndrome**
 

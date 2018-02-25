@@ -1,0 +1,25 @@
+SpaceX launches demo satellites for its high-speed internet project
+Updated 5:22 PM ET, Thu February 22, 2018
+New York (CNNMoney) - <person>Elon Musk</>'s goal of delivering high-speed internet to the world just got a little closer to reality.
+SpaceX on Thursday launched a rocket carrying two experimental satellites from Vandenberg Air Force Base in California. The satellites will test out the technology the company plans to use for its internet service, according to public filings.
+The company kept the test satellites largely under wraps and chose to focus on the primary payload for Thursday's launch -- a defense and security satellite for the Spanish government called PAZ.
+But <person>Musk</> confirmed in a tweet the small internet satellites, which hitched a ride along with PAZ, made it into orbit. He said the satellites, nicknamed "Tintin A" and "Tintin B," will attempt to beam the words "hello world" when they pass over Los Angeles Friday morning.
+SpaceX's internet ambitions have the support of Federal Communications Commission chairman <person>Ajit Pai</>. On February 14, <person>Pai</> urged the FCC to approve SpaceX's broader proposal to deliver "broadband services directly to [people] anywhere in the United States or around the world" at speeds similar to the quickest ground-based internet connections.
+SpaceX eventually wants to put more than 10,000 tiny satellites into Low-Earth Orbit. The satellites will whisk around the planet about 335 km (208 miles) to 1,325 km (823 miles) above the Earth's surface.
+Billions of people around the globe still lack internet access, so companies have been racing to find a better way to beam internet down from the sky.
+Related: FCC chairman backs SpaceX plan for internet satellites
+They include OneWeb, a startup that's attracted backing from the likes of <person>Richard Branson</>'s Virgin Group, Coca-Cola and Qualcomm. It has approval from the FCC to send internet satellites into orbit.
+If SpaceX gets approval for its satellite project, it'll be a first for an American-based company to join the race to provide internet via Low-Earth Orbit satellites, FCC Chairman <person>Pai</> said.
+Some of SpaceX's internal financial documents obtained by the Wall Street Journal last year show the company has high expectations for this satellite network.
+"SpaceX projected the satellite-internet business would have over 40 million subscribers and bring in more than $30 billion in revenue by 2025," the Journal reported.
+The PAZ satellite that SpaceX delivered for the Spanish government will stay in orbit for about five and a half years, making full loops around Earth 15 times per day, according to Airbus, the primary contractor for <person>Paz</>. And it will capture images of our home planet -- day or night and no matter what the weather looks like -- using radar technology.
+Earlier this month, SpaceX drew public attention with the launch of its massive new rocket, Falcon Heavy, which is now the most powerful operational rocket in the world.
+There are plans to fly a communications satellite and a payload for the U.S. Air Force on board a Falcon Heavy later this year. But Thursday's launch used a Falcon 9, the rocket SpaceX has flown since 2010.
+SpaceX is famous for its gravity-defying attempts to land rocket boosters after launch. It's successfully completed the task after more than 20 launches. The boosters -- which account for about 60% of the cost of a rocket -- are guided home so they can be reused on future missions, which brings down the cost of a single launch.
+The rocket flown on Thursday used one of those pre-flown boosters, but SpaceX did not attempt another landing.
+It did, however, attempt to recover the rocket's fairing, which is the white nose cone at the tip of the rocket that protects the satellites during launch.
+A large ship outfitted with an enormous net, nicknamed "Mr. <person>Steven</>," went out to sea in an attempt to catch the fairing.
+<person>Musk</> confirmed via social media that the fairing missed the boat, but landed in one piece nearby.
+"Missed by a few hundred meters, but fairing landed intact in water," <person>Musk</> posted on Twitter. "Should be able catch it with slightly bigger chutes to slow down descent."
+--<person>Seth Fiegerman</> and <person>Dave Goldman</> contributed to this report.
+

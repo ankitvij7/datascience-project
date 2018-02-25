@@ -1,0 +1,31 @@
+At The Winter Olympics, Robots Are Here To Help. But Don't Assume They Work All Hours
+
+By <person>Bill Chappell</>
+
+NPR.org, February 20, 2018 · Directions, weather reports, water bottles. Those are some of the things we've seen robots offering at the Pyeongchang Winter Olympics — helping to host thousands of visitors and media. They're also helping South Korea present itself as a tech-savvy nation with an eye on the future.
+
+Most of the robots we've seen in Pyeongchang and Gangneung, the two areas where the Winter Games are being held, weren't made to look human. Instead, they present a wide range of looks — and autonomy.
+
+Some of these bots were made to look like a white tiger (Soohorang, the Olympic mascot), with an informational screen embedded in its belly. Others mimic colorful aquarium fish, avoiding the uncanny valley of fishiness with their blinking lights and exposed wiring.
+
+Several other models attend to duties that are often people-powered, from vacuuming busy hallways to painting murals.
+
+Two of the most sophisticated robots regularly operate in crowded spaces. One, the Airstar, greets travelers at Seoul's Incheon International Airport, answering questions and offering to guide people through – and as NPR's <person>Elise Hu</> learned, they can successfully point you to another human, even if they don't always understand what you're saying.
+
+Another robot vacuums the carpeted hallways of the main press center in Pyeongchang. Spherical and glossy white, the vacuum speaks to passersby in a woman's voice.
+
+The voice seems to be speaking Korean — presumably warning people to get out of the way. We couldn't make it out well, because this vacuum also plays jaunty music (somewhere between game-show theme and pop song) while its two front brushes swirl, clearing dust and dirt like a futuristic street-sweeper.
+
+Just because they're mechanical, don't assume these robots work all hours. They're deployed on carefully managed schedules – the snack bots take long breaks, clocking in to navigate around media workspaces for about 15 minutes every hour – usually only between noon and 5 p.m.
+
+There's no sign that the robots negotiated for those hours – nor is there any hint of any artificial intelligence they might have lurking behind their cameras and sensors. TARS, they're not.
+
+Whether they're cleaning the floor, helping lost travelers or hydrating the masses, the robots always have a human minder nearby. All of these humans hold a remote control that can get the robots back on track if something unpredictable happens (including questions from journalists).
+
+If these robots were ever to evolve, it would help to have names, a sense of identity around which to build sentience. It could be precisely for this reason that their makers have refrained from giving them names. All of the technicians we spoke to could offer no individualized names for the bots, other than generic tags such as "Vacuum" or "Transport Robot."
+
+The robots are in a unique and sensitive position at the Olympics. Organizers want them here to represent South Korea's technical prowess. But when we've asked their minders to name the companies that make them, they've demurred.
+
+One cited "security" as the reason. Others have replied that they simply couldn't say. Anecdotally, we've heard that LG may have built the sophisticated one at the airport. Others have said the snack bots could be the work of a small, mom-and-pop tech company.
+
+The mystery is likely the result of the intense policing of brands that goes on at the Olympics, something that's notoriously all-encompassing. For instance, our rooms at the media village came equipped with toiletries made by P&G – an Olympic sponsor – but because the toothpaste is from an outside company, its label was glued over with white paper, leaving only a mint leaf as the most obvious hint at its contents.
