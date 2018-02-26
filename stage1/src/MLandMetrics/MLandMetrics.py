@@ -78,26 +78,26 @@ firstFeatureIndex = 2
 lastFeatureIndex = firstFeatureIndex + numFeatures
 labelIndex = lastFeatureIndex + 1
 # File format & column address / indexes:
+# has a header row.
 #      0,            1,       2,...,      2+numFeatures,numFeatures+3<eol>
 # "uuid","name_string",feature1,...,feature_numFeatures,Label(0,1)<eol>
 #    str,          str,  Number,...,             Number,Number<eol>
 
 # Let's load our Training set (i)
 print("Loading Training Set")
-trainingSetInstanceInfo = numpy.genfromtxt(trainingSetFileName, delimiter=',', usecols=[idIndex, nameIndex],
-                                           dtype=str)
+trainingSetInstanceInfo = numpy.genfromtxt(trainingSetFileName, delimiter=',', usecols=[idIndex, nameIndex], dtype=str, skip_header=1)
 trainingSetIds = trainingSetInstanceInfo[:, 0]
 trainingSetNames = trainingSetInstanceInfo[:, 1]
-trainingSet = numpy.loadtxt(trainingSetFileName, delimiter=',', usecols=list(range(firstFeatureIndex, labelIndex)))
+trainingSet = numpy.loadtxt(trainingSetFileName, delimiter=',', usecols=list(range(firstFeatureIndex, labelIndex)), skiprows=1)
 trainingSetFeatures = trainingSet[:, :-1]
 trainingSetLabels = trainingSet[:, -1]
 
 # Let's load our Test set (j)
 print("Loading Test Set")
-testSetInstanceInfo = numpy.genfromtxt(testSetFileName, delimiter=',', usecols=[idIndex, nameIndex], dtype=str)
+testSetInstanceInfo = numpy.genfromtxt(testSetFileName, delimiter=',', usecols=[idIndex, nameIndex], dtype=str, skip_header=1)
 testSetIds = trainingSetInstanceInfo[:, 0]
 testSetNames = trainingSetInstanceInfo[:, 1]
-testSetSet = numpy.loadtxt(trainingSetFileName, delimiter=',', usecols=list(range(firstFeatureIndex, labelIndex)))
+testSetSet = numpy.loadtxt(trainingSetFileName, delimiter=',', usecols=list(range(firstFeatureIndex, labelIndex)), skiprows=1)
 testSetFeatures = trainingSet[:, 0:-1]
 testSetLabels = trainingSet[:, -1]
 
