@@ -60,12 +60,12 @@ def minimum_distance_to_keywords():
     return location_of_closed_keyword;
 
 
-with open('internediatefeaturespace.csv', 'r') as intermediateFeaturesFile:
+with open('../../Output/internediatefeaturespace.csv', 'r') as intermediateFeaturesFile:
     intermediateFeatureReader = csv.DictReader(intermediateFeaturesFile)
     fieldnames = ['id', 'name', 'some_capitalized', 'atleast_one_capitalized', 'first_letter_capitalized',
                   'has_suffix_salutation', 'start_position', 'distance_to_period', 'distance_to_closest_keyword',
                   'frequency', 'label']
-    output = csv.DictWriter(open("featurespace.csv", "w"), fieldnames=fieldnames)
+    output = csv.DictWriter(open("../../Output/featurespace.csv", "w"), fieldnames=fieldnames)
     output.writeheader()
 
     for row in intermediateFeatureReader:
