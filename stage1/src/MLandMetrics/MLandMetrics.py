@@ -1,3 +1,4 @@
+import sys
 # Let's bring in our parser!
 import numpy
 # We must implement CV with the following classifiers:  decision tree, random forest, support vector machine, linear regression, and logistic regression
@@ -12,7 +13,7 @@ dt = "Decision Tree"
 
 
 # Fitted getClassifier Function for a Decision Tree Classifier
-def getDecisionTreeClassifier(features, labels):
+def get_decision_tree_classifier(features, labels):
     # TODO: Found in an example, prune later.
     # return DecisionTreeClassifier(criterion="entropy", class_weight={1: 0.25, 0: 0.75}).fit(features, labels)
     return DecisionTreeClassifier().fit(features, labels)
@@ -22,7 +23,7 @@ rf = "Random Forest"
 
 
 # Fitted getClassifier Function for a Random Forest Classifier
-def getRandomForestClassifer(features, labels):
+def get_random_rorest_classifer(features, labels):
     # TODO: Found in an example, prune later.
     # return RandomForestClassifier(criterion="entropy", class_weight={1: 0.25, 0: 0.75}).fit(features, labels)
     return RandomForestClassifier().fit(features, labels)
@@ -32,7 +33,7 @@ svm = "Support Vector Machine"
 
 
 # Fitted getClassifier Function for a Support Vector Machine Classifier
-def getSupportVectorMachineClassifer(features, labels):
+def get_support_vector_machine_classifer(features, labels):
     # TODO: Found in an example, prune later.
     # return SVC(class_weight={1: 0.25, 0: 0.75}).fit(features, labels)
     # return SVC(C=100.0).fit(features, labels)
@@ -45,7 +46,7 @@ linrThreshold = 0.5
 
 
 # Fitted getClassifier Function for a Linear Regression Classifier
-def getLinearRegressionClassifier(features, labels):
+def get_linear_regression_classifier(features, labels):
     return LinearRegression().fit(features, labels)
 
 
@@ -53,30 +54,37 @@ logr = "Logistic Regression"
 
 
 # Fitted getClassifier Function for a Logistic Regression Classifier
-def getLogisticRegressionClassifier(features, labels):
+def get_logistic_regression_classifier(features, labels):
     # TODO: Found in an example, prune later.
     # return LogisticRegression(C=100000).fit(features, labels)
     return LogisticRegression().fit(features, labels)
 
 
+
+
 # Tools for looping through all the different Classifiers via Function pointers.
-classifierNames = [dt, rf, svm, linr, logr]
-classifierFns = {dt: getDecisionTreeClassifier,
-                 rf: getRandomForestClassifer,
-                 svm: getSupportVectorMachineClassifer,
-                 linr: getLinearRegressionClassifier,
-                 logr: getLogisticRegressionClassifier}
+classifier_names = [dt, rf, svm, linr, logr]
+classifier_functions = {dt: get_decision_tree_classifier,
+                        rf: get_random_rorest_classifer,
+                        svm: get_support_vector_machine_classifer,
+                        linr: get_linear_regression_classifier,
+                        logr: get_logistic_regression_classifier}
 
 # Primary portion of execution
 # Tuning params.
-trainingSetFileName = "../../Data/Example_i.csv"
-testSetFileName = "../../Data/Example_j.csv"
-numFeatures = 8
-idIndex = 0
-nameIndex = 1
-firstFeatureIndex = 2
-lastFeatureIndex = firstFeatureIndex + numFeatures
-labelIndex = lastFeatureIndex + 1
+# Example command line: python MLandMetrics.py ../../Output/Example_i.csv ../../Output/Example_j.csv
+#     where i = training, and j = test set
+#training_set_filename = "../../Output/Example_i.csv"
+#test_set_filename = "../../Output/Example_j.csv"
+#training set is arg 1 and test set is arg 2
+training_set_filename = sys.argv[1]
+test_set_filename = sys.argv[2]
+num_features = 8
+id_index = 0
+name_index = 1
+first_feature_index = 2
+last_feature_index = first_feature_index + num_features
+label_index = last_feature_index + 1
 # File format & column address / indexes:
 # has a header row.
 #      0,            1,       2,...,      2+numFeatures,numFeatures+3<eol>
@@ -85,42 +93,42 @@ labelIndex = lastFeatureIndex + 1
 
 # Let's load our Training set (i)
 print("Loading Training Set")
-trainingSetInstanceInfo = numpy.genfromtxt(trainingSetFileName, delimiter=',', usecols=[idIndex, nameIndex], dtype=str, skip_header=1)
-trainingSetIds = trainingSetInstanceInfo[:, 0]
-trainingSetNames = trainingSetInstanceInfo[:, 1]
-trainingSet = numpy.loadtxt(trainingSetFileName, delimiter=',', usecols=list(range(firstFeatureIndex, labelIndex)), skiprows=1)
-trainingSetFeatures = trainingSet[:, :-1]
-trainingSetLabels = trainingSet[:, -1]
+training_set_instance_info = numpy.genfromtxt(training_set_filename, delimiter=',', usecols=[id_index, name_index], dtype=str, skip_header=1)
+training_set_ids = training_set_instance_info[:, 0]
+training_set_names = training_set_instance_info[:, 1]
+training_set = numpy.loadtxt(training_set_filename, delimiter=',', usecols=list(range(first_feature_index, label_index)), skiprows=1)
+training_set_features = training_set[:, :-1]
+training_set_labels = training_set[:, -1]
 
 # Let's load our Test set (j)
 print("Loading Test Set")
-testSetInstanceInfo = numpy.genfromtxt(testSetFileName, delimiter=',', usecols=[idIndex, nameIndex], dtype=str, skip_header=1)
-testSetIds = trainingSetInstanceInfo[:, 0]
-testSetNames = trainingSetInstanceInfo[:, 1]
-testSetSet = numpy.loadtxt(trainingSetFileName, delimiter=',', usecols=list(range(firstFeatureIndex, labelIndex)), skiprows=1)
-testSetFeatures = trainingSet[:, 0:-1]
-testSetLabels = trainingSet[:, -1]
+test_set_instance_info = numpy.genfromtxt(test_set_filename, delimiter=',', usecols=[id_index, name_index], dtype=str, skip_header=1)
+test_set_ids = training_set_instance_info[:, 0]
+test_set_names = training_set_instance_info[:, 1]
+test_set = numpy.loadtxt(test_set_filename, delimiter=',', usecols=list(range(first_feature_index, label_index)), skiprows=1)
+test_set_features = test_set[:, 0:-1]
+test_set_labels = test_set[:, -1]
 
 # print("Training Set Details:")
-# print(trainingSetIds)
-# print(trainingSetNames)
-# print(trainingSetFeatures)
-# print(trainingSetLabels)
+# print(training_set_ids)
+# print(training_set_names)
+# print(training_set_features)
+# print(training_set_labels)
 # print("Test Set Details:")
-# print(testSetIds)
-# print(testSetNames)
-# print(testSetFeatures)
-# print(testSetLabels)
+# print(test_set_ids)
+# print(test_set_names)
+# print(test_set_features)
+# print(test_set_labels)
 
 # Now lets actually do some work!
 # TODO: add the k-folding
 print("Staring Creation and Classification")
-for classifierName in classifierNames:
-    print(classifierName + "classifier")
-    testSetPredictions = classifierFns[classifierName](trainingSetFeatures, trainingSetLabels).predict(testSetFeatures)
-    # Linear Regression outputs are a bit different need to modify
-    if classifierName == linr:
-        tempPredictions = testSetPredictions[:]
-        testSetPredictions = [1 if val > linrThreshold else 0 for val in tempPredictions]
-    print(metrics.classification_report(testSetLabels, testSetPredictions, digits=3))
+for classifier_name in classifier_names:
+    print(classifier_name + " Classifier:")
+    test_set_predictions = classifier_functions[classifier_name](training_set_features, training_set_labels).predict(test_set_features)
+    # Linear Regression outputs are a bit different need to be modified
+    if classifier_name == linr:
+        temp_predictions = test_set_predictions[:]
+        test_set_predictions = [1 if val > linrThreshold else 0 for val in temp_predictions]
+    print(metrics.classification_report(test_set_labels, test_set_predictions, digits=3))
 print("FIN")
