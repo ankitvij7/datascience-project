@@ -105,7 +105,7 @@ print("Loading Test Set")
 test_set_instance_info = numpy.genfromtxt(test_set_filename, delimiter=',', usecols=[id_index, name_index], dtype=str, skip_header=1)
 test_set_ids = training_set_instance_info[:, 0]
 test_set_names = training_set_instance_info[:, 1]
-test_set = numpy.loadtxt(training_set_filename, delimiter=',', usecols=list(range(first_feature_index, label_index)), skiprows=1)
+test_set = numpy.loadtxt(test_set_filename, delimiter=',', usecols=list(range(first_feature_index, label_index)), skiprows=1)
 test_set_features = test_set[:, 0:-1]
 test_set_labels = test_set[:, -1]
 
