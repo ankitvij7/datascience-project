@@ -1,0 +1,7 @@
+id,name,some_capitalized,atleast_one_capitalized,first_letter_capitalized,has_suffix_salutation,start_position,distance_to_period,distance_to_closest_keyword,frequency,label
+d03bd86e-bd67-4f37-b934-831e107dee80,Ankit Vij,1,1,1,40,4,3,0,2,1
+d137dacf-dc5c-4c4b-9fd6-f55d5448a096,Aman Saini,1,1,1,50,5,2,0,2,1
+b3bfb795-c870-4a38-8922-776dd0dd10a7,Joel Haynie,1,1,1,60,8,2,0,2,1
+d03bd86e-bd67-4f37-b934-831e107dee81,diamond trump,0,0,0,70,20,20,0,2,0
+d03bd86e-bd67-4f37-b934-831e107dee82,Spruce tree,1,1,1,91,20,20,0,2,0
+d03bd86e-bd67-4f37-b934-831e107dee83,Madison,1,1,1,100,20,20,0,1,0
