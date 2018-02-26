@@ -5,7 +5,7 @@ from sklearn.tree import DecisionTreeClassifier
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.svm import SVC
 from sklearn.linear_model import LinearRegression, LogisticRegression
-# We must measure R/P/F1
+# We must measure Recall, Precision & F1
 from sklearn import metrics
 
 dt = "Decision Tree"
