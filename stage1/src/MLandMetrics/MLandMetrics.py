@@ -1,3 +1,4 @@
+import sys
 # Let's bring in our parser!
 import numpy
 # We must implement CV with the following classifiers:  decision tree, random forest, support vector machine, linear regression, and logistic regression
@@ -59,6 +60,8 @@ def get_logistic_regression_classifier(features, labels):
     return LogisticRegression().fit(features, labels)
 
 
+
+
 # Tools for looping through all the different Classifiers via Function pointers.
 classifier_names = [dt, rf, svm, linr, logr]
 classifier_functions = {dt: get_decision_tree_classifier,
@@ -69,8 +72,13 @@ classifier_functions = {dt: get_decision_tree_classifier,
 
 # Primary portion of execution
 # Tuning params.
-training_set_filename = "../../Output/Example_i.csv"
-test_set_filename = "../../Output/Example_j.csv"
+# Example command line: python MLandMetrics.py ../../Output/Example_i.csv ../../Output/Example_j.csv
+#     where i = training, and j = test set
+#training_set_filename = "../../Output/Example_i.csv"
+#test_set_filename = "../../Output/Example_j.csv"
+#training set is arg 1 and test set is arg 2
+training_set_filename = sys.argv[1]
+test_set_filename = sys.argv[2]
 num_features = 8
 id_index = 0
 name_index = 1
