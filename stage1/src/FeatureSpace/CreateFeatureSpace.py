@@ -60,7 +60,7 @@ def minimum_distance_to_keywords():
     return location_of_closed_keyword;
 
 
-with open('../../Output/internediatefeaturespace.csv', 'r') as intermediateFeaturesFile:
+with open('../../Output/intermediatefeaturespace.csv', 'r') as intermediateFeaturesFile:
     intermediateFeatureReader = csv.DictReader(intermediateFeaturesFile)
     fieldnames = ['id', 'name', 'some_capitalized', 'atleast_one_capitalized', 'first_letter_capitalized',
                   'has_suffix_salutation', 'start_position', 'distance_to_period', 'distance_to_closest_keyword',
@@ -69,7 +69,7 @@ with open('../../Output/internediatefeaturespace.csv', 'r') as intermediateFeatu
     output.writeheader()
 
     for row in intermediateFeatureReader:
-        identifier = row['Id']
+        identifier = row['id']
         name = row['name']
         some_capitalized = 1 if sum(1 for c in name if c.isupper()) > 2 else 0
         atleast_one_capitalized = 1 if sum(1 for c in name if c.isupper()) >= 1 else 0
@@ -81,7 +81,7 @@ with open('../../Output/internediatefeaturespace.csv', 'r') as intermediateFeatu
         frequency = row['frequency']
 
         file_name = row['file_name'];
-        reference_file = open(file_name, 'r');
+        reference_file = open("../../data/"+file_name, 'r');
         file_contents = reference_file.read();
 
         min_distance_to_period = minimum_distance_to_period();
