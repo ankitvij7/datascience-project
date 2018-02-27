@@ -1,0 +1,49 @@
+Bike-Share Firm Hits The Brakes In France After 'Mass Destruction' Of Dockless Bikes
+
+By <person>Camila Domonoske</>
+
+NPR.org, February 26, 2018 · Gobee is a no-go — at least in France.
+
+France's first dockless bike-sharing program, which launched in October, has shut down operations across the country, citing "the mass destruction" of its fleet.
+
+The decision to shut down on Saturday was "disappointing and extremely frustrating," the Hong Kong-based company wrote in its announcement. "We hoped for the best. But we were wrong ... In 4 months, 60% of our fleet was destroyed, stolen or privatized, making the whole European project no longer sustainable."
+
+Dockless bike-share programs allow users to rent bikes using a smartphone app, usually by scanning a code on the bike to trigger it to unlock. At the end of the trip, bicycles can be parked anywhere; more established bike-share systems, like Paris' Velib program, require bikes to be returned to "docking stations" set up around the city.
+
+Docklessness appealed to some users, like <person>Alexandre Jacques</>, a 23-year-old computer science student in Paris who spoke to NPR's <person>Eleanor Beardsley</> about the service.
+
+"I discovered Gobee bikes in December and I really liked it," <person>Jacques</> said. "With the app and GPS you could always find a bike near you. I rode it to school every day. It was better than Velib because you didn't have to find a bike stand to return the bike — you could just leave it anywhere.
+
+"It's too bad it's not working anymore," he said.
+
+Reuters reports that are other dockless bike options in Paris, at least for now:
+
+"Gobee's exit leaves Paris with three remaining Asian-owned operators, Singapore's oBike, with about 1,800 grey-orange bikes, and two major Chinese firms: Ofo, with about 1,000 yellow bikes, and Mobike, with several thousand red bikes."
+
+Dockless bikes first caught on in Asia, particularly in large cities in China, where multiple startups are competing in a crowded market.
+
+NPR's <person>Steve Inskeep</> and <person>Miranda Kennedy</> reported from Beijing this past November:
+
+"China's push to lower emissions, and the sheer impracticality of driving on traffic-clogged streets, means that in some places bikes are having a second coming — in the form of bike-shares. The new image of the streets of Beijing is a millennial riding a sturdy, brightly colored bicycle — orange, yellow or green, depending on the brand. More than two dozen bike-share companies are operating in China now.
+
+"There are between 16 million and 18 million shared bikes on China's streets — dockless, with an automatic electronic wheel lock. Once locked, the bikes can be safely left unattended, and they are — thousands at a time."
+
+In October, Gobee became the first dockless bike program to launch in France, with a soft launch in Lille and a big debut in Paris. As the company's extremely cheerful press release put it at the time, "The City of Lights greeted our eco-friendly fleet with boundless joy and enthusiasm. Amidst the excitement of being the first dockless bikeshare operator in town, adoption was rapid, with Parisians signing up and registering for a Gobee account the very same day."
+
+"We hope to instill a greater conscience for sustainability and clean living amongst city dwellers," the company wrote.
+
+But a lack of conscience among city dwellers took the company down. Gobee wrote in their less-joyful au revoir this past weekend:
+
+"Over the months of December and January, the mass destruction of our fleet has become the new entertainment of underaged individuals, encouraged by content broadly shared on social media. In total, it is more than a thousand bikes stolen or privatized, nearly 3,400 bikes broken nationwide, around 280 complaints filed to the French Municipal Police and close to 6,500 repairs performed by our on-the-ground agents and repair partners."
+
+France has been home to several groundbreaking bike-sharing efforts, as the Atlantic's CityLab detailed a few years ago. The first city-scale bike-share program to use RFID technology was in Rennes, France; the first smart bike-share system with 1,500 bikes was in Lyon; and Velib set a new record when it launched in Paris in 2007 with 6,000 bikes.
+
+Now, even as Gobee is shuttering, the once-revolutionary Velib programs is facing problems of its own.
+
+Paris is switching to a new operator for the program, as The Telegraph reports:
+
+"The switchover, which involves replacing all of the bikes with new ones, a third of which will be electric, has been largely seen as a fiasco.
+
+"By early February only 200 of about 1,400 planned docking stations were up and running, leaving only a fraction of the planned fleet of 20,000 bikes in operation.
+
+"Smovengo, the new operator, has blamed the delays on electrical problems and a legal dispute with JCDecaux, the firm that has run the scheme since it was launched in 2007."

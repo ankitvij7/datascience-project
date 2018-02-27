@@ -1,0 +1,73 @@
+An Anarchist Explains How Hackers Could Cause Global Chaos
+
+By <person>Laura Sydell</>
+
+All Things Considered, · Artists and criminals are often the first to push the boundaries of technology. <person>Barrett Brown</> is a criminal who has actually helped inspire art — the TV show Mr. Robot. Its protagonist is a hacktivist — a hacker who breaks into computer systems to promote a cause.
+
+<person>Brown</> served time for being part of Anonymous, a group that hacked a private security firm to reveal secrets. He is now out and living in a halfway house in Dallas.
+
+He had spent years in a prison cell thinking about what he might do when he got out. And he says he is ready to change, so next time he gets involved in hacking a corporation he is able to inflict maximum damage.
+
+"Certainly, I haven't gotten any less militant in the course of having these things done to me," <person>Brown</> says.
+
+Since most hacktivists operate in the shadows, <person>Brown</> offers the best look at these cyber-revolutionaries and their motivations.
+
+The 36-year-old <person>Brown</> was born in Dallas. His father was a wealthy real estate investor, until he was investigated by the FBI for fraud. <person>Brown</>'s father was never charged, but the family lost all its money and his parents divorced.
+
+"It was something that I'm sure instilled in me the idea that there was a degree of arbitrary power out there that could come down at any time and disrupt your life, as it did to me when I was a child," <person>Brown</> says.
+
+He hates arbitrary power and always has. He is an anarchist who believes the U.S. government is fundamentally corrupt. And he says most Americans are too complacent to do anything about it.
+
+"That's what ... in part brings me to contempt for the American citizenry," he says. "Obviously, I have no respect for the laws, for the government or for the voters."
+
+Instead, he says, his own code of values drives him.
+
+He became a radical intellectual — more interested in spreading revolutionary ideas than in protesting in the streets. But in 2006, <person>Brown</> saw a potential outlet for his anarchist dreams — the hacktivist group Anonymous. It was leaderless, crowdsourced and militant.
+
+Anonymous managed to organize a massive attack on Scientology, even taking down its website. <person>Brown</> started covering Anonymous as a journalist but soon became deeply involved.
+
+"I saw this as the very first ripples in something that would grow to be one of the great dynamics of the 21st century, that we would see more of this emergence [of] online warfare essentially against institutions including nation-states," he says.
+
+For many years, <person>Brown</> was a sort of unofficial spokesman for Anonymous, appearing in interviews dressed in a beige corduroy or navy blue jacket and dress shirt, a cigarette dangling from his hand. He looked more like a preppy than a revolutionary.
+
+In 2011, the group began targeting companies that contracted with the U.S. government. One of them was Stratfor — a global intelligence firm. Emails released after an Anonymous hack included sensitive information on top-secret government missions like the killing of <person>Osama bin Laden</>. The emails also show Dow Chemical hired Stratfor to spy on activists trying to get money for families who suffered during the Bhopal disaster.
+
+<person>Brown</> viewed this as a private corporate version of COINTELPRO — the FBI's effort in the 1960s to discredit activists like <person>Martin Luther King Jr.</>
+
+<person>Brown</> created Project PM, an online chatroom where participants looked through thousands of hacked emails to find the most incriminating. One email contained thousands of credit card numbers — and stealing credit cards is a crime.
+
+In September 2012, <person>Brown</> was at home talking online with members of Project PM. "I heard a rustling at my door and I walked over to the door. I was holding a beer in my hand," he says. "[I] thought it was another friend of mine."
+
+But when he opened the door there was a SWAT team equipped with shields and helmets. <person>Brown</> says they were yelling, "Put your hands up buddy." <person>Brown</> says they had him on the floor and put a boot on his back. The audio of the arrest was recorded by someone in the Project PM chatroom.
+
+<person>Brown</> faced up to 100 years in prison. His mother was charged with hiding his laptops.
+
+<person>Brown</> admits he went a bit off the rails. He posted a video on YouTube attacking an FBI agent.
+
+"I was a former heroin addict," <person>Brown</> says. "I was getting off Suboxone at the time, which is a synthetic opiate. And I was sort of suddenly feeling emotions again that have been kind of bottled, kept down a few months. I was very upset about my mother being threatened with indictment."
+
+Still, <person>Brown</> was a cause célèbre among certain activists and journalists. Many felt he was being put away for simply looking through hacked emails — something any journalist would do.
+
+<person>Brown</> eventually pleaded guilty to threatening a federal officer and to two other charges. The government imprisoned other members of Anonymous. The group kind of faded away, but its tactics did not.
+
+During the 2016 election, Russian state-supported hackers used some of the same tools as Anonymous — hacking emails from the Democratic National Committee and posting them on WikiLeaks to embarrass <person>Hillary Clinton</>.
+
+I wondered, is there really any difference between a foreign agent trying to undermine our democracy and hacktivists like Anonymous? Is <person>Brown</> a hero or a villain?
+
+I turned to an unlikely expert to help me figure that out — <person>Sam Esmail</>, the creator of the TV show Mr. Robot. "Their spirit is in activism," <person>Esmail</> says. "Their spirit is in exposing these frauds and abuses by people in power. And that's just something on a human level I respect."
+
+But Mr. Robot is hardly a glowing portrait of hacktivists. Its hero, <person>Elliot</>, is a drug addict who can't access his own emotions. Sound familiar? <person>Elliot</> leads a group called fsociety that takes down the world's largest corporation — erasing everyone's debt. Chaos erupts.
+
+<person>Esmail</> says he is looking at an age-old dilemma. "Do we commit a criminal act for something that we feel is just, even though the consequences could be great?" he says. "That's such a kind of loaded, huge, but very relevant question today."
+
+<person>Brown</> doesn't seem interested in examining the moral ambiguity of hacktivist crimes. But he says he is learning from past mistakes. Ultimately, <person>Brown</> feels that Anonymous was disorganized and lacked leadership.
+
+So he is designing a software program called Pursuance, which he says will take hacktivism into the future. It will be fully encrypted, anyone could use it to sort through a trove of hacked documents, and it could even be used to recruit a team of hackers.
+
+<person>Brown</> says when people tweet and post their opinions on social media it's just "slactivism." "The next great act of hacktivism, if it really is going to be great, it has to be an act of reaffirming the idea of civic duty," he says. He says he wants to provide a mechanism for people who do feel that sense of civic duty to really have impact.
+
+<person>Brown</> is ready to be a martyr for the cause if he has to be. He would even go back to prison.
+
+"I want to be in a position to defeat my powerful adversaries in public," he says, "where everyone could admire the pluck in which I did it."
+
+<person>Brown</> is casting himself in a starring role in the new world. And in his mind Mr. Robot is no fantasy. It's what the future really looks like.
