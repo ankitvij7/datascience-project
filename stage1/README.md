@@ -43,13 +43,13 @@ Fictional Characters are persons eg **Harry Potter, Mona Lisa, Venus** (this one
   * Entity type: "People Names"
   * Examples: <person>Donald Trump</>; <person>Trump</> <person>Donald Trump Jr.</>
 
-* the total number of mentions that you have marked up.
-  * 1600 Mentions
+* The total number of mentions that you have marked up is:
+  * We have marked up 1561 mentions
 
 * the number of documents in set I, the number of mentions in set I.
-  * Mentions
-* the number of documents in set J, the number of mentions in set J. 
-  * Mentions
+  * The Training Set (i) is made up of 54 Files with 956 Mentions.
+* the number of documents in set J, the number of mentions in set J.
+  * The Test Set (j) is made up of 26 Files with 605 Mentions.
 * the type of the classifier that you selected after performing cross validation on set I *the first time*, and the precision, recall, F1 of this classifier (on set I). This classifier is referred to as classifier M in the description above. 
   * We FIRST chose the ___________  Classifier because it had the best Precision, Recall & F1 given below:
 * the type of the classifier that you have finally settled on *before* the rule-based postprocessing step, and the precision, recall, F1 of this classifier (on set J). This classifier is referred to as classifier X in the description above. 

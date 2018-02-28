@@ -5,15 +5,15 @@
 *   **Examples:** Donald Trump</>; Trump</> Donald Trump Jr.</>.
 
 ## [](#header-3)Total Number Of Mentions
-*   1600 mentions
+*   1561 mentions
 
 ## [](#header-4)Set I
-*   **Mentions:**
-*   **Documents"**
+*   **Mentions: 956**
+*   **Documents: 54**
 
 ## [](#header-5)Set J
-*   **Mentions:**
-*   **Documents:**
+*   **Mentions: 605**
+*   **Documents: 26**
 
 ## [](#header-6)Classifiers Used
 *   Decision Tree

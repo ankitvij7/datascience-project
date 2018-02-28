@@ -19,6 +19,11 @@ def get_decision_tree_classifier(features, labels):
     return DecisionTreeClassifier().fit(features, labels)
 
 
+# Decision Tree Classifier doesn't do any post processing
+def get_decision_tree_prediction_processing(predictions):
+    return predictions
+
+
 rf = "Random Forest"
 
 
@@ -27,6 +32,11 @@ def get_random_rorest_classifer(features, labels):
     # TODO: Found in an example, prune later.
     # return RandomForestClassifier(criterion="entropy", class_weight={1: 0.25, 0: 0.75}).fit(features, labels)
     return RandomForestClassifier().fit(features, labels)
+
+
+# Random Forest Classifier doesn't do any post processing
+def get_random_rorest_prediction_processing(predictions):
+    return predictions
 
 
 svm = "Support Vector Machine"
@@ -41,6 +51,11 @@ def get_support_vector_machine_classifer(features, labels):
     return SVC().fit(features, labels)
 
 
+# Support Vector Machine Classifier doesn't do any post processing
+def get_support_vector_machine_prediction_processing(predictions):
+    return predictions
+
+
 linr = "Linear Regression"
 linrThreshold = 0.5
 
@@ -48,6 +63,11 @@ linrThreshold = 0.5
 # Fitted getClassifier Function for a Linear Regression Classifier
 def get_linear_regression_classifier(features, labels):
     return LinearRegression().fit(features, labels)
+
+
+# Linear Regression Classifier outputs are a bit different need to be modified
+def get_linear_regression_prediction_processing(predictions):
+    return [1 if prediction > linrThreshold else 0 for prediction in predictions]
 
 
 logr = "Logistic Regression"
@@ -60,6 +80,9 @@ def get_logistic_regression_classifier(features, labels):
     return LogisticRegression().fit(features, labels)
 
 
+# Logistic Regression Classifier doesn't do any post processing
+def get_logistic_regression_prediction_processing(predictions):
+    return predictions
 
 
 # Tools for looping through all the different Classifiers via Function pointers.
@@ -69,14 +92,19 @@ classifier_functions = {dt: get_decision_tree_classifier,
                         svm: get_support_vector_machine_classifer,
                         linr: get_linear_regression_classifier,
                         logr: get_logistic_regression_classifier}
+prediction_processing_function = {dt: get_decision_tree_prediction_processing,
+                                  rf: get_random_rorest_prediction_processing,
+                                  svm: get_support_vector_machine_prediction_processing,
+                                  linr: get_linear_regression_prediction_processing,
+                                  logr: get_logistic_regression_prediction_processing}
 
 # Primary portion of execution
 # Tuning params.
 # Example command line: python MLandMetrics.py ../../Output/Example_i.csv ../../Output/Example_j.csv
 #     where i = training, and j = test set
-#training_set_filename = "../../Output/Example_i.csv"
-#test_set_filename = "../../Output/Example_j.csv"
-#training set is arg 1 and test set is arg 2
+# training_set_filename = "../../Output/Example_i.csv"
+# test_set_filename = "../../Output/Example_j.csv"
+# training set is arg 1 and test set is arg 2
 training_set_filename = sys.argv[1]
 test_set_filename = sys.argv[2]
 num_features = 8
@@ -125,10 +153,10 @@ test_set_labels = test_set[:, -1]
 print("Staring Creation and Classification")
 for classifier_name in classifier_names:
     print(classifier_name + " Classifier:")
-    test_set_predictions = classifier_functions[classifier_name](training_set_features, training_set_labels).predict(test_set_features)
-    # Linear Regression outputs are a bit different need to be modified
-    if classifier_name == linr:
-        temp_predictions = test_set_predictions[:]
-        test_set_predictions = [1 if val > linrThreshold else 0 for val in temp_predictions]
-    print(metrics.classification_report(test_set_labels, test_set_predictions, digits=3))
+    # Create our Classifier and make the predictions
+    test_set_raw_predictions = classifier_functions[classifier_name](training_set_features, training_set_labels).predict(test_set_features)
+    # Modify the predictions
+    test_set_final_prediction = prediction_processing_function[classifier_name](test_set_raw_predictions)
+    # Print out the metrics for this run through.
+    print(metrics.classification_report(test_set_labels, test_set_final_prediction, digits=4))
 print("FIN")
