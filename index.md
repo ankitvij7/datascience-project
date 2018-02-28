@@ -12,8 +12,8 @@
 *   **Documents: 54**
 
 ## [](#header-5)Set J
-*   **Mentions: 26**
-*   **Documents: 605**
+*   **Mentions: 605**
+*   **Documents: 26**
 
 ## [](#header-6)Classifiers Used
 *   Decision Tree
