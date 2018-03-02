@@ -49,16 +49,16 @@ def minimum_distance_to_keywords():
     for keyword in KEYWORD_IDENTIFIERS:
         keyword_location = -1
         while True:
-            keyword_location = file_contents.find(keyword, keyword_location + 1);
+            keyword_location = file_contents.find(keyword, keyword_location + 1)
             if keyword_location == -1:
                 break
             if location_of_closed_keyword == -1 or abs(keyword_location - start_position) < location_of_closed_keyword:
-                location_of_closed_keyword = keyword_location;
+                location_of_closed_keyword = keyword_location
 
             if location_of_closed_keyword == -1 or abs(keyword_location - end_position) < location_of_closed_keyword:
-                location_of_closed_keyword = keyword_location;
+                location_of_closed_keyword = keyword_location
 
-    return location_of_closed_keyword;
+    return location_of_closed_keyword
 
 
 with open("../../Output/" + sys.argv[1], "r") as intermediateFeaturesFile:
@@ -82,11 +82,11 @@ with open("../../Output/" + sys.argv[1], "r") as intermediateFeaturesFile:
         frequency = row['frequency']
 
         file_name = row['file_name'];
-        reference_file = open("../../data/I/"+file_name, 'r');
-        file_contents = reference_file.read();
+        reference_file = open("../../data/" + sys.argv[3] + "/"+file_name, 'r')
+        file_contents = reference_file.read()
 
-        min_distance_to_period = minimum_distance_to_period();
-        min_distance_to_key_words = minimum_distance_to_keywords();
+        min_distance_to_period = minimum_distance_to_period()
+        min_distance_to_key_words = minimum_distance_to_keywords()
 
         output.writerow({'id': identifier,
                          'name': name,
@@ -98,4 +98,4 @@ with open("../../Output/" + sys.argv[1], "r") as intermediateFeaturesFile:
                          'distance_to_period': min_distance_to_period,
                          'distance_to_closest_keyword': min_distance_to_key_words,
                          'frequency': frequency,
-                         'label': label});
+                         'label': label})
