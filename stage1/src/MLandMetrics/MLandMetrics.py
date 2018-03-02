@@ -103,7 +103,7 @@ prediction_processing_function = {dt: get_decision_tree_prediction_processing,
 # Primary portion of execution
 # Tuning params.
 # Example command line: python MLandMetrics.py ../../Output/Example_i.csv ../../Output/Example_j.csv
-# Example command line: python MLandMetrics.py ../../Output/featurespace-train.csv ../../Output/featurespace-test.csv
+# Example command line: python MLandMetrics.py ../../Output/featurespace_train.csv ../../Output/featurespace_test.csv
 # Example command line: python MLandMetrics.py ../../Output/featurespace-train.csv
 #     where i = training, and j = test set
 # training_set_filename = "../../Output/Example_i.csv"
