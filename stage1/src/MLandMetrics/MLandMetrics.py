@@ -174,12 +174,14 @@ else:
     sets_instances = numpy.loadtxt(training_set_filename, delimiter=',', usecols=list(range(first_feature_index, label_index)), skiprows=1)
     sets_features = sets_instances[:, 0:-1]
     sets_labels = sets_instances[:, -1]
-    results = numpy.zeros((len(classifier_names), 4))
+    # results = numpy.zeros((len(classifier_names), 4))
+    results = {}
+    for classifier_name in classifier_names:
+        results[classifier_name] = []
 
     # Now lets actually do some work!
     kf = KFold(n_splits=10, shuffle=True)
     for training_set_indexs, test_set_indexs in kf.split(sets_features):
-
         print("Staring Creation and Classification")
         for classifier_name in classifier_names:
             print(classifier_name + " Classifier:")
@@ -189,10 +191,15 @@ else:
             test_set_final_prediction = prediction_processing_function[classifier_name](test_set_raw_predictions)
             # TODO: must figure out how to save these to a 2d array.
             # Save off the metrics.
-            precision, recall, f_score, true_sum = metrics.precision_recall_fscore_support(sets_labels[test_set_indexs], test_set_final_prediction)
-            results[classifier_names.index(classifier_name)] = [precision, recall, f_score, true_sum]
+            precision, recall, f1_score, true_sum = metrics.precision_recall_fscore_support(sets_labels[test_set_indexs], test_set_final_prediction)
+            #print("Precision: ", precision, " Recall: ", recall, " F1: ", f_score, " TSum: ", true_sum)
+            results[classifier_name].append([
+                numpy.average(precision, weights=true_sum),
+                numpy.average(recall, weights=true_sum),
+                numpy.average(f1_score, weights=true_sum),
+                numpy.sum(true_sum)])
 
     for classifier_name in classifier_names:
         print(classifier_name + " Classifier:")
-        c_precision, c_recall, c_f_score, c_true_sum = numpy.array(results[classifier_names.index(classifier_name)]).mean(0)
-        print("Precision: " + c_precision + " Recall: " + c_recall + " F1: " + c_f_score)
+        c_precision, c_recall, c_f_score, c_true_sum = numpy.array(results[classifier_name]).mean(0)
+        print("Precision: ", c_precision, " Recall: ", c_recall, " F1: ", c_f_score, " TSum: ", c_true_sum)
