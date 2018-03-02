@@ -6,6 +6,8 @@ from sklearn.tree import DecisionTreeClassifier
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.svm import SVC
 from sklearn.linear_model import LinearRegression, LogisticRegression
+# When testing use the KFold to partition.
+from sklearn.model_selection import KFold
 # We must measure Recall, Precision & F1
 from sklearn import metrics
 
@@ -101,12 +103,13 @@ prediction_processing_function = {dt: get_decision_tree_prediction_processing,
 # Primary portion of execution
 # Tuning params.
 # Example command line: python MLandMetrics.py ../../Output/Example_i.csv ../../Output/Example_j.csv
+# Example command line: python MLandMetrics.py ../../Output/featurespace-train.csv ../../Output/featurespace-test.csv
+# Example command line: python MLandMetrics.py ../../Output/featurespace-train.csv
 #     where i = training, and j = test set
 # training_set_filename = "../../Output/Example_i.csv"
 # test_set_filename = "../../Output/Example_j.csv"
 # training set is arg 1 and test set is arg 2
 training_set_filename = sys.argv[1]
-test_set_filename = sys.argv[2]
 num_features = 8
 id_index = 0
 name_index = 1
@@ -119,44 +122,84 @@ label_index = last_feature_index + 1
 # "uuid","name_string",feature1,...,feature_numFeatures,Label(0,1)<eol>
 #    str,          str,  Number,...,             Number,Number<eol>
 
-# Let's load our Training set (i)
-print("Loading Training Set")
-training_set_instance_info = numpy.genfromtxt(training_set_filename, delimiter=',', usecols=[id_index, name_index], dtype=str, skip_header=1)
-training_set_ids = training_set_instance_info[:, 0]
-training_set_names = training_set_instance_info[:, 1]
-training_set = numpy.loadtxt(training_set_filename, delimiter=',', usecols=list(range(first_feature_index, label_index)), skiprows=1)
-training_set_features = training_set[:, :-1]
-training_set_labels = training_set[:, -1]
 
-# Let's load our Test set (j)
-print("Loading Test Set")
-test_set_instance_info = numpy.genfromtxt(test_set_filename, delimiter=',', usecols=[id_index, name_index], dtype=str, skip_header=1)
-test_set_ids = training_set_instance_info[:, 0]
-test_set_names = training_set_instance_info[:, 1]
-test_set = numpy.loadtxt(test_set_filename, delimiter=',', usecols=list(range(first_feature_index, label_index)), skiprows=1)
-test_set_features = test_set[:, 0:-1]
-test_set_labels = test_set[:, -1]
+# We have both the training and test set.
+if len(sys.argv) >= 3:
+    # Let's load our Training set (i)
+    print("Loading Training Set from: " + training_set_filename)
+    training_set_instance_info = numpy.genfromtxt(training_set_filename, delimiter=',', usecols=[id_index, name_index], dtype=str, skip_header=1)
+    training_set_ids = training_set_instance_info[:, 0]
+    training_set_names = training_set_instance_info[:, 1]
+    training_set = numpy.loadtxt(training_set_filename, delimiter=',', usecols=list(range(first_feature_index, label_index)), skiprows=1)
+    training_set_features = training_set[:, :-1]
+    training_set_labels = training_set[:, -1]
 
-# print("Training Set Details:")
-# print(training_set_ids)
-# print(training_set_names)
-# print(training_set_features)
-# print(training_set_labels)
-# print("Test Set Details:")
-# print(test_set_ids)
-# print(test_set_names)
-# print(test_set_features)
-# print(test_set_labels)
+    # Let's load our Test set (j)
+    test_set_filename = sys.argv[2]
+    print("Loading Test Set from: " + test_set_filename)
+    test_set_instance_info = numpy.genfromtxt(test_set_filename, delimiter=',', usecols=[id_index, name_index], dtype=str, skip_header=1)
+    test_set_ids = training_set_instance_info[:, 0]
+    test_set_names = training_set_instance_info[:, 1]
+    test_set = numpy.loadtxt(test_set_filename, delimiter=',', usecols=list(range(first_feature_index, label_index)), skiprows=1)
+    test_set_features = test_set[:, 0:-1]
+    test_set_labels = test_set[:, -1]
 
-# Now lets actually do some work!
-# TODO: add the k-folding
-print("Staring Creation and Classification")
-for classifier_name in classifier_names:
-    print(classifier_name + " Classifier:")
-    # Create our Classifier and make the predictions
-    test_set_raw_predictions = classifier_functions[classifier_name](training_set_features, training_set_labels).predict(test_set_features)
-    # Modify the predictions
-    test_set_final_prediction = prediction_processing_function[classifier_name](test_set_raw_predictions)
-    # Print out the metrics for this run through.
-    print(metrics.classification_report(test_set_labels, test_set_final_prediction, digits=4))
-print("FIN")
+    # print("Training Set Details:")
+    # print(training_set_ids)
+    # print(training_set_names)
+    # print(training_set_features)
+    # print(training_set_labels)
+    # print("Test Set Details:")
+    # print(test_set_ids)
+    # print(test_set_names)
+    # print(test_set_features)
+    # print(test_set_labels)
+
+    # Now lets actually do some work!
+    print("Staring Creation and Classification")
+    for classifier_name in classifier_names:
+        print(classifier_name + " Classifier:")
+        # Create our Classifier and make the predictions
+        test_set_raw_predictions = classifier_functions[classifier_name](training_set_features, training_set_labels).predict(test_set_features)
+        # Modify the predictions
+        test_set_final_prediction = prediction_processing_function[classifier_name](test_set_raw_predictions)
+        # Print out the metrics for this run through.
+        print(metrics.classification_report(test_set_labels, test_set_final_prediction, digits=4))
+    print("FIN")
+
+
+else:
+    # We need to partition the "training_set_filename" into a training set and an test set
+    # sets_instance_info = numpy.genfromtxt(training_set_filename, delimiter=',', usecols=[id_index, name_index], dtype=str, skip_header=1)
+    sets_instances = numpy.loadtxt(training_set_filename, delimiter=',', usecols=list(range(first_feature_index, label_index)), skiprows=1)
+    sets_features = sets_instances[:, 0:-1]
+    sets_labels = sets_instances[:, -1]
+    # results = numpy.zeros((len(classifier_names), 4))
+    results = {}
+    for classifier_name in classifier_names:
+        results[classifier_name] = []
+
+    # Now lets actually do some work!
+    kf = KFold(n_splits=10, shuffle=True)
+    for training_set_indexs, test_set_indexs in kf.split(sets_features):
+        print("Staring Creation and Classification")
+        for classifier_name in classifier_names:
+            print(classifier_name + " Classifier:")
+            # Create our Classifier and make the predictions
+            test_set_raw_predictions = classifier_functions[classifier_name](sets_features[training_set_indexs], sets_labels[training_set_indexs]).predict(sets_features[test_set_indexs])
+            # Modify the predictions
+            test_set_final_prediction = prediction_processing_function[classifier_name](test_set_raw_predictions)
+            # TODO: must figure out how to save these to a 2d array.
+            # Save off the metrics.
+            precision, recall, f1_score, true_sum = metrics.precision_recall_fscore_support(sets_labels[test_set_indexs], test_set_final_prediction)
+            #print("Precision: ", precision, " Recall: ", recall, " F1: ", f_score, " TSum: ", true_sum)
+            results[classifier_name].append([
+                numpy.average(precision, weights=true_sum),
+                numpy.average(recall, weights=true_sum),
+                numpy.average(f1_score, weights=true_sum),
+                numpy.sum(true_sum)])
+
+    for classifier_name in classifier_names:
+        print(classifier_name + " Classifier:")
+        c_precision, c_recall, c_f_score, c_true_sum = numpy.array(results[classifier_name]).mean(0)
+        print("Precision: ", c_precision, " Recall: ", c_recall, " F1: ", c_f_score, " TSum: ", c_true_sum)
