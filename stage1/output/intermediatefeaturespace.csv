@@ -1,366 +1,1212 @@
 id,name,start_position,end_position,frequency,file_name,label
-9342230b-26e8-4433-9470-864929516c27,'Black,0,5,2,CNN-02-19-2018-Black.txt,0
-0e3b9ea9-4ecc-4090-858b-a816d0f9e524,Panther',7,14,3,CNN-02-19-2018-Black.txt,0
-ac897717-5c01-4332-af34-39431f78487f,brings,16,21,1,CNN-02-19-2018-Black.txt,0
-ae0be38b-d231-42d1-8d46-6539318e69d7,in,18,19,11,CNN-02-19-2018-Black.txt,0
-3cac71f4-d453-48e9-89be-66201e2b1182,a,26,26,5,CNN-02-19-2018-Black.txt,0
-eb028fc7-976f-423a-b5a8-2755a863c2b9,record-breaking,28,42,2,CNN-02-19-2018-Black.txt,0
-2ef1ae34-7df1-473c-bc2d-47aa589516ea,box,44,46,4,CNN-02-19-2018-Black.txt,0
-3d2c0492-dcd6-400c-b04f-688450851550,office,48,53,4,CNN-02-19-2018-Black.txt,0
-7f3b757c-4196-4493-ab6e-8c25d80047db,weekend,55,61,2,CNN-02-19-2018-Black.txt,0
-5007f7a3-12a4-480b-93d2-1f7e3d6e29ad,Updated,63,69,1,CNN-02-19-2018-Black.txt,0
-b41140e4-e5e5-46a4-b8b7-0113b2a7558b,12:48,71,75,1,CNN-02-19-2018-Black.txt,0
-858804ce-a3cd-41de-9f15-d4f66ded7c74,PM,77,78,1,CNN-02-19-2018-Black.txt,0
-73796cec-e660-44d5-a5e4-073bd5c92834,"ET,",80,82,1,CNN-02-19-2018-Black.txt,0
-ea24353c-d2dc-41c5-9f03-c3345be20594,Mon,84,86,1,CNN-02-19-2018-Black.txt,0
-1df55e42-99da-4fef-a8de-a93dc915efb2,February,88,95,1,CNN-02-19-2018-Black.txt,0
-3d1cd285-3b4c-4a4e-9242-82e24976a609,"19,",97,99,1,CNN-02-19-2018-Black.txt,0
-40f3057c-ffae-49ee-90c3-df0881fdbc15,2018,101,104,1,CNN-02-19-2018-Black.txt,0
-1cd170c7-2aa5-4b4a-a514-563d9fc0e6e4,New,106,108,1,CNN-02-19-2018-Black.txt,0
-f2d8dfb0-9570-47e2-916f-8e54d3449acf,York,110,113,1,CNN-02-19-2018-Black.txt,0
-8fc026c5-2cd0-48f9-8d4a-cc723329080e,(CNNMoney),115,124,1,CNN-02-19-2018-Black.txt,0
-922f74b6-d188-41fe-8f41-cea6702dce48,-,126,126,1,CNN-02-19-2018-Black.txt,0
-8831f570-853e-4c46-95ba-8823af702999,All,128,130,1,CNN-02-19-2018-Black.txt,0
-3fb9deee-f132-4640-acdd-786edcd2db16,hail,132,135,1,CNN-02-19-2018-Black.txt,0
-ffee0d99-f815-46a7-893b-69f14b850c63,the,137,139,21,CNN-02-19-2018-Black.txt,0
-1685a49d-1bcf-4c48-b4cd-430151bbbcfe,king.,141,145,1,CNN-02-19-2018-Black.txt,0
-86fe2ae2-5265-46f3-9042-082774b30b6a,"""Black",148,153,3,CNN-02-19-2018-Black.txt,0
-5416dd13-3778-4ce7-892a-13a8a429abf4,"Panther,""",155,163,1,CNN-02-19-2018-Black.txt,0
-cc35f32d-2c65-495f-a44d-a47a4e9005a5,Marvel's,165,172,1,CNN-02-19-2018-Black.txt,0
-b83ad119-50bb-4c20-b6bd-ad562838ac78,first,174,178,1,CNN-02-19-2018-Black.txt,0
-8351f581-b9f0-437c-a0d8-e62f4f1c4182,film,180,183,7,CNN-02-19-2018-Black.txt,0
-161f7bb8-cca9-45a1-b50d-b778b86fcc49,directed,185,192,1,CNN-02-19-2018-Black.txt,0
-46218bb1-96de-43a6-83b1-46f19396271c,by,194,195,2,CNN-02-19-2018-Black.txt,0
-bb917fe2-81cb-42e4-98d1-c969e02114c7,an,197,198,7,CNN-02-19-2018-Black.txt,0
-61e179a6-58c8-4fa5-8c22-c6e529f2b7ad,"African-American,",200,216,1,CNN-02-19-2018-Black.txt,0
-85356702-cf26-4a72-a356-366baafed503,brought,218,224,3,CNN-02-19-2018-Black.txt,0
-c5b0c0b0-9092-4a5d-b5a6-922fd8996b2f,in,226,227,11,CNN-02-19-2018-Black.txt,0
-73742aaa-dc4d-48d9-a866-5053230a9295,an,229,230,7,CNN-02-19-2018-Black.txt,0
-7b465088-cb6f-47c2-9127-1a79391e69e1,estimated,232,240,1,CNN-02-19-2018-Black.txt,0
-b7966e67-03f5-43ee-ac7c-547d148c144c,$201.8,242,247,1,CNN-02-19-2018-Black.txt,0
-52d15d14-473c-4426-bec9-c91b1480d90c,million,249,255,5,CNN-02-19-2018-Black.txt,0
-b81a0ee0-a1c2-43e2-9216-683343c21fb2,for,257,259,9,CNN-02-19-2018-Black.txt,0
-086621d6-d86a-4b09-bf5c-6dc6827a16c9,its,261,263,1,CNN-02-19-2018-Black.txt,0
-ef0e50bf-173e-4b67-ab6c-effb69045600,three-day,265,273,1,CNN-02-19-2018-Black.txt,0
-3cae6693-f08f-43eb-8820-eb8d22d66b6d,debut,275,279,1,CNN-02-19-2018-Black.txt,0
-a53c6cba-57f9-4516-9ff0-dba94bd5b772,in,281,282,11,CNN-02-19-2018-Black.txt,0
-55295463-2d72-48ce-9cc9-2d0b54631d8a,North,284,288,1,CNN-02-19-2018-Black.txt,0
-6a7123b1-5e12-46f3-931d-ecf92dfdae7f,America,290,296,1,CNN-02-19-2018-Black.txt,0
-bc53aa2e-dc4e-45e7-844d-6574e018d8db,this,298,301,1,CNN-02-19-2018-Black.txt,0
-cd996dd7-1968-4dd8-b59a-71b4463cd3e4,weekend.,303,310,3,CNN-02-19-2018-Black.txt,0
-43c8c6b3-8b56-4d16-8056-bc208e6fd0ab,That's,312,317,1,CNN-02-19-2018-Black.txt,0
-52396fa2-1841-48ff-a9df-9a0f4cc9b39b,the,319,321,21,CNN-02-19-2018-Black.txt,0
-c78c6245-531e-4d11-8565-82e03a7bbdbb,fifth,323,327,1,CNN-02-19-2018-Black.txt,0
-49a4852b-633c-486c-8ac4-69bd7e9d1186,biggest,329,335,2,CNN-02-19-2018-Black.txt,0
-d62ed3c9-df67-419f-9d38-1721d1acffe3,opening,337,343,6,CNN-02-19-2018-Black.txt,0
-e3672593-bc29-472f-972c-cba4c9296bc3,of,345,346,8,CNN-02-19-2018-Black.txt,0
-f5f828be-ac4e-431c-9b09-4aab53a457af,all,348,350,2,CNN-02-19-2018-Black.txt,0
-68bde276-1e13-458e-84bd-48fc613bc6b2,time.,352,356,2,CNN-02-19-2018-Black.txt,0
-203ed465-1699-4447-949f-405be5b00849,The,359,361,5,CNN-02-19-2018-Black.txt,0
-959038f6-18a5-4216-aeca-14b2293e3882,opening,363,369,6,CNN-02-19-2018-Black.txt,0
-050f4556-4ffc-40fc-8c05-10e8e761a14b,for,371,373,9,CNN-02-19-2018-Black.txt,0
-050cddd9-fe04-45c5-8f00-868fb5f20d64,the,375,377,21,CNN-02-19-2018-Black.txt,0
-5b9af311-8184-47bf-8225-a3ba99a040ec,film,379,382,7,CNN-02-19-2018-Black.txt,0
-95bec301-0b72-41ab-8053-45a37bafee0a,starring,384,391,1,CNN-02-19-2018-Black.txt,0
-b68688df-6abe-4f98-b7be-c6a01be5dc31,Chadwick,393,400,1,CNN-02-19-2018-Black.txt,1
-cf415df5-59c3-4e69-8c72-f8485e612693,Boseman,399,405,1,CNN-02-19-2018-Black.txt,0
-8d824ef4-acec-4a0f-a352-c30625331ad9,</>,406,408,3,CNN-02-19-2018-Black.txt,0
-a90b3043-45c1-4720-aa34-6f8f019b61cf,and,410,412,6,CNN-02-19-2018-Black.txt,0
-9e214db4-23fc-4c6a-a236-2daa276c8e53,Michael,414,420,1,CNN-02-19-2018-Black.txt,1
-258f3714-18e0-4c98-b702-08cecc8a4244,B.,419,420,1,CNN-02-19-2018-Black.txt,0
-913e135f-8bff-495b-8974-8ebdbea56157,Jordan,422,427,1,CNN-02-19-2018-Black.txt,0
-5de7e211-234b-4098-8527-98e1426c8d1e,</>,428,430,3,CNN-02-19-2018-Black.txt,0
-6414d431-45cd-4249-ae96-3c750f1ab060,did,432,434,1,CNN-02-19-2018-Black.txt,0
-a9f77e8e-d331-4459-97d9-8c5276324fc0,not,436,438,1,CNN-02-19-2018-Black.txt,0
-37bac5ef-6e86-4bf1-9d7a-21e2553deb26,just,440,443,1,CNN-02-19-2018-Black.txt,0
-7308375f-cff4-4bf4-8ac3-1727778c710a,shatter,445,451,1,CNN-02-19-2018-Black.txt,0
-8158c813-afbe-4dd2-8021-35fb9ad34741,"expectations,",453,465,1,CNN-02-19-2018-Black.txt,0
-a4dc1b92-30c8-40d3-b404-278716f28b27,it,467,468,3,CNN-02-19-2018-Black.txt,0
-8b5af53a-d178-4497-95bb-9d9d40b234b5,broke,470,474,1,CNN-02-19-2018-Black.txt,0
-6ff7ca09-ef68-4eb3-b546-8fa60331f8a3,multiple,476,483,1,CNN-02-19-2018-Black.txt,0
-3ab72d99-6bad-4e7d-af17-ab7ce12c9b52,box,485,487,4,CNN-02-19-2018-Black.txt,0
-4237ed31-9231-414a-b773-a54328ef5966,office,489,494,4,CNN-02-19-2018-Black.txt,0
-475780d2-8157-4dd1-95e4-8cd814720a87,records,496,502,1,CNN-02-19-2018-Black.txt,0
-fb6e8970-f222-4afc-aeb4-4b3506302634,too.,504,507,1,CNN-02-19-2018-Black.txt,0
-398a9c72-6201-4965-bc21-956461d2cac7,It,510,511,4,CNN-02-19-2018-Black.txt,0
-4561c269-8031-42a3-8b45-0baee5686ae3,blew,513,516,1,CNN-02-19-2018-Black.txt,0
-eec5b6ab-2b40-48e3-8a28-a48023331f51,away,518,521,1,CNN-02-19-2018-Black.txt,0
-8c84dc6e-2763-4ef6-a203-b22156c67553,the,523,525,21,CNN-02-19-2018-Black.txt,0
-09cdbbce-7f83-4f4c-bd13-aca0a362ea71,record,527,532,2,CNN-02-19-2018-Black.txt,0
-abec54ce-9698-457b-b6ab-ad2708788815,for,534,536,9,CNN-02-19-2018-Black.txt,0
-54ecb9cb-6b2f-4d3a-b96f-6517d6f04080,the,538,540,21,CNN-02-19-2018-Black.txt,0
-c3ce036f-b371-437f-80ad-2f0535b5d75d,largest,542,548,1,CNN-02-19-2018-Black.txt,0
-87d4664b-9a82-48c0-9bef-de93d9cb2221,opening,550,556,6,CNN-02-19-2018-Black.txt,0
-5133a367-8df5-4b1a-9905-25688be23c74,for,558,560,9,CNN-02-19-2018-Black.txt,0
-ee8d3ad6-1f8a-41e0-8a7f-7dfa823f5ba2,an,562,563,7,CNN-02-19-2018-Black.txt,0
-0a2ccce0-d270-4483-b03f-0857dd875361,African-American,565,580,2,CNN-02-19-2018-Black.txt,0
-d310d533-1627-4680-addc-201ad0dd3bb6,director.,582,590,1,CNN-02-19-2018-Black.txt,0
-0a009abc-6ef1-41a8-816d-2886ca24e33e,That,592,595,1,CNN-02-19-2018-Black.txt,0
-3f41bb60-df94-490b-9381-e30ae5e92eed,belonged,597,604,2,CNN-02-19-2018-Black.txt,0
-1827b063-76d8-45a1-9672-fdeb80d13434,to,606,607,5,CNN-02-19-2018-Black.txt,0
-620494ed-fc30-4382-956c-84a176c3bf78,F.,609,610,1,CNN-02-19-2018-Black.txt,1
-a7fe2087-5f60-450c-a6c2-18cd4a86bba1,Gary,609,612,1,CNN-02-19-2018-Black.txt,0
-db05a2be-404a-4849-939c-d0f6c7539ed1,Gray,614,617,1,CNN-02-19-2018-Black.txt,0
-0ca3fc14-3c43-42ee-9a7d-cac60fca5fcb,</>,618,620,3,CNN-02-19-2018-Black.txt,0
-f42b19b0-1197-48eb-a68a-056b8b3cd101,and,622,624,6,CNN-02-19-2018-Black.txt,0
-c6daff73-4883-4b7d-b4a2-96b5ed2503c3,"""The",626,629,2,CNN-02-19-2018-Black.txt,0
-3f4cf002-fd38-46f9-b0c6-69458ba9d319,Fate,631,634,1,CNN-02-19-2018-Black.txt,0
-66ef8053-1d44-4be8-a725-bd66ebd9a71b,of,636,637,8,CNN-02-19-2018-Black.txt,0
-e8422a20-a4ce-4a93-8508-bdab1e32001d,the,639,641,21,CNN-02-19-2018-Black.txt,0
-56f3e013-4fe4-4327-adc4-2dd0b58742f4,"Furious,""",643,651,1,CNN-02-19-2018-Black.txt,0
-139e50b1-f812-483c-9238-dad1f28bcb34,which,653,657,3,CNN-02-19-2018-Black.txt,0
-33d33eb8-e47b-451e-afab-91d4817527e6,opened,659,664,2,CNN-02-19-2018-Black.txt,0
-2845a10c-29b5-4799-bfa5-116df658f444,to,666,667,5,CNN-02-19-2018-Black.txt,0
-45d06a97-ca3f-455d-bb2f-e2e138a503d3,$98,669,671,1,CNN-02-19-2018-Black.txt,0
-f7c77481-74ba-47c9-8690-7061aa9c8d88,million,673,679,5,CNN-02-19-2018-Black.txt,0
-77f0c564-5608-47a9-bf6a-1a94270db1fa,last,681,684,1,CNN-02-19-2018-Black.txt,0
-4a519c52-cbaa-4aa1-88bf-386a52cd061f,April.,686,691,1,CNN-02-19-2018-Black.txt,0
-9582bcd9-eb78-4c8f-9bff-b928b6c27baa,Disney,694,699,1,CNN-02-19-2018-Black.txt,0
-f3cac102-6aca-40e0-adc4-6dbd8fb49046,estimates,701,709,1,CNN-02-19-2018-Black.txt,0
-2e06ada5-2ffa-4df5-87c7-f0cdd32e6d79,that,711,714,4,CNN-02-19-2018-Black.txt,0
-514f015e-00b3-4200-89e8-a24229a31994,the,716,718,21,CNN-02-19-2018-Black.txt,0
-a2e69358-fd12-44e4-9072-61b902306236,film,720,723,7,CNN-02-19-2018-Black.txt,0
-abad5cfb-8b34-4e2a-a132-20ab2384bf45,will,725,728,2,CNN-02-19-2018-Black.txt,0
-acbaaf43-4227-4083-972a-7df3bbc9dac6,bring,730,734,1,CNN-02-19-2018-Black.txt,0
-4a4bb932-f03b-4d2a-b84d-08b3236b2799,in,732,733,11,CNN-02-19-2018-Black.txt,0
-1716e686-4cff-44f6-8af6-9a1212fedf6e,$235,739,742,1,CNN-02-19-2018-Black.txt,0
-4a4ea717-bf9d-460c-8831-adfcfaf50b51,million,744,750,5,CNN-02-19-2018-Black.txt,0
-bff949db-0568-4bdb-9a9e-0ff82d962b95,domestically,752,763,1,CNN-02-19-2018-Black.txt,0
-94e7e506-2782-44fd-acc7-81b35158c6bc,for,765,767,9,CNN-02-19-2018-Black.txt,0
-5131a883-9746-4ac0-a3bd-14e423b452a9,the,769,771,21,CNN-02-19-2018-Black.txt,0
-f6d4d438-0b4a-427b-8944-3d59f563a413,four,773,776,1,CNN-02-19-2018-Black.txt,0
-84db1cbd-ea66-4d05-a9d8-37701b713e49,day,778,780,1,CNN-02-19-2018-Black.txt,0
-e66ecd01-ff22-459d-a4a5-f201222ef7bd,holiday,782,788,1,CNN-02-19-2018-Black.txt,0
-3b6bc3a4-ac8c-46b3-beed-a9fc74acc667,weekend.,790,797,3,CNN-02-19-2018-Black.txt,0
-a1b2f08b-dfee-4215-8a22-b633c18cecf5,The,799,801,5,CNN-02-19-2018-Black.txt,0
-ed96c7ee-74c2-4ed8-8a41-9cdb5b3616c0,film,803,806,7,CNN-02-19-2018-Black.txt,0
-bb5f1ecf-0459-4317-a8b6-878745dcf79e,brought,808,814,3,CNN-02-19-2018-Black.txt,0
-f858cb8b-7f7c-4f74-b56c-339c5da5503a,in,816,817,11,CNN-02-19-2018-Black.txt,0
-aadf5456-8803-4a69-a3fd-816ee8856a17,an,819,820,7,CNN-02-19-2018-Black.txt,0
-94632617-edfc-4f30-9433-d95c8899b434,opening,822,828,6,CNN-02-19-2018-Black.txt,0
-9d6b0c9c-438a-4988-8ca8-64a23144381b,of,830,831,8,CNN-02-19-2018-Black.txt,0
-c232fbc9-f5ef-4b43-b900-255a376106f4,more,833,836,1,CNN-02-19-2018-Black.txt,0
-a4392d2e-fa56-4e93-82b5-ff8cb3b542b6,than,838,841,1,CNN-02-19-2018-Black.txt,0
-719d7da9-c936-422f-96f0-b04bfb308a03,$360,843,846,1,CNN-02-19-2018-Black.txt,0
-56300fc3-98ec-4a26-a75a-686e104b8427,million,848,854,5,CNN-02-19-2018-Black.txt,0
-6f843112-90b0-484c-a762-02196f101f55,around,856,861,1,CNN-02-19-2018-Black.txt,0
-eac58933-9267-4894-a161-59cc028df62a,the,863,865,21,CNN-02-19-2018-Black.txt,0
-51b486da-4d24-40cb-97de-57b1cb68cdfd,world,867,871,1,CNN-02-19-2018-Black.txt,0
-235b84a3-7cf8-4c81-a5ed-782ba594013b,before,873,878,1,CNN-02-19-2018-Black.txt,0
-707a87c6-aaf2-4e96-bf79-210445e8ee5d,revised,880,886,1,CNN-02-19-2018-Black.txt,0
-034106c1-019f-4693-8ba8-859ac647828f,estimates.,888,897,1,CNN-02-19-2018-Black.txt,0
-4eca8c1a-9451-464e-8b5b-a55a8df3dcf6,Final,899,903,1,CNN-02-19-2018-Black.txt,0
-0dd352f0-5776-4d16-90a3-3f73fcda918a,global,905,910,1,CNN-02-19-2018-Black.txt,0
-fcfd2cb6-1ee4-4bd5-a0c5-a15b34b18dd6,totals,912,917,2,CNN-02-19-2018-Black.txt,0
-85b706f2-4d87-4d29-af3e-40cf08641db7,will,919,922,2,CNN-02-19-2018-Black.txt,0
-b9ef2ddc-49b8-43ae-a366-c2b229bad930,be,924,925,1,CNN-02-19-2018-Black.txt,0
-1c66b67a-cc3e-422c-8734-e2a3e851f7be,announced,927,935,1,CNN-02-19-2018-Black.txt,0
-285d5fa2-1c8b-4cfb-a9d3-a7a106aae440,on,937,938,2,CNN-02-19-2018-Black.txt,0
-bc5947ca-50bb-477a-8d15-19bda6f1734e,"Tuesday,",940,947,1,CNN-02-19-2018-Black.txt,0
-0feada75-4e4e-4f46-a5d5-cf8af2a2aca9,according,949,957,2,CNN-02-19-2018-Black.txt,0
-f87790f3-603c-4959-9e4b-46d56b816c21,to,959,960,5,CNN-02-19-2018-Black.txt,0
-704f6a51-3397-44db-b4c1-337f1f114122,the,962,964,21,CNN-02-19-2018-Black.txt,0
-1be0f356-8539-4302-8058-d123671d4337,studio.,966,972,1,CNN-02-19-2018-Black.txt,0
-a93ea1a6-a835-4fc1-9da1-cc0a1f1ae15e,"""Black",975,980,3,CNN-02-19-2018-Black.txt,0
-a60396fd-8d42-45db-b922-645a8b491a88,"Panther""",982,989,2,CNN-02-19-2018-Black.txt,0
-1268b501-b9c7-4657-84ba-9efb03fb4be1,also,991,994,1,CNN-02-19-2018-Black.txt,0
-2f93adb2-d918-4110-af2b-5370b927862e,shattered,996,1004,1,CNN-02-19-2018-Black.txt,0
-b1d7b707-fc8f-496f-bb2e-3af840d3718d,the,1006,1008,21,CNN-02-19-2018-Black.txt,0
-546741fb-c41e-407b-afaf-3bdf1739368e,record,1010,1015,2,CNN-02-19-2018-Black.txt,0
-bbaebf1c-5b10-4c7c-af8c-b55bf6255d28,for,1017,1019,9,CNN-02-19-2018-Black.txt,0
-f773991a-db56-40c6-aabc-700c448e1904,an,1021,1022,7,CNN-02-19-2018-Black.txt,0
-d00bf6ac-b0a5-4d82-964b-f84e122c6d09,opening,1024,1030,6,CNN-02-19-2018-Black.txt,0
-11f0ad90-8a14-4236-9bbf-612a98adaf3b,in,1028,1029,11,CNN-02-19-2018-Black.txt,0
-9cd426e5-3426-40a4-b462-3db251125dd4,"February,",1035,1043,1,CNN-02-19-2018-Black.txt,0
-de0b7627-92f3-4dcc-b202-0c22c41d476c,which,1045,1049,3,CNN-02-19-2018-Black.txt,0
-be77e0e3-fff7-46cc-b2c0-56f101b56106,belonged,1051,1058,2,CNN-02-19-2018-Black.txt,0
-f797e025-0e16-43b9-82fb-c9d5fa1ad8ae,to,1060,1061,5,CNN-02-19-2018-Black.txt,0
-e6a3dd42-9a9a-431f-aa2d-931d38bf4760,"""Deadpool,""",1063,1073,1,CNN-02-19-2018-Black.txt,0
-11303ca9-4e66-4838-b3ba-f25a27a74995,the,1075,1077,21,CNN-02-19-2018-Black.txt,0
-39ac33d8-c9e7-439e-bab7-029723dfa5ff,R-rated,1079,1085,1,CNN-02-19-2018-Black.txt,0
-b4f22b03-9992-4bae-9ead-b8cc02170916,superhero,1087,1095,2,CNN-02-19-2018-Black.txt,0
-9520048f-0bcf-427f-98db-bd10246b2f04,film,1097,1100,7,CNN-02-19-2018-Black.txt,0
-80c76edd-c8cd-4249-9a1a-d7e4428fb827,from,1102,1105,2,CNN-02-19-2018-Black.txt,0
-aa60841f-a290-4577-85a6-c04bb612b777,20th,1107,1110,1,CNN-02-19-2018-Black.txt,0
-d0cffbed-022a-4f39-9f39-0ac40fe03071,Century,1112,1118,1,CNN-02-19-2018-Black.txt,0
-6356c1e3-912b-4b30-a23b-2afa2fd2eedd,Fox,1120,1122,1,CNN-02-19-2018-Black.txt,0
-ba6508af-9c9c-4a20-a79f-84e3ccb30af8,that,1124,1127,4,CNN-02-19-2018-Black.txt,0
-90353127-c3fa-4d5c-ad49-bb6170f6a7b3,brought,1129,1135,3,CNN-02-19-2018-Black.txt,0
-78c9923f-0b91-4f34-b50d-86daec27b62d,in,1137,1138,11,CNN-02-19-2018-Black.txt,0
-2312b7d7-5521-4dca-9fbc-0d16b5a33a4f,$132,1140,1143,1,CNN-02-19-2018-Black.txt,0
-5c625ea8-054e-4cd7-b888-b0d600a59d9e,million,1145,1151,5,CNN-02-19-2018-Black.txt,0
-8049d213-c20d-4d1a-8018-35a6b8333143,when,1153,1156,1,CNN-02-19-2018-Black.txt,0
-7770f813-e51a-47f5-b703-566a7268048a,it,1158,1159,3,CNN-02-19-2018-Black.txt,0
-b2d1bf7a-defb-46f0-b9df-993b28cbb14f,opened,1161,1166,2,CNN-02-19-2018-Black.txt,0
-de87dd56-95eb-4389-9c07-ff6a84543599,in,1168,1169,11,CNN-02-19-2018-Black.txt,0
-bb450dec-1000-4b4a-bfb0-3909e4787a7a,2016.,1171,1175,1,CNN-02-19-2018-Black.txt,0
-8970c26d-40c2-4e40-8a64-a409536260ca,It,1178,1179,4,CNN-02-19-2018-Black.txt,0
-8f6515f0-86a9-405f-ab21-c1622ec52bb2,is,1181,1182,5,CNN-02-19-2018-Black.txt,0
-0fe03523-e027-4916-9882-a5c2aa9bb8b7,the,1184,1186,21,CNN-02-19-2018-Black.txt,0
-c14bf53c-af84-4f04-97b2-7a5e873bab64,second,1188,1193,1,CNN-02-19-2018-Black.txt,0
-49f54eac-32aa-4fc1-9eeb-9551af68d7ea,biggest,1195,1201,2,CNN-02-19-2018-Black.txt,0
-52607187-6042-4737-9826-b003481973dd,opening,1203,1209,6,CNN-02-19-2018-Black.txt,0
-97db51b2-9388-47e9-840c-6f5c563b3f68,for,1211,1213,9,CNN-02-19-2018-Black.txt,0
-6fee4ce7-53b2-4d5e-96be-bf6e9662b136,a,1215,1215,5,CNN-02-19-2018-Black.txt,0
-01dd6bdd-af7d-4d39-ae85-a577bf097833,Marvel,1217,1222,1,CNN-02-19-2018-Black.txt,0
-e2132e6b-1ddb-4c10-b152-28f0005566a0,Studios,1224,1230,1,CNN-02-19-2018-Black.txt,0
-91015a7f-0d33-43f5-b516-59a099494585,"film,",1232,1236,1,CNN-02-19-2018-Black.txt,0
-9c3fec0f-b514-4a76-8f48-2cedde9d691e,behind,1238,1243,2,CNN-02-19-2018-Black.txt,0
-9008d49a-f94c-41dd-90fd-38a8a57c525b,2012's,1245,1250,1,CNN-02-19-2018-Black.txt,0
-bfc74202-0c25-4c98-8de5-88452df6280a,"""The",1252,1255,2,CNN-02-19-2018-Black.txt,0
-8f6c8044-d172-4076-b628-6eef3f3e1d22,"Avengers.""",1257,1266,1,CNN-02-19-2018-Black.txt,0
-fc0bcaab-6eef-4c9e-b4eb-bd978452b88a,It,1268,1269,4,CNN-02-19-2018-Black.txt,0
-68fbbf33-d9af-4044-a9ff-ce0af8ddec50,out,1271,1273,1,CNN-02-19-2018-Black.txt,0
-954986a7-641d-40f1-89fc-2fa5153e73aa,paced,1275,1279,1,CNN-02-19-2018-Black.txt,0
-ee1eba06-f009-4f5d-9f63-04720555c746,other,1281,1285,2,CNN-02-19-2018-Black.txt,0
-a169b34e-26c4-4972-9b41-c62b9b1f3db8,huge,1287,1290,1,CNN-02-19-2018-Black.txt,0
-1e4b6cb4-367b-46a3-822e-5f59df611c31,hits,1292,1295,1,CNN-02-19-2018-Black.txt,0
-0d23a7f8-d8b4-4ee2-a1cf-06547b99f089,like,1297,1300,1,CNN-02-19-2018-Black.txt,0
-115009ce-a08d-45bf-977d-348fb7251944,"""Avengers:",1302,1311,1,CNN-02-19-2018-Black.txt,0
-b40c423a-60ad-4908-b0c5-8c82c8ee7c78,Age,1313,1315,1,CNN-02-19-2018-Black.txt,0
-46b23ba7-a4f1-4528-860c-024ecbcd82b0,of,1317,1318,8,CNN-02-19-2018-Black.txt,0
-8da8d946-a2cc-487e-8cd4-b532fb64d797,"Ultron,""",1320,1327,1,CNN-02-19-2018-Black.txt,0
-915d6f5e-3e9a-4de3-bb96-9b9b2a2e1631,"""Captain",1329,1336,1,CNN-02-19-2018-Black.txt,0
-5d1813e5-6f9e-4cf6-b8fd-b3a04f9498c2,America:,1338,1345,1,CNN-02-19-2018-Black.txt,0
-a8918291-2ff6-4363-8827-f818d500b41c,Civil,1347,1351,1,CNN-02-19-2018-Black.txt,0
-3f2bbec2-6280-46cf-9ced-d579b08f0a59,"War""",1353,1356,1,CNN-02-19-2018-Black.txt,0
-43ed4b41-e329-4a1d-915d-eac28983e8bb,and,1358,1360,6,CNN-02-19-2018-Black.txt,0
-c0076474-75b5-4fd4-bef0-0f8a71a12636,"""Iron",1362,1366,1,CNN-02-19-2018-Black.txt,0
-8537a79e-6c70-4d59-ac03-bd0929efd106,Man,1368,1370,1,CNN-02-19-2018-Black.txt,0
-bdb77371-b1bf-4ae5-b0ff-f859a93ab8b8,"3.""",1372,1374,1,CNN-02-19-2018-Black.txt,0
-635a80be-0d43-4bb9-a0b5-3331ce4cca2b,It,1376,1377,4,CNN-02-19-2018-Black.txt,0
-49f2c695-308c-48aa-92c8-6dccaa170ed1,is,1379,1380,5,CNN-02-19-2018-Black.txt,0
-93840cc2-bbbb-46aa-9a14-0f45c21e49b9,the,1382,1384,21,CNN-02-19-2018-Black.txt,0
-68a46f15-a0b9-48ac-ac14-bd1e8dee67a8,studio's,1386,1393,1,CNN-02-19-2018-Black.txt,0
-132d63d9-6d7b-4bc3-9198-a6d0bf8bb1c0,18th,1395,1398,1,CNN-02-19-2018-Black.txt,0
-2ba1d850-43dd-4924-9da7-50a24f7192c0,straight,1400,1407,1,CNN-02-19-2018-Black.txt,0
-90a5f98f-2e30-4edd-864a-9f0efcd1a66b,number,1409,1414,1,CNN-02-19-2018-Black.txt,0
-76eb26c4-a47e-4037-989d-90cc6f74ca00,one,1416,1418,2,CNN-02-19-2018-Black.txt,0
-db566a6f-f05f-4ce9-bd81-aa3c0e38330e,opening.,1420,1427,1,CNN-02-19-2018-Black.txt,0
-b6b780e0-5133-4973-b473-8d40ba9a7535,Related:,1430,1437,1,CNN-02-19-2018-Black.txt,0
-4b94d007-6601-4eec-a984-00af1d01351d,'Black,1439,1444,2,CNN-02-19-2018-Black.txt,0
-3ca42be7-1eba-4cde-86e2-825bdf39531c,Panther',1446,1453,3,CNN-02-19-2018-Black.txt,0
-a6dced6c-924b-457b-adc8-2d70af67487b,is,1455,1456,5,CNN-02-19-2018-Black.txt,0
-86dac5e6-c19b-45ec-b885-117485b33800,heading,1458,1464,1,CNN-02-19-2018-Black.txt,0
-1dcc8a64-4596-459c-934a-7c443807efca,for,1466,1468,9,CNN-02-19-2018-Black.txt,0
-57af700f-98db-44fd-b533-5a1e77a79d00,a,1470,1470,5,CNN-02-19-2018-Black.txt,0
-67046382-fd3f-4318-ae1f-e584cc1126b2,blockbuster,1472,1482,1,CNN-02-19-2018-Black.txt,0
-2a42671d-eba1-4ede-83d1-5e2679061ec5,weekend.,1484,1491,3,CNN-02-19-2018-Black.txt,0
-e228d8fd-db59-4f81-9910-461169ea3497,Here's,1493,1498,1,CNN-02-19-2018-Black.txt,0
-2a943727-c5e7-4b03-90ab-979d857071b1,why,1500,1502,1,CNN-02-19-2018-Black.txt,0
-a664ba47-d6cc-4959-878d-2d265a1238f1,that,1504,1507,4,CNN-02-19-2018-Black.txt,0
-d4c54444-7b54-4407-8afa-2307043d1072,matters,1509,1515,1,CNN-02-19-2018-Black.txt,0
-ca16f443-95c6-4a3c-be0c-023a1973d59d,The,1518,1520,5,CNN-02-19-2018-Black.txt,0
-8a048e84-f4ea-4269-9100-b703a192dda5,record-breaking,1522,1536,2,CNN-02-19-2018-Black.txt,0
-ec0a6851-4a66-465f-a99e-4c893a56873b,weekend,1538,1544,2,CNN-02-19-2018-Black.txt,0
-d75efd27-5cc7-4a15-a3c2-4e3980c44473,is,1546,1547,5,CNN-02-19-2018-Black.txt,0
-39fe9a51-1f5f-4895-b0a1-b2f0048b2f6d,watershed,1549,1557,1,CNN-02-19-2018-Black.txt,0
-1cdaae2c-4e8d-4ef1-ae18-8d5a9b9e1d2d,moment,1559,1564,1,CNN-02-19-2018-Black.txt,0
-aaf6c969-f056-40b7-8df4-7cf965c8a71b,for,1566,1568,9,CNN-02-19-2018-Black.txt,0
-19803dd3-1505-4be5-9ac2-9b20ce0926ac,Hollywood.,1570,1579,1,CNN-02-19-2018-Black.txt,0
-0831be7b-99c5-4131-acce-91b7811a2337,With,1581,1584,1,CNN-02-19-2018-Black.txt,0
-8e28addb-cd6d-4e17-97e2-1099ce19fdc7,"""Black",1586,1591,3,CNN-02-19-2018-Black.txt,0
-372ad590-ba5e-4bc0-b9c4-1319ada2814a,"Panther""",1593,1600,2,CNN-02-19-2018-Black.txt,0
-2cb63dca-36a8-48fa-bdb8-0f2e1b3d32fa,reaching,1602,1609,1,CNN-02-19-2018-Black.txt,0
-d86142c7-353b-4ba2-bb29-360485fa32aa,box,1611,1613,4,CNN-02-19-2018-Black.txt,0
-dd2747a6-9802-4a20-9d51-c1a197b61cbb,office,1615,1620,4,CNN-02-19-2018-Black.txt,0
-5b42e5c8-5da2-4540-964f-605a70edc0c9,heights,1622,1628,1,CNN-02-19-2018-Black.txt,0
-445dc8e8-e61f-47d4-9ee0-b5793f2022df,that,1630,1633,4,CNN-02-19-2018-Black.txt,0
-caff15c3-0594-418b-b4f5-898f671e10fb,have,1635,1638,1,CNN-02-19-2018-Black.txt,0
-0d4aca8c-c6c9-4a71-ad29-ea52206c41e7,eluded,1640,1645,1,CNN-02-19-2018-Black.txt,0
-bae8a9a1-a285-44e3-a0e0-ef72e248485f,other,1647,1651,2,CNN-02-19-2018-Black.txt,0
-fc7811c2-4b0d-4b45-b77c-d59964025005,African-American,1653,1668,2,CNN-02-19-2018-Black.txt,0
-767aa4b0-1980-492a-be17-322dad19a31a,"titles,",1670,1676,1,CNN-02-19-2018-Black.txt,0
-03c02d14-6f1c-46fe-83ab-d21a957ad802,the,1678,1680,21,CNN-02-19-2018-Black.txt,0
-fc0c1656-90dd-4b5b-8ae0-974347b60115,film's,1682,1687,1,CNN-02-19-2018-Black.txt,0
-f157e574-52a6-4a52-b48f-19859b476b47,totals,1689,1694,2,CNN-02-19-2018-Black.txt,0
-b128babb-7133-4597-be61-a15c16a8c4ec,could,1696,1700,1,CNN-02-19-2018-Black.txt,0
-5631ac9f-9425-4613-8c15-f915bd7a8bf5,impact,1702,1707,1,CNN-02-19-2018-Black.txt,0
-0d0edeef-d5e4-4875-b591-3e7c590f3a79,change,1709,1714,1,CNN-02-19-2018-Black.txt,0
-f1eb2d61-d404-4144-957b-58172bbca9c3,in,1716,1717,11,CNN-02-19-2018-Black.txt,0
-a1a60c4b-f61b-469f-acfb-edb89d599dcd,the,1719,1721,21,CNN-02-19-2018-Black.txt,0
-25384497-6610-4ac5-8344-22e714478a74,industry,1723,1730,1,CNN-02-19-2018-Black.txt,0
-5fba238a-b82c-4a39-83d7-3c9aa60be46c,by,1732,1733,2,CNN-02-19-2018-Black.txt,0
-dee42c87-dea5-41a2-8ce1-98497bd4bc98,encouraging,1735,1745,1,CNN-02-19-2018-Black.txt,0
-a1c03557-cf36-4a65-b1f0-40c45c12cd48,diversity,1747,1755,1,CNN-02-19-2018-Black.txt,0
-e040def0-ce13-4989-9ab6-d19343884930,in,1757,1758,11,CNN-02-19-2018-Black.txt,0
-d7e41eee-16db-4e64-bbb3-1fd2756cefe3,front,1760,1764,1,CNN-02-19-2018-Black.txt,0
-a95e43b8-fcfb-4edb-b2e8-6cfff0ece32e,of,1766,1767,8,CNN-02-19-2018-Black.txt,0
-8fea0e11-ecac-4955-a97b-2844ca00f1db,and,1769,1771,6,CNN-02-19-2018-Black.txt,0
-ff4dcd8e-1de6-4a05-b004-b6bc02812507,behind,1773,1778,2,CNN-02-19-2018-Black.txt,0
-ab5ddc94-d0b9-45aa-9b1f-601dc9a304f0,the,1780,1782,21,CNN-02-19-2018-Black.txt,0
-75b59bb7-079d-4e03-a17d-0dfdefc10e9d,camera.,1784,1790,1,CNN-02-19-2018-Black.txt,0
-628da0bd-c090-40f0-be42-df4892eec0c2,The,1793,1795,5,CNN-02-19-2018-Black.txt,0
-dd821975-32e5-4faa-adb4-bf9c9d878a78,film,1797,1800,7,CNN-02-19-2018-Black.txt,0
-63b31f08-1c28-469a-a90d-08a5f2cc7a06,is,1802,1803,5,CNN-02-19-2018-Black.txt,0
-f8fe4f68-44fe-47c1-8d53-557e90cf6b2f,an,1805,1806,7,CNN-02-19-2018-Black.txt,0
-a70c6392-794b-4ae0-9ba1-9efafb63ec92,"""important",1808,1817,1,CNN-02-19-2018-Black.txt,0
-2172818c-28ab-4ddf-9432-2cc5fed42036,"milestone,""",1819,1829,1,CNN-02-19-2018-Black.txt,0
-b9cbdac5-7e9f-4552-af3f-714c1c905984,according,1831,1839,2,CNN-02-19-2018-Black.txt,0
-98642890-c497-4c86-91da-fc3cc0a750b6,to,1841,1842,5,CNN-02-19-2018-Black.txt,0
-f06cbf52-3c05-4536-9673-a6a7d8d42e02,comScore,1844,1851,1,CNN-02-19-2018-Black.txt,0
-9ee8afe0-3293-47ca-99df-d4a3a295f828,senior,1853,1858,1,CNN-02-19-2018-Black.txt,0
-cf1ddfaa-c41c-4a0e-b7fa-dba7553445b8,media,1860,1864,1,CNN-02-19-2018-Black.txt,0
-c26698f6-897a-4b05-b588-bbe356120c5e,analyst,1866,1872,1,CNN-02-19-2018-Black.txt,0
-c7c690c1-4932-48fa-877b-bfb24e4f5040,Paul,1874,1877,1,CNN-02-19-2018-Black.txt,1
-0a0971a5-b909-4cc7-b0f8-3c1f58641a27,Dergarabedian,1876,1888,1,CNN-02-19-2018-Black.txt,0
-d010d823-2f58-47f9-922f-6e0a125f15f4,</>.,1889,1892,1,CNN-02-19-2018-Black.txt,0
-078143ef-5550-4dcd-bddf-e4c95ee8e31a,"""'Black",1895,1901,1,CNN-02-19-2018-Black.txt,0
-b9fad456-c749-4841-bee6-c0f8f1f33d02,Panther',1903,1910,3,CNN-02-19-2018-Black.txt,0
-b6e7e5b0-6db4-46f7-af17-6de30800ad1b,exceeded,1912,1919,1,CNN-02-19-2018-Black.txt,0
-9c5cc437-b439-4e59-96d3-ed1fe1bce7a1,even,1921,1924,1,CNN-02-19-2018-Black.txt,0
-030f7be8-68ba-4285-8b1b-0a23f047ca99,the,1926,1928,21,CNN-02-19-2018-Black.txt,0
-dc253e42-25b1-4bdf-9169-20c080d3bb77,grandest,1930,1937,1,CNN-02-19-2018-Black.txt,0
-cd22e491-cdb3-4946-a9fe-54afc625bd6c,box,1939,1941,4,CNN-02-19-2018-Black.txt,0
-de30be82-fd80-42cf-b0ad-8d9c584e749a,office,1943,1948,4,CNN-02-19-2018-Black.txt,0
-cce45ceb-b1c1-4032-88ad-ed8592102798,expectations,1950,1961,1,CNN-02-19-2018-Black.txt,0
-80b4a1be-750e-43c5-8194-b74536804e74,while,1963,1967,1,CNN-02-19-2018-Black.txt,0
-11e07d66-a1bd-4623-9cc0-abc9095adc26,simultaneously,1969,1982,1,CNN-02-19-2018-Black.txt,0
-e1228e9a-a220-4ed7-8267-1e030a2664e5,breaking,1984,1991,1,CNN-02-19-2018-Black.txt,0
-b8eb9951-c693-4d3f-a3d7-a90528798be8,down,1993,1996,1,CNN-02-19-2018-Black.txt,0
-052a2af4-327b-44f9-b8fe-372540ed29d9,cinematic,1998,2006,1,CNN-02-19-2018-Black.txt,0
-21eb9e26-a734-4827-809a-4551acc195f4,barriers,2008,2015,1,CNN-02-19-2018-Black.txt,0
-2ad0b16a-9e12-40ae-90a9-4cf82ceca2c2,and,2017,2019,6,CNN-02-19-2018-Black.txt,0
-fc7f1df6-5dd5-443f-8794-a0820b1b885e,marking,2021,2027,1,CNN-02-19-2018-Black.txt,0
-69bd332e-d05f-481d-88de-41d66511546e,a,2022,2022,5,CNN-02-19-2018-Black.txt,0
-34125fbe-94d6-4f60-b8f7-3f0b02306ccd,turning,2031,2037,1,CNN-02-19-2018-Black.txt,0
-567da966-e3b4-46b9-9253-71f9d1f3fc3b,point,2039,2043,1,CNN-02-19-2018-Black.txt,0
-bc47d221-c52d-460d-8f0c-023362fa4356,in,2041,2042,11,CNN-02-19-2018-Black.txt,0
-706c3da6-3841-4a50-8054-74fca4f63e67,the,2048,2050,21,CNN-02-19-2018-Black.txt,0
-8b01426d-710b-47d2-a737-c801256215cb,evolution,2052,2060,1,CNN-02-19-2018-Black.txt,0
-fdc9adbb-40c6-4994-ba20-d7f9e5bda862,of,2062,2063,8,CNN-02-19-2018-Black.txt,0
-4487cfda-8e15-4213-bf28-7f680e47773f,the,2065,2067,21,CNN-02-19-2018-Black.txt,0
-934e5a30-6110-4a24-8b09-62f6b299fc88,"genre,""",2069,2075,1,CNN-02-19-2018-Black.txt,0
-9a28e5b7-e4e2-4621-9c0e-7681c8231c8c,he,2077,2078,1,CNN-02-19-2018-Black.txt,0
-d9469a98-2c79-4630-9591-b11575f2adca,said.,2080,2084,1,CNN-02-19-2018-Black.txt,0
-976d8b22-59ca-4e82-b921-82cd5f62a0f0,The,2087,2089,5,CNN-02-19-2018-Black.txt,0
-abcd13cd-7b1e-4e49-8d10-ac5292506b40,film,2091,2094,7,CNN-02-19-2018-Black.txt,0
-51256cee-2770-43c7-bfbc-ee9844881ea9,garnered,2096,2103,1,CNN-02-19-2018-Black.txt,0
-b372d4b5-9714-48d1-859d-6f3148ecf745,an,2105,2106,7,CNN-02-19-2018-Black.txt,0
-806c9b9a-4f0c-4b9b-aade-0d64aa308d08,"""A+""",2108,2111,1,CNN-02-19-2018-Black.txt,0
-ea5019da-10c9-4473-8792-514e95321a3b,CinemaScore,2113,2123,1,CNN-02-19-2018-Black.txt,0
-7e3fa59f-b4bf-4a3b-b728-e8ac4c04b66d,from,2125,2128,2,CNN-02-19-2018-Black.txt,0
-7a6b9d2b-87bf-47ab-bf31-c4843d619557,audiences,2130,2138,1,CNN-02-19-2018-Black.txt,0
-b84fae71-e1af-4bd5-9714-0ec0cb3a9550,and,2140,2142,6,CNN-02-19-2018-Black.txt,0
-7cecd2d3-505a-492a-811c-24ea64de0a93,a,2144,2144,5,CNN-02-19-2018-Black.txt,0
-77609487-e207-4d08-b2a8-96a73f72254f,near,2146,2149,1,CNN-02-19-2018-Black.txt,0
-a4718dfe-d556-431f-a1e7-d485427ca638,perfect,2151,2157,1,CNN-02-19-2018-Black.txt,0
-d4689843-add4-4735-b910-1badb59f4ee6,97%,2159,2161,1,CNN-02-19-2018-Black.txt,0
-c532f604-2f6b-4a55-af71-dd412a46908d,score,2163,2167,1,CNN-02-19-2018-Black.txt,0
-4f34eafd-d118-437c-b2ba-93d1a7de4026,on,2169,2170,2,CNN-02-19-2018-Black.txt,0
-c7c6a81a-4077-49a0-98d4-85e5fd60b92c,review,2172,2177,1,CNN-02-19-2018-Black.txt,0
-0eb5902b-bbe4-4ee2-bd3f-69d4d4b9bf3f,site,2179,2182,1,CNN-02-19-2018-Black.txt,0
-b157d500-b7b2-47df-a0c6-5310eb5d4f7c,Rotten,2184,2189,1,CNN-02-19-2018-Black.txt,0
-9a850bc2-6f76-4d3b-98a0-94fa4aaae09c,"Tomatoes,",2191,2199,1,CNN-02-19-2018-Black.txt,0
-b68faad3-5dc1-4cde-843c-b3525757d18b,which,2201,2205,3,CNN-02-19-2018-Black.txt,0
-12a8fc3e-829b-454c-b063-e172e5947e94,makes,2207,2211,1,CNN-02-19-2018-Black.txt,0
-d4609387-927c-488c-a4a8-64dadb5843ce,it,2213,2214,3,CNN-02-19-2018-Black.txt,0
-3d0edbdf-9399-47f5-ba63-fc6ff43b66a8,one,2216,2218,2,CNN-02-19-2018-Black.txt,0
-2422365f-44f7-4423-a53b-90910a71be15,of,2220,2221,8,CNN-02-19-2018-Black.txt,0
-ce036870-8cf1-49d8-af30-771412eca41f,the,2223,2225,21,CNN-02-19-2018-Black.txt,0
-92656a6d-4e32-4d96-b4ae-00e513d1350c,best-reviewed,2227,2239,1,CNN-02-19-2018-Black.txt,0
-858d2979-1660-4577-8104-5585c13b5f42,superhero,2241,2249,2,CNN-02-19-2018-Black.txt,0
-208242f6-1c8f-4020-8604-c7577b818908,movies,2251,2256,1,CNN-02-19-2018-Black.txt,0
-cab53527-0cd5-4e97-8b20-0835d0414e0a,of,2258,2259,8,CNN-02-19-2018-Black.txt,0
-cba4ffde-7dc2-44e9-9170-59f4c3057ab4,all,2261,2263,2,CNN-02-19-2018-Black.txt,0
-e0db00cb-41e4-4e7a-ab9d-4300d8a58b46,time.,2265,2269,2,CNN-02-19-2018-Black.txt,0
+c3c6ef5e-eaea-4e59-9945-92d1f3c06e58,brings,16,21,1,train.txt,0
+3d33905e-c863-4b20-9254-cc744c39b06e,in,18,19,11,train.txt,0
+c671bc27-87e6-4e63-88cf-f31360fa63b5,a,26,26,5,train.txt,0
+d6f1a388-62a5-49e2-9875-be7fc9e77dbf,box,44,46,4,train.txt,0
+13c4a7d6-fe72-43ad-89eb-a576478f1839,office,48,53,4,train.txt,0
+b83137bf-ae3c-4eb2-a406-a8798305159d,weekend,55,61,2,train.txt,0
+fef795bc-ec2c-4c2c-a7c6-ceb24eee04e8,Updated,63,69,1,train.txt,0
+b66904bf-0b56-47b5-823e-f0d1fdc779fa,PM,77,78,1,train.txt,0
+d18b034a-fd0c-4164-910c-d72a225ba36c,Mon,84,86,1,train.txt,0
+b3b7efc7-d6e5-43ed-8fa4-b3302f6ab079,February,88,95,1,train.txt,0
+3275cb4f-af66-43fe-9b03-acc1610bfaf2,New,106,108,1,train.txt,0
+6e67095e-6733-4603-8bdd-b9f5bff74fd6,York,110,113,1,train.txt,0
+5a8d9d23-a285-41e0-919e-c3c5222ffd7a,All,128,130,1,train.txt,0
+3f285a03-8720-4f71-829e-babfae5a15b4,hail,132,135,1,train.txt,0
+1885b9f4-dc65-4e13-b245-956035dd8fbc,the,137,139,21,train.txt,0
+0d13f1b2-0b8c-46f8-9d29-80ab3d235d86,king.,141,145,1,train.txt,0
+06d862f6-1666-45d2-bb88-8273026d6bdb,first,174,178,1,train.txt,0
+aad50891-0fce-47b5-a877-2fb6a4a8b203,film,180,183,7,train.txt,0
+4e67fa04-e7e6-4ea0-8fd6-bbfc367419fc,directed,185,192,1,train.txt,0
+620b22d0-e34f-41e2-8bd4-218d570733c6,by,194,195,2,train.txt,0
+e646f4bb-182e-43cb-bfe3-4e984cf3701e,an,197,198,7,train.txt,0
+707ec474-7a06-4424-9dfc-16e4c6e7796e,brought,218,224,3,train.txt,0
+f160c7de-a8ba-48d0-b168-f5515c13b7ff,in,226,227,11,train.txt,0
+0fd22e29-ba48-48dc-bf06-6eb720a63a55,an,229,230,7,train.txt,0
+6630d1e7-7635-4469-97d4-7fc5fef50d02,estimated,232,240,1,train.txt,0
+b149be49-03a1-423f-b6df-f4934f6b0f99,million,249,255,5,train.txt,0
+260c4b21-f869-440c-a53a-de1b9261b272,for,257,259,9,train.txt,0
+595e1714-3c52-4b00-8b08-5434c5add659,its,261,263,1,train.txt,0
+7202c10b-8505-4e45-b346-5cad20d023ce,debut,275,279,1,train.txt,0
+b480af26-ca07-4462-8e3d-84a8f0858d77,in,281,282,11,train.txt,0
+f71d8918-5bbe-437b-a5c3-9f03688c459e,North,284,288,1,train.txt,0
+9d74d488-4f35-451b-ab34-3bb4d11bb9f4,America,290,296,1,train.txt,0
+0a254132-3bea-4d49-b4e0-c356a58583b2,this,298,301,1,train.txt,0
+042e25b1-130b-46cc-a38c-6382b4f6cb69,weekend.,303,310,3,train.txt,0
+8bda22fc-96eb-447b-9a45-a38c9668a2b2,the,319,321,21,train.txt,0
+a6d2c93a-ac4e-4505-aaf8-8f6189ba180b,fifth,323,327,1,train.txt,0
+cc01ba7c-fc4a-4d83-ba01-4f38f0376f93,biggest,329,335,2,train.txt,0
+c5b12995-d886-409a-a068-be6aab9b8de8,opening,337,343,6,train.txt,0
+56379e08-79d8-4b23-859e-c6b44188e245,of,345,346,8,train.txt,0
+ccea20a2-0b63-4ad7-a502-c870edd38d13,all,348,350,2,train.txt,0
+55dca179-fa4c-492e-b393-bacf031a611e,time.,352,356,1,train.txt,0
+a0cfe30f-d818-4f70-af50-39f3f060d99c,The,359,361,5,train.txt,0
+618f7c47-ac70-4ea9-83f6-12224730ee0e,opening,363,369,6,train.txt,0
+3888cd53-80e3-4243-a1a5-7c7dea91ca37,for,371,373,9,train.txt,0
+cccee7c9-fb85-43b8-9e88-632433373f92,the,375,377,21,train.txt,0
+c412ad10-398c-4dfa-b318-dd1da09530cc,film,379,382,7,train.txt,0
+f6712d15-45fe-4e5f-8559-0c56536c8be7,starring,384,391,1,train.txt,0
+e2dde70e-7c72-4560-8466-86c4d3330034,Chadwick,393,400,1,train.txt,0
+4bf11231-3f3a-49ab-9f3a-3da0a06f6b0a,Boseman,402,408,1,train.txt,0
+688e25f0-c71e-49bc-b664-df2c21064d1d,and,410,412,6,train.txt,0
+5543181e-4f7b-465c-bed9-fcf4207dce26,Michael,414,420,1,train.txt,0
+1e89979b-8baa-49a3-b91f-adce36d038e9,B.,422,423,1,train.txt,0
+a0d87e45-0f88-4d50-8f30-9edf6fbe9025,Jordan,425,430,1,train.txt,0
+6b1f1bdf-2dc2-44a6-a566-39ed836366f5,did,432,434,1,train.txt,0
+deae9496-0179-4f48-aec6-60e24b4c65aa,not,436,438,1,train.txt,0
+9746f8ed-e9f3-4845-9278-842f62f099ad,just,440,443,1,train.txt,0
+12316732-f11a-4709-b405-cddbfb64fe67,shatter,445,451,1,train.txt,0
+d7338eee-a105-4984-b46f-541c856ab564,it,467,468,3,train.txt,0
+33b13bc7-7e13-4529-87bc-8854b09ca36a,broke,470,474,1,train.txt,0
+ea699b0b-ff42-4ea5-ba94-0c5f06c2dc05,multiple,476,483,1,train.txt,0
+d8243808-f08a-4562-9099-59ead17274ef,box,485,487,4,train.txt,0
+01b7fc02-5229-4cbc-b564-91db2234ddce,office,489,494,4,train.txt,0
+8a4dd998-b789-448d-b0b1-19fe1a776507,records,496,502,1,train.txt,0
+2dc36233-1f8a-4c79-bfe8-9728a52a7afa,too.,504,507,1,train.txt,0
+10083b67-d258-4053-9ecf-85d6126644b9,It,510,511,4,train.txt,0
+ed33130c-eb4c-46a3-8807-4d03fee65540,blew,513,516,1,train.txt,0
+3a83d46b-d908-4b4f-bb4a-74178c574621,away,518,521,1,train.txt,0
+220ef8e6-c7c1-4387-a4b0-2b527a6f9efb,the,523,525,21,train.txt,0
+fe7f4138-1323-404e-9485-e069552798ba,record,527,532,2,train.txt,0
+d7bab6aa-b82f-49b5-9d62-a3f68fb7af56,for,534,536,9,train.txt,0
+4055a14a-61b0-4476-a331-862fb7cbad14,the,538,540,21,train.txt,0
+65aa2bdb-9dee-4755-9f02-ccbf627a8d7b,largest,542,548,1,train.txt,0
+00ac0ccb-1caf-4490-8edd-6ff2143eb83c,opening,550,556,6,train.txt,0
+0ded72da-9edd-46a1-a2f3-93142cf192ed,for,558,560,9,train.txt,0
+01eadd16-1331-4a26-96f3-33ffa50b265b,an,562,563,7,train.txt,0
+0c3650e7-7cb3-4c53-a26f-10408f1fa430,director.,582,590,1,train.txt,0
+8a7af5a8-fcc1-4342-83de-8eb0b78163b8,That,592,595,1,train.txt,0
+72797758-defe-4325-953f-12c22b639b37,belonged,597,604,2,train.txt,0
+5e447840-f3c5-4b73-bd56-7b41872d29a4,to,606,607,5,train.txt,0
+440a91e3-d499-434f-9dfd-8fa93db4710c,F.,609,610,1,train.txt,0
+462c6ed4-eda9-4b61-a25a-e92c41c2845f,Gary,612,615,1,train.txt,0
+af18efec-695d-444f-b5aa-27895784bd8c,Gray,617,620,1,train.txt,0
+b49cd1f0-3eea-40e0-a63e-4b7319cafa64,and,622,624,6,train.txt,0
+30f4ed22-2343-4b3d-ab8a-d56ab984151f,Fate,631,634,1,train.txt,0
+fa471400-8d21-4846-8688-1725615f82d6,of,636,637,8,train.txt,0
+685f484e-331d-42ef-8252-3a71f11dfc83,the,639,641,21,train.txt,0
+36fdac8c-d144-4b8c-b62b-b63c34bc4629,which,653,657,3,train.txt,0
+ac2f7a96-9ec0-4104-878b-9afb5a732091,opened,659,664,2,train.txt,0
+b29f698f-f830-4e17-9149-d53987834dc1,to,666,667,5,train.txt,0
+575c10fa-9b3c-42c0-a6e6-c73b404f2ea0,million,673,679,5,train.txt,0
+b06d9767-ea3c-41ed-a20e-afcc513b8050,last,681,684,1,train.txt,0
+cae6ff03-5da2-418a-99e9-e8391db1df97,April.,686,691,1,train.txt,0
+10ab059b-789c-41a5-a19d-38d2e8664997,Disney,694,699,1,train.txt,0
+4e3c0afd-5654-4e85-97c7-1b93e5793834,estimates,701,709,1,train.txt,0
+2747065a-4b13-436e-9ce9-53645bbac350,that,711,714,4,train.txt,0
+3fc51a9e-7f15-433d-a727-71c746ca89c7,the,716,718,21,train.txt,0
+2ff68f5c-90e8-499d-b923-bb322bfb5c10,film,720,723,7,train.txt,0
+add19268-cddf-4dc9-a74a-053f66c08f54,will,725,728,2,train.txt,0
+d71bde6f-2f44-4163-b4dc-afad0a85081e,bring,730,734,1,train.txt,0
+f5af522d-5eb8-488d-8370-c889e7861063,in,732,733,11,train.txt,0
+e2eb570e-3894-4993-b853-5e099da800dd,million,744,750,5,train.txt,0
+87f5f1db-f937-4341-85cb-97ba245d02bc,domestically,752,763,1,train.txt,0
+5b975e7d-8d8e-4887-80f4-597b6ec8e519,for,765,767,9,train.txt,0
+49c563ac-b04d-47b7-824c-36e7b7496e87,the,769,771,21,train.txt,0
+b37af08e-e204-455a-b732-d9ad6e5ab1f2,four,773,776,1,train.txt,0
+47a169d7-1299-48cb-9a77-d5a9316da981,day,778,780,1,train.txt,0
+4ae4e669-a6f8-4231-9416-91f0f8171bfc,holiday,782,788,1,train.txt,0
+378a279f-539b-44e7-b93f-d15b80c1efcf,weekend.,790,797,3,train.txt,0
+0d7026eb-bb30-4964-b460-9114deed4f1f,The,799,801,5,train.txt,0
+00f163f4-80f5-4b64-8234-7588af2a75b7,film,803,806,7,train.txt,0
+f95917af-488e-4599-866b-f62515ebf50a,brought,808,814,3,train.txt,0
+318414de-9237-4e23-a816-7a118f0a6073,in,816,817,11,train.txt,0
+053107b4-6b5e-4d04-91fd-33e19abcb706,an,819,820,7,train.txt,0
+d5288fe6-e663-4a81-a678-31ae05308e05,opening,822,828,6,train.txt,0
+e21fc065-c0a1-4937-9345-8a4f0e3eafda,of,830,831,8,train.txt,0
+5ac455bd-9a5f-4557-8a65-c340bdf4e4a8,more,833,836,1,train.txt,0
+c3182001-744d-4253-9e91-b89869b2723e,than,838,841,1,train.txt,0
+137e6166-7b72-4288-9a1b-563a9756c002,million,848,854,5,train.txt,0
+a09a6fd0-a3d7-4c7c-9f77-13c7775dacd4,around,856,861,1,train.txt,0
+eb456801-405a-4765-a74a-9ddb54cbb03d,the,863,865,21,train.txt,0
+51fcef15-09b9-4fec-b6a2-faac0fd1b780,world,867,871,1,train.txt,0
+89dc7819-fa9a-43f3-b177-a3139dad0b97,before,873,878,1,train.txt,0
+e8fff6d1-3420-44a0-955a-532345dd6146,revised,880,886,1,train.txt,0
+00a55a83-bf86-4f66-b2cb-dded3c1a436e,estimates.,888,897,1,train.txt,0
+0be02062-02ee-4622-b105-e4d4d13a582a,Final,899,903,1,train.txt,0
+e9845f63-68d3-43d2-bc8f-89960ebfb183,global,905,910,1,train.txt,0
+992a8a76-182c-462a-9b05-52ca7d9da896,totals,912,917,2,train.txt,0
+ac88c35d-7348-4241-a85e-622a6e57ab5b,will,919,922,2,train.txt,0
+958824e9-cc7d-4474-9c9c-8f3dc39cd00c,be,924,925,1,train.txt,0
+db39a8f5-609c-4d9e-b38b-a3add44aac10,announced,927,935,1,train.txt,0
+5353279a-f10b-4348-9f82-914e353c1dc7,on,937,938,2,train.txt,0
+5562b040-a0c6-4cec-9714-9a0545829e93,according,949,957,2,train.txt,0
+3de6586c-6c6b-48f6-b8d3-412276bf47b6,to,959,960,5,train.txt,0
+79ec476a-46bc-4ba5-a54a-4ca238ac32aa,the,962,964,21,train.txt,0
+331dbe20-f353-4628-b7ef-f4adae325ac5,studio.,966,972,1,train.txt,0
+17f38c03-107e-4be6-b60f-cdc274254731,also,991,994,1,train.txt,0
+b4a72ff1-134f-4200-95d3-5c0732cefb22,shattered,996,1004,1,train.txt,0
+2d1a756e-10e7-47f2-953e-ef7a33ec4dea,the,1006,1008,21,train.txt,0
+ff71df56-4d81-467d-92f0-3713664a2619,record,1010,1015,2,train.txt,0
+2f21f179-3533-45fd-a711-f8a8133986b9,for,1017,1019,9,train.txt,0
+b590ac02-4d81-43d6-9405-d16621ce5546,an,1021,1022,7,train.txt,0
+ff856a39-ba14-4c1c-8a12-d576f11c39a3,opening,1024,1030,6,train.txt,0
+7bfe7bb3-7d46-4adf-bc36-6555b90f5e32,in,1028,1029,11,train.txt,0
+1c54e4c4-457b-45cd-8c31-e081549f2bbe,which,1045,1049,3,train.txt,0
+b760fa7b-ec4b-4118-bbcb-bdca924350b2,belonged,1051,1058,2,train.txt,0
+d188bbcd-46f2-4bef-bf7a-e243bec4ea3c,to,1060,1061,5,train.txt,0
+e7e368d4-1aaa-4a86-8a91-6d437ce1f910,the,1075,1077,21,train.txt,0
+4c9b2d18-3478-41d3-8214-8b8842ab2626,superhero,1087,1095,2,train.txt,0
+7c34a97b-c54b-409a-8c06-2cc5e37c9020,film,1097,1100,7,train.txt,0
+c13074cd-3bda-461e-b84f-4131d37d4207,from,1102,1105,2,train.txt,0
+fc719f8f-f99c-40a9-906f-a2531063ae13,Century,1112,1118,1,train.txt,0
+00da7df7-3823-4c39-ad70-6f688913ee67,Fox,1120,1122,1,train.txt,0
+a8908862-8eaa-402e-a1de-ee1f71d8ad62,that,1124,1127,4,train.txt,0
+1ae938d5-6e22-418a-b205-066583e15e2f,brought,1129,1135,3,train.txt,0
+83628a9f-29d4-4679-abf4-3ff1a1f1f9e6,in,1137,1138,11,train.txt,0
+e698ff1e-9a8f-4f8f-bfc7-c272099df821,million,1145,1151,5,train.txt,0
+fc814d80-c9db-4b3f-8473-70d800a4efab,when,1153,1156,1,train.txt,0
+5ae40e9f-9712-46cf-990e-7069a999509d,it,1158,1159,3,train.txt,0
+6dacec40-2652-4768-ac58-118ba80f8bff,opened,1161,1166,2,train.txt,0
+bb739516-d910-4c5c-a0fe-5dad28aca10d,in,1168,1169,11,train.txt,0
+685faf71-2636-4f66-8fb0-cf78ecfdd368,It,1178,1179,4,train.txt,0
+691b72f7-9c7a-45c3-892d-ad10e90a95fd,is,1181,1182,5,train.txt,0
+a2f77457-2cee-4b2e-8016-43c7624e184f,the,1184,1186,21,train.txt,0
+21d32597-519b-447d-a401-89aeb3cea7c1,second,1188,1193,1,train.txt,0
+115baf4f-52ca-40ba-95ed-70aa658e18fa,biggest,1195,1201,2,train.txt,0
+0752e7f8-77a0-4ae9-8043-576b4fc6e7d8,opening,1203,1209,6,train.txt,0
+513a2ca8-2665-40c8-bafe-dd6a6129380e,for,1211,1213,9,train.txt,0
+21705884-8d3e-492c-8fbc-d27dfb983156,a,1215,1215,5,train.txt,0
+2f4bfd93-6b1e-4add-b1fe-59ef2e75ead1,Marvel,1217,1222,1,train.txt,0
+1aa28c62-228e-4f57-8f74-3da570b05bd8,Studios,1224,1230,1,train.txt,0
+8d2c17f4-0e8a-4e1e-94ae-7d578103e7cb,behind,1238,1243,2,train.txt,0
+53a1f1b6-626e-47bd-8652-a52d305235f7,It,1268,1269,4,train.txt,0
+68455f60-3afc-4f84-a323-b6127e32721a,out,1271,1273,1,train.txt,0
+2aed7671-e408-40af-b2ad-48c446c1158b,paced,1275,1279,1,train.txt,0
+c269aeeb-913c-43dd-9cee-6bc4dfdf0b09,other,1281,1285,2,train.txt,0
+c6f709dc-bc0d-4803-a112-de07572ae166,huge,1287,1290,1,train.txt,0
+45b421b1-84fd-4de6-8f6c-897da00440c7,hits,1292,1295,1,train.txt,0
+53d917a5-ec22-4d2d-bd92-512832151461,like,1297,1300,1,train.txt,0
+213a0514-7f03-4523-96ab-3b822d76aca7,Age,1313,1315,1,train.txt,0
+dff3639b-0bb5-4657-9ea9-5fb3ce69cb48,of,1317,1318,8,train.txt,0
+3e4ebfbb-5ebe-4b63-bb9a-aec16c5c9626,Civil,1347,1351,1,train.txt,0
+2b9899e3-d948-4b2d-859b-845ddb9f220c,and,1358,1360,6,train.txt,0
+17e02f3e-bc76-4512-8b33-361d3a027d49,Man,1368,1370,1,train.txt,0
+67289012-3df9-4989-816a-b4c14ba5d14c,It,1376,1377,4,train.txt,0
+28298c11-b154-4948-b143-3edf80221626,is,1379,1380,5,train.txt,0
+4e2d226c-c5aa-4283-a698-7341eb2fd1dc,the,1382,1384,21,train.txt,0
+295f8ca4-e4ff-4d6d-a40c-1128388644f3,straight,1400,1407,1,train.txt,0
+913efc1c-bb04-4209-a3cb-2e8d6d304106,number,1409,1414,1,train.txt,0
+2331b891-3fd6-493a-b7f9-a602a10d167c,one,1416,1418,2,train.txt,0
+52def4fe-e8f1-4845-b6d8-b7517483b79e,opening.,1420,1427,1,train.txt,0
+054a10d3-f79f-4d35-a7dd-f1af8af93b7c,is,1455,1456,5,train.txt,0
+428ae05c-92b4-4082-8c56-9f09a7e74cf6,heading,1458,1464,1,train.txt,0
+6ec9d31d-b73b-4c9c-81c1-d980a15fbf44,for,1466,1468,9,train.txt,0
+4838a52f-9eb8-40b5-bf29-d73e44580a55,a,1470,1470,5,train.txt,0
+7cafa233-2c27-411e-bd31-d3dfd2b821ff,blockbuster,1472,1482,1,train.txt,0
+4b6af2c8-ce74-4b38-8ae9-d01374228181,weekend.,1484,1491,3,train.txt,0
+ff30ae90-6496-4a79-9136-e9988939e7c3,why,1500,1502,1,train.txt,0
+f9833e54-7083-4871-8b23-0f2593aa1802,that,1504,1507,4,train.txt,0
+6f251cd5-35ba-4cac-986d-50b64e9c70a4,matters,1509,1515,1,train.txt,0
+e96583c8-1751-44cb-8da7-ee4b83aea015,The,1518,1520,5,train.txt,0
+635e978c-a009-4d62-acfe-fe77f8b9ab68,weekend,1538,1544,2,train.txt,0
+305730e0-c9b8-488a-b0b8-bce26addc757,is,1546,1547,5,train.txt,0
+d248e6ed-c089-4966-a059-d69ca19769da,watershed,1549,1557,1,train.txt,0
+090807c7-68a7-460c-9dff-6078023403ee,moment,1559,1564,1,train.txt,0
+5fe7e345-8457-40a1-8a92-07854390e1c3,for,1566,1568,9,train.txt,0
+95b003ca-92a7-40bb-896f-749d515448db,Hollywood.,1570,1579,1,train.txt,0
+06cb7364-c976-4927-83d1-fc15eea63147,With,1581,1584,1,train.txt,0
+4402a787-26b5-46de-9ba8-624bed98c5f9,reaching,1602,1609,1,train.txt,0
+ac3a35f5-f3a4-4675-bb0f-3b90fb4ea893,box,1611,1613,4,train.txt,0
+93f151a6-764f-4530-b583-b75770875d5a,office,1615,1620,4,train.txt,0
+f6b502a6-1c0d-4ee1-b58a-1441cfe39ca6,heights,1622,1628,1,train.txt,0
+c69c30f5-f9d4-45e1-af76-a53907412ac0,that,1630,1633,4,train.txt,0
+a409dc32-cf3a-4c29-9de3-1acf27b34cb6,have,1635,1638,1,train.txt,0
+e79441ee-4143-451d-98fa-fd6314356c82,eluded,1640,1645,1,train.txt,0
+3d91825d-9fbd-43db-9964-27d6edea650f,other,1647,1651,2,train.txt,0
+81d62e8e-3a7c-4beb-a814-9e2c86e5b57b,the,1678,1680,21,train.txt,0
+40cf9d90-7d7c-4183-a53c-80e01f137482,totals,1689,1694,2,train.txt,0
+a01313f6-3afc-48c7-965e-d35d45950df8,could,1696,1700,1,train.txt,0
+9268838e-18b1-4534-b8f5-89315d2be2dc,impact,1702,1707,1,train.txt,0
+48289de5-e03b-4ba4-9f1c-a51956de962a,change,1709,1714,1,train.txt,0
+6fcf915c-2c00-4b1b-969e-4a2a91e6fbac,in,1716,1717,11,train.txt,0
+07a9f4e1-e5db-4893-b40f-dd545433628a,the,1719,1721,21,train.txt,0
+e019b42b-0b4e-4f42-a46e-99423077effc,industry,1723,1730,1,train.txt,0
+5cd3c3f0-ca9f-4147-9bf5-8057505ec748,by,1732,1733,2,train.txt,0
+2415ff80-4129-4fba-ab87-b24fc9bf6dc8,encouraging,1735,1745,1,train.txt,0
+89eedbe5-1d4d-4559-a5d0-8efa1497b95b,diversity,1747,1755,1,train.txt,0
+74950d1e-f0dd-47ce-a627-09866f994bed,in,1757,1758,11,train.txt,0
+af3bc098-044b-436a-a83f-daef7d3f9e3d,front,1760,1764,1,train.txt,0
+b130d080-9034-4f19-b822-11cadfa97f35,of,1766,1767,8,train.txt,0
+a0f99fb8-b5f2-47d0-afc0-b2b56be8101c,and,1769,1771,6,train.txt,0
+337a7373-c484-4ad7-bb35-2a59fa2fb043,behind,1773,1778,2,train.txt,0
+177458e7-21c6-4195-a6fc-20d1cc89c750,the,1780,1782,21,train.txt,0
+7c05d87a-9410-4a67-a18c-b0009df8c822,camera.,1784,1790,1,train.txt,0
+7dc0a80e-8076-4e7d-bb9b-4b87bb506e02,The,1793,1795,5,train.txt,0
+98a74ff6-60c2-4bcd-a2e7-db85612db118,film,1797,1800,7,train.txt,0
+bc8e0dda-1523-4f2c-b0ee-e692291755eb,is,1802,1803,5,train.txt,0
+fbd7045d-6102-455d-92c5-b2bb5c2dba08,an,1805,1806,7,train.txt,0
+fe5dc20f-9df4-4fe9-8863-460ae0f3a9b0,according,1831,1839,2,train.txt,0
+3a4d59e6-479a-4990-9633-dbe7f40660b6,to,1841,1842,5,train.txt,0
+a253a9c3-b753-4c7c-aec5-93573130f02e,comScore,1844,1851,1,train.txt,0
+c2aa40a4-6083-4478-aba5-dcea41961bed,senior,1853,1858,1,train.txt,0
+c65deac3-8960-4f8a-bb9b-6eaa155120d4,media,1860,1864,1,train.txt,0
+b6ae8aa5-31e6-458a-8f15-41bcde9a32e2,analyst,1866,1872,1,train.txt,0
+e6bc8987-0f0d-4f4c-b2dc-f8d99f136eab,Paul,1874,1877,1,train.txt,0
+86663164-acf3-497e-80dd-368cabc6dd5a,Dergarabedian,1879,1891,1,train.txt,0
+de31be59-c639-4418-9c8c-599791762626,exceeded,1915,1922,1,train.txt,0
+cf8b0ca2-f2fc-422d-b38b-3aedca8d2ddf,even,1924,1927,1,train.txt,0
+05bc5f04-b25e-43a0-9b02-eef5753dcd03,the,1929,1931,21,train.txt,0
+b207bb37-6cc7-4de3-bb7e-65746e2106f1,grandest,1933,1940,1,train.txt,0
+45f90a06-0e83-4ff4-a4a7-b39abc4e8e6d,box,1942,1944,4,train.txt,0
+4007b3ce-ebc7-4def-a459-37ffa4e5e146,office,1946,1951,4,train.txt,0
+1268c646-922c-484b-818d-0e721d02fad5,expectations,1953,1964,1,train.txt,0
+b5a32aff-5122-4b27-98b9-2ad7124b10a5,while,1966,1970,1,train.txt,0
+b0875cd9-d1a1-4fd6-af08-81d22817c426,simultaneously,1972,1985,1,train.txt,0
+d5810c39-1f41-4556-8298-3f5604711c6a,breaking,1987,1994,1,train.txt,0
+d09c977f-425a-43c9-b2db-716e6327f58c,down,1996,1999,1,train.txt,0
+a40684d1-809c-4226-bb86-6242960c1df4,cinematic,2001,2009,1,train.txt,0
+80c127ae-7ebb-47e7-ae92-cc05d080d3b9,barriers,2011,2018,1,train.txt,0
+7023b0b0-ae5b-47f9-8cb8-f0c0c4299387,and,2020,2022,6,train.txt,0
+dba71892-8d1f-45df-81b9-91f211ecde6b,marking,2024,2030,1,train.txt,0
+422a1482-955a-4034-9623-0dffc6e589ff,a,2025,2025,5,train.txt,0
+8fa86e7a-8001-47e6-8608-72f2a457654c,turning,2034,2040,1,train.txt,0
+6dbb0be8-c11b-4727-a470-13fbb12e522e,point,2042,2046,1,train.txt,0
+2186bd9e-1496-44f8-a0c1-433953174975,in,2044,2045,11,train.txt,0
+cfb2e2c0-d71b-4fe8-a9f1-63a91e6bf722,the,2051,2053,21,train.txt,0
+a9c2c11e-3687-4738-b6a7-9ea1481f4de8,evolution,2055,2063,1,train.txt,0
+c16d9ca9-058a-4eb6-b04c-5e521bf45206,of,2065,2066,8,train.txt,0
+818ab03c-2dba-449f-8dbd-48f50f2a9b81,the,2068,2070,21,train.txt,0
+ee7746fc-c091-46eb-860e-a89e241c6648,he,2080,2081,1,train.txt,0
+bbdd8447-2bc9-4506-b28c-e2e981cd117d,said.,2083,2087,1,train.txt,0
+e539c247-d54f-41c2-96ed-d73620c5629d,The,2090,2092,5,train.txt,0
+dc0eac3a-9bea-4d8e-a240-f56d9b0342eb,film,2094,2097,7,train.txt,0
+fcd63d14-2363-4043-9506-3950978c6221,garnered,2099,2106,1,train.txt,0
+13144c41-b41a-46a8-a355-10e07c4bd3fb,an,2108,2109,7,train.txt,0
+1491bf0f-54d0-498c-8e03-fe5647794ffa,CinemaScore,2116,2126,1,train.txt,0
+71413868-7eec-4910-b32a-9e4ede0672fa,from,2128,2131,2,train.txt,0
+ecb371ba-fe56-4d48-8544-112afdce9317,audiences,2133,2141,1,train.txt,0
+9309e5f3-0f5f-4ab1-a035-b718290ee215,and,2143,2145,6,train.txt,0
+a373ae83-cbb9-46af-8c6b-cf3738e751f5,a,2147,2147,5,train.txt,0
+28042fb1-1041-40eb-a02d-503aa48b08fe,near,2149,2152,1,train.txt,0
+3ea7e1e7-fb49-435d-a629-a3dabebf0dd6,perfect,2154,2160,1,train.txt,0
+4fda194c-5145-4b2d-9cba-222c1a72530c,score,2166,2170,1,train.txt,0
+273f9d23-585b-4204-a10a-b86852436142,on,2172,2173,2,train.txt,0
+f04ab170-8ec1-4b3b-9caf-e7c2cf533704,review,2175,2180,1,train.txt,0
+bb6fbaff-7d5c-4a22-8942-734f1b31c419,site,2182,2185,1,train.txt,0
+ba4189b9-7b7f-4336-b336-5a59b6d9f401,Rotten,2187,2192,1,train.txt,0
+609b016f-43d1-44c9-b734-f138e2028683,which,2204,2208,3,train.txt,0
+f6509c05-9776-458d-bffc-54e3d731b2e2,makes,2210,2214,1,train.txt,0
+4de2b36f-c3d3-4b46-a918-baa2185bdaa8,it,2216,2217,3,train.txt,0
+440d0344-e183-4f08-8a4e-1c08a3f48f4b,one,2219,2221,2,train.txt,0
+4769fce7-4b14-4904-912e-88a17f1a8a68,of,2223,2224,8,train.txt,0
+691e722c-83f9-4673-b1f2-b2a891494aa0,the,2226,2228,21,train.txt,0
+74e6a2d2-8241-45a8-962c-9e32894ff33f,superhero,2244,2252,2,train.txt,0
+6f916e81-811e-49de-98eb-f61b1180a111,movies,2254,2259,1,train.txt,0
+93a0e1aa-b658-4977-9cbf-184c3882c312,of,2261,2262,8,train.txt,0
+146da9c2-dd6b-4eac-bda4-e94f4bf4e859,all,2264,2266,2,train.txt,0
+df04de67-c24b-463f-bd20-782f9ca3208e,brings in,16,24,1,train.txt,0
+2995a319-73c0-4fb5-9420-e053218a2831,in a,18,21,1,train.txt,0
+3a0f3797-f056-477d-b619-cf577e84128f,box office,44,53,4,train.txt,0
+180743af-f99a-42f1-bca4-c9e3c6d79b6c,office weekend,48,61,1,train.txt,0
+baa2b89f-3a54-4f20-a622-101b5b7c24c7,weekend Updated,55,69,1,train.txt,0
+3dc2a734-c86e-4291-8109-d064fae4270e,Mon February,84,95,1,train.txt,0
+1da5f9bc-804f-4eb1-b516-9ad78afdbdc8,New York,106,113,1,train.txt,0
+4b97303d-2356-4999-bc6d-c5ceef653e0d,All hail,128,135,1,train.txt,0
+952fb7a0-c97f-44df-9347-a572eeaec807,hail the,132,139,1,train.txt,0
+7c744f3e-f049-475c-a3c2-fe0d242425e6,the king.,137,145,1,train.txt,0
+b2a676b8-5a67-427b-b9f5-cf7337c904f0,first film,174,183,1,train.txt,0
+68d8fc58-e063-496b-9366-27ff3206830a,film directed,180,192,1,train.txt,0
+99b6c15d-b01e-4e66-8506-9004d213f874,directed by,185,195,1,train.txt,0
+387ac64f-28aa-494f-afc1-eda27f653f8f,by an,194,198,1,train.txt,0
+0bf7ef6e-ee8f-49bb-a4bf-3167dedbe71f,brought in,218,227,3,train.txt,0
+989defbb-d0ae-4d07-9e5b-09be2c24f2ec,in an,226,230,2,train.txt,0
+9a9e9419-71b8-4165-97d6-60c2b831f436,an estimated,229,240,1,train.txt,0
+c05b3d30-5b7b-42d4-a65b-c6723c0ac37a,million for,249,259,1,train.txt,0
+c4899d0d-c92b-4f39-b9f9-13bdff750710,for its,257,263,1,train.txt,0
+135d9761-b117-42ea-9e29-e52e03a05e64,debut in,275,282,1,train.txt,0
+0edf64c6-2832-4410-ba60-6561dcb85629,in North,281,288,1,train.txt,0
+a8393cf9-a38b-46a7-9a89-570c978d55b7,North America,284,296,1,train.txt,0
+907fb922-5c48-4e45-b853-f6b9dc4f58b6,America this,290,301,1,train.txt,0
+8ef31fcd-4734-4519-ac36-bca26d4111ea,this weekend.,298,310,1,train.txt,0
+4d17c4d9-3451-4d9d-9642-a497a2f2b58a,the fifth,319,327,1,train.txt,0
+735eff64-4677-43d3-b1f3-56eb8eaccab0,fifth biggest,323,335,1,train.txt,0
+e4be0133-51fb-4864-a2dc-06d018b266a7,biggest opening,329,343,2,train.txt,0
+83f0d0e7-0627-4481-86ac-ae6d25cb9a19,opening of,337,346,2,train.txt,0
+4ceb9dc7-f670-4565-b9ad-9a724b5056b7,of all,345,350,2,train.txt,0
+953be49c-3419-439d-858e-456bca7c8608,all time.,348,356,1,train.txt,0
+1b4ca8ea-1144-4a91-8520-73e8b7f80cf2,time. The,352,360,1,train.txt,0
+11e9664c-c49e-41c7-8cd3-bc7beb217716,The opening,359,369,1,train.txt,0
+4afcd93a-8d7e-4169-9fd3-2e70f2c0a341,opening for,363,373,3,train.txt,0
+c6d1bff5-0548-455e-b759-9d2251c06790,for the,371,377,3,train.txt,0
+f356212d-3d21-47ab-b8f7-b59efabb8931,the film,375,382,2,train.txt,0
+f34e3380-4e22-4717-acbf-c1fdb508b25a,film starring,379,391,1,train.txt,0
+f3fa239e-aab8-44ff-b654-b7d24a43ae7f,Chadwick Boseman,393,408,1,train.txt,0
+25be9ef1-1278-4121-b09b-d528cb81f164,Michael B.,414,423,1,train.txt,0
+a1971c12-0cd3-402f-8a1b-b5da66093586,B. Jordan,422,430,1,train.txt,0
+9ca93461-2612-4e75-a290-484bb483df73,did not,432,438,1,train.txt,0
+ef529b03-3c4d-419a-9ffd-b7b398c6a0e0,not just,436,443,1,train.txt,0
+d552cbf4-0356-4469-88f9-8327fbece917,just shatter,440,451,1,train.txt,0
+9c19f7c9-ef69-4435-a8ab-b95f79a282de,it broke,467,474,1,train.txt,0
+6272bd9a-370b-4bfe-bda3-9f03b3e26cd7,broke multiple,470,483,1,train.txt,0
+88686df6-3342-4a7c-9c24-3fa0af25fc9a,multiple box,476,487,1,train.txt,0
+07e4fde9-2728-494b-9157-aa676c8b2213,box office,485,494,4,train.txt,0
+a7936df4-f565-47cd-a217-d5e8f45181ec,office records,489,502,1,train.txt,0
+bc3b6785-58e0-4fff-a2ef-21420dcbc2d3,records too.,496,507,1,train.txt,0
+63821892-b8ab-4b04-a118-0ced3174358f,too. It,504,510,1,train.txt,0
+723b716e-dcc7-4cbd-9484-494775e7e445,It blew,510,516,1,train.txt,0
+3b8dbdd0-0cc1-4727-a1f9-9f22dd4882f0,blew away,513,521,1,train.txt,0
+038146e5-ff36-448d-9a41-22a63d375de6,away the,518,525,1,train.txt,0
+30ffc473-c302-4cf7-9db1-c5e37feb4dbc,the record,523,532,2,train.txt,0
+ccebaae5-b436-47ae-acc1-84a85d478b17,record for,527,536,2,train.txt,0
+db059828-fe90-4d57-9fc1-ba9eb364aa2c,for the,534,540,3,train.txt,0
+784634a9-f1bc-4961-baf3-466f0919b635,the largest,538,548,1,train.txt,0
+3223578a-07fd-4d3a-bce6-c3c864f10487,largest opening,542,556,1,train.txt,0
+28218546-3e3c-4c2a-afb6-f62ec4027ae3,opening for,550,560,3,train.txt,0
+1c33d405-9172-4cca-9b89-3d825b046987,for an,558,563,2,train.txt,0
+1e392673-cfde-4a64-ad6c-cb799190aebb,director. That,582,595,1,train.txt,0
+d33983a0-7544-483f-8c8d-82c13651d5ba,That belonged,592,604,1,train.txt,0
+423657d3-61a1-4607-b11d-debb3aecffed,belonged to,597,607,2,train.txt,0
+23848d20-3e5c-4166-b1dd-d87e845f30a1,F. Gary,609,615,1,train.txt,0
+addc580b-d36f-4a90-8900-abd1a989dfb4,Gary Gray,612,620,1,train.txt,0
+c871707a-770c-43cf-aadf-d6da094417fa,Fate of,631,637,1,train.txt,0
+9a0c9025-ec24-4dff-9114-34bd90e47f10,of the,636,641,3,train.txt,0
+8ce42d47-66e1-427c-bd4a-329162adb73a,which opened,653,664,1,train.txt,0
+8b6ed490-fea4-46ce-af8f-40cd4aa70631,opened to,659,667,1,train.txt,0
+2843b9d5-c061-4d5a-89f7-8833665ea019,million last,673,684,1,train.txt,0
+cd084924-337d-44c4-ab8e-b3c6eb422e0b,last April.,681,691,1,train.txt,0
+d5ffc1a8-07c8-4feb-b052-2aa18ff4a847,April. Disney,686,698,1,train.txt,0
+5539181e-fb34-4908-853e-9195c53c709f,Disney estimates,694,709,1,train.txt,0
+0e253100-61da-4b3c-8f2b-3194d15b5eaf,estimates that,701,714,1,train.txt,0
+1dcfd856-0b94-4ee6-b2e7-835a606ad8ba,that the,711,718,1,train.txt,0
+cd45a28a-5515-42cd-b318-1869d84a308a,the film,716,723,2,train.txt,0
+3a3b1ffe-5c1c-480b-92d0-5a1a6bd0b17f,film will,720,728,1,train.txt,0
+fd303064-7038-420f-90ba-952639cfa4d4,will bring,725,734,1,train.txt,0
+b447477a-075e-4a25-9f75-04443f6609b5,bring in,730,737,1,train.txt,0
+0da71c37-4206-437a-81de-3b38e95981ff,million domestically,744,763,1,train.txt,0
+ae5d8107-942c-4240-a034-e3c744d54c7d,domestically for,752,767,1,train.txt,0
+6c97e964-e531-4db6-b3a2-120f13e73d1f,for the,765,771,3,train.txt,0
+acc92659-2717-49e2-b467-ae62928abc91,the four,769,776,1,train.txt,0
+61a92cd2-f24c-4cf8-8b0d-e1fb7c74bc51,four day,773,780,1,train.txt,0
+8ab3d8bf-7456-4f8c-a0d9-34615a7923ed,day holiday,778,788,1,train.txt,0
+cdbd1d09-02ec-4a3c-8faf-ec8d0c865ea1,holiday weekend.,782,797,1,train.txt,0
+e9af2874-a0eb-42f9-80a5-c948169661b2,weekend. The,790,801,1,train.txt,0
+a01e286e-a375-4074-a2a9-fd5473bcf023,The film,799,806,3,train.txt,0
+07099cb3-d207-4eca-a1dd-f78c6977375a,film brought,803,814,1,train.txt,0
+072f31a3-4b4d-42b6-8fa7-867a380c736e,brought in,808,817,3,train.txt,0
+8112b8c1-afe4-42ba-866c-d096cc83263d,in an,816,820,2,train.txt,0
+21086262-a9ad-40af-b7ea-5a8fd3584cde,an opening,819,828,2,train.txt,0
+75a05b5a-9ec4-4a96-96c4-3c94db933e8e,opening of,822,831,2,train.txt,0
+37267a52-c538-492b-8ef3-09104e31eab6,of more,830,836,1,train.txt,0
+12df58c4-22c4-41c9-8cb9-6a3191f6c586,more than,833,841,1,train.txt,0
+c14195ec-452b-4b2c-9a26-b29951cbb4b4,million around,848,861,1,train.txt,0
+09a792a4-f754-48fb-b7a9-07f0775ee25b,around the,856,865,1,train.txt,0
+87119365-0951-4b6f-a789-f4eaf1970c38,the world,863,871,1,train.txt,0
+374b2b18-685d-4110-86cf-ab91a5167859,world before,867,878,1,train.txt,0
+caa74703-0574-46ca-a484-5c027b38ab3d,before revised,873,886,1,train.txt,0
+85b43763-8ada-4dbe-a4f9-ad3a1a8bb709,revised estimates.,880,897,1,train.txt,0
+d64f3d2b-b0fd-4f22-a112-bb64652e781b,estimates. Final,888,903,1,train.txt,0
+05d7b95a-8241-4fde-ad88-e8ab2c028f98,Final global,899,910,1,train.txt,0
+3a156450-fc23-4242-85fe-dc8013e9e713,global totals,905,917,1,train.txt,0
+3fccd27e-eb07-4e36-8b61-cea981d96d97,totals will,912,922,1,train.txt,0
+f9b7d524-c126-40c3-8380-9716f26400b5,will be,919,925,1,train.txt,0
+97b736e4-4094-4fd7-9634-cc8d9691ce4d,be announced,924,935,1,train.txt,0
+679bdccb-1455-480b-9c6b-31f2604f3c38,announced on,927,938,1,train.txt,0
+08588ba7-ddce-4183-861c-c6509b286d26,according to,949,960,2,train.txt,0
+0b3049b3-572a-4424-832e-cd5199932a51,to the,959,964,1,train.txt,0
+fc1d3867-cf07-45c9-b858-4573b6d444d4,the studio.,962,972,1,train.txt,0
+ad48d093-1d10-4291-a6bc-b172500cf92f,also shattered,991,1004,1,train.txt,0
+b952e001-b055-444e-a034-23c6796330fe,shattered the,996,1008,1,train.txt,0
+13a23f93-785c-46a4-aa5e-a3ce14e679d1,the record,1006,1015,2,train.txt,0
+45501a49-9c21-4d6f-886f-587eafb8b87d,record for,1010,1019,2,train.txt,0
+e80988ab-0e42-4c42-ba5a-97ab4ff03f24,for an,1017,1022,2,train.txt,0
+c8a3a366-9421-4408-80ef-1e2634b662f0,an opening,1021,1030,2,train.txt,0
+0e05f690-af47-4e47-b1b6-6b62a56139da,opening in,1024,1033,1,train.txt,0
+120c591d-5871-4b04-9d57-a4acc2a624a9,which belonged,1045,1058,1,train.txt,0
+57ec1eda-203e-4e88-8141-e3996d4b5e56,belonged to,1051,1061,2,train.txt,0
+38c0bb43-00c5-49d3-8483-ed8cf35ec270,superhero film,1087,1100,1,train.txt,0
+dd022ace-0e14-4e1d-b405-5946982796ad,film from,1097,1105,1,train.txt,0
+842bf40c-7ab8-49ab-861f-63bd5efe8c19,Century Fox,1112,1122,1,train.txt,0
+7b411b32-4d89-42d1-9721-613abb7b855b,Fox that,1120,1127,1,train.txt,0
+ad9c9278-a8a1-4622-91f5-1ec070a53c07,that brought,1124,1135,1,train.txt,0
+f7661d40-7b95-4f59-bd07-e20318240cb2,brought in,1129,1138,3,train.txt,0
+df3d6f29-ef01-468a-82c6-1688a839f566,million when,1145,1156,1,train.txt,0
+a7f65441-2393-4ba7-a7c3-99d15448a831,when it,1153,1159,1,train.txt,0
+e1dffa0e-000c-4a19-b42a-c5b91342b1cf,it opened,1158,1166,1,train.txt,0
+d2397352-9a42-441b-857f-bf2019c5271e,opened in,1161,1169,1,train.txt,0
+ba556009-bc86-4d94-afee-b530c0c5866b,It is,1178,1182,2,train.txt,0
+967a0203-429c-4163-a1ad-0500e9564475,is the,1181,1186,2,train.txt,0
+b9ed6106-ef61-49ee-b6aa-57e82cd660a5,the second,1184,1193,1,train.txt,0
+0aae4a97-ea44-4407-83db-e529aa306c91,second biggest,1188,1201,1,train.txt,0
+6431dfe4-910a-48a5-88d5-2d8f204587c7,biggest opening,1195,1209,2,train.txt,0
+f424e5b0-6a57-448a-9d63-003cf7128b99,opening for,1203,1213,3,train.txt,0
+9630fb45-279b-485a-b9f0-bb021c35f84b,for a,1211,1215,2,train.txt,0
+79ed9357-79dd-4cda-9766-78eeb47c8e47,a Marvel,1215,1222,1,train.txt,0
+cbf292a1-834c-4a08-8a62-d2795fa700b5,Marvel Studios,1217,1230,1,train.txt,0
+bb5ee085-e90a-40f7-9bd1-63b0fba5135e,It out,1268,1273,1,train.txt,0
+db86fbab-efa7-4b25-bcc2-6d4938ee3d0d,out paced,1271,1279,1,train.txt,0
+01654a91-3740-475d-b847-8185f9538cde,paced other,1275,1285,1,train.txt,0
+c9d3f155-0bcb-478f-b8cc-5a0ed0be2d10,other huge,1281,1290,1,train.txt,0
+f3d57808-9443-4996-bb40-01312de96115,huge hits,1287,1295,1,train.txt,0
+3612f0e2-40f0-4e40-a508-e1b63b965860,hits like,1292,1300,1,train.txt,0
+cd46868f-0327-41cb-9172-c9f0ded5e908,Age of,1313,1318,1,train.txt,0
+c4e3e16c-b2e0-4df3-959e-1ef7f54251c5,It is,1376,1380,2,train.txt,0
+d0d56374-75f6-4017-89f8-e03e65eab4b4,is the,1379,1384,2,train.txt,0
+389183ad-4b27-4119-8e66-5247158386f5,straight number,1400,1414,1,train.txt,0
+020f1413-5384-4643-9b02-c53c5a2c8663,number one,1409,1418,1,train.txt,0
+e78366b3-37b8-42ab-9186-6c673a741e0c,one opening.,1416,1427,1,train.txt,0
+e4c85ee5-0a24-4875-9eee-6dd6a3f6f729,is heading,1455,1464,1,train.txt,0
+5da3a135-ba81-47f0-94d7-702b200a7eea,heading for,1458,1468,1,train.txt,0
+79c96e35-377b-43d8-b463-051ce6445dff,for a,1466,1470,2,train.txt,0
+b9b936d1-82f3-404d-93d0-68bdc7b376ed,a blockbuster,1470,1482,1,train.txt,0
+66834442-bc74-4eb7-96d2-8fb0e45028a5,blockbuster weekend.,1472,1491,1,train.txt,0
+e2c3cad1-1071-47ff-a2e7-d34294e666d6,why that,1500,1507,1,train.txt,0
+e978f45f-01aa-4984-9a93-e769e0b121ea,that matters,1504,1515,1,train.txt,0
+95d97fb2-ecfc-46a3-a6e5-480bb002d0bd,matters The,1509,1519,1,train.txt,0
+d062bd66-8a7a-4d58-ba65-a95e3e5991f4,weekend is,1538,1547,1,train.txt,0
+bd336711-1147-49e5-af9a-88ca3b4f6c72,is watershed,1546,1557,1,train.txt,0
+19cf44a6-51ca-475d-a659-3ec6655a73e4,watershed moment,1549,1564,1,train.txt,0
+7749691e-1e83-4ba9-9dfb-3013cd06ee69,moment for,1559,1568,1,train.txt,0
+9a833e21-2157-4c35-a71c-b3a55da51657,for Hollywood.,1566,1579,1,train.txt,0
+51b94a7b-6c33-4f43-8143-9771924ed9ff,Hollywood. With,1570,1584,1,train.txt,0
+c0842bc5-9393-4c67-a0f4-76938e2acc2f,reaching box,1602,1613,1,train.txt,0
+545ae35d-69dd-4863-9dd8-ffb37a9dc8c4,box office,1611,1620,4,train.txt,0
+d02ba19f-a550-456d-af99-a469c51c3e26,office heights,1615,1628,1,train.txt,0
+6f7abdfe-e9db-4b4b-9eed-faacb79fa0fc,heights that,1622,1633,1,train.txt,0
+0c72bdd4-0256-42e4-a735-bf063a4cc2b8,that have,1630,1638,1,train.txt,0
+6bc7ca49-e5cf-413c-ba76-bfe867996df5,have eluded,1635,1645,1,train.txt,0
+1d4143d7-6df6-4f1a-9adc-9e676786c90c,eluded other,1640,1651,1,train.txt,0
+72e6cd33-149e-42f3-bef7-657aa48771a6,totals could,1689,1700,1,train.txt,0
+1cad01f2-9fdf-4d7f-a4e1-e3a89cc374b9,could impact,1696,1707,1,train.txt,0
+9c1357e4-8cca-4da2-b482-e9722e279a57,impact change,1702,1714,1,train.txt,0
+f9c9c592-1fff-414c-bdfb-4b8c809a605a,change in,1709,1717,1,train.txt,0
+b7a11bf3-aae9-438e-ad48-60bc6e887956,in the,1716,1721,2,train.txt,0
+6d856da0-f336-4b1f-b1c7-7e5e85d9cfe6,the industry,1719,1730,1,train.txt,0
+317eb510-5087-410c-a2bf-14a6e82c3704,industry by,1723,1733,1,train.txt,0
+de1560ca-1554-49fa-bf4b-c6d9f6ef461d,by encouraging,1732,1745,1,train.txt,0
+ea0f9a1d-2f07-45b0-bd48-db6d30ed7cbb,encouraging diversity,1735,1755,1,train.txt,0
+6ebc9479-80f6-42ed-9f1a-a38ef23e865d,diversity in,1747,1758,1,train.txt,0
+d6dc127a-4f1f-4b21-8403-52de6eba89fe,in front,1757,1764,1,train.txt,0
+e5099b4d-4130-45b5-b0f4-c9097068a04a,front of,1760,1767,1,train.txt,0
+71990bb8-7d66-4605-881a-2d97bf8d4847,of and,1766,1771,1,train.txt,0
+dfdc4bf4-6f2b-4894-9cc7-b2624886fb2d,and behind,1769,1778,1,train.txt,0
+b7baa877-ed56-4e3c-9aaa-48a3be7dd74c,behind the,1773,1782,1,train.txt,0
+6d681259-2638-4d6c-9f18-2a9a806c1b76,the camera.,1780,1790,1,train.txt,0
+718abc86-878a-45a5-94d5-694a85e65669,camera. The,1784,1794,1,train.txt,0
+0f84802c-e0a5-4a5f-b73b-470102a11764,The film,1793,1800,3,train.txt,0
+240bb47d-0840-494b-94d3-6232bdcf3558,film is,1797,1803,1,train.txt,0
+2332e5bd-7efe-47b0-944f-739e90558f05,is an,1802,1806,1,train.txt,0
+6ce16a9b-d47d-493f-b87f-340febc76778,according to,1831,1842,2,train.txt,0
+f7465ebd-c4e9-47c3-83ed-e8966f20e5be,to comScore,1841,1851,1,train.txt,0
+cbdb3893-8b88-44e5-a7dc-69b7f5c1b585,comScore senior,1844,1858,1,train.txt,0
+b7d28d69-7227-46c1-a5ed-9b232b947179,senior media,1853,1864,1,train.txt,0
+701d6d40-0a03-4af2-aa70-3a05d617f019,media analyst,1860,1872,1,train.txt,0
+7beee9bd-5c0a-4ee7-a1e0-eb01df30fbbc,Paul Dergarabedian,1874,1891,1,train.txt,0
+a0a1a161-ac4e-4080-85ce-6a98238cb268,exceeded even,1915,1927,1,train.txt,0
+b10502db-43a3-4197-b92f-adc50fd5d6b3,even the,1924,1931,1,train.txt,0
+c5a755db-f7ad-4301-8204-a16859a47cfa,the grandest,1929,1940,1,train.txt,0
+28ffdefa-d024-4137-9329-6116cd387bed,grandest box,1933,1944,1,train.txt,0
+0f737a2d-da94-4613-bab4-54be18e1d8e6,box office,1942,1951,4,train.txt,0
+c823b22f-1a83-4a80-85a8-07694f76137a,office expectations,1946,1964,1,train.txt,0
+a9ac6432-b0ca-4ecb-84e1-7a5cce9e2ecf,expectations while,1953,1970,1,train.txt,0
+36869506-1ddb-4320-b2ee-ecc0cdf90095,while simultaneously,1966,1985,1,train.txt,0
+a337d85d-c137-4c81-bba5-cf8191d02c3c,simultaneously breaking,1972,1994,1,train.txt,0
+95d6c7ba-12a8-4321-b59c-78c51b11a3e3,breaking down,1987,1999,1,train.txt,0
+6c0c1e70-5450-482f-a1d3-c35785f0ce22,down cinematic,1996,2009,1,train.txt,0
+beda28fa-5a52-4714-9e54-68002525aa25,cinematic barriers,2001,2018,1,train.txt,0
+6ae4bc1c-bcfc-49ba-a8f1-fae3b6891f3b,barriers and,2011,2022,1,train.txt,0
+ee27a815-0294-40bf-9b44-77cff33c037c,and marking,2020,2030,1,train.txt,0
+ece97429-1b3a-4b56-b592-c87c72ed08c8,marking a,2024,2032,1,train.txt,0
+deb8ed6e-8fbe-437d-b4d7-02ec2390e14c,a turning,2025,2033,1,train.txt,0
+90a90fb4-1d68-43a6-93ef-a8158253ca4d,turning point,2034,2046,1,train.txt,0
+62ca6921-277f-4035-a6db-39bb9bec1251,point in,2042,2049,1,train.txt,0
+e85dc418-d4c1-4086-8121-54c6f9a1871b,in the,2044,2049,2,train.txt,0
+8dc5a5d2-55f6-43e0-923b-1325625ac319,the evolution,2051,2063,1,train.txt,0
+b3b8b305-e0e7-4ee4-ac3e-2337a754bdb3,evolution of,2055,2066,1,train.txt,0
+ec45488f-47d8-468b-9e3a-6521c7744200,of the,2065,2070,3,train.txt,0
+921ba072-3777-4f62-ad21-893e3f3e587d,he said.,2080,2087,1,train.txt,0
+fc4bf82c-e3e8-47c9-9c82-6accfc8fdf44,said. The,2083,2091,1,train.txt,0
+3c0b216c-cf9f-4384-a9d9-70c2df18d369,The film,2090,2097,3,train.txt,0
+806129e0-87b4-44b8-8711-f3fce82f40fd,film garnered,2094,2106,1,train.txt,0
+5acc1dda-e356-44de-9c60-23824b048f27,garnered an,2099,2109,1,train.txt,0
+ea6b5a1a-6669-49a9-8249-ec9d466fc055,CinemaScore from,2116,2131,1,train.txt,0
+82f95803-17a6-4fba-97fb-a0a6c053e348,from audiences,2128,2141,1,train.txt,0
+821da922-a577-4aa4-a3c3-15f7132eba17,audiences and,2133,2145,1,train.txt,0
+4ce30af7-4392-4c87-87b6-786bdefba6ff,and a,2143,2147,1,train.txt,0
+79d295f7-de78-4821-a060-a134c7d3168b,a near,2147,2152,1,train.txt,0
+a6de9ca1-cb9a-4302-8594-7ea7f51b7bbf,near perfect,2149,2160,1,train.txt,0
+5e08f3bf-752e-49f4-8d5c-c1aa8aedf6b9,score on,2166,2173,1,train.txt,0
+8cd2b146-9b6a-42a0-9b43-3906309f6bfc,on review,2172,2180,1,train.txt,0
+8feff067-7611-4554-adaf-df66ca8cd216,review site,2175,2185,1,train.txt,0
+a56cc50f-f559-4bb9-9a20-551a47484c68,site Rotten,2182,2192,1,train.txt,0
+961200d9-b309-4091-8a0d-550184e8dd5c,which makes,2204,2214,1,train.txt,0
+8d26fd41-30c2-4323-a2eb-d9e4a19358ef,makes it,2210,2217,1,train.txt,0
+52b71cc9-c027-4d2a-a885-97479e24550a,it one,2216,2221,1,train.txt,0
+5c086dbb-f3f4-4a6e-a335-0a216d76dff3,one of,2219,2224,1,train.txt,0
+32f7fdfc-9e63-4d6a-83a0-9708cba3b766,of the,2223,2228,3,train.txt,0
+466fce04-ea3c-4897-8935-ac3ad8a263ab,superhero movies,2244,2259,1,train.txt,0
+8a12e14d-e048-4ea0-88a8-0fa353f12f2a,movies of,2254,2262,1,train.txt,0
+2051224c-9309-4b63-b172-f677653fcb70,of all,2261,2266,2,train.txt,0
+8c889cf1-3790-4838-bb90-b5fe51652689,brings in a,16,26,1,train.txt,0
+fc46afcb-f82d-4291-add3-7778b67c3d87,box office weekend,44,61,1,train.txt,0
+8da78cf9-4afe-4530-855d-c5ce73b32f99,office weekend Updated,48,69,1,train.txt,0
+44b7a7d7-a49d-4fce-aec9-72e522b74315,All hail the,128,139,1,train.txt,0
+0f030ac9-02ac-40cd-8e2b-3d816c998c3c,hail the king.,132,145,1,train.txt,0
+0c59377e-3638-46ac-b93d-3c5396966fa6,first film directed,174,192,1,train.txt,0
+fd67cb78-3035-4749-8038-e0746ee52d6d,film directed by,180,195,1,train.txt,0
+56b48eb1-2685-4c71-9a21-8fc213f35fdb,directed by an,185,198,1,train.txt,0
+cb2b3b2f-dde6-4e32-beb7-6f6d57aab49f,brought in an,218,230,2,train.txt,0
+6973b6ed-d086-4bf8-a7f3-1d2713991102,in an estimated,226,240,1,train.txt,0
+7293a9c0-1676-4ef2-bae6-7d8de73cc985,million for its,249,263,1,train.txt,0
+a4599cee-cc61-49a5-9003-f41592c54650,debut in North,275,288,1,train.txt,0
+0d8fd006-28a9-4756-955d-17cb393b12e1,in North America,281,296,1,train.txt,0
+828e3ddb-83ab-4dbe-a228-a9353e555b74,North America this,284,301,1,train.txt,0
+b5ba1039-aa70-4e50-8bf6-695523d178f3,America this weekend.,290,310,1,train.txt,0
+50b99464-ffac-4374-a899-5e1593af17b4,the fifth biggest,319,335,1,train.txt,0
+b7ba7b44-7538-4c62-a910-d24c86a58f46,fifth biggest opening,323,343,1,train.txt,0
+3ef7c3b2-c132-4f2f-8ffc-0def9239118b,biggest opening of,329,346,1,train.txt,0
+d698382a-8ae4-441b-96c1-2d67d150b664,opening of all,337,350,1,train.txt,0
+1fb5125f-007a-4a7e-a35c-230728c1f877,of all time.,345,356,1,train.txt,0
+1a26bcab-c347-472f-9f88-67ce050e9a15,all time. The,348,360,1,train.txt,0
+c13eb705-b047-41c0-9e70-b84fd1cb42c4,time. The opening,352,368,1,train.txt,0
+74aa065b-d1ec-4341-9119-accfea292dc3,The opening for,359,373,1,train.txt,0
+97f6f26b-7c3c-4a81-b7e6-b57968b4900e,opening for the,363,377,1,train.txt,0
+1cca849e-430b-47d7-b736-f947027446bd,for the film,371,382,1,train.txt,0
+632ec8cc-33c9-4f33-adb5-45b9038c6499,the film starring,375,391,1,train.txt,0
+433d72d4-d3d9-4062-8eac-bd7bb675c471, Chadwick Boseman,393,409,1,train.txt,1
+546abd85-19b5-4b87-92da-c0cb0f78b54e,Michael B. Jordan,414,430,1,train.txt,0
+c4bf4602-f89f-4c05-9113-4abcc04a815e,did not just,432,443,1,train.txt,0
+0ab1db42-8a4f-44bd-b4cd-e002b0de7178,not just shatter,436,451,1,train.txt,0
+12935280-ed42-40c0-8599-d4a372e2a35c,it broke multiple,467,483,1,train.txt,0
+f77b06e8-f272-4356-af7a-6fb8c2676dc4,broke multiple box,470,487,1,train.txt,0
+8a7b2dd4-9c25-43ee-90ba-045f643bc7b1,multiple box office,476,494,1,train.txt,0
+8deeeba9-f13d-4ec7-87bb-4d89119e2d7e,box office records,485,502,1,train.txt,0
+646ebc2a-1793-45af-b3e1-1ac5967a19ac,office records too.,489,507,1,train.txt,0
+f0d6a34a-531b-43ba-ac2b-9a39de9c075f,records too. It,496,510,1,train.txt,0
+c948613f-64b0-4f59-bbf8-3226bd2877f7,too. It blew,504,515,1,train.txt,0
+2f4ec32a-16fd-42cb-9d44-585696b7ef03,It blew away,510,521,1,train.txt,0
+d06cfabc-97b7-4f6a-98c5-ea39d5ecf622,blew away the,513,525,1,train.txt,0
+36f6dc31-e8f4-463d-a496-d370c2071e7c,away the record,518,532,1,train.txt,0
+4b8911b3-e14a-456e-8668-9d5f49413086,the record for,523,536,2,train.txt,0
+1e80827e-bae7-4e76-b16b-51a1f5fdd373,record for the,527,540,1,train.txt,0
+954a610a-74f7-43bc-9cc6-0d363cae0c89,for the largest,534,548,1,train.txt,0
+55f94643-9e88-4827-96f4-c73cff43e808,the largest opening,538,556,1,train.txt,0
+6d72698a-ae3b-40e2-b66f-ed1cd798dd45,largest opening for,542,560,1,train.txt,0
+155b0214-68e1-47ef-add7-22a4ec50b8d6,opening for an,550,563,1,train.txt,0
+465f4fea-d708-4e34-979a-d09e552bb439,director. That belonged,582,604,1,train.txt,0
+cd67ff81-58ab-4260-84d1-8ec03b56940f,That belonged to,592,607,1,train.txt,0
+7755498d-3216-4c65-a35c-0d6f5fee55ab,F. Gary Gray,609,620,1,train.txt,0
+14e5521b-78b6-4d39-b6d5-5ca9b363f64c,Fate of the,631,641,1,train.txt,0
+0469d006-c34d-4003-8f29-1d40fc0cfcb7,which opened to,653,667,1,train.txt,0
+f4b3117b-bfdb-4b32-ac1e-629cbf7332c7,million last April.,673,691,1,train.txt,0
+83b3a0b4-351f-4470-b9ce-7f6e2a52d58b,last April. Disney,681,698,1,train.txt,0
+ee1659bb-07a2-4691-b27b-6c9fd0fb969b,April. Disney estimates,686,708,1,train.txt,0
+b438381b-be81-4e08-91b3-3a6190b7e221,Disney estimates that,694,714,1,train.txt,0
+27483812-1249-4b74-9b89-2337b37526f3,estimates that the,701,718,1,train.txt,0
+2a99c3e5-7af8-4f41-87bd-1c7609874edf,that the film,711,723,1,train.txt,0
+3f3388c4-7d93-43ff-b0f3-b31669cfe185,the film will,716,728,1,train.txt,0
+1ed5dc2e-cb54-4928-b031-4b41e4575701,film will bring,720,734,1,train.txt,0
+3bac5acf-1135-466f-beeb-cad21d41b6fd,will bring in,725,737,1,train.txt,0
+28303c31-84d2-4bc7-9867-2ef5f3e8064c,million domestically for,744,767,1,train.txt,0
+11a64521-64ed-4dfe-8a4b-854b9a390b27,domestically for the,752,771,1,train.txt,0
+9be173b8-7863-4ffb-b41a-89edc03f6d9e,for the four,765,776,1,train.txt,0
+b4a8eeca-ab8b-44f3-8016-7de8bf516bd8,the four day,769,780,1,train.txt,0
+85402efa-9ad3-474b-a659-3ff68f208276,four day holiday,773,788,1,train.txt,0
+2b7fd77b-5139-4b1a-888d-87765f3268b5,day holiday weekend.,778,797,1,train.txt,0
+98321256-396d-4f46-bbfe-ccddc4d98e25,holiday weekend. The,782,801,1,train.txt,0
+d1300959-cf97-469a-871e-6aaf3ff5e821,weekend. The film,790,806,1,train.txt,0
+d7ff0e35-22bc-417c-9831-afd6a2699baa,The film brought,799,814,1,train.txt,0
+79ee51a5-4f30-4e9d-8c50-44db5a7b1ba1,film brought in,803,817,1,train.txt,0
+11398ff8-056c-495d-ba44-1f7b04c162d5,brought in an,808,820,2,train.txt,0
+43023ee2-826d-417f-9695-3e3519bbc94f,in an opening,816,828,1,train.txt,0
+f20e1cde-4958-40d8-808d-a5cd0e7e3749,an opening of,819,831,1,train.txt,0
+f771615c-505e-492a-ac7e-78de583b5e4c,opening of more,822,836,1,train.txt,0
+e26062e2-9ec6-4af3-b86d-dc8f324cce88,of more than,830,841,1,train.txt,0
+325980bc-f0a7-4ebf-a80b-81a4224ad45c,million around the,848,865,1,train.txt,0
+a017a292-45a0-4204-9177-7959a36ed972,around the world,856,871,1,train.txt,0
+f9dc1695-3840-46b6-b79e-de409725ae37,the world before,863,878,1,train.txt,0
+6ec0d2f2-4218-4f2d-8328-77aa5294402e,world before revised,867,886,1,train.txt,0
+4f489222-c511-4ed0-b408-ca6317c1eaa8,before revised estimates.,873,897,1,train.txt,0
+186e8c60-7dfc-4628-b6f1-60c7ea3e99a3,revised estimates. Final,880,903,1,train.txt,0
+5d143a42-6168-4284-9201-1fd0b63abe7c,estimates. Final global,888,910,1,train.txt,0
+15267123-ccae-4d0d-9508-d01b9af18b11,Final global totals,899,917,1,train.txt,0
+e1b50a6e-7f56-4fd7-b4c8-d2aca95248c5,global totals will,905,922,1,train.txt,0
+7abcc329-2510-488e-92cd-cd79d36fb0b2,totals will be,912,925,1,train.txt,0
+4ef249a4-730b-4e89-b979-e56fadecec7f,will be announced,919,935,1,train.txt,0
+0f8f8ff8-bde6-4d46-a4f1-476a9367e175,be announced on,924,938,1,train.txt,0
+340c9507-e82e-4e73-8d0b-8a3744d90aa1,according to the,949,964,1,train.txt,0
+07752483-946c-4d9b-ac23-0145e733a0c4,to the studio.,959,972,1,train.txt,0
+d009d5e6-00b0-4a11-9d31-724e7fa5b890,also shattered the,991,1008,1,train.txt,0
+d36e1720-56e6-4a63-8134-64ee28db5034,shattered the record,996,1015,1,train.txt,0
+1aea3efa-decc-47a9-adff-38da03ffb590,the record for,1006,1019,2,train.txt,0
+75822184-56bb-47f5-ae50-98e48558bc5a,record for an,1010,1022,1,train.txt,0
+2fb01f45-88a0-4927-9737-aa34570d2410,for an opening,1017,1030,1,train.txt,0
+15f0323b-ef87-4f2d-9622-36f1b67f6089,an opening in,1021,1033,1,train.txt,0
+57330717-0b64-4940-9d29-df95f2449290,which belonged to,1045,1061,1,train.txt,0
+7f0f6c3d-7f8c-4f17-b97c-1d9296350f17,superhero film from,1087,1105,1,train.txt,0
+114b7e65-471b-4da8-b7b8-d5188aaa9525,Century Fox that,1112,1127,1,train.txt,0
+b35c3ca0-60f3-4ef2-a885-11d4317afa8d,Fox that brought,1120,1135,1,train.txt,0
+34ad6607-950e-4af3-80bb-6e9a22c67582,that brought in,1124,1138,1,train.txt,0
+01db957a-8ac7-443e-ba86-39a6740f1b55,million when it,1145,1159,1,train.txt,0
+1b16f9e6-f839-4d1b-a9f3-52b407ea4bb4,when it opened,1153,1166,1,train.txt,0
+59dba814-8620-447e-b79f-05aea6f475c5,it opened in,1158,1169,1,train.txt,0
+b6d11112-f315-4897-94f2-c0590d4f469b,It is the,1178,1186,2,train.txt,0
+df64558e-c946-4eee-bc35-36f02ad0ac19,is the second,1181,1193,1,train.txt,0
+cffded0d-5994-4fe6-b98e-b0522e63e50f,the second biggest,1184,1201,1,train.txt,0
+e2654886-ccd6-4b9f-bbc4-2c88ca753869,second biggest opening,1188,1209,1,train.txt,0
+6e7afa31-2639-4869-89d6-adc70d2112f1,biggest opening for,1195,1213,1,train.txt,0
+3f01cbd8-69d6-4414-86b9-90c8482d0fc2,opening for a,1203,1215,1,train.txt,0
+3c12015a-9d6b-4a55-a72b-e0493f9a14e7,for a Marvel,1211,1222,1,train.txt,0
+e852b2fc-7473-426d-a92c-2eb0665bccf3,a Marvel Studios,1215,1230,1,train.txt,0
+9e047ad4-6213-41cf-80ac-1c8db8c4d17f,It out paced,1268,1279,1,train.txt,0
+5d0f78a8-07ef-4ecc-9fec-c3d6d013e6f1,out paced other,1271,1285,1,train.txt,0
+4a0386be-a988-4a24-81fe-cffca85f0955,paced other huge,1275,1290,1,train.txt,0
+e071de21-9cf1-4b7d-90b3-37dc232eb8b9,other huge hits,1281,1295,1,train.txt,0
+cf1d2f46-c4fb-4fa8-8d0b-18b350fbb445,huge hits like,1287,1300,1,train.txt,0
+7c582c51-ed86-4179-ba22-e56ea09170a1,It is the,1376,1384,2,train.txt,0
+ea3596db-cd63-402b-9bb1-1afc5bc6ff4b,straight number one,1400,1418,1,train.txt,0
+0bec770a-ba65-423c-956e-44ff8d718e3f,number one opening.,1409,1427,1,train.txt,0
+8746af25-cd85-4921-92d1-1734e1f07fa4,is heading for,1455,1468,1,train.txt,0
+752cc7b9-2223-43a7-b60b-d08b015caef3,heading for a,1458,1470,1,train.txt,0
+e07ff181-7a5d-4f3a-a886-533100fc9f27,for a blockbuster,1466,1482,1,train.txt,0
+9587f9d9-14ed-4ef2-9e69-3f1e4ecd6c7b,a blockbuster weekend.,1470,1491,1,train.txt,0
+627e2fd1-1c97-4dc6-9b8b-b14075013579,why that matters,1500,1515,1,train.txt,0
+cdc796ed-683a-4994-8989-d42067e6d9e4,that matters The,1504,1519,1,train.txt,0
+51ec3104-a161-4f76-9aa3-dedd5c943c20,weekend is watershed,1538,1557,1,train.txt,0
+4f553a5e-7dd3-4672-ac2a-0427ca7baa36,is watershed moment,1546,1564,1,train.txt,0
+3fc94774-5d35-4c6e-8d0d-5f2d30df94c0,watershed moment for,1549,1568,1,train.txt,0
+26fcb2e6-31ea-4692-af37-3b1c6379f24b,moment for Hollywood.,1559,1579,1,train.txt,0
+34620419-f39d-4531-a5d4-2185ab57827c,for Hollywood. With,1566,1584,1,train.txt,0
+e9663fc0-c224-4f42-9216-3018f135ac0a,reaching box office,1602,1620,1,train.txt,0
+ae63b0fa-fbc8-44b8-abc0-b29d941434cb,box office heights,1611,1628,1,train.txt,0
+eaf5b8ea-e7c9-4ab5-ac0f-7b7a55779915,office heights that,1615,1633,1,train.txt,0
+491ca192-9173-46e2-a005-96cad4beed94,heights that have,1622,1638,1,train.txt,0
+d0ef072b-4ee7-4a4b-bb8f-499607222a5d,that have eluded,1630,1645,1,train.txt,0
+55c83d0e-8f94-42d6-8dfe-4d078b96ae42,have eluded other,1635,1651,1,train.txt,0
+154e9312-dda6-44f5-8665-97ff5a23cccb,totals could impact,1689,1707,1,train.txt,0
+7ec5654e-00f0-4e3c-b177-7717220bd838,could impact change,1696,1714,1,train.txt,0
+ce2bfedd-dbb1-4e66-8195-b7d3525a35ff,impact change in,1702,1717,1,train.txt,0
+a6cd8a2b-abb4-4d19-865a-076156915e43,change in the,1709,1721,1,train.txt,0
+aca5c90e-7798-407e-a105-a0f952a50eea,in the industry,1716,1730,1,train.txt,0
+0cdbc493-84d9-480d-836d-baab26354314,the industry by,1719,1733,1,train.txt,0
+fb0054a0-ff02-44a2-bfa0-0ca608cc9fec,industry by encouraging,1723,1745,1,train.txt,0
+0070955a-18df-4d22-9aae-2ab9c73990d5,by encouraging diversity,1732,1755,1,train.txt,0
+91d1543c-c322-4d0f-9c2a-cc5d7eaa0940,encouraging diversity in,1735,1758,1,train.txt,0
+2ae8fdaf-4eea-47dc-b80c-b338313347e5,diversity in front,1747,1764,1,train.txt,0
+fccef81b-cfac-4ccf-8f53-05f8f5d4de61,in front of,1757,1767,1,train.txt,0
+ead2b472-61a6-4cec-b863-e75ff8fd23bb,front of and,1760,1771,1,train.txt,0
+d2834702-061d-452a-ac1b-267c4f57202b,of and behind,1766,1778,1,train.txt,0
+8f023636-7cf7-4060-9ab5-a033f20c884d,and behind the,1769,1782,1,train.txt,0
+8e9c0e9b-eb44-481d-868e-7dd1deffa73a,behind the camera.,1773,1790,1,train.txt,0
+253600fc-2538-4ab8-b04e-d1f1677b49b1,the camera. The,1780,1794,1,train.txt,0
+a5fbe44a-868d-479f-a039-07c3ffcb01ec,camera. The film,1784,1799,1,train.txt,0
+e824d1e7-a3dc-416c-bf3a-5029327abf14,The film is,1793,1803,1,train.txt,0
+c1b3b7dc-cf28-40af-92e7-797cef5e1996,film is an,1797,1806,1,train.txt,0
+e430eba5-d0a4-4db1-ab94-607b7f039883,according to comScore,1831,1851,1,train.txt,0
+9244135e-7e92-4a34-8e27-3ed151a2f555,to comScore senior,1841,1858,1,train.txt,0
+0c8126ca-b0ae-4694-b9fe-cea8feffee54,comScore senior media,1844,1864,1,train.txt,0
+d8a03e1b-ceb0-4295-9a2d-482b9157ef81,senior media analyst,1853,1872,1,train.txt,0
+b7833817-b6a4-43c2-93f8-839dbe8c5940,exceeded even the,1915,1931,1,train.txt,0
+cdab7cb1-c057-4102-bf64-84e49d57bb9c,even the grandest,1924,1940,1,train.txt,0
+9850e94a-34e2-410d-a2a9-7c052318547c,the grandest box,1929,1944,1,train.txt,0
+0a1bee74-814c-465f-bbf9-1bf2abe1ff0f,grandest box office,1933,1951,1,train.txt,0
+7b7f1e90-ff83-4529-89b9-5e8b118c3ee0,box office expectations,1942,1964,1,train.txt,0
+55fbd562-07cd-45c8-97aa-9d4a14eb0595,office expectations while,1946,1970,1,train.txt,0
+22f656c4-5944-4062-b8a7-3ceb411d0920,expectations while simultaneously,1953,1985,1,train.txt,0
+4983057b-ee4c-4fac-a66a-c62117e6cd60,while simultaneously breaking,1966,1994,1,train.txt,0
+c6eaeb92-6302-45d8-a4d1-2d537ef9468f,simultaneously breaking down,1972,1999,1,train.txt,0
+34d6d6ba-6cc8-4c66-a096-c3ef2b6fcdf1,breaking down cinematic,1987,2009,1,train.txt,0
+dc7a359e-c640-4246-b9fd-018e2afcb3a4,down cinematic barriers,1996,2018,1,train.txt,0
+a40f89f7-b2cf-475e-9860-7680d1f09b91,cinematic barriers and,2001,2022,1,train.txt,0
+79b0c83d-7683-40f9-b4bb-17aaacca6029,barriers and marking,2011,2030,1,train.txt,0
+a633501c-821a-4414-b20c-a68a68f96cb2,and marking a,2020,2032,1,train.txt,0
+e1e6127c-d9d4-4b86-a7ec-91a136b9ab4d,marking a turning,2024,2040,1,train.txt,0
+96632284-3057-433c-bf13-2026cbb4f38a,a turning point,2025,2039,1,train.txt,0
+e5459255-0be5-493f-b9f2-4c61f627aba0,turning point in,2034,2049,1,train.txt,0
+6569816f-89dc-4cb3-acba-9bfced5c6458,point in the,2042,2053,1,train.txt,0
+1da99d13-4bcd-4cd3-b16a-cca51a382058,in the evolution,2044,2059,1,train.txt,0
+896f1cf6-b670-4971-aa24-9cedcab99e2a,the evolution of,2051,2066,1,train.txt,0
+7288bc8d-2f3f-4303-8540-5f71c7ac2716,evolution of the,2055,2070,1,train.txt,0
+b956c8ff-b234-4bbc-bd64-66454f9ca5d2,he said. The,2080,2091,1,train.txt,0
+e02d4500-8c3c-4bc0-b96f-83e207d1dfc9,said. The film,2083,2096,1,train.txt,0
+17386c68-3961-4387-9f07-472e2abbef47,The film garnered,2090,2106,1,train.txt,0
+59a29e9a-9bb8-4174-b662-1031091bf03c,film garnered an,2094,2109,1,train.txt,0
+0836f3b4-5ff1-4b6d-8f71-7d2a122cfe18,CinemaScore from audiences,2116,2141,1,train.txt,0
+c0273fdb-33ec-4b55-bd2f-1c68b8d2548f,from audiences and,2128,2145,1,train.txt,0
+8f810a3b-a793-4970-b34d-6f616b168637,audiences and a,2133,2147,1,train.txt,0
+42ae0530-261b-405c-bae1-5f0aa4a7affb,and a near,2143,2152,1,train.txt,0
+6c279a62-bd3c-441d-8288-50babd658352,a near perfect,2147,2160,1,train.txt,0
+b32e54d5-cc4d-43d6-ae43-a346608478ed,score on review,2166,2180,1,train.txt,0
+7055b65c-3956-4a27-b8e2-b90efdebf563,on review site,2172,2185,1,train.txt,0
+f03ee536-0fe0-448f-9a7f-19d071b44997,review site Rotten,2175,2192,1,train.txt,0
+2dc6e2ef-94d4-4f86-b04d-d5c8cf8d0918,which makes it,2204,2217,1,train.txt,0
+b0630aae-5df1-496f-9baa-f8a32847199a,makes it one,2210,2221,1,train.txt,0
+b1392513-6b84-4bd9-b789-44a016fd1f31,it one of,2216,2224,1,train.txt,0
+d6811289-a7fe-45b8-bca4-fdb65f4a1c8c,one of the,2219,2228,1,train.txt,0
+1d3d33e5-b0ad-4e35-aebf-523b7b1e3ee4,superhero movies of,2244,2262,1,train.txt,0
+9f3e4b87-f85f-46e8-8c4e-27cbf2e43d13,movies of all,2254,2266,1,train.txt,0
+9433754e-bf41-47b2-8927-3a60c0cc3fff,box office weekend Updated,44,69,1,train.txt,0
+c5874874-aebd-49d2-83e9-cceee2e65c95,All hail the king.,128,145,1,train.txt,0
+930d2f62-12f5-472a-a499-216b79212071,first film directed by,174,195,1,train.txt,0
+19918aac-ce2e-4a90-bf05-c6fea433a8b2,film directed by an,180,198,1,train.txt,0
+fd9558c0-45d9-4534-8cf5-d49a1cb22371,brought in an estimated,218,240,1,train.txt,0
+86116684-1e0d-42b0-9bb0-12740b137a25,debut in North America,275,296,1,train.txt,0
+9eda003c-d99f-40b0-bb1b-b0a6abf6eb2b,in North America this,281,301,1,train.txt,0
+e743b323-9c4f-4b03-a456-aea285f080a3,North America this weekend.,284,310,1,train.txt,0
+497f6737-f069-41e5-999d-f0e878a3527e,the fifth biggest opening,319,343,1,train.txt,0
+6463a812-2bb2-459a-859c-2aa76674134c,fifth biggest opening of,323,346,1,train.txt,0
+8d3012e2-f6aa-4668-9a39-af8e71346483,biggest opening of all,329,350,1,train.txt,0
+1ab181cf-59d8-4bf2-ab7f-132232721b45,opening of all time.,337,356,1,train.txt,0
+517d8ab0-b393-44fc-83ab-2aa304ea122d,of all time. The,345,360,1,train.txt,0
+15d1ac29-adae-4836-934a-3582e66823ab,all time. The opening,348,368,1,train.txt,0
+27ff7c83-e0d9-4838-b612-618ec5191e2b,time. The opening for,352,372,1,train.txt,0
+4a21e88e-a603-446a-b5ff-8dee9dd07841,The opening for the,359,377,1,train.txt,0
+7fc165d6-a65b-4c1e-a9b6-93e44c5281cd,opening for the film,363,382,1,train.txt,0
+7965f989-7e92-4a61-b0de-db7e3ee5a9b0,for the film starring,371,391,1,train.txt,0
+84ab0294-2548-4f42-90c0-fe09ca82d305, Michael B. Jordan,414,431,1,train.txt,1
+a3884664-b9b0-4dfc-b118-9a61e24d1244,did not just shatter,432,451,1,train.txt,0
+64745665-5519-4574-b5b3-adec87b6f156,it broke multiple box,467,487,1,train.txt,0
+68f334e0-1cc1-4cfb-b4af-441051e5bf6e,broke multiple box office,470,494,1,train.txt,0
+960d91c9-05fb-44bb-9fce-42a6246952f6,multiple box office records,476,502,1,train.txt,0
+c6af7741-f135-4896-afae-9dd996ccd767,box office records too.,485,507,1,train.txt,0
+bb284859-4c97-4306-b327-db42b82da12f,office records too. It,489,510,1,train.txt,0
+3e894bad-138b-4959-8d50-042436caf1b6,records too. It blew,496,515,1,train.txt,0
+99310cbe-43e6-41be-87b2-68f070a3e12b,too. It blew away,504,520,1,train.txt,0
+0c90a713-495e-435f-b734-d70832cd7c65,It blew away the,510,525,1,train.txt,0
+fb847a85-05f1-4d4c-8380-0b022cc4a20c,blew away the record,513,532,1,train.txt,0
+fe9f6bf9-aea7-42f7-939e-9552a50a4426,away the record for,518,536,1,train.txt,0
+a58faaa7-6370-40cf-8ad7-1efe7eb0d447,the record for the,523,540,1,train.txt,0
+3910cf1a-327c-45bf-9449-34dc36c3c1bc,record for the largest,527,548,1,train.txt,0
+86c4fbd6-ac77-42f5-8190-141ba664a654,for the largest opening,534,556,1,train.txt,0
+1840abe4-8494-4be6-81f7-4736c8c0dc6f,the largest opening for,538,560,1,train.txt,0
+72324494-9192-4b27-8057-f9332abc2852,largest opening for an,542,563,1,train.txt,0
+b0339b5c-3b0b-42b0-8bdb-f3f7579aae1b,director. That belonged to,582,607,1,train.txt,0
+520fbeca-c637-4568-a6aa-690b671a80c1, F. Gary Gray,609,621,1,train.txt,1
+9f19b719-c838-4775-a373-856890b7a2cb,million last April. Disney,673,698,1,train.txt,0
+64e39235-8660-4320-8e7b-1d4e3456d071,last April. Disney estimates,681,708,1,train.txt,0
+c7f42b62-8a2a-48d2-ac91-a3b5716086b9,April. Disney estimates that,686,713,1,train.txt,0
+c0d5e823-2f86-4933-b651-c1618bc15181,Disney estimates that the,694,718,1,train.txt,0
+8f5702f6-ecdd-4523-80ea-dc9bd45195ef,estimates that the film,701,723,1,train.txt,0
+983c9a05-3ab8-4cad-8d19-69f10add469b,that the film will,711,728,1,train.txt,0
+f32eab23-dcd1-45bb-89b3-06ec0fa9c19f,the film will bring,716,734,1,train.txt,0
+97056ace-8cad-4b5c-8dfc-b7c5cd919257,film will bring in,720,737,1,train.txt,0
+e3d97cdf-9033-45ae-a625-88bdd3c024a3,million domestically for the,744,771,1,train.txt,0
+003193c8-0172-45ab-88d7-e1974ac0768f,domestically for the four,752,776,1,train.txt,0
+2c728eaa-a599-4fb4-8702-c195e3f2213b,for the four day,765,780,1,train.txt,0
+5f84dd1f-d968-423b-b1b4-f3944e8af637,the four day holiday,769,788,1,train.txt,0
+975826ab-5831-4192-96b8-2d8c300ab7c4,four day holiday weekend.,773,797,1,train.txt,0
+1ad91737-8312-4db2-8a4e-34fa88b66fd5,day holiday weekend. The,778,801,1,train.txt,0
+a63933a4-3d64-47f2-bc49-432cdaac8fad,holiday weekend. The film,782,806,1,train.txt,0
+b2f9695e-21ed-4af3-8060-0e9d9a972f47,weekend. The film brought,790,814,1,train.txt,0
+e6152811-6d06-468b-b05d-9e851b401699,The film brought in,799,817,1,train.txt,0
+9b71f053-ccf3-43a1-8c58-b1d657cf8228,film brought in an,803,820,1,train.txt,0
+27693207-42bd-4747-864a-2bd10013d349,brought in an opening,808,828,1,train.txt,0
+62269ce4-8b67-4da3-81f7-8ce3cfb76fd3,in an opening of,816,831,1,train.txt,0
+8db90077-57f9-48e1-94ae-dcc655e29f4c,an opening of more,819,836,1,train.txt,0
+ad791d42-fe40-4f69-b073-103866b068c2,opening of more than,822,841,1,train.txt,0
+5826af4c-7bb6-42cb-98d6-33dbfcdaed39,million around the world,848,871,1,train.txt,0
+72d9a0eb-246b-4f11-88e5-c57d45e14f96,around the world before,856,878,1,train.txt,0
+afa71707-5918-4f46-be81-a65889d6f8ce,the world before revised,863,886,1,train.txt,0
+77465641-a28c-4fed-ae78-1e2ffa1883be,world before revised estimates.,867,897,1,train.txt,0
+8d222386-b5d7-42c3-87ec-2f25a0e6f711,before revised estimates. Final,873,903,1,train.txt,0
+77c6e938-2f24-47a7-becf-e8dd54e217e2,revised estimates. Final global,880,910,1,train.txt,0
+7a837e8e-c458-49fb-8dd8-662b1489237a,estimates. Final global totals,888,917,1,train.txt,0
+05040691-6c0b-4f8a-84ae-d8f3804f1053,Final global totals will,899,922,1,train.txt,0
+0f62b188-72de-4326-8e9c-4783289e77d5,global totals will be,905,925,1,train.txt,0
+641cbc8f-d764-4f1e-a30b-7efd4484a010,totals will be announced,912,935,1,train.txt,0
+a2a4cbe5-cfde-4942-be0e-cf823ac72602,will be announced on,919,938,1,train.txt,0
+2798d9a9-d8d7-4a03-b0be-358cfe943a93,according to the studio.,949,972,1,train.txt,0
+7deb11ce-29b3-47f7-a526-0fb04bd4738a,also shattered the record,991,1015,1,train.txt,0
+6fcddeb1-1982-4eb3-b9ff-8dc9ea01f5f5,shattered the record for,996,1019,1,train.txt,0
+e1dfd47d-6777-4587-a760-5660ff535b06,the record for an,1006,1022,1,train.txt,0
+bfe2fd35-0b54-4d5b-bc1a-2c20435c3afe,record for an opening,1010,1030,1,train.txt,0
+b5b9c253-19c5-4ca9-b2b0-7bcc48febeec,for an opening in,1017,1033,1,train.txt,0
+e072059a-29f1-483c-a789-4ff8aaacec05,Century Fox that brought,1112,1135,1,train.txt,0
+8205fa38-b9c0-4b04-9ad5-7f92464ff299,Fox that brought in,1120,1138,1,train.txt,0
+bd2778a5-5cc6-42fd-9933-4980dce8a09a,million when it opened,1145,1166,1,train.txt,0
+59d27239-f13c-4e22-82db-d90569218f9e,when it opened in,1153,1169,1,train.txt,0
+985278ce-5c90-4c24-9c23-f349182de8cb,It is the second,1178,1193,1,train.txt,0
+941a892a-f88a-4092-aa1e-a009c1f88fe1,is the second biggest,1181,1201,1,train.txt,0
+01d66994-e813-4302-b85a-36d0eeea4482,the second biggest opening,1184,1209,1,train.txt,0
+27360778-0d12-4224-94ca-9e81115c16b8,second biggest opening for,1188,1213,1,train.txt,0
+b2b45133-7f0f-4f28-9a45-dbc40a8d8d12,biggest opening for a,1195,1215,1,train.txt,0
+36989f08-0cd3-420b-88a9-000fac424804,opening for a Marvel,1203,1222,1,train.txt,0
+bf4ea315-deea-448e-a248-d3f8bc62cad0,for a Marvel Studios,1211,1230,1,train.txt,0
+ccf0a859-6614-445c-98bf-a9274abe6475,It out paced other,1268,1285,1,train.txt,0
+f92bed48-a464-4428-9fc9-272fb55811d7,out paced other huge,1271,1290,1,train.txt,0
+d3dc7059-900f-49c4-bfe5-51e9a33c989a,paced other huge hits,1275,1295,1,train.txt,0
+4abebe50-e8be-44d0-acfb-9c88988dc88c,other huge hits like,1281,1300,1,train.txt,0
+0acef1ed-8e35-4402-ac5c-9bb52b29c4b2,straight number one opening.,1400,1427,1,train.txt,0
+0235d23e-a2d1-4996-a690-9a5966e809eb,is heading for a,1455,1470,1,train.txt,0
+4d753136-cbc5-4717-b4b7-e87f012f01cc,heading for a blockbuster,1458,1482,1,train.txt,0
+25d837e8-ff4c-459a-83c2-62b1a0f43050,for a blockbuster weekend.,1466,1491,1,train.txt,0
+5dbb73d3-3661-45fe-88fe-b7725bda1be4,why that matters The,1500,1519,1,train.txt,0
+51bdf9a3-c3bc-4fd6-af1e-d9194f54e5ab,weekend is watershed moment,1538,1564,1,train.txt,0
+20baf135-f0dd-4022-9992-50925bbb3173,is watershed moment for,1546,1568,1,train.txt,0
+c3d0ec22-702b-46b7-85a9-003fc285d16e,watershed moment for Hollywood.,1549,1579,1,train.txt,0
+745f413c-ad74-4d46-a9f0-2f31d014b1f1,moment for Hollywood. With,1559,1584,1,train.txt,0
+f6046127-188b-4676-812c-95a38e41eca5,reaching box office heights,1602,1628,1,train.txt,0
+4cc0fe73-9014-4ee4-860f-289cee939951,box office heights that,1611,1633,1,train.txt,0
+daf7afd3-8179-4c49-a690-75263f0f7869,office heights that have,1615,1638,1,train.txt,0
+cf63e786-7ca3-4e6b-836b-61979bdbe16c,heights that have eluded,1622,1645,1,train.txt,0
+2059e827-beba-480e-b405-1ecbb7a18228,that have eluded other,1630,1651,1,train.txt,0
+36373efa-252a-401e-aab7-0f6afd13a564,totals could impact change,1689,1714,1,train.txt,0
+7ee87128-6b63-4ad3-9789-3995838c0775,could impact change in,1696,1717,1,train.txt,0
+0aceb738-946d-4704-b80d-f8d67637731b,impact change in the,1702,1721,1,train.txt,0
+d1fa8a27-aabe-48c5-9227-a290011691f6,change in the industry,1709,1730,1,train.txt,0
+ae9ec83e-d850-4d03-a16b-e14ee7d69b2a,in the industry by,1716,1733,1,train.txt,0
+28662243-d04b-4500-9f4c-9f0e46919ef0,the industry by encouraging,1719,1745,1,train.txt,0
+9149b7ed-21c5-4c2e-af95-08ec224d8205,industry by encouraging diversity,1723,1755,1,train.txt,0
+f0efe318-367d-49d5-92ce-ea494a614aee,by encouraging diversity in,1732,1758,1,train.txt,0
+1f1d60c0-2b4c-443b-b3dc-780248649398,encouraging diversity in front,1735,1764,1,train.txt,0
+96a667a9-b892-4847-a370-69e91fc78ab2,diversity in front of,1747,1767,1,train.txt,0
+29e66d39-0d3b-4dd9-8f38-4413a9d27bd9,in front of and,1757,1771,1,train.txt,0
+2fd3be14-8201-4b5a-b57d-d73950332d24,front of and behind,1760,1778,1,train.txt,0
+056215ea-cfbd-4e8d-96e3-c8b9d2948bc3,of and behind the,1766,1782,1,train.txt,0
+eae43ea0-a253-4383-b10a-de28061f45c5,and behind the camera.,1769,1790,1,train.txt,0
+5f45d0ad-d109-4162-be65-0d32d91fab73,behind the camera. The,1773,1794,1,train.txt,0
+28d00d1b-4380-4012-a124-920ad55b7175,the camera. The film,1780,1799,1,train.txt,0
+48ef3bbd-e330-4554-9961-e43d3f22bd3a,camera. The film is,1784,1802,1,train.txt,0
+eba82dc6-6d64-4415-a04f-89271cc811e7,The film is an,1793,1806,1,train.txt,0
+23eb4692-fbe3-4023-b15c-47f12e4f7489,according to comScore senior,1831,1858,1,train.txt,0
+74686a93-686f-4e8f-b94d-3890aa55963f,to comScore senior media,1841,1864,1,train.txt,0
+0635d60b-f85d-4c46-bce1-971daf366400,comScore senior media analyst,1844,1872,1,train.txt,0
+ed743746-6127-435c-8d8d-d745d2738dfe,exceeded even the grandest,1915,1940,1,train.txt,0
+19808a6a-e17a-49d4-ada9-dcc7c5285afe,even the grandest box,1924,1944,1,train.txt,0
+7fae332d-adb3-4510-a091-729828a032d3,the grandest box office,1929,1951,1,train.txt,0
+8dfacc03-d16d-452a-adab-ce591774469c,grandest box office expectations,1933,1964,1,train.txt,0
+60ddae4b-37bb-4f54-a573-9dc9e4c3c4fd,box office expectations while,1942,1970,1,train.txt,0
+ea1870fe-6afe-44e5-a3c7-8f5517501772,office expectations while simultaneously,1946,1985,1,train.txt,0
+89f88d47-f617-473b-bc42-ce2928423d27,expectations while simultaneously breaking,1953,1994,1,train.txt,0
+11afa9ae-ac9d-46f0-aee4-aeef799757e5,while simultaneously breaking down,1966,1999,1,train.txt,0
+45b7686e-c09f-4b50-94a6-d01d27a55b46,simultaneously breaking down cinematic,1972,2009,1,train.txt,0
+3a123eab-d228-4265-b0f3-de526a2d0dba,breaking down cinematic barriers,1987,2018,1,train.txt,0
+e7846ab5-a8dd-4fbc-920c-3050fff708d0,down cinematic barriers and,1996,2022,1,train.txt,0
+85513f43-a6ed-4ee1-a901-53671b350592,cinematic barriers and marking,2001,2030,1,train.txt,0
+9a7a553c-90f3-4349-b69e-3838afec3b1d,barriers and marking a,2011,2032,1,train.txt,0
+b27b38d3-a9e8-4627-ae0d-1c18770602b2,and marking a turning,2020,2040,1,train.txt,0
+d4a818a1-c02c-402e-bdaf-55b06edd6780,marking a turning point,2024,2046,1,train.txt,0
+d1afe278-b439-4559-8611-7785eb2610df,a turning point in,2025,2042,1,train.txt,0
+9105307f-438c-4262-ad79-1051ea58aa4c,turning point in the,2034,2053,1,train.txt,0
+0607fa95-ad15-4569-ab12-1e6b5c3dd4b6,point in the evolution,2042,2063,1,train.txt,0
+62c44ace-0d51-405b-81da-3ab5086e4e77,in the evolution of,2044,2062,1,train.txt,0
+06a46113-0597-4cbf-9f50-8f683fe2f115,the evolution of the,2051,2070,1,train.txt,0
+b6a15272-e5a8-4c4b-9881-e65155cfc963,he said. The film,2080,2096,1,train.txt,0
+bb005fe1-947a-4abd-8a6b-0adc8ad19a3f,said. The film garnered,2083,2105,1,train.txt,0
+25dd032b-052e-4e9e-a4a7-c1dfc957cc87,The film garnered an,2090,2109,1,train.txt,0
+d13a8a72-49a8-4bfb-98f8-ae391f2a563e,CinemaScore from audiences and,2116,2145,1,train.txt,0
+b42e5f3b-a509-4d82-b1b1-2c389c08a3bc,from audiences and a,2128,2147,1,train.txt,0
+ca6e5940-3bfe-47eb-b190-f2060a2fc6af,audiences and a near,2133,2152,1,train.txt,0
+09e9c489-9f6c-4d11-968e-0ceea93dac0f,and a near perfect,2143,2160,1,train.txt,0
+4188925c-5d8a-4bd2-a111-e57f07f0fb73,score on review site,2166,2185,1,train.txt,0
+5b6d8496-a788-4a3d-b847-156b62f4731d,on review site Rotten,2172,2192,1,train.txt,0
+eece502a-38d8-4264-b8df-23d78dd277a9,which makes it one,2204,2221,1,train.txt,0
+5c689f0c-61d3-498b-a2bc-729cfd6a433e,makes it one of,2210,2224,1,train.txt,0
+d94e1227-e4f3-43fa-90a3-228fd54a4dd5,it one of the,2216,2228,1,train.txt,0
+0846a850-f2b0-4233-9985-4c58695780db,superhero movies of all,2244,2266,1,train.txt,0
+6748dc08-9224-4816-b90d-ea449a6eb0fd,first film directed by an,174,198,1,train.txt,0
+d94580d3-314d-46a2-a228-e474acc27b01,debut in North America this,275,301,1,train.txt,0
+4c75377d-4f2a-4457-bdd3-ab12190c9917,in North America this weekend.,281,310,1,train.txt,0
+2a5a5e74-fc09-46c2-b685-55ddd6f4f88f,the fifth biggest opening of,319,346,1,train.txt,0
+9929bfe8-a683-47c4-a2a2-429d94d946a0,fifth biggest opening of all,323,350,1,train.txt,0
+110bceae-537a-4ed6-a251-9d55994543c0,biggest opening of all time.,329,356,1,train.txt,0
+310aa78f-3f0f-4820-8d4d-d3a3dc925b2f,opening of all time. The,337,360,1,train.txt,0
+bd9ffcca-9386-4334-8835-daec7753dccb,of all time. The opening,345,368,1,train.txt,0
+a73cb9c3-71fc-4c42-ac7e-fbcf742a88f9,all time. The opening for,348,372,1,train.txt,0
+cf2340d7-d5bb-470e-b5ef-95eeb179e5e1,time. The opening for the,352,376,1,train.txt,0
+2737203f-c983-47d4-92cb-c7e636ca0cc1,The opening for the film,359,382,1,train.txt,0
+07e001a6-2604-4aac-9f5c-f0dd24e3ae3a,opening for the film starring,363,391,1,train.txt,0
+94e5a4f7-cab4-46c9-9282-8c89f9f9b5aa,it broke multiple box office,467,494,1,train.txt,0
+ca1282cb-a1dc-4849-b51d-f21d7e8b3e90,broke multiple box office records,470,502,1,train.txt,0
+3ec6806f-981e-4b9b-8246-c1f36986d2ef,multiple box office records too.,476,507,1,train.txt,0
+50b2b6a8-c3e2-4c0a-bc4f-02c3ba6d48bc,box office records too. It,485,510,1,train.txt,0
+f6107f78-29fc-4bf5-9fbf-eadf91750502,office records too. It blew,489,515,1,train.txt,0
+27c10df2-6564-46be-8847-c559689993eb,records too. It blew away,496,520,1,train.txt,0
+bebb4bb7-2f6c-4dcf-9746-3b077b89b067,too. It blew away the,504,524,1,train.txt,0
+49636ca0-63ad-4028-bac2-3807075f2c89,It blew away the record,510,532,1,train.txt,0
+5a1c05f7-f360-49c3-b8d1-b3d1919a4a1d,blew away the record for,513,536,1,train.txt,0
+22991ac2-e1bd-4fe7-8bd7-f7cb9f52fbc1,away the record for the,518,540,1,train.txt,0
+ce25cebe-cf6c-4cb1-aca0-98066b471483,the record for the largest,523,548,1,train.txt,0
+a152874b-a568-4e09-88af-77409d852811,record for the largest opening,527,556,1,train.txt,0
+a69ded03-55d4-41f5-9568-1870fac6c9d0,for the largest opening for,534,560,1,train.txt,0
+657ae693-4712-45b8-a419-3feae864733b,the largest opening for an,538,563,1,train.txt,0
+11fcd050-bf2e-4f13-95ff-8a5d61c6ee36,million last April. Disney estimates,673,708,1,train.txt,0
+de074589-08dd-48cb-a9bc-364d583cc661,last April. Disney estimates that,681,713,1,train.txt,0
+a45f97df-da54-449e-b176-fecf0db2b5ea,April. Disney estimates that the,686,717,1,train.txt,0
+7df8c24b-6a2e-47df-a68d-8387d0be6d57,Disney estimates that the film,694,723,1,train.txt,0
+610ba2ab-b5df-4e05-a705-f3fce61611ef,estimates that the film will,701,728,1,train.txt,0
+97e616ee-a8d8-45a2-9217-a30a0d21706f,that the film will bring,711,734,1,train.txt,0
+e5d2f850-f975-4bbd-ad8a-94a226cc2970,the film will bring in,716,737,1,train.txt,0
+10c55205-3410-4e72-9c30-1c5aacb0ad7e,million domestically for the four,744,776,1,train.txt,0
+c53535ec-bc3c-46fb-9e10-d3a40dfe7f95,domestically for the four day,752,780,1,train.txt,0
+54963bed-4d67-43f3-9ef9-802ccc9a3981,for the four day holiday,765,788,1,train.txt,0
+207c7868-7125-41d0-95c1-05ddf26d89ff,the four day holiday weekend.,769,797,1,train.txt,0
+d21c097c-768b-4e23-b66f-d8015bbbcf62,four day holiday weekend. The,773,801,1,train.txt,0
+f6cd899c-5f59-43a6-a194-0c175b304c1c,day holiday weekend. The film,778,806,1,train.txt,0
+5b340565-1ad9-4184-b8a1-ee816b5282e0,holiday weekend. The film brought,782,814,1,train.txt,0
+7a0f44f9-588e-4f66-a4b2-cea807c0521d,weekend. The film brought in,790,817,1,train.txt,0
+087c12d2-1c95-43b3-a4d7-a1efba9b4d48,The film brought in an,799,820,1,train.txt,0
+9768fc7c-a746-453b-8f05-673166f76088,film brought in an opening,803,828,1,train.txt,0
+83249e9e-c73b-4a9b-82d6-830cc0372a86,brought in an opening of,808,831,1,train.txt,0
+c6a72dcb-75e2-49d4-9b2e-fdf9c8ae722d,in an opening of more,816,836,1,train.txt,0
+9b98cc7d-616d-4a9a-9e17-7056f919fb77,an opening of more than,819,841,1,train.txt,0
+f0869915-2ac7-45b8-a08b-6feaf25166a0,million around the world before,848,878,1,train.txt,0
+8aff9fd0-d72b-4e8c-898b-a2dc07daba25,around the world before revised,856,886,1,train.txt,0
+91b538a3-b528-4615-9ff3-7058a59f9d44,the world before revised estimates.,863,897,1,train.txt,0
+40ab0aee-8dcc-4542-8367-5925eba20f9f,world before revised estimates. Final,867,903,1,train.txt,0
+b8661b00-1061-4351-957a-88e700a9ecce,before revised estimates. Final global,873,910,1,train.txt,0
+51bfdeae-8cb0-43b0-a35c-92d55af95e49,revised estimates. Final global totals,880,917,1,train.txt,0
+6e0e50db-5241-407f-9d63-cffc386d1b00,estimates. Final global totals will,888,922,1,train.txt,0
+2d8b129d-612b-4669-8aaa-3683ca1fef12,Final global totals will be,899,925,1,train.txt,0
+c1745f8e-ee31-4998-9f30-2d14b3d509dd,global totals will be announced,905,935,1,train.txt,0
+5659948d-e502-4bb3-b2e0-cec7982eda30,totals will be announced on,912,938,1,train.txt,0
+9788a979-35af-4b3c-9886-835701d80b11,also shattered the record for,991,1019,1,train.txt,0
+75931ef5-b44e-4f49-abeb-e0b620ebecb3,shattered the record for an,996,1022,1,train.txt,0
+ad1db13f-2b81-4188-9357-207365711968,the record for an opening,1006,1030,1,train.txt,0
+7f12b42d-5a3f-47be-983b-8ff272087593,record for an opening in,1010,1033,1,train.txt,0
+c5651aca-4a0f-4426-839e-1c29f7a43c35,Century Fox that brought in,1112,1138,1,train.txt,0
+c8ebc51c-70dd-460d-b823-b3a2369275c4,million when it opened in,1145,1169,1,train.txt,0
+54c8ecbc-8710-4b04-b113-b73faadff884,It is the second biggest,1178,1201,1,train.txt,0
+f1dcaff2-f83a-4344-a3bd-641d2c9b8592,is the second biggest opening,1181,1209,1,train.txt,0
+03ecf3c6-0e91-4b80-b90d-ef2fabdd9e74,the second biggest opening for,1184,1213,1,train.txt,0
+9df25808-e76f-4b04-ae68-7193c4a9297b,second biggest opening for a,1188,1215,1,train.txt,0
+d08cdd42-121c-4865-a11b-9f5119bd07b9,biggest opening for a Marvel,1195,1222,1,train.txt,0
+f53d398c-9037-4a2f-b0e2-752bf5ed627a,opening for a Marvel Studios,1203,1230,1,train.txt,0
+5ce0870e-0c10-45a4-858e-8971136c4ddb,It out paced other huge,1268,1290,1,train.txt,0
+925d681d-b92f-4770-9c79-10354a85e194,out paced other huge hits,1271,1295,1,train.txt,0
+0a0dd239-9e27-4181-89f1-0167f7578f53,paced other huge hits like,1275,1300,1,train.txt,0
+c1aafea9-2c8a-4139-a1c3-f779d0f1556c,is heading for a blockbuster,1455,1482,1,train.txt,0
+ebd189c4-492c-448b-8dd7-e2d6ac4fcec9,heading for a blockbuster weekend.,1458,1491,1,train.txt,0
+e30d9010-ceef-4a31-8c34-013c6f5c1792,weekend is watershed moment for,1538,1568,1,train.txt,0
+8f8b87d4-1f28-4e36-8871-0c305cdb92d0,is watershed moment for Hollywood.,1546,1579,1,train.txt,0
+a8e973db-324e-4c69-8a4d-ed18575f138f,watershed moment for Hollywood. With,1549,1584,1,train.txt,0
+a63503e8-a9a3-47c7-9a96-3898a5f5e5c1,reaching box office heights that,1602,1633,1,train.txt,0
+124a7b9c-fadc-4ab2-b357-00038b483d5b,box office heights that have,1611,1638,1,train.txt,0
+64cdeddc-2a11-4f46-958f-97197adb8da4,office heights that have eluded,1615,1645,1,train.txt,0
+95ca729d-51bf-4653-b1d8-1144ac05f364,heights that have eluded other,1622,1651,1,train.txt,0
+16c36d5f-53ad-4bb1-bcb6-5a441f223446,totals could impact change in,1689,1717,1,train.txt,0
+6ef38287-a2ba-4a85-a92c-d4297b48ab5a,could impact change in the,1696,1721,1,train.txt,0
+ffae3b1d-dd8c-46fa-8079-9c7f89c376e1,impact change in the industry,1702,1730,1,train.txt,0
+dd231217-2222-4697-88f8-cee329860b68,change in the industry by,1709,1733,1,train.txt,0
+e3135b40-ca39-407d-909f-03e3625bb273,in the industry by encouraging,1716,1745,1,train.txt,0
+9e38d655-1d9b-41e5-baf0-2d408c88460e,the industry by encouraging diversity,1719,1755,1,train.txt,0
+9ccd13d6-e025-404a-ac17-d24ff61e28a2,industry by encouraging diversity in,1723,1758,1,train.txt,0
+09193782-37e7-4f4e-87dc-9b873ab98db1,by encouraging diversity in front,1732,1764,1,train.txt,0
+2040b804-ba3f-4bc1-accd-65f09353f6fe,encouraging diversity in front of,1735,1767,1,train.txt,0
+8970db7b-bcb9-4100-b989-6e173ab01454,diversity in front of and,1747,1771,1,train.txt,0
+59b18c23-0ba7-4dd5-8120-67af436a8461,in front of and behind,1757,1778,1,train.txt,0
+a31b4b65-5317-4ddb-b8c1-48bb5dbb05b8,front of and behind the,1760,1782,1,train.txt,0
+c27cf5af-b3db-429c-8437-9db79d1e2233,of and behind the camera.,1766,1790,1,train.txt,0
+ba205164-f240-4ebd-8359-23541eafb803,and behind the camera. The,1769,1794,1,train.txt,0
+8dbdfd4b-2028-4135-a2c7-acc4053cba68,behind the camera. The film,1773,1799,1,train.txt,0
+226e1c45-5eb0-4bc7-898f-536bc26e692d,the camera. The film is,1780,1802,1,train.txt,0
+e481f832-6a22-4a0c-a97a-e6813503f740,camera. The film is an,1784,1805,1,train.txt,0
+f8fd3065-1f33-42e7-bfd0-4db87d48fb87,according to comScore senior media,1831,1864,1,train.txt,0
+9cdd16ef-192f-4e9c-99af-14c0725390af,to comScore senior media analyst,1841,1872,1,train.txt,0
+31c4da2c-06ea-4291-8f90-28ffc8cfd863,exceeded even the grandest box,1915,1944,1,train.txt,0
+16cd1fc1-d2aa-40b7-8210-f2ed3e14594c,even the grandest box office,1924,1951,1,train.txt,0
+2ff639f8-90a6-4827-939a-09b9a0c8a0cf,the grandest box office expectations,1929,1964,1,train.txt,0
+b646ad99-ee67-4430-8c70-c2829275ca4f,grandest box office expectations while,1933,1970,1,train.txt,0
+549ae04d-d02a-44eb-acef-f4f016f673b0,box office expectations while simultaneously,1942,1985,1,train.txt,0
+b0e8fa1f-1720-4e5c-b70a-18cdb4cff5dd,office expectations while simultaneously breaking,1946,1994,1,train.txt,0
+32632994-2942-427c-8e7d-6d049ecff65c,expectations while simultaneously breaking down,1953,1999,1,train.txt,0
+9e4b84e5-a61c-4974-b641-4c2dc0105ef7,while simultaneously breaking down cinematic,1966,2009,1,train.txt,0
+3165ee76-e290-4e6d-806b-27857e12b25c,simultaneously breaking down cinematic barriers,1972,2018,1,train.txt,0
+dae09889-3073-47e1-884a-8e1c1999ca3b,breaking down cinematic barriers and,1987,2022,1,train.txt,0
+2532ce5f-ab48-4902-8713-25e8a568d6a5,down cinematic barriers and marking,1996,2030,1,train.txt,0
+87d03d85-6fc3-4866-a038-9dfafca1cc3b,cinematic barriers and marking a,2001,2032,1,train.txt,0
+89258acd-2241-4cb7-8c3f-94f3811ff690,barriers and marking a turning,2011,2040,1,train.txt,0
+a28d06ab-0a49-4bac-8791-30ba10dd367f,and marking a turning point,2020,2046,1,train.txt,0
+c869266c-3366-40d6-beed-5199b2cc49b7,marking a turning point in,2024,2049,1,train.txt,0
+1e0cd9e7-925a-432a-8651-d1c7cb71b761,a turning point in the,2025,2046,1,train.txt,0
+1e5be3d7-0065-4bd7-bdca-de0ed5ec030b,turning point in the evolution,2034,2063,1,train.txt,0
+35f0aa1e-04ee-4205-8376-3eaf5479a26a,point in the evolution of,2042,2066,1,train.txt,0
+049e19c8-f5b9-433d-a656-b37052b99690,in the evolution of the,2044,2066,1,train.txt,0
+de1e2abb-28c4-4dd5-a474-e2df1165dd74,he said. The film garnered,2080,2105,1,train.txt,0
+235e1200-2c50-44db-8627-4240f66748e6,said. The film garnered an,2083,2108,1,train.txt,0
+8e3885cb-1ca3-463d-85b9-f57095b4f0f4,CinemaScore from audiences and a,2116,2147,1,train.txt,0
+19e72ebf-b6a1-4a50-8b55-66fda457cc8f,from audiences and a near,2128,2152,1,train.txt,0
+fbc922d7-55b0-4cd9-8d49-aa086c338106,audiences and a near perfect,2133,2160,1,train.txt,0
+73646f35-b3f0-4304-8559-a3d859e7fea7,score on review site Rotten,2166,2192,1,train.txt,0
+08a50d83-d2ee-4de1-b099-0b95de921465,which makes it one of,2204,2224,1,train.txt,0
+7061fa74-8dd6-4351-b922-1ef24351dcbd,makes it one of the,2210,2228,1,train.txt,0
+991a2dd2-b138-4733-81a1-64736a06e52b,debut in North America this weekend.,275,310,1,train.txt,0
+2724016c-e604-4d69-8691-47d541ff4d3c,the fifth biggest opening of all,319,350,1,train.txt,0
+ce8abf17-9a06-45cc-8e24-aa7d4381d64e,fifth biggest opening of all time.,323,356,1,train.txt,0
+993c3772-65f4-4440-96d1-981008390a63,biggest opening of all time. The,329,360,1,train.txt,0
+17f5f1ff-b5e3-44f2-bb32-b9477b3074fc,opening of all time. The opening,337,368,1,train.txt,0
+0fed41b7-0da6-4ed9-b7a9-a6296f9b8cba,of all time. The opening for,345,372,1,train.txt,0
+ad596b26-d947-4359-9c8d-eaf22d1220e6,all time. The opening for the,348,376,1,train.txt,0
+2eb7b015-e30f-487e-bec8-ed0bf0310268,time. The opening for the film,352,381,1,train.txt,0
+8aa51ec2-aff1-489e-9f77-fa4d1d0ac103,The opening for the film starring,359,391,1,train.txt,0
+61764bcd-ee14-47cc-809c-54f0cfbdd4a7,it broke multiple box office records,467,502,1,train.txt,0
+2f6893a1-2dfb-4838-9bbc-17ee8f6c0a9d,broke multiple box office records too.,470,507,1,train.txt,0
+e6129105-9a6f-47e8-8278-3e242673c85f,multiple box office records too. It,476,510,1,train.txt,0
+ff505ade-2801-4654-88c2-fee31d0d9758,box office records too. It blew,485,515,1,train.txt,0
+3617de77-c09e-4c7b-b1bd-9fa332749de2,office records too. It blew away,489,520,1,train.txt,0
+c3a6f113-a6d4-4a8d-96cb-b4a9b6a6aec9,records too. It blew away the,496,524,1,train.txt,0
+e21c192a-9d58-4452-905a-a310f7263efe,too. It blew away the record,504,531,1,train.txt,0
+f8fb3646-296d-4f83-88ed-5f6817a13bfd,It blew away the record for,510,536,1,train.txt,0
+27d47216-9f31-4869-8eac-2c8fc8e4c39f,blew away the record for the,513,540,1,train.txt,0
+121632bd-2248-47c3-9c73-1d47a072fc9f,away the record for the largest,518,548,1,train.txt,0
+4294ffa3-d221-423b-a964-ecf8dc1db181,the record for the largest opening,523,556,1,train.txt,0
+32b9e770-b3c9-4ec9-8ec3-740128e3618d,record for the largest opening for,527,560,1,train.txt,0
+cdb953d8-ac46-44cd-ac0f-3122239387e9,for the largest opening for an,534,563,1,train.txt,0
+42dab9d6-260c-4c31-8ecd-6260b732e0c1,million last April. Disney estimates that,673,713,1,train.txt,0
+84700bbd-288c-4d4f-afe5-d1ef528d5e78,last April. Disney estimates that the,681,717,1,train.txt,0
+c50cad79-1ee1-4bfc-bc1f-4489bf5c122c,April. Disney estimates that the film,686,722,1,train.txt,0
+15db9597-56e3-42cd-83ce-186c11480832,Disney estimates that the film will,694,728,1,train.txt,0
+79d231d0-3232-4104-a014-dde4fb2fd5a3,estimates that the film will bring,701,734,1,train.txt,0
+d86e51c6-883d-4b1f-bb92-3327aa9ccd22,that the film will bring in,711,737,1,train.txt,0
+07292f4f-a92f-41ba-bb43-b6dc6603623e,million domestically for the four day,744,780,1,train.txt,0
+791dc10c-be05-45d3-841a-29694f2c8d42,domestically for the four day holiday,752,788,1,train.txt,0
+0b3a5561-dd9f-4b33-b2c2-a84f358b2af4,for the four day holiday weekend.,765,797,1,train.txt,0
+c7a67ad0-64bd-4724-a93d-5ab5739e16e1,the four day holiday weekend. The,769,801,1,train.txt,0
+367dce13-2565-4622-b1ef-c0b4c1099bc3,four day holiday weekend. The film,773,806,1,train.txt,0
+af8d1c33-9041-44a1-88db-d252e6d75726,day holiday weekend. The film brought,778,814,1,train.txt,0
+74c2bd65-3596-4853-969a-2c7f11fdbf77,holiday weekend. The film brought in,782,817,1,train.txt,0
+e0deb441-c33c-4ab9-8f13-c6f248272aab,weekend. The film brought in an,790,820,1,train.txt,0
+139c82b8-feb5-4490-a391-bd1760cd323e,The film brought in an opening,799,828,1,train.txt,0
+70e3846b-5808-410d-972d-0f9ba3864eac,film brought in an opening of,803,831,1,train.txt,0
+ad255721-e8e5-44f1-ad6d-37bdcea07eaf,brought in an opening of more,808,836,1,train.txt,0
+258afbbd-7e99-4228-96a5-16ea6e45ca06,in an opening of more than,816,841,1,train.txt,0
+30d16003-8b45-4587-8136-8cf4a1de8649,million around the world before revised,848,886,1,train.txt,0
+98117780-7e68-4b1d-974a-5961d81ced37,around the world before revised estimates.,856,897,1,train.txt,0
+7bbcf846-4fb5-4e65-8ae3-1e8ef0a643ea,the world before revised estimates. Final,863,903,1,train.txt,0
+ab1012c2-ba33-4d74-8529-75eb88418880,world before revised estimates. Final global,867,910,1,train.txt,0
+2e98525b-c812-4f15-ab14-541dd5db055e,before revised estimates. Final global totals,873,917,1,train.txt,0
+4eafca7c-d3f6-47b8-9948-a49c0ce94114,revised estimates. Final global totals will,880,922,1,train.txt,0
+093c61d1-4e75-48ef-9d9b-dd8240bae290,estimates. Final global totals will be,888,925,1,train.txt,0
+2403020a-c8bb-4925-afd7-4979e5c29999,Final global totals will be announced,899,935,1,train.txt,0
+e7e1f7c2-2086-4cb2-a85d-23089106dfa6,global totals will be announced on,905,938,1,train.txt,0
+8d6cba37-eee5-4355-88dd-2762ce1dc064,also shattered the record for an,991,1022,1,train.txt,0
+6bc0b60a-3c2c-4813-b5ef-00b8b8cae2e0,shattered the record for an opening,996,1030,1,train.txt,0
+ec0921f2-1934-4aca-9ddf-3ff5db1c783c,the record for an opening in,1006,1033,1,train.txt,0
+2fbecd97-7cd6-450b-9287-7e6e43cb4c52,It is the second biggest opening,1178,1209,1,train.txt,0
+b29085e5-ae30-47ef-9921-b9e9e308616a,is the second biggest opening for,1181,1213,1,train.txt,0
+247b0eaa-edaf-4bf0-9b69-015e636f93a2,the second biggest opening for a,1184,1215,1,train.txt,0
+1965ddd7-072e-4ce2-8c31-be6f1452a565,second biggest opening for a Marvel,1188,1222,1,train.txt,0
+91c06e9d-0ed9-4a4e-98c6-d7dedf97288f,biggest opening for a Marvel Studios,1195,1230,1,train.txt,0
+ab022108-1bc4-461b-9f9c-e65fdd4909b7,It out paced other huge hits,1268,1295,1,train.txt,0
+592b82ad-42f7-4f56-8997-7f88613cbbab,out paced other huge hits like,1271,1300,1,train.txt,0
+f16c0b54-c28e-4bbd-b8bd-9f7a777023fc,is heading for a blockbuster weekend.,1455,1491,1,train.txt,0
+0b59a83d-c2d9-4daa-a8bd-9141ab069513,weekend is watershed moment for Hollywood.,1538,1579,1,train.txt,0
+3bf960aa-cd64-405d-8664-ccae746509c1,is watershed moment for Hollywood. With,1546,1584,1,train.txt,0
+c1f217e3-0943-4081-a847-2b88715d031b,reaching box office heights that have,1602,1638,1,train.txt,0
+947ef2ee-81a2-4113-b277-e9a21271d680,box office heights that have eluded,1611,1645,1,train.txt,0
+fcdf2c61-d463-42d5-bdfd-8c9cce7aabca,office heights that have eluded other,1615,1651,1,train.txt,0
+5fa81e26-d115-4cb3-b1ec-b62d49227c04,totals could impact change in the,1689,1721,1,train.txt,0
+713db62e-1688-42a2-a976-ad9d11d42ffe,could impact change in the industry,1696,1730,1,train.txt,0
+3b497610-00f5-40eb-928a-d6a47ede1ac2,impact change in the industry by,1702,1733,1,train.txt,0
+7d3e5522-8af7-45ec-a603-cced5149b1ae,change in the industry by encouraging,1709,1745,1,train.txt,0
+a2aafdb4-2a81-4c5a-813d-0261cc891f5c,in the industry by encouraging diversity,1716,1755,1,train.txt,0
+76520828-a675-4aa5-bfd1-ced1136b0bac,the industry by encouraging diversity in,1719,1758,1,train.txt,0
+8ca17a43-cd89-4e65-9986-1741effa3aeb,industry by encouraging diversity in front,1723,1764,1,train.txt,0
+0bcb6fb9-b5db-4f1f-ab06-5aa3452b5754,by encouraging diversity in front of,1732,1767,1,train.txt,0
+b96046c3-1a8e-4d8f-9a27-7f6d2fd69208,encouraging diversity in front of and,1735,1771,1,train.txt,0
+6784440d-550b-40e9-9093-f9f3b1c19e6e,diversity in front of and behind,1747,1778,1,train.txt,0
+1dca7330-1001-4b34-bbfa-1cb40bb599ca,in front of and behind the,1757,1782,1,train.txt,0
+f2d38dec-37ae-4a2d-b8e0-bf1cabbb7c2d,front of and behind the camera.,1760,1790,1,train.txt,0
+2da391ee-fa83-4fd8-b15f-8058a90247c5,of and behind the camera. The,1766,1794,1,train.txt,0
+9c81b57e-40f8-4f32-b439-798da30e5e66,and behind the camera. The film,1769,1799,1,train.txt,0
+8af2c937-2fbf-41e1-9ba7-449dab637a00,behind the camera. The film is,1773,1802,1,train.txt,0
+a5ecdc86-20c8-4f95-a596-7da1ea4a1a35,the camera. The film is an,1780,1805,1,train.txt,0
+d7fa7e1d-36e8-4eab-add9-998240873fcc,according to comScore senior media analyst,1831,1872,1,train.txt,0
+4c0b5493-2a4b-4fbd-8c35-0249c0b3e3a4,exceeded even the grandest box office,1915,1951,1,train.txt,0
+6cd29ebd-98d7-4c70-8f33-7ac3400c439a,even the grandest box office expectations,1924,1964,1,train.txt,0
+79da5b46-f65c-47cd-8f9e-eaa476b907e8,the grandest box office expectations while,1929,1970,1,train.txt,0
+15ca0efe-4c91-4523-99e9-dba0ca2ad845,grandest box office expectations while simultaneously,1933,1985,1,train.txt,0
+44ffd3d7-8d75-4df2-baa9-b63735a39518,box office expectations while simultaneously breaking,1942,1994,1,train.txt,0
+1820b1be-f902-4abc-a229-19ddd4ecc9e8,office expectations while simultaneously breaking down,1946,1999,1,train.txt,0
+519135d4-db14-45fa-bd74-be4bbf798b59,expectations while simultaneously breaking down cinematic,1953,2009,1,train.txt,0
+d522af4a-b506-449e-b132-6a9f0d5c5053,while simultaneously breaking down cinematic barriers,1966,2018,1,train.txt,0
+fa61d345-060f-4e41-bf46-44dab8785823,simultaneously breaking down cinematic barriers and,1972,2022,1,train.txt,0
+348311da-511d-455d-a807-0aadddbf7f6a,breaking down cinematic barriers and marking,1987,2030,1,train.txt,0
+92fd75a4-1a0a-440a-bad9-709050c032c7,down cinematic barriers and marking a,1996,2032,1,train.txt,0
+94157dcf-437d-4c0d-8e20-d03aeb55ed54,cinematic barriers and marking a turning,2001,2040,1,train.txt,0
+0d4b74fd-fef1-40c3-ac88-6fc3b632fe0f,barriers and marking a turning point,2011,2046,1,train.txt,0
+4c821055-5817-49b5-8de0-ff5eaac6dd79,and marking a turning point in,2020,2049,1,train.txt,0
+31de1e01-bea8-4b9d-96de-fd01a8991747,marking a turning point in the,2024,2053,1,train.txt,0
+ea4418b4-e8e7-4423-ae0d-7e86a1359df7,a turning point in the evolution,2025,2056,1,train.txt,0
+8d8800d3-c4f5-4d25-8593-60687ec409db,turning point in the evolution of,2034,2066,1,train.txt,0
+b7bbad45-616a-432a-96ee-1364b895df91,point in the evolution of the,2042,2070,1,train.txt,0
+91c148d6-5014-49c1-92f2-ab9603377132,he said. The film garnered an,2080,2108,1,train.txt,0
+f512f10d-61d9-4b50-8546-22cd21f06b4c,CinemaScore from audiences and a near,2116,2152,1,train.txt,0
+f00cf52a-c58a-4fe4-bb74-349a31c38b6d,from audiences and a near perfect,2128,2160,1,train.txt,0
+65590d35-318a-41ee-a478-d37d287f9800,which makes it one of the,2204,2228,1,train.txt,0
+b4458d4a-46be-4be0-9c8b-4c43e152ded9,the fifth biggest opening of all time.,319,356,1,train.txt,0
+3a2775f5-eee9-481b-a23c-f5ba538e563d,fifth biggest opening of all time. The,323,360,1,train.txt,0
+08290967-5a08-4960-9fcf-5b743e34d1a2,biggest opening of all time. The opening,329,368,1,train.txt,0
+73778513-e76b-45a5-8443-81e4913f521f,opening of all time. The opening for,337,372,1,train.txt,0
+d1389835-3b92-42af-9d61-0bb54cc35687,of all time. The opening for the,345,376,1,train.txt,0
+c0ae666a-ad54-46df-a73d-9d5973cd4397,all time. The opening for the film,348,381,1,train.txt,0
+1fddf4c2-ee6d-4dbc-8f4a-5bd46ad24cc3,time. The opening for the film starring,352,390,1,train.txt,0
+c9705997-01fe-4966-b587-24e28756961f,it broke multiple box office records too.,467,507,1,train.txt,0
+af19f2ac-7e53-49da-a3bc-ae1dd149541d,broke multiple box office records too. It,470,510,1,train.txt,0
+7c1a3447-471c-48c2-8c7a-9addaf592d69,multiple box office records too. It blew,476,515,1,train.txt,0
+1a2c45b5-0e16-492e-8b2e-559d58d5dc95,box office records too. It blew away,485,520,1,train.txt,0
+115550e5-8cae-4d7c-b208-d39eb757b47a,office records too. It blew away the,489,524,1,train.txt,0
+7fe1177e-aa79-436f-9f47-f14d0cab0549,records too. It blew away the record,496,531,1,train.txt,0
+f90d2e95-fa73-4ace-949c-7fd9c3631026,too. It blew away the record for,504,535,1,train.txt,0
+f298324b-84f3-41fc-8ed4-b537e7bd25c8,It blew away the record for the,510,540,1,train.txt,0
+0760aac5-6908-4a18-b630-e1f1be9c00ce,blew away the record for the largest,513,548,1,train.txt,0
+af637df9-ec2a-430e-9335-e1424a35cc07,away the record for the largest opening,518,556,1,train.txt,0
+688c4822-1e49-4d23-b5ae-83d56c836840,the record for the largest opening for,523,560,1,train.txt,0
+f1eb2f20-5b0f-4ff6-9963-59211e871c88,record for the largest opening for an,527,563,1,train.txt,0
+a2f77132-cdd1-42ae-99ec-04aa4d7ecfc9,million last April. Disney estimates that the,673,717,1,train.txt,0
+0bd480aa-f2c2-42cb-b41f-62538ad1299b,last April. Disney estimates that the film,681,722,1,train.txt,0
+39098562-86a1-4ca6-b29a-72d2fd826667,April. Disney estimates that the film will,686,727,1,train.txt,0
+ca1118de-9c24-4760-b7c3-c02fbef0580f,Disney estimates that the film will bring,694,734,1,train.txt,0
+f9c3872a-a86d-441b-9c7d-7c9277e82245,estimates that the film will bring in,701,737,1,train.txt,0
+516210d9-f158-486d-b390-63c25f3d1482,million domestically for the four day holiday,744,788,1,train.txt,0
+dd4dae2a-2a15-475a-8f47-e0ab674eed20,domestically for the four day holiday weekend.,752,797,1,train.txt,0
+363e8558-30d2-48a8-82fd-a76ff1d740ad,for the four day holiday weekend. The,765,801,1,train.txt,0
+cc24377a-87a3-4639-880b-055dc0170746,the four day holiday weekend. The film,769,806,1,train.txt,0
+5257e33d-75a5-44cf-a41d-432c4edf1978,four day holiday weekend. The film brought,773,814,1,train.txt,0
+e9b08730-215d-473a-accc-c130ee0714a7,day holiday weekend. The film brought in,778,817,1,train.txt,0
+99836a35-96ec-4b34-a1d2-751678c14f2a,holiday weekend. The film brought in an,782,820,1,train.txt,0
+0ae90f2c-a979-482e-9607-deb51681ac19,weekend. The film brought in an opening,790,828,1,train.txt,0
+e231d1c3-2aa7-43c0-893a-719957323a83,The film brought in an opening of,799,831,1,train.txt,0
+38eb5b36-c616-4083-b2d6-570ee1653f35,film brought in an opening of more,803,836,1,train.txt,0
+9f7913d1-228e-41e6-8af1-7a40e2680b61,brought in an opening of more than,808,841,1,train.txt,0
+8569b9a9-4fb3-4061-bf1d-f02dfe255177,million around the world before revised estimates.,848,897,1,train.txt,0
+2fae4935-55a0-491b-baa6-6ae718ad81fa,around the world before revised estimates. Final,856,903,1,train.txt,0
+e52a8ffe-2109-42ee-9c92-746d6da10d70,the world before revised estimates. Final global,863,910,1,train.txt,0
+517d2133-0c85-409f-b5e9-59de1912554a,world before revised estimates. Final global totals,867,917,1,train.txt,0
+d3e3a55e-e998-4b56-9d84-8a60580bb903,before revised estimates. Final global totals will,873,922,1,train.txt,0
+79df7f9f-f624-4fb9-8c99-58f2c5f76e7f,revised estimates. Final global totals will be,880,925,1,train.txt,0
+30aee0bc-b0ea-476c-9244-732e8fc5dfbb,estimates. Final global totals will be announced,888,935,1,train.txt,0
+9e804a4d-5650-4a04-9507-1d1505d3a576,Final global totals will be announced on,899,938,1,train.txt,0
+057ab8d7-f3b7-43a6-adcc-31dad2588e4a,also shattered the record for an opening,991,1030,1,train.txt,0
+34263d45-69e0-48d9-962f-2dccf241e49c,shattered the record for an opening in,996,1033,1,train.txt,0
+f1b7eb8a-0c37-47de-9dbc-f95071910f6f,It is the second biggest opening for,1178,1213,1,train.txt,0
+e8ce89c6-3b31-42fb-b4e6-980b798bac30,is the second biggest opening for a,1181,1215,1,train.txt,0
+bf4a8dda-5440-4b0a-aee2-b5bc76929ee0,the second biggest opening for a Marvel,1184,1222,1,train.txt,0
+51760810-83ef-45fb-a8d7-3da75d8dab81,second biggest opening for a Marvel Studios,1188,1230,1,train.txt,0
+95118ca7-c01c-45ad-b8fa-b75bb1126210,It out paced other huge hits like,1268,1300,1,train.txt,0
+3846be81-587f-44e1-8f54-8dc41b4470dd,weekend is watershed moment for Hollywood. With,1538,1584,1,train.txt,0
+d4399c21-0c66-4e68-9a86-9b2a5d83ae8e,reaching box office heights that have eluded,1602,1645,1,train.txt,0
+b8f555b7-95d7-4028-ad4d-202ecb3e976b,box office heights that have eluded other,1611,1651,1,train.txt,0
+315f51b8-6e72-47c9-8de7-efff6e72225b,totals could impact change in the industry,1689,1730,1,train.txt,0
+f97faf4c-c7fd-4625-8712-2653460a942c,could impact change in the industry by,1696,1733,1,train.txt,0
+d8d8018f-b05d-4dad-bcef-f5452b886b20,impact change in the industry by encouraging,1702,1745,1,train.txt,0
+b89e13b2-90e4-4379-83bb-59dffa18d3d8,change in the industry by encouraging diversity,1709,1755,1,train.txt,0
+ad82bc6d-9251-45ca-b4af-5a6be6c8258c,in the industry by encouraging diversity in,1716,1758,1,train.txt,0
+2d31e9e7-be16-4788-9599-4aa9790a1514,the industry by encouraging diversity in front,1719,1764,1,train.txt,0
+62a51043-dfaa-4d31-9aa7-72a05c9c4cb5,industry by encouraging diversity in front of,1723,1767,1,train.txt,0
+8a09191b-d103-4ef3-9f54-437ed14de10f,by encouraging diversity in front of and,1732,1771,1,train.txt,0
+bb2edc69-da73-47fb-a247-0c1244361e15,encouraging diversity in front of and behind,1735,1778,1,train.txt,0
+2a43c7e0-9e0c-4f75-80ee-5effc0f7b342,diversity in front of and behind the,1747,1782,1,train.txt,0
+58dd6898-d4c0-43af-ab33-a1043839f6f8,in front of and behind the camera.,1757,1790,1,train.txt,0
+1057b663-6a52-458e-8cc9-3073c32ad8b5,front of and behind the camera. The,1760,1794,1,train.txt,0
+38bd099f-39f2-47c3-8037-b0853a722a5c,of and behind the camera. The film,1766,1799,1,train.txt,0
+df537f13-74a0-45ab-bf93-fca10696e6dc,and behind the camera. The film is,1769,1802,1,train.txt,0
+1929f511-a08b-40c3-a5e2-981585beec53,behind the camera. The film is an,1773,1805,1,train.txt,0
+8919b776-83fd-45a3-a9fd-c67e999d3072,exceeded even the grandest box office expectations,1915,1964,1,train.txt,0
+61ba823d-18d0-4fa8-ab1c-e83622d4e475,even the grandest box office expectations while,1924,1970,1,train.txt,0
+090418f4-f65b-4bdc-a998-6f4b959d7001,the grandest box office expectations while simultaneously,1929,1985,1,train.txt,0
+50303e0d-d5ec-43dc-b89b-f4a1ba0db0c0,grandest box office expectations while simultaneously breaking,1933,1994,1,train.txt,0
+34715173-4b69-4037-99ee-c81fa3c96ac4,box office expectations while simultaneously breaking down,1942,1999,1,train.txt,0
+a52f9feb-9f7f-4ee0-9565-1bef8bf841cc,office expectations while simultaneously breaking down cinematic,1946,2009,1,train.txt,0
+350f2984-27dd-4670-8ba4-8361de5e881d,expectations while simultaneously breaking down cinematic barriers,1953,2018,1,train.txt,0
+b9fa380c-1cef-4c50-944b-ee1cf9dbe2a7,while simultaneously breaking down cinematic barriers and,1966,2022,1,train.txt,0
+5898d6c6-afcd-40af-b54f-aacd3366454b,simultaneously breaking down cinematic barriers and marking,1972,2030,1,train.txt,0
+8a8414f5-36e2-4097-9b66-d6e684beb020,breaking down cinematic barriers and marking a,1987,2032,1,train.txt,0
+27f58927-0c7b-4b0a-9244-a9b52a6090a3,down cinematic barriers and marking a turning,1996,2040,1,train.txt,0
+9961fd48-d7ae-438c-8b00-a54f152b36c4,cinematic barriers and marking a turning point,2001,2046,1,train.txt,0
+060185f0-b2a4-462e-bd6c-857da78a4a62,barriers and marking a turning point in,2011,2049,1,train.txt,0
+0cb5ba17-e3c8-43ee-ae4a-78b0529f3a84,and marking a turning point in the,2020,2053,1,train.txt,0
+d249ffcc-146e-43c5-b3c3-47d26855bbd3,marking a turning point in the evolution,2024,2063,1,train.txt,0
+2250d87d-51a2-4711-9dee-b49e54b1187f,a turning point in the evolution of,2025,2059,1,train.txt,0
+da577d2f-d568-4837-9e79-18049c97dc06,turning point in the evolution of the,2034,2070,1,train.txt,0
+950e4a7c-81ec-4e4b-89aa-ba4673caee67,CinemaScore from audiences and a near perfect,2116,2160,1,train.txt,0
