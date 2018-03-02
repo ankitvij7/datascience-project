@@ -1,3 +1,4 @@
+import sys
 import csv
 
 # list of important keywords associated with the candidate names
@@ -60,12 +61,12 @@ def minimum_distance_to_keywords():
     return location_of_closed_keyword;
 
 
-with open('../../Output/intermediatefeaturespace.csv', 'r') as intermediateFeaturesFile:
+with open("../../Output/" + sys.argv[1], "r") as intermediateFeaturesFile:
     intermediateFeatureReader = csv.DictReader(intermediateFeaturesFile)
     fieldnames = ['id', 'name', 'some_capitalized', 'atleast_one_capitalized', 'first_letter_capitalized',
                   'has_suffix_salutation', 'start_position', 'distance_to_period', 'distance_to_closest_keyword',
                   'frequency', 'label']
-    output = csv.DictWriter(open("../../Output/featurespace.csv", "w"), fieldnames=fieldnames)
+    output = csv.DictWriter(open("../../Output/" + sys.argv[2], "w"), fieldnames=fieldnames)
     output.writeheader()
 
     for row in intermediateFeatureReader:
@@ -81,7 +82,7 @@ with open('../../Output/intermediatefeaturespace.csv', 'r') as intermediateFeatu
         frequency = row['frequency']
 
         file_name = row['file_name'];
-        reference_file = open("../../data/"+file_name, 'r');
+        reference_file = open("../../data/I/"+file_name, 'r');
         file_contents = reference_file.read();
 
         min_distance_to_period = minimum_distance_to_period();
