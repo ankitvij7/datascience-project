@@ -105,7 +105,6 @@ def local_classification_report(p, r, f1, s, sample_weight=None, digits=2):
     rows = zip(target_names, p, r, f1, s)
     for row in rows:
         report += row_fmt.format(*row, width=width, digits=digits)
-
     report += u'\n'
 
     # compute averages
@@ -115,8 +114,27 @@ def local_classification_report(p, r, f1, s, sample_weight=None, digits=2):
                              numpy.average(f1, weights=s),
                              numpy.sum(s),
                              width=width, digits=digits)
-
     return report
+
+
+def print_misses(test_filename, labels, predictions):
+    test_set_instance_info = numpy.genfromtxt(test_filename, delimiter=',', usecols=[id_index, name_index], dtype=str, skip_header=1)
+    test_set_ids = test_set_instance_info[:, 0]
+    test_set_names = test_set_instance_info[:, 1]
+    # Print misses
+    misses = labels - predictions
+    print('id,name,label,prediction,delta')
+    for i in range(len(misses)):
+        if misses[i] != 0:
+            print(test_set_ids[i], ',', test_set_names[i], ',', labels[i], ',', predictions[i], ',', misses[i])
+
+
+def print_num_misses(labels, predictions):
+    # Print misses
+    misses = labels - predictions
+    fp = len([1 for i in misses if i < 0])
+    fn = len([1 for i in misses if i > 0])
+    print('hits:', (len(misses) - fp - fn), 'misses:', fp + fn, '( fp:', fp, 'fn:', fn, ')')
 
 
 # Tools for looping through all the different Classifiers via Function pointers.
@@ -136,6 +154,7 @@ classifiers_for_ensemble = [dt, rf, linr, logr]
 # Primary portion of execution
 # Tuning params.
 # Example command line: python MLandMetrics.py ../../Output/Example_i.csv ../../Output/Example_j.csv
+# Example command line: python MLandMetrics.py ../../Output/featurespace_train.csv ../../Output/featurespace_test.csv 1
 # Example command line: python MLandMetrics.py ../../Output/featurespace_train.csv ../../Output/featurespace_test.csv
 # Example command line: python MLandMetrics.py ../../Output/featurespace-train.csv
 #     where i = training, and j = test set
@@ -143,7 +162,7 @@ classifiers_for_ensemble = [dt, rf, linr, logr]
 # test_set_filename = "../../Output/Example_j.csv"
 # training set is arg 1 and test set is arg 2
 training_set_filename = sys.argv[1]
-num_features = 8
+num_features = 12
 id_index = 0
 name_index = 1
 first_feature_index = 2
@@ -157,7 +176,6 @@ ensemble_vote_percentage = 0.5
 #      0,            1,       2,...,      2+numFeatures,numFeatures+3<eol>
 # "uuid","name_string",feature1,...,feature_numFeatures,Label(0,1)<eol>
 #    str,          str,  Number,...,             Number,Number<eol>
-
 
 if len(sys.argv) >= 4:
     print("Ensemble learning")
@@ -191,6 +209,9 @@ if len(sys.argv) >= 4:
     test_set_normalized_prediction = [1 if prediction >= ensemble_threshold else 0 for prediction in test_set_final_prediction]
     # Print out the metrics for this run through.
     print(metrics.classification_report(test_set_labels, test_set_normalized_prediction, digits=4))
+    # print_misses(test_set_filename, test_set_labels, test_set_normalized_prediction)
+    print_num_misses(test_set_labels, test_set_normalized_prediction)
+
     print("FIN")
 
 
