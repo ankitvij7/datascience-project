@@ -67,15 +67,18 @@ with open("../../Output/" + sys.argv[1], "r") as intermediateFeaturesFile:
     intermediateFeatureReader = csv.DictReader(intermediateFeaturesFile)
     fieldnames = ['id', 'name', 'some_capitalized', 'atleast_one_capitalized', 'first_letter_capitalized',
                   'has_suffix_salutation', 'start_position', 'distance_to_period', 'distance_to_closest_keyword',
-                  'frequency', 'label']
+                  'frequency', 'contains_period', 'contains_keywords', 'name_length', 'number_of_capitals', 'label']
     output = csv.DictWriter(open("../../Output/" + sys.argv[2], "w"), fieldnames=fieldnames)
     output.writeheader()
 
     for row in intermediateFeatureReader:
         identifier = row['id']
         name = row['name']
-        some_capitalized = 1 if sum(1 for c in name if c.isupper()) > 2 else 0
-        atleast_one_capitalized = 1 if sum(1 for c in name if c.isupper()) >= 1 else 0
+        number_of_capitals = sum(1 for c in name if c.isupper())
+        contains_period = 0 if name.find(".") == -1 else 1
+        name_length = len(name)
+        some_capitalized = 1 if number_of_capitals >= 2 else 0
+        atleast_one_capitalized = 1 if number_of_capitals >= 1 else 0
         first_letter_capitalized = 1 if name[0].isupper() else 0
         has_suffix_salutations = check_suffix_salutations()
         start_position = int(row['start_position'])
@@ -90,6 +93,12 @@ with open("../../Output/" + sys.argv[1], "r") as intermediateFeaturesFile:
         min_distance_to_period = minimum_distance_to_period()
         min_distance_to_key_words = minimum_distance_to_keywords()
 
+        contains_keywords = 0
+        for keyword in KEYWORD_IDENTIFIERS:
+            if name.lower().find(keyword.lower()) != -1:
+                contains_keywords = 1
+                break
+
         output.writerow({'id': identifier,
                          'name': name,
                          'some_capitalized': some_capitalized,
@@ -100,4 +109,8 @@ with open("../../Output/" + sys.argv[1], "r") as intermediateFeaturesFile:
                          'distance_to_period': min_distance_to_period,
                          'distance_to_closest_keyword': min_distance_to_key_words,
                          'frequency': frequency,
+                         'contains_period': contains_period,
+                         'contains_keywords': contains_keywords,
+                         'name_length': name_length,
+                         'number_of_capitals': number_of_capitals,
                          'label': label})
