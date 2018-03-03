@@ -87,6 +87,38 @@ def get_logistic_regression_prediction_processing(predictions):
     return predictions
 
 
+# this was simplified from "calssification.py->classification_report" function.
+def local_classification_report(p, r, f1, s, sample_weight=None, digits=2):
+    labels = numpy.asarray([0, 1.0])
+
+    last_line_heading = 'avg / total'
+    target_names = [u'%s' % l for l in labels]
+    name_width = max(len(cn) for cn in target_names)
+    width = max(name_width, len(last_line_heading), digits)
+
+    headers = ["precision", "recall", "f1-score", "support"]
+    head_fmt = u'{:>{width}s} ' + u' {:>9}' * len(headers)
+    report = head_fmt.format(u'', *headers, width=width)
+    report += u'\n\n'
+
+    row_fmt = u'{:>{width}s} ' + u' {:>9.{digits}f}' * 3 + u' {:>9}\n'
+    rows = zip(target_names, p, r, f1, s)
+    for row in rows:
+        report += row_fmt.format(*row, width=width, digits=digits)
+
+    report += u'\n'
+
+    # compute averages
+    report += row_fmt.format(last_line_heading,
+                             numpy.average(p, weights=s),
+                             numpy.average(r, weights=s),
+                             numpy.average(f1, weights=s),
+                             numpy.sum(s),
+                             width=width, digits=digits)
+
+    return report
+
+
 # Tools for looping through all the different Classifiers via Function pointers.
 classifier_names = [dt, rf, svm, linr, logr]
 classifier_functions = {dt: get_decision_tree_classifier,
@@ -169,6 +201,7 @@ if len(sys.argv) >= 3:
 
 
 else:
+    # K fold on Training data only!
     # We need to partition the "training_set_filename" into a training set and an test set
     # sets_instance_info = numpy.genfromtxt(training_set_filename, delimiter=',', usecols=[id_index, name_index], dtype=str, skip_header=1)
     sets_instances = numpy.loadtxt(training_set_filename, delimiter=',', usecols=list(range(first_feature_index, label_index)), skiprows=1)
@@ -192,14 +225,10 @@ else:
             # TODO: must figure out how to save these to a 2d array.
             # Save off the metrics.
             precision, recall, f1_score, true_sum = metrics.precision_recall_fscore_support(sets_labels[test_set_indexs], test_set_final_prediction)
-            #print("Precision: ", precision, " Recall: ", recall, " F1: ", f_score, " TSum: ", true_sum)
-            results[classifier_name].append([
-                numpy.average(precision, weights=true_sum),
-                numpy.average(recall, weights=true_sum),
-                numpy.average(f1_score, weights=true_sum),
-                numpy.sum(true_sum)])
+            # print("Precision: ", precision, " Recall: ", recall, " F1: ", f_score, " TSum: ", true_sum)
+            results[classifier_name].append([precision, recall, f1_score, true_sum])
 
     for classifier_name in classifier_names:
         print(classifier_name + " Classifier:")
-        c_precision, c_recall, c_f_score, c_true_sum = numpy.array(results[classifier_name]).mean(0)
-        print("Precision: ", c_precision, " Recall: ", c_recall, " F1: ", c_f_score, " TSum: ", c_true_sum)
+        c_precision, c_recall, c_f1_score, c_true_sum = numpy.array(results[classifier_name]).mean(0)
+        print(local_classification_report(c_precision, c_recall, c_f1_score, c_true_sum, digits=4))
