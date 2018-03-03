@@ -2,7 +2,9 @@ import sys
 import csv
 
 # list of important keywords associated with the candidate names
-KEYWORD_IDENTIFIERS = ["said", "Dr.", "Ph.D.", "PE", "president", "CEO"]
+KEYWORD_IDENTIFIERS = ["said", "Dr.", "Ph.D.", "PE", "president", "CEO", "by", "sen.", "senate", "officer", "attorney",
+                       "quoted", "spokeswoman", "spokesman", "reporter", "actress", "father", "son", "mother",
+                       "daughter"]
 
 
 def check_suffix_salutations():
@@ -49,7 +51,7 @@ def minimum_distance_to_keywords():
     for keyword in KEYWORD_IDENTIFIERS:
         keyword_location = -1
         while True:
-            keyword_location = file_contents.find(keyword, keyword_location + 1)
+            keyword_location = file_contents.lower().find(keyword.lower(), keyword_location + 1)
             if keyword_location == -1:
                 break
             if location_of_closed_keyword == -1 or abs(keyword_location - start_position) < location_of_closed_keyword:
@@ -82,7 +84,7 @@ with open("../../Output/" + sys.argv[1], "r") as intermediateFeaturesFile:
         frequency = row['frequency']
 
         file_name = row['file_name'];
-        reference_file = open("../../data/" + sys.argv[3] + "/"+file_name, 'r')
+        reference_file = open("../../data/" + sys.argv[3] + "/" + file_name, 'r')
         file_contents = reference_file.read()
 
         min_distance_to_period = minimum_distance_to_period()
