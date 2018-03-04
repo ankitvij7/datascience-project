@@ -4,18 +4,44 @@ import csv
 # list of important keywords associated with the candidate names
 KEYWORD_IDENTIFIERS = ["said", "Dr.", "Ph.D.", "PE", "president", "CEO", "by", "sen.", "senate", "officer", "attorney",
                        "quoted", "spokeswoman", "spokesman", "reporter", "actress", "father", "son", "mother",
-                       "daughter"]
+                       "daughter", "Sheriff", "Justice", "chief"]
 
 
 def check_suffix_salutations():
     """checks if the candidate name has any suffix salutations"""
     check_suffix_salutation = 0
-    names = name.split()
+    names = name.lower().split()
     suffix_salutations = ["Jr.", "Sr.", "I", "II", "III", "IV"]
     for salutation in suffix_salutations:
-        if salutation in names:
+
+        if salutation.lower() in names:
             check_suffix_salutation = 1
     return check_suffix_salutation
+
+
+def minimum_distance_to_eol():
+    """finds the minimum distance to end of line for the candidate name"""
+    eol_locations = []
+    eol_location = -1
+
+    # populate the eol locations array.
+    while True:
+        eol_location = file_contents.find("\n", eol_location + 1)
+        if eol_location == -1:
+            break
+
+        eol_locations.extend([eol_location])
+
+    # find the location of the closet eol char from the start or end position
+    min_location_of_eol = -1
+    for eol in eol_locations:
+        if min_location_of_eol == -1 or abs(start_position - eol) < min_location_of_eol:
+            min_location_of_eol = eol
+
+        if min_location_of_eol == -1 or abs(end_position - eol) < min_location_of_eol:
+            min_location_of_eol = eol
+
+    return min_location_of_eol
 
 
 def minimum_distance_to_period():
@@ -67,7 +93,8 @@ with open("../../Output/" + sys.argv[1], "r") as intermediateFeaturesFile:
     intermediateFeatureReader = csv.DictReader(intermediateFeaturesFile)
     fieldnames = ['id', 'name', 'some_capitalized', 'atleast_one_capitalized', 'first_letter_capitalized',
                   'has_suffix_salutation', 'start_position', 'distance_to_period', 'distance_to_closest_keyword',
-                  'frequency', 'contains_period', 'contains_keywords', 'name_length', 'number_of_capitals', 'label']
+                  'frequency', 'contains_period', 'contains_keywords', 'name_length', 'number_of_capitals', 'distance_to_closest_eol', 'label']
+
     output = csv.DictWriter(open("../../Output/" + sys.argv[2], "w"), fieldnames=fieldnames)
     output.writeheader()
 
@@ -92,6 +119,7 @@ with open("../../Output/" + sys.argv[1], "r") as intermediateFeaturesFile:
 
         min_distance_to_period = minimum_distance_to_period()
         min_distance_to_key_words = minimum_distance_to_keywords()
+        min_distance_to_eol = minimum_distance_to_eol()
 
         contains_keywords = 0
         for keyword in KEYWORD_IDENTIFIERS:
@@ -113,4 +141,5 @@ with open("../../Output/" + sys.argv[1], "r") as intermediateFeaturesFile:
                          'contains_keywords': contains_keywords,
                          'name_length': name_length,
                          'number_of_capitals': number_of_capitals,
+                         'distance_to_closest_eol': min_distance_to_eol,
                          'label': label})
