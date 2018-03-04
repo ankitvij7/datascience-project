@@ -34,7 +34,6 @@ rf = "Random Forest"
 # Fitted getClassifier Function for a Random Forest Classifier
 def get_random_rorest_classifer(features, labels):
     # TODO: Found in an example, prune later.
-    # return RandomForestClassifier(class_weight={1: 0.8, 0: 0.2}).fit(features, labels)
     # return RandomForestClassifier(class_weight={1: 0.20, 0: 0.80}, n_estimators=20, max_features=None).fit(features, labels)
     return RandomForestClassifier(class_weight={1: 0.20, 0: 0.80}).fit(features, labels)
     # return RandomForestClassifier(criterion="entropy", class_weight={1: 0.25, 0: 0.75}).fit(features, labels)
@@ -173,7 +172,7 @@ name_index = 1
 first_feature_index = 2
 last_feature_index = first_feature_index + num_features
 label_index = last_feature_index + 1
-num_k_folds = 12
+num_k_folds = 10
 ensemble_vote_percentage = 0.25
 
 # File format & column address / indexes:
@@ -216,7 +215,7 @@ if len(sys.argv) >= 4:
     print('Ensemble Learning:')
     print(metrics.classification_report(test_set_labels, test_set_normalized_prediction, digits=4))
     print_num_misses(test_set_labels, test_set_normalized_prediction)
-    print_misses(test_set_filename, test_set_labels, test_set_normalized_prediction)
+    #print_misses(test_set_filename, test_set_labels, test_set_normalized_prediction)
     print("FIN")
 
 
