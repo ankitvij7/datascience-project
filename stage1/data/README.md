@@ -20,7 +20,7 @@ All files should be in ASCII and English
 
 File Name: SOURCE-DATE-FIRST_WORD_IN_TITLE.txt, ex "CNN-02-16-2018-flu.txt"
 
-Names with Ownership: Do not include the 's, eg Joel Haynie</>'s face
+Names with Ownership: Do not include the 's, eg Joel Haynie`</>`'s face
 
 Names when used in proper nouns are not persons eg Guillain-Barré syndrome
 
