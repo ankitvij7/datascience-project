@@ -10,10 +10,11 @@ KEYWORD_IDENTIFIERS = ["said", "Dr.", "Ph.D.", "PE", "president", "CEO", "by", "
 def check_suffix_salutations():
     """checks if the candidate name has any suffix salutations"""
     check_suffix_salutation = 0
-    names = name.split()
+    names = name.lower().split()
     suffix_salutations = ["Jr.", "Sr.", "I", "II", "III", "IV"]
     for salutation in suffix_salutations:
-        if salutation.lower() in names.lower():
+
+        if salutation.lower() in names:
             check_suffix_salutation = 1
     return check_suffix_salutation
 
