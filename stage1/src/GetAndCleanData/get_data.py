@@ -167,9 +167,6 @@ for fn in os.listdir(dir1):
                     pass
                 else:
                     written_to_csv += 1
-                    if file_name == "C:\\Users\\user\\Desktop\\datascience-project\\stage1\\data\\I\\NPR-02-20-2018-More.txt":
-                        if label == 1:
-                            print(candidate_name)
                     output.writerow({'id': identifier,
                                      'name': candidate_name,
                                      'start_position': true_beg_position,
