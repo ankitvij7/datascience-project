@@ -17,6 +17,7 @@ dt = "Decision Tree"
 # Fitted getClassifier Function for a Decision Tree Classifier
 def get_decision_tree_classifier(features, labels):
     # TODO: Found in an example, prune later.
+    # return DecisionTreeClassifier(class_weight={1: 0.1, 0: 0.9}).fit(features, labels)
     return DecisionTreeClassifier(class_weight={1: 0.25, 0: 0.75}).fit(features, labels)
     # return DecisionTreeClassifier(criterion="entropy", class_weight={1: 0.25, 0: 0.75}).fit(features, labels)
     # return DecisionTreeClassifier().fit(features, labels)
@@ -33,6 +34,7 @@ rf = "Random Forest"
 # Fitted getClassifier Function for a Random Forest Classifier
 def get_random_rorest_classifer(features, labels):
     # TODO: Found in an example, prune later.
+    # return RandomForestClassifier(class_weight={1: 0.1, 0: 0.9}).fit(features, labels)
     return RandomForestClassifier(class_weight={1: 0.25, 0: 0.75}).fit(features, labels)
     # return RandomForestClassifier(criterion="entropy", class_weight={1: 0.25, 0: 0.75}).fit(features, labels)
     # return RandomForestClassifier().fit(features, labels)
@@ -180,7 +182,7 @@ ensemble_vote_percentage = 0.25
 #    str,          str,  Number,...,             Number,Number<eol>
 
 if len(sys.argv) >= 4:
-    print("Ensemble learning")
+    print("Ensemble learning on test set.")
     # K fold on Training data and testing on test data.
     # We need to partition the "training_set_filename" into a training set and an test set
     # sets_instance_info = numpy.genfromtxt(training_set_filename, delimiter=',', usecols=[id_index, name_index], dtype=str, skip_header=1)
@@ -213,14 +215,13 @@ if len(sys.argv) >= 4:
     print('Ensemble Learning:')
     print(metrics.classification_report(test_set_labels, test_set_normalized_prediction, digits=4))
     print_num_misses(test_set_labels, test_set_normalized_prediction)
-    # print_misses(test_set_filename, test_set_labels, test_set_normalized_prediction)
-    
+    print_misses(test_set_filename, test_set_labels, test_set_normalized_prediction)
     print("FIN")
 
 
 elif len(sys.argv) >= 3:
     # We have both the training and test set.
-    print("Single training run")
+    print("Single training run on test set")
     # Let's load our Training set (i)
     print("Loading Training Set from: " + training_set_filename)
     training_set_instance_info = numpy.genfromtxt(training_set_filename, delimiter=',', usecols=[id_index, name_index], dtype=str, skip_header=1)
@@ -266,6 +267,7 @@ elif len(sys.argv) >= 3:
 
 
 else:
+    print("K Folding on training set only.")
     # K fold on Training data only!
     # We need to partition the "training_set_filename" into a training set and an test set
     # sets_instance_info = numpy.genfromtxt(training_set_filename, delimiter=',', usecols=[id_index, name_index], dtype=str, skip_header=1)
