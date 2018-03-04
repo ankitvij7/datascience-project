@@ -19,7 +19,7 @@ Names when used in organizations/schools/campaigns are persons eg Godman Sachs, 
 
 All files should be in ASCII and English
 
-File Name: SOURCE-DATE-FIRST_WORD_IN_TITLE.txt, ex "CNN-02-16-2018-flu.txt"
+File Name: SOURCE-DATE-FIRST_DIFF.txt, ex "CNN-02-16-2018-flu.txt" or "CNN-02-19-2018-AV-3.txt"
 
 Names with Ownership: Do not include the 's, eg Joel Haynie`</>`'s face
 
