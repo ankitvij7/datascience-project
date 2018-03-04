@@ -4,7 +4,7 @@ import csv
 # list of important keywords associated with the candidate names
 KEYWORD_IDENTIFIERS = ["said", "Dr.", "Ph.D.", "PE", "president", "CEO", "by", "sen.", "senate", "officer", "attorney",
                        "quoted", "spokeswoman", "spokesman", "reporter", "actress", "father", "son", "mother",
-                       "daughter"]
+                       "daughter", "Sheriff", "Justice", "chief"]
 
 
 def check_suffix_salutations():
@@ -13,7 +13,7 @@ def check_suffix_salutations():
     names = name.split()
     suffix_salutations = ["Jr.", "Sr.", "I", "II", "III", "IV"]
     for salutation in suffix_salutations:
-        if salutation in names:
+        if salutation.lower() in names.lower():
             check_suffix_salutation = 1
     return check_suffix_salutation
 
@@ -68,6 +68,7 @@ with open("../../Output/" + sys.argv[1], "r") as intermediateFeaturesFile:
     fieldnames = ['id', 'name', 'some_capitalized', 'atleast_one_capitalized', 'first_letter_capitalized',
                   'has_suffix_salutation', 'start_position', 'distance_to_period', 'distance_to_closest_keyword',
                   'frequency', 'contains_period', 'contains_keywords', 'name_length', 'number_of_capitals', 'label']
+
     output = csv.DictWriter(open("../../Output/" + sys.argv[2], "w"), fieldnames=fieldnames)
     output.writeheader()
 
