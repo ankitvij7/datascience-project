@@ -1,0 +1,47 @@
+When Opioids Make Pain Worse
+
+By <person>Clayton Dalton</>
+
+NPR.org, March 3, 2018 · When patients arrive in the emergency room, nearly all but those with the most minor complaints get an IV.
+
+To draw blood, give medications or administer fluids, the IV is the way doctors and nurses gain access to the body. Putting one in is quick and simple, and it's no more painful than a mild bee sting.
+
+Yet for some patients, this routine procedure becomes excruciating. On my shifts as an emergency physician, I began to notice a strange pattern. These hypersensitive patients often had a history of using opioids.
+
+Shouldn't these patients be less susceptible to pain, instead of more so?
+
+As I looked into it, I found that I was far from the first to notice the paradox of heightened pain sensitivity with opioid use. An English physician in 1870 reported on morphine's tendency to "encourage the very pain it pretends to relieve." In 1880, a German doctor named <person>Rossbach</> described a similar hypersensitivity to pain with opioid dependence.
+
+A century passed before the phenomenon received serious scientific attention. That is when American scientists showed that rats exhibited increased sensitivity to pain after exposure to morphine, a phenomenon that became known as opioid-induced hyperalgesia.
+
+By the 1990s, the evidence of this unusual reaction in animals was strong, but whether it occurred in humans wasn't clear.
+
+A hint came in 1994, when researchers found that active heroin users were more sensitive to pain than expected. Other investigators took note, and by decade's end, a half-dozen studies had demonstrated similar results among heroin users as well as among recovering users on methadone.
+
+But had these people used heroin because they had always been more sensitive to pain, perhaps from birth? The studies couldn't say.
+
+In 2006, a group of Stanford researchers attempted to tease apart this question. The scientists measured pain thresholds in patients with back pain before and after four months of oral morphine. The researchers found that the patients had become significantly more sensitive to pain by the study's end.
+
+Another way that scientists have tried to approach the problem is by studying opioids used during surgery. Several studies have shown that patients randomized to receive higher doses of opioids during operations have worse pain afterward than patients who received smaller doses or a placebo. Similarly, giving short-acting opioids to healthy volunteers has been found to heighten their sensitivity to pain.
+
+Taken together, these findings do seem to suggest that exposure to opioids can paradoxically increase pain, but <person>Martin Angst</>, a Stanford anesthesiologist, points out a problem common to all of these studies: Were these patients just becoming tolerant to the painkillers?
+
+"Is this hyperalgesia? Is this tolerance?" he told me. "Nobody can say."
+
+The questions have plagued much of the research. In pharmacology, tolerance refers to decreasing efficacy of a drug with repeated use. Not all medications are subject to this effect, but opioids certainly are. Over time, they simply don't work as well, and the original pain returns.
+
+Doctors often increase the dose to counteract this effect, which works until the patient becomes tolerant to the increased amount of medicine. The result can be an upward spiral, with no clear end in sight.
+
+But there is a drawback to this approach. If worsening pain is due to opioid-induced hyperalgesia rather than tolerance, then "increasing the dose will only make the pain worse," explains <person>Caroline Arout</>, a scientist at the New York State Psychiatric Institute. While tolerance is characterized by desensitization of neural pain pathways, which can be overcome by higher doses, opioid-induced hyperalgesia is the result of hypersensitization of those pathways, she says.
+
+"This could be a major factor in the opioid crisis," <person>Arout</> says. "People have worsening pain, and so their dose is often increased because they are thought to be tolerant." But the result is that some patients may find themselves taking dangerously high doses while their pain continues to intensify.
+
+So how common is opioid-induced hyperalgesia? "This is the million-dollar question," Stanford's <person>Angst</> answers. "We just don't know."
+
+Although the current research isn't definitive, <person>Angst</> says opioid-induced hyperalgesia strikes him as a serious problem. Addressing it may require adopting a new perspective on pain.
+
+Pain is a critical adaptation for survival, even in the era of modern medicine. "Think of pain in a different way, as a very useful thing to the body," he says. Pain in the abdomen can sometimes herald appendicitis, or some other dangerous infection. And chest pain is a cardinal symptom of heart attacks.
+
+"When we overwhelm the system with large doses of opioids — does the system fight back?" <person>Angst</> asks.
+
+"We have to accept that there are limitations to any biological system, and if you exceed them, then bad things will happen," he says. "And one of those things may be opioid-induced hyperalgesia."

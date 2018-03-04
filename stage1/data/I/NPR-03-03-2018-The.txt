@@ -1,0 +1,68 @@
+The Russia Investigations: Is 'FISA Abuse' Out Of Steam? Intel Committees On Edge?
+
+By <person>Philip Ewing</>
+
+NPR.org, March 3, 2018 · This week in the Russia investigations: The "FISA abuse" counter-narrative might be running out of steam — and so, apparently, is President <person>Trump</>'s relationship with Attorney General <person>Jeff Sessions</>; the House and Senate intelligence committees are at daggers drawn; does anybody here know anything about cyber-stuff?
+
+Like a dull knife
+The Russia imbroglio is so complex it's sometimes impenetrable. Maneuvering within it politically is much more difficult than any other big story these days.
+
+Example A: Republicans want to defend President <person>Trump</>. One way they've done so is by making a highly wonky case against the FBI and Justice Department, arguing they abused the procedures involved with seeking surveillance warrants under the Foreign Intelligence Surveillance Act.
+
+The bottom-line argument is easy to grasp — "biased" feds are out to get <person>Trump</> — but keeping it going requires a huge amount of legal and technical explanation. The man who's supposed to be benefiting from all this work has signaled that he might be out of patience.
+
+When Attorney General <person>Jeff Sessions</> tried on Wednesday to put more points on the board for the White House, President <person>Trump</> smacked him down. <person>Sessions</> had said he would recommend that the Justice Department's inspector general look into the FISA matter, injecting another day's worth of oxygen into the story. But <person>Trump</> was all, like, c'mon maaaaan!
+
+The IG can't prosecute anybody!, <person>Trump</> said. Plus he was appointed by President <person>Obama</>, <person>Trump</> said — although the IG had also served under <person>George W. Bush</> — and all this kabuki isn't moving quickly enough or hitting hard enough!
+
+In short, the president made clear the "FISA abuse" narrative, which has its origins with Republicans on the House Judiciary Committee and House intelligence committee, is weak sauce.
+
+<person>Sessions</> was stung. After all the humiliation he's endured and all the water he has carried, he seemed to say: Enough.
+
+The attorney general issued a rare riposte to a routine tongue-lashing from the president. He further tweaked the White House by signalling clearly that he is on Team Justice Department. <person>Sessions</> made sure to be photographed dining out with Deputy Attorney General <person>Rod Rosenstein</> and Solicitor General <person>Noel Francisco</>. <person>Sessions</> made clear in his statement that so long as he remains attorney general, the Justice Department will work by the book.
+
+In other words, <person>Sessions</> will not launch a baseless criminal investigation into FISA abuse or take other actions that are not warranted, which <person>Trump</> appeared to want.
+
+What does it all mean? Part 1: <person>Sessions</> wants to stay in his job but keep his crayons inside the lines. He appears to remain confident that he can. Although <person>Trump</> isn't happy with <person>Sessions</>, the former senator enjoys a well of support from his former colleagues. That means if the president fired him, <person>Trump</> might not easily get someone confirmed to take over the Justice Department who was not recused from its Russia investigation, as <person>Sessions</> is.
+
+What does it all mean? Part 2: <person>Sessions</> never appointed a second special counsel to investigate the first one, <person>Robert Mueller</>, as <person>Trump</> supporters and <person>Trump</>'s legal team wanted. Now, <person>Sessions</> apparently does not believe there is enough evidence of FISA abuse to do more than request an IG investigation — which the IG's office can opt not to pursue. And even if the IG does open a case, it could take months or more to pay off, as <person>Trump</> complained. Although the Justice Department likely will continue trying to help the White House to a certain degree, it will not act as his law firm on retainer.
+
+What does it all mean? Part 3: So, what evidence did which federal officials include in their briefing to which judge with respect to which warrant to request which authority to conduct surveillance on which person and why? The longer the story runs, the more difficult it becomes to tell. House intelligence committee chairman Rep. <person>Devin Nunes</>, R-Calif., has already suggested he might move on to the State Department, or to other targets in more memos.
+
+<person>Trump</>'s irritation suggests he may think it's time to turn the page.
+
+Our friends in the other chamber
+From a distance, Congress looks monolithic, but it contains worlds within worlds. People in the House don't necessarily like people in the Senate and vice versa, for example. The House goes fast and the Senate goes slow. The committees that authorize spending don't like the committees that appropriate money. And so forth.
+
+Against that backdrop, it isn't surprising when, for example, leaders or committees in the different chambers feud over drafting a bill or solving a problem in different ways.
+
+The House and Senate intelligence committees, however, were supposed to be different. Created after Watergate to take stronger control over the often infamous spy agencies, they were supposed to be bipartisan and collegial even when the rest of Congress wasn't.
+
+Then came the Russia imbroglio.
+
+The House Permanent Select Committee on Intelligence has, in the view of critics, become just as much of a circus as the rest of the House. And while the Senate Select Committee on Intelligence has retained much of its longtime fustiness and secrecy, cracks are beginning to appear — and it has not proven immune from spillover craziness either.
+
+When Senate intelligence committee vice chairman Sen. <person>Mark Warner</>, D-Va., unsuccessfully tried to get in touch with former British intelligence officer <person>Christopher Steele</>, author of the infamous dossier, <person>Warner</> shared his efforts with the rest of the panel.
+
+But then someone on the Senate committee told the House committee about that outreach, which then told Fox News, which then ran a story that sought to tie in <person>Warner</> with "a Russian oligarch lobbyist."
+
+The New York Times then told the story of that story.
+
+<person>Warner</> and the intelligence committee's chairman, Sen. <person>Richard Burr</>, R-N.C., went so far as to complain about <person>Nunes</> to House Speaker <person>Paul Ryan</>, R-Wis.
+
+Longtime aficionados will recall they are not the first to make such complaints — Deputy Attorney General <person>Rosenstein</> and FBI Director <person>Christopher Wray</> also made a visit to the speaker's office to complain about <person>Nunes</> ahead of February's memo mania.
+
+All of this — leaks about leaks, intra-congressional strife, mega-skulduggery — is business as usual for much of Washington, D.C. That it has engulfed the intelligence committees, however, suggests that the last refuge is gone.
+
+Does anyone know anything about cyber-stuff?
+In an ideal world, reporters and the public shouldn't have to be amateur intelligence analysts, piecing together elements to form a "mosaic" about the workings of their own government.
+
+That is how we are living our lives now, however, and some of the biggest areas missing from the picture are about the 2016 cyberattacks.
+
+The Department of Homeland Security says a number of state election systems were targeted. In at least one — Illinois — Russian hackers got in, but no one believes they did any harm. No vote tallies were affected, officials say.
+
+Yet estimates about the number of states affected have fluctuated from both official sources and via background quotes in press reports. NBC News said on Wednesday that seven states were "compromised" by Russian attacks. DHS fired back saying the story was wrong. NBC fired back saying DHS was wrong.
+
+Who's right? There's no way to know, as NPR's <person>Miles Parks</> wrote this week — there is still no official box score for this game or final report that gives a definitive narrative.
+
+There also doesn't seem to be any good answer for when someone, whether it's <person>Mueller</>, another federal agency or one of the congressional committee, will publish one.
