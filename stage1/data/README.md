@@ -1,10 +1,11 @@
 
 The entity type marked up in these documents is: 
 (**Person Names**)
-They are marked up using the tags -  <person> and </>  eg: <person>Donald Trump</>
+They are marked up using the tags -  **<person>** and **</>**  eg: <person>Donald Trump</>
 
 
 To manually markup the person names, we have used the below properties:
+
 Prefix Titles are not included:Dr., Mr., Mrs., Ms., CEO, President, etc
 
 Suffix Titles are not included: PHD, OBE, CPA, PE, etc
