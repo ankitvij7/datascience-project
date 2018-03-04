@@ -32,7 +32,7 @@ list_stop_words = ["a", "about", "above", "after", "again", "against", "all", "a
                    "weren't", "what", "what's", "when", "when's", "where", "where's", "which", "while", "who", "who's",
                    "whom", "why", "why's", "with", "won't", "would", "wouldn't", "you", "you'd", "you'll", "you're",
                    "you've",
-                   "your", "yours", "yourself", "yourselves"]
+                   "your", "yours", "yourself", "yourselves", "north", "west", "east", "south"]
 
 output = csv.DictWriter(open("intermediatefeaturespace.csv", "w", newline=''), fieldnames=fieldnames)
 output.writeheader()
@@ -42,7 +42,7 @@ total_words_written_all_files = 0
 total_words_written_with_labels_1_all_files = 0
 file_counter = 0
 
-dir1 = "C:\\Users\\user\\Desktop\\datascience-project\\stage1\\data\\J\\"
+dir1 = "C:\\Users\\user\\Desktop\\datascience-project\\stage1\\data\\I\\"
 for fn in os.listdir(dir1):
     file_name = dir1 + fn
     file_counter += 1
@@ -59,16 +59,7 @@ for fn in os.listdir(dir1):
         cumulative_tag_counter = 0
         next_name_flag = 0
         counts = dict()
-        # for line in content.splitlines():
-        #     if len(line.strip()) == 0:
-        #         print("hi")
-        #         continue
 
-        # a = 'abcdefg'
-        # b = [a[i:i + 3] for i in xrange(len(a) - 2)]
-        # print
-        # b
-        # ['abc', 'bcd', 'cde', 'def', 'efg']
         # first pass to get frequencies
         windowSize = 1
         while windowSize <= 7:
@@ -81,6 +72,7 @@ for fn in os.listdir(dir1):
                     counts[subsentence] = 1
             windowSize += 1
 
+        # pass to build candidate names list
         list_candidate_names = []
         windowSize = 1
         while windowSize <= 7:
@@ -100,6 +92,7 @@ for fn in os.listdir(dir1):
         print(file_name)
         print(list_candidate_names)
 
+        # actual pass to write 0 and 1 labels to csv files
         windowSize = 1
         while windowSize <= 7:
             cumulative_tag_counter = 0
@@ -152,6 +145,11 @@ for fn in os.listdir(dir1):
                         flag_stop_word = 1
                         break
 
+                flag_capital_words = 1 # first letters of each word in subsequence is capital
+                for k in range(i,i + windowSize):
+                    if words[k][0].islower(): # if finds even one in lowercase
+                        flag_capital_words = 0
+
                 total_counter += 1
 
                 searchObj = re.search(r'[^a-z\sA-Z\.]', candidate_name, re.M)
@@ -162,6 +160,8 @@ for fn in os.listdir(dir1):
                 if searchObj:
                     pass
                 elif flag_stop_word == 1:
+                    pass
+                elif flag_capital_words == 0:
                     pass
                 elif len(candidate_name.split()) > 5:
                     pass
