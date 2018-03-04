@@ -1,6 +1,7 @@
 
 The entity type marked up in these documents is: 
 (**Person Names**)
+
 They are marked up using the tags -  `<person>` and `</>` eg: `<person>`Donald Trump`</>`
 
 
