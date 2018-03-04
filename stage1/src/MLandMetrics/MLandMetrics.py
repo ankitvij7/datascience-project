@@ -17,8 +17,8 @@ dt = "Decision Tree"
 # Fitted getClassifier Function for a Decision Tree Classifier
 def get_decision_tree_classifier(features, labels):
     # TODO: Found in an example, prune later.
-    # return DecisionTreeClassifier(class_weight={1: 0.1, 0: 0.9}).fit(features, labels)
-    return DecisionTreeClassifier(class_weight={1: 0.25, 0: 0.75}).fit(features, labels)
+    # return DecisionTreeClassifier(class_weight={1: 0.8, 0: 0.2}).fit(features, labels)
+    return DecisionTreeClassifier(class_weight={1: 0.20, 0: 0.80}).fit(features, labels)
     # return DecisionTreeClassifier(criterion="entropy", class_weight={1: 0.25, 0: 0.75}).fit(features, labels)
     # return DecisionTreeClassifier().fit(features, labels)
 
@@ -34,8 +34,9 @@ rf = "Random Forest"
 # Fitted getClassifier Function for a Random Forest Classifier
 def get_random_rorest_classifer(features, labels):
     # TODO: Found in an example, prune later.
-    # return RandomForestClassifier(class_weight={1: 0.1, 0: 0.9}).fit(features, labels)
-    return RandomForestClassifier(class_weight={1: 0.25, 0: 0.75}).fit(features, labels)
+    # return RandomForestClassifier(class_weight={1: 0.8, 0: 0.2}).fit(features, labels)
+    # return RandomForestClassifier(class_weight={1: 0.20, 0: 0.80}, n_estimators=20, max_features=None).fit(features, labels)
+    return RandomForestClassifier(class_weight={1: 0.20, 0: 0.80}).fit(features, labels)
     # return RandomForestClassifier(criterion="entropy", class_weight={1: 0.25, 0: 0.75}).fit(features, labels)
     # return RandomForestClassifier().fit(features, labels)
 
@@ -166,7 +167,7 @@ classifiers_for_ensemble = [dt, rf, linr, logr]
 # test_set_filename = "../../Output/Example_j.csv"
 # training set is arg 1 and test set is arg 2
 training_set_filename = sys.argv[1]
-num_features = 12
+num_features = 13
 id_index = 0
 name_index = 1
 first_feature_index = 2
