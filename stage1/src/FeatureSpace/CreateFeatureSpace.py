@@ -36,11 +36,11 @@ def minimum_distance_to_eol():
     min_location_of_eol = -1
     for eol in eol_locations:
         if min_location_of_eol == -1 or abs(start_position - eol) < min_location_of_eol:
-            min_location_of_eol = eol
-
+            min_location_of_eol = abs(start_position - eol)
         if min_location_of_eol == -1 or abs(end_position - eol) < min_location_of_eol:
-            min_location_of_eol = eol
+            min_location_of_eol = abs(end_position - eol)
 
+    #print('s', start_position, 'e', end_position, 'm', min_location_of_eol, 'eol', eol_locations)
     return min_location_of_eol
 
 
@@ -61,10 +61,9 @@ def minimum_distance_to_period():
     min_location_of_period = -1
     for p in period_locations:
         if min_location_of_period == -1 or abs(start_position - p) < min_location_of_period:
-            min_location_of_period = p
-
+            min_location_of_period = abs(start_position - p)
         if min_location_of_period == -1 or abs(end_position - p) < min_location_of_period:
-            min_location_of_period = p
+            min_location_of_period = abs(end_position - p)
 
     return min_location_of_period
 
@@ -80,11 +79,10 @@ def minimum_distance_to_keywords():
             keyword_location = file_contents.lower().find(keyword.lower(), keyword_location + 1)
             if keyword_location == -1:
                 break
-            if location_of_closed_keyword == -1 or abs(keyword_location - start_position) < location_of_closed_keyword:
-                location_of_closed_keyword = keyword_location
-
-            if location_of_closed_keyword == -1 or abs(keyword_location - end_position) < location_of_closed_keyword:
-                location_of_closed_keyword = keyword_location
+            if location_of_closed_keyword == -1 or abs(start_position - keyword_location) < location_of_closed_keyword:
+                location_of_closed_keyword = abs(start_position - keyword_location)
+            if location_of_closed_keyword == -1 or abs(end_position - keyword_location) < location_of_closed_keyword:
+                location_of_closed_keyword = abs(end_position - keyword_location)
 
     return location_of_closed_keyword
 
