@@ -17,8 +17,9 @@ dt = "Decision Tree"
 # Fitted getClassifier Function for a Decision Tree Classifier
 def get_decision_tree_classifier(features, labels):
     # TODO: Found in an example, prune later.
+    return DecisionTreeClassifier(class_weight={1: 0.25, 0: 0.75}).fit(features, labels)
     # return DecisionTreeClassifier(criterion="entropy", class_weight={1: 0.25, 0: 0.75}).fit(features, labels)
-    return DecisionTreeClassifier().fit(features, labels)
+    # return DecisionTreeClassifier().fit(features, labels)
 
 
 # Decision Tree Classifier doesn't do any post processing
@@ -32,8 +33,9 @@ rf = "Random Forest"
 # Fitted getClassifier Function for a Random Forest Classifier
 def get_random_rorest_classifer(features, labels):
     # TODO: Found in an example, prune later.
+    return RandomForestClassifier(class_weight={1: 0.25, 0: 0.75}).fit(features, labels)
     # return RandomForestClassifier(criterion="entropy", class_weight={1: 0.25, 0: 0.75}).fit(features, labels)
-    return RandomForestClassifier().fit(features, labels)
+    # return RandomForestClassifier().fit(features, labels)
 
 
 # Random Forest Classifier doesn't do any post processing
@@ -59,7 +61,7 @@ def get_support_vector_machine_prediction_processing(predictions):
 
 
 linr = "Linear Regression"
-linrThreshold = 0.5
+linrThreshold = 0.25
 
 
 # Fitted getClassifier Function for a Linear Regression Classifier
@@ -168,8 +170,8 @@ name_index = 1
 first_feature_index = 2
 last_feature_index = first_feature_index + num_features
 label_index = last_feature_index + 1
-num_k_folds = 10
-ensemble_vote_percentage = 0.5
+num_k_folds = 12
+ensemble_vote_percentage = 0.25
 
 # File format & column address / indexes:
 # has a header row.
@@ -208,10 +210,11 @@ if len(sys.argv) >= 4:
     ensemble_threshold = ensemble_vote_percentage * num_k_folds * len(classifiers_for_ensemble)
     test_set_normalized_prediction = [1 if prediction >= ensemble_threshold else 0 for prediction in test_set_final_prediction]
     # Print out the metrics for this run through.
+    print('Ensemble Learning:')
     print(metrics.classification_report(test_set_labels, test_set_normalized_prediction, digits=4))
-    # print_misses(test_set_filename, test_set_labels, test_set_normalized_prediction)
     print_num_misses(test_set_labels, test_set_normalized_prediction)
-
+    # print_misses(test_set_filename, test_set_labels, test_set_normalized_prediction)
+    
     print("FIN")
 
 
@@ -258,6 +261,7 @@ elif len(sys.argv) >= 3:
         test_set_final_prediction = prediction_processing_function[classifier_name](test_set_raw_predictions)
         # Print out the metrics for this run through.
         print(metrics.classification_report(test_set_labels, test_set_final_prediction, digits=4))
+        print_num_misses(test_set_labels, test_set_final_prediction)
     print("FIN")
 
 
