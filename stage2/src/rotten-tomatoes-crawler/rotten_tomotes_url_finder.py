@@ -39,12 +39,12 @@ def get_list(url, appl, output):
     for movie in movies:
         movie_url = "https://www.rottentomatoes.com" + movie["url"]
         movie_page = Page(movie_url, appl)
-        extract_info(movie_page.html, output)
+        extract_info(movie_page.html, output, movie_url)
 
 
 fieldnames = ['Title', 'TomatoMeter', 'Audience Score', 'Rating', 'Genre',
               'Directed By', 'Written By', 'On Disc/Streaming', 'Box Office', 'Runtime',
-              'Studio']
+              'Studio', 'Movie Url']
 
 output = csv.DictWriter(open("RottenTomatoesMovieDatabase", "w"), fieldnames=fieldnames)
 output.writeheader()

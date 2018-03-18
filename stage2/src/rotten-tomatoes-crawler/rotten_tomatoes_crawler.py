@@ -1,7 +1,7 @@
 import bs4 as bs
 
 
-def extract_info(movie_html, output):
+def extract_info(movie_html, output, movie_url):
     movie_soup = bs.BeautifulSoup(movie_html, 'html.parser')
     movie_info = dict()
     title = movie_soup.find('h1', class_='title')
@@ -42,5 +42,6 @@ def extract_info(movie_html, output):
                      'On Disc/Streaming': movie_info["On Disc/Streaming: "],
                      'Box Office': 'NA' if "Box Office: " not in movie_info else movie_info["Box Office: "],
                      'Runtime': 'NA' if "Runtime: " not in movie_info else movie_info["Runtime: "],
-                     'Studio': 'NA' if "Studio: " not in movie_info else movie_info["Studio: "]})
+                     'Studio': 'NA' if "Studio: " not in movie_info else movie_info["Studio: "],
+                     'Movie Url': movie_url})
     # print("RESULT IS HERE- " + complete_movie_info)
