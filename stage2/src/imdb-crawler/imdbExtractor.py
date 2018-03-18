@@ -7,11 +7,11 @@ def extract_info(url):
     soup = BeautifulSoup(page.text, 'html.parser')
     # print(soup.prettify())
     title_wrapper = soup.find("div", {"class": "title_wrapper"})
-    #print(title_wrapper)
+    # print(title_wrapper)
     print("***********************")
 
     # Get Movie Title
-    title = soup.find("h1", {"class": ["","long"]}).text
+    title = soup.find("h1", {"class": ["", "long"]}).text
     # print(title)
 
     # Get Play Time
