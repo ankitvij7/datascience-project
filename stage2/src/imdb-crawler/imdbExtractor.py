@@ -42,6 +42,7 @@ def extract_info(url):
     # print(Rating)
     # print(ReleaseDate)
     print(",".join(map(str, [title, playTime, genres, Rating, ReleaseDate])))
+    # return print(",".join(map(str, [title, playTime, genres, Rating, ReleaseDate])))
 
 # extract_info('http://www.imdb.com/title/tt1365519/')
 # extract_info('https://www.imdb.com/title/tt5164432/')
