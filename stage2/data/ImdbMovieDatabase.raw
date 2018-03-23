@@ -1,0 +1,501 @@
+Movie Url,Title,Score,Rating,Genre,Director,Writer,Release Date,Runtime,Studio
+https://www.imdb.com/title/tt4154756/,Avengers: Infinity War (2018) ,NA,NO RATED,Action;Adventure;Fantasy,Anthony Russo;Joe Russo,Christopher Markus;Stephen McFeely,2018-04-27,PT156M,NA
+https://www.imdb.com/title/tt1365519/,Tomb Raider (2018) ,6.9,PG-13,Action;Adventure,Roar Uthaug,Geneva Robertson-Dworet;Alastair Siddons,2018-03-16,PT118M,NA
+https://www.imdb.com/title/tt1825683/,Black Panther (2018) ,7.8,PG-13,Action;Adventure;Sci-Fi,Ryan Coogler,Ryan Coogler;Joe Robert Cole,2018-02-16,PT134M,NA
+https://www.imdb.com/title/tt2357547/,Jessica Jones             ,8.1,TV-MA,Action;Crime;Drama,NA,Melissa Rosenberg,NA,PT56M,NA
+https://www.imdb.com/title/tt2283362/,Jumanji: Welcome to the Jungle (2017) ,7.1,PG-13,Action;Adventure;Comedy,Jake Kasdan,Chris McKenna;Erik Sommers,2017-12-20,PT119M,NA
+https://www.imdb.com/title/tt1677720/,Ready Player One (2018) ,8.1,PG-13,Action;Adventure;Sci-Fi,Steven Spielberg,Zak Penn;Ernest Cline,2018-03-29,PT140M,NA
+https://www.imdb.com/title/tt3501632/,Thor: Ragnarok (2017) ,8.0,PG-13,Action;Adventure;Comedy,Taika Waititi,Eric Pearson;Craig Kyle,2017-11-03,PT130M,NA
+https://www.imdb.com/title/tt0944947/,Game of Thrones             ,9.5,TV-MA,Action;Adventure;Drama,NA,David Benioff;D.B. Weiss,NA,PT57M,NA
+https://www.imdb.com/title/tt2527336/,Star Wars: Episode VIII - The Last Jedi (2017) ,7.4,PG-13,Action;Adventure;Fantasy,Rian Johnson,Rian Johnson;George Lucas,2017-12-15,PT152M,NA
+https://www.imdb.com/title/tt2193021/,Arrow             ,7.8,TV-14,Action;Adventure;Crime,NA,Greg Berlanti;Marc Guggenheim;Andrew Kreisberg,NA,PT42M,NA
+https://www.imdb.com/title/tt2364582/,Agents of S.H.I.E.L.D.             ,7.5,TV-PG,Action;Adventure;Drama,NA,Maurissa Tancharoen;Jed Whedon;Joss Whedon,NA,PT45M,NA
+https://www.imdb.com/title/tt0974015/,Justice League (2017) ,6.8,PG-13,Action;Adventure;Fantasy,Zack Snyder,Chris Terrio;Joss Whedon,2017-11-17,PT120M,NA
+https://www.imdb.com/title/tt1137450/,Death Wish (2018) ,6.6,R,Action;Crime;Drama,Eli Roth,Joe Carnahan;Brian Garfield,2018-03-02,PT107M,NA
+https://www.imdb.com/title/tt2306299/,Vikings             ,8.6,TV-MA,Action;Adventure;Drama,NA,Michael Hirst,NA,PT44M,NA
+https://www.imdb.com/title/tt3749900/,Gotham             ,7.9,TV-14,Action;Crime;Drama,NA,Bruno Heller,NA,PT42M,NA
+https://www.imdb.com/title/tt3107288/,The Flash             ,8.0,TV-PG,Action;Adventure;Drama,NA,Greg Berlanti;Geoff Johns;Andrew Kreisberg,NA,PT43M,NA
+https://www.imdb.com/title/tt5511582/,Timeless             ,7.6,NOT RATED,Action;Adventure;Drama,NA,Eric Kripke;Shawn Ryan,NA,PT60M,NA
+https://www.imdb.com/title/tt4532368/,Legends of Tomorrow             ,7.0,TV-14,Action;Adventure;Drama,NA,Greg Berlanti;Marc Guggenheim;Phil Klemmer,NA,PT42M,NA
+https://www.imdb.com/title/tt6468322/,La casa de papel             ,8.8,TV-MA,Action;Crime;Mystery,NA,Álex Pina,NA,PT70M,NA
+https://www.imdb.com/title/tt2557478/,Pacific Rim: Uprising (2018) ,6.0,PG-13,Action;Adventure;Sci-Fi,Steven S. DeKnight,Steven S. DeKnight;Emily Carmichael,2018-03-23,PT111M,NA
+https://www.imdb.com/title/tt0364845/,NCIS             ,7.9,TV-14,Action;Comedy;Crime,NA,Donald P. Bellisario;Don McGill,NA,PT60M,NA
+https://www.imdb.com/title/tt7221388/,Cobra Kai             ,NA,NO RATED,Action;Comedy;Drama,NA,NA,NA,NA,NA
+https://www.imdb.com/title/tt5296406/,Designated Survivor             ,7.8,TV-14,Action;Drama;Mystery,NA,David Guggenheim,NA,PT60M,NA
+https://www.imdb.com/title/tt6306064/,Adrift (2018) ,NA,NO RATED,Action;Adventure;Drama,Baltasar Kormákur,Aaron Kandell;Jordan Kandell,2018-06-01,NA,NA
+https://www.imdb.com/title/tt3721964/,Gringo (2018) ,6.0,R,Action;Comedy;Crime,Nash Edgerton,Anthony Tambakis;Matthew Stone,2018-03-09,PT111M,NA
+https://www.imdb.com/title/tt6565702/,X-Men: Dark Phoenix (2018) ,NA,NO RATED,Action;Adventure;Sci-Fi,Simon Kinberg,John Byrne;Chris Claremont,2018-11-02,NA,NA
+https://www.imdb.com/title/tt0451279/,Wonder Woman (2017) ,7.5,PG-13,Action;Adventure;Fantasy,Patty Jenkins,Allan Heinberg;Zack Snyder,2017-06-02,PT141M,NA
+https://www.imdb.com/title/tt1600194/,Hawaii Five-0             ,7.4,TV-14,Action;Crime;Drama,NA,Peter M. Lenkov;Leonard Freeman;Alex Kurtzman,NA,PT42M,NA
+https://www.imdb.com/title/tt5360952/,The Hurricane Heist (2018) ,4.9,PG-13,Action;Thriller,Rob Cohen,Scott Windhauser;Jeff Dixon,2018-03-09,PT103M,NA
+https://www.imdb.com/title/tt4154664/,Captain Marvel (2019) ,NA,NO RATED,Action;Adventure;Sci-Fi,Anna Boden;Ryan Fleck,Gene Colan;Meg LeFauve,2019-03-08,NA,NA
+https://www.imdb.com/title/tt5013056/,Dunkirk (2017) ,8.0,PG-13,Action;Drama;History,Christopher Nolan,Christopher Nolan,2017-07-21,PT106M,NA
+https://www.imdb.com/title/tt7235466/,9-1-1             ,7.3,TV-14,Action;Drama;Thriller,NA,Brad Falchuk;Tim Minear;Ryan Murphy,NA,PT43M,NA
+https://www.imdb.com/title/tt0146316/,Lara Croft: Tomb Raider (2001) ,5.8,PG-13,Action;Adventure;Fantasy,Simon West,Sara B. Cooper;Mike Werb,2001-06-15,PT100M,NA
+https://www.imdb.com/title/tt5463162/,Deadpool 2 (2018) ,NA,NO RATED,Action;Adventure;Comedy,David Leitch,Fabian Nicieza;Rob Liefeld,2018-05-18,NA,NA
+https://www.imdb.com/title/tt5675620/,The Punisher             ,8.7,TV-MA,Action;Adventure;Crime,NA,Steve Lightfoot,NA,PT53M,NA
+https://www.imdb.com/title/tt4016454/,Supergirl             ,6.5,TV-PG,Action;Adventure;Drama,NA,Ali Adler;Greg Berlanti;Andrew Kreisberg,NA,PT43M,NA
+https://www.imdb.com/title/tt2250912/,Spider-Man: Homecoming (2017) ,7.5,PG-13,Action;Adventure;Sci-Fi,Jon Watts,Jonathan Goldstein;John Francis Daley,2017-07-07,PT133M,NA
+https://www.imdb.com/title/tt5171438/,Star Trek: Discovery             ,7.4,TV-14,Action;Adventure;Drama,NA,Bryan Fuller;Alex Kurtzman,NA,PT60M,NA
+https://www.imdb.com/title/tt3778644/,Solo: A Star Wars Story (2018) ,NA,NO RATED,Action;Adventure;Fantasy,Ron Howard,Jon Kasdan;Lawrence Kasdan,2018-05-25,NA,NA
+https://www.imdb.com/title/tt3890160/,Baby Driver (2017) ,7.7,R,Action;Crime;Music,Edgar Wright,Edgar Wright,2017-06-28,PT112M,NA
+https://www.imdb.com/title/tt3322312/,Daredevil             ,8.7,TV-MA,Action;Crime;Drama,NA,Drew Goddard,NA,PT54M,NA
+https://www.imdb.com/title/tt1477834/,Aquaman (2018) ,NA,NO RATED,Action;Adventure;Sci-Fi,James Wan,Will Beall;Geoff Johns,2018-12-21,NA,NA
+https://www.imdb.com/title/tt3896198/,Guardians of the Galaxy Vol. 2 (2017) ,7.7,PG-13,Action;Adventure;Sci-Fi,James Gunn,James Gunn;Dan Abnett,2017-05-05,PT136M,NA
+https://www.imdb.com/title/tt5114356/,Legion             ,8.4,TV-MA,Action;Drama;Sci-Fi,NA,Noah Hawley,NA,PT60M,NA
+https://www.imdb.com/title/tt4474344/,Blindspot             ,7.5,TV-14,Action;Crime;Drama,NA,Martin Gero,NA,PT42M,NA
+https://www.imdb.com/title/tt0455275/,Prison Break             ,8.4,TV-14,Action;Crime;Drama,NA,Paul Scheuring,NA,PT44M,NA
+https://www.imdb.com/title/tt4189022/,Ash vs Evil Dead             ,8.5,TV-MA,Action;Comedy;Fantasy,NA,Ivan Raimi;Sam Raimi;Tom Spezialy,NA,PT30M,NA
+https://www.imdb.com/title/tt2239822/,Valerian and the City of a Thousand Planets (2017) ,6.5,PG-13,Action;Adventure;Fantasy,Luc Besson,Pierre Christin;Jean-Claude Mézières,2017-07-21,PT137M,NA
+https://www.imdb.com/title/tt1270797/,Venom (2018) ,NA,NO RATED,Action;Horror;Sci-Fi,Ruben Fleischer,Will Beall;Scott Rosenberg,2018-10-05,NA,NA
+https://www.imdb.com/title/tt3829266/,The Predator (2018) ,NA,NO RATED,Action;Adventure;Horror,Shane Black,Shane Black;Fred Dekker,2018-09-14,NA,NA
+https://www.imdb.com/title/tt2283362/,Jumanji: Welcome to the Jungle (2017) ,7.1,PG-13,Action;Adventure;Comedy,Jake Kasdan,Chris McKenna;Erik Sommers,2017-12-20,PT119M,NA
+https://www.imdb.com/title/tt3501632/,Thor: Ragnarok (2017) ,8.0,PG-13,Action;Adventure;Comedy,Taika Waititi,Eric Pearson;Craig Kyle,2017-11-03,PT130M,NA
+https://www.imdb.com/title/tt2704998/,Game Night (2018) ,7.4,R,Comedy;Crime;Mystery,John Francis Daley;Jonathan Goldstein,Mark Perez,2018-02-23,PT100M,NA
+https://www.imdb.com/title/tt2380307/,Coco (2017) ,8.5,PG,Animation;Adventure;Comedy,Lee Unkrich;Adrian Molina,Lee Unkrich;Jason Katz,2017-11-21,PT105M,NA
+https://www.imdb.com/title/tt1586680/,Shameless             ,8.7,TV-MA,Comedy;Drama,NA,Paul Abbott;John Wells,NA,PT46M,NA
+https://www.imdb.com/title/tt4061080/,Love             ,7.7,TV-MA,Comedy;Drama;Romance,NA,Judd Apatow;Lesley Arfin;Paul Rust,NA,PT50M,NA
+https://www.imdb.com/title/tt5164432/,"Love, Simon (2018) ",8.0,PG-13,Comedy;Drama;Romance,Greg Berlanti,Elizabeth Berger;Isaac Aptaker,2018-03-16,PT110M,NA
+https://www.imdb.com/title/tt5580036/,"I, Tonya (2017) ",7.6,R,Biography;Comedy;Drama,Craig Gillespie,Steven Rogers,2018-01-19,PT120M,NA
+https://www.imdb.com/title/tt4925292/,Lady Bird (2017) ,7.6,R,Comedy;Drama,Greta Gerwig,Greta Gerwig,2017-12-01,PT94M,NA
+https://www.imdb.com/title/tt0108778/,Friends             ,8.9,TV-14,Comedy;Romance,NA,David Crane;Marta Kauffman,NA,PT22M,NA
+https://www.imdb.com/title/tt0386676/,The Office             ,8.8,TV-PG,Comedy,NA,Greg Daniels;Ricky Gervais;Stephen Merchant,NA,PT22M,NA
+https://www.imdb.com/title/tt0364845/,NCIS             ,7.9,TV-14,Action;Comedy;Crime,NA,Donald P. Bellisario;Don McGill,NA,PT60M,NA
+https://www.imdb.com/title/tt1442437/,Modern Family             ,8.5,TV-PG,Comedy;Romance,NA,Steven Levitan;Christopher Lloyd,NA,PT22M,NA
+https://www.imdb.com/title/tt0898266/,The Big Bang Theory             ,8.3,TV-14,Comedy;Romance,NA,Chuck Lorre;Bill Prady,NA,PT22M,NA
+https://www.imdb.com/title/tt7221388/,Cobra Kai             ,NA,NO RATED,Action;Comedy;Drama,NA,NA,NA,NA,NA
+https://www.imdb.com/title/tt3411444/,Ferdinand (2017) ,6.7,PG,Animation;Adventure;Comedy,Carlos Saldanha,Munro Leaf;Robert Lawson,2017-12-15,PT108M,NA
+https://www.imdb.com/title/tt3721964/,Gringo (2018) ,6.0,R,Action;Comedy;Crime,Nash Edgerton,Anthony Tambakis;Matthew Stone,2018-03-09,PT111M,NA
+https://www.imdb.com/title/tt4765284/,Pitch Perfect 3 (2017) ,6.0,PG-13,Comedy;Music,Trish Sie,Kay Cannon;Mike White,2017-12-22,PT93M,NA
+https://www.imdb.com/title/tt2861424/,Rick and Morty             ,9.3,TV-14,Animation;Adventure;Comedy,NA,Dan Harmon;Justin Roiland,NA,PT23M,NA
+https://www.imdb.com/title/tt4288182/,Atlanta             ,8.6,TV-MA,Comedy;Drama,NA,Donald Glover,NA,PT30M,NA
+https://www.imdb.com/title/tt1632701/,Suits             ,8.6,TV-14,Comedy;Drama,NA,Aaron Korsh,NA,PT44M,NA
+https://www.imdb.com/title/tt5688932/,Sorry to Bother You (2018) ,6.0,NO RATED,Comedy;Fantasy;Sci-Fi,Boots Riley,Boots Riley,2018-07-06,PT105M,NA
+https://www.imdb.com/title/tt1389072/,Downsizing (2017) ,5.7,R,Comedy;Drama;Sci-Fi,Alexander Payne,Alexander Payne;Jim Taylor,2017-12-22,PT135M,NA
+https://www.imdb.com/title/tt2467372/,Brooklyn Nine-Nine             ,8.3,TV-14,Comedy;Crime,NA,Daniel J. Goor;Michael Schur,NA,PT22M,NA
+https://www.imdb.com/title/tt5104604/,Isle of Dogs (2018) ,8.3,PG-13,Animation;Adventure;Comedy,Wes Anderson,Wes Anderson;Roman Coppola,2018-05-10,PT101M,NA
+https://www.imdb.com/title/tt4575576/,Christopher Robin (2018) ,NA,NO RATED,Animation;Adventure;Comedy,Marc Forster,Tom McCarthy;A.A. Milne,2018-08-03,NA,NA
+https://www.imdb.com/title/tt3521126/,The Disaster Artist (2017) ,7.6,R,Biography;Comedy;Drama,James Franco,Scott Neustadter;Michael H. Weber,2017-12-08,PT104M,NA
+https://www.imdb.com/title/tt5117670/,Peter Rabbit (2018) ,6.4,PG,Animation;Adventure;Comedy,Will Gluck,Rob Lieber;Will Gluck,2018-02-09,PT95M,NA
+https://www.imdb.com/title/tt4468740/,Paddington 2 (2017) ,8.0,PG,Animation;Adventure;Comedy,Paul King,Paul King;Simon Farnaby,2018-01-12,PT103M,NA
+https://www.imdb.com/title/tt6845390/,Roseanne             ,NA,TV-PG,Comedy,NA,Roseanne Barr,NA,PT21M,NA
+https://www.imdb.com/title/tt5463162/,Deadpool 2 (2018) ,NA,NO RATED,Action;Adventure;Comedy,David Leitch,Fabian Nicieza;Rob Liefeld,2018-05-18,NA,NA
+https://www.imdb.com/title/tt3501584/,iZombie             ,8.0,TV-14,Comedy;Crime;Drama,NA,Diane Ruggiero;Rob Thomas,NA,PT42M,NA
+https://www.imdb.com/title/tt2372162/,Orange Is the New Black             ,8.2,TV-MA,Comedy;Crime;Drama,NA,Jenji Kohan,NA,PT59M,NA
+https://www.imdb.com/title/tt2709692/,The Grinch (2018) ,NA,NO RATED,Animation;Comedy;Family,Yarrow Cheney;Scott Mosier,Dr. Seuss;Michael LeSieur,2018-11-09,NA,NA
+https://www.imdb.com/title/tt0460649/,How I Met Your Mother             ,8.4,TV-14,Comedy;Romance,NA,Carter Bays;Craig Thomas,NA,PT22M,NA
+https://www.imdb.com/title/tt4686844/,The Death of Stalin (2017) ,7.2,R,Comedy,Armando Iannucci,Armando Iannucci;David Schneider,2018-03-09,PT107M,NA
+https://www.imdb.com/title/tt3566726/,Jane the Virgin             ,7.8,TV-PG,Comedy,NA,Jennie Snyder Urman,NA,PT60M,NA
+https://www.imdb.com/title/tt1826940/,New Girl             ,7.7,TV-14,Comedy,NA,Elizabeth Meriwether,NA,PT22M,NA
+https://www.imdb.com/title/tt0157246/,Will & Grace             ,7.2,TV-14,Comedy;Romance,NA,David Kohan;Max Mutchnick,NA,PT22M,NA
+https://www.imdb.com/title/tt0472954/,It's Always Sunny in Philadelphia             ,8.8,TV-MA,Comedy,NA,Glenn Howerton;Rob McElhenney,NA,PT22M,NA
+https://www.imdb.com/title/tt2712740/,The Goldbergs             ,8.2,TV-PG,Comedy,NA,Adam F. Goldberg,NA,PT22M,NA
+https://www.imdb.com/title/tt4189022/,Ash vs Evil Dead             ,8.5,TV-MA,Action;Comedy;Fantasy,NA,Ivan Raimi;Sam Raimi;Tom Spezialy,NA,PT30M,NA
+https://www.imdb.com/title/tt6474378/,Good Girls             ,7.2,TV-14,Comedy;Crime;Drama,NA,Jenna Bans,NA,PT43M,NA
+https://www.imdb.com/title/tt1266020/,Parks and Recreation             ,8.6,TV-PG,Comedy,NA,Greg Daniels;Michael Schur,NA,PT22M,NA
+https://www.imdb.com/title/tt2531344/,Blockers (2018) ,5.2,R,Comedy,Kay Cannon,Brian Kehoe;Jim Kehoe,2018-04-06,PT102M,NA
+https://www.imdb.com/title/tt5827228/,Bull             ,6.8,TV-14,Comedy;Crime;Drama,NA,Paul Attanasio;Phil McGraw,NA,PT60M,NA
+https://www.imdb.com/title/tt1561755/,Bob's Burgers             ,8.1,TV-PG,Animation;Comedy,NA,Loren Bouchard;Jim Dauterive,NA,PT22M,NA
+https://www.imdb.com/title/tt0369179/,Two and a Half Men             ,7.1,TV-14,Comedy;Romance,NA,Lee Aronsohn;Chuck Lorre,NA,PT22M,NA
+https://www.imdb.com/title/tt6257970/,The End of the F***ing World             ,8.3,TV-MA,Comedy;Drama,NA,NA,NA,PT25M,NA
+https://www.imdb.com/title/tt4955642/,The Good Place             ,8.0,TV-PG,Comedy;Drama;Fantasy,NA,Michael Schur,NA,PT22M,NA
+https://www.imdb.com/title/tt2798920/,Annihilation (2018) ,7.2,R,Adventure;Drama;Fantasy,Alex Garland,Alex Garland;Jeff VanderMeer,2018-02-23,PT115M,NA
+https://www.imdb.com/title/tt2873282/,Red Sparrow (2018) ,6.8,R,Drama;Mystery;Thriller,Francis Lawrence,Justin Haythe;Jason Matthews,2018-03-02,PT140M,NA
+https://www.imdb.com/title/tt1796960/,Homeland             ,8.4,TV-MA,Crime;Drama;Mystery,NA,Alex Gansa;Howard Gordon,NA,PT55M,NA
+https://www.imdb.com/title/tt2193021/,Arrow             ,7.8,TV-14,Action;Adventure;Crime,NA,Greg Berlanti;Marc Guggenheim;Andrew Kreisberg,NA,PT42M,NA
+https://www.imdb.com/title/tt0460681/,Supernatural             ,8.5,TV-14,Drama;Fantasy;Horror,NA,Eric Kripke,NA,PT44M,NA
+https://www.imdb.com/title/tt2011311/,The Outsider (2018) ,6.3,TV-MA,Crime;Drama;Mystery,Martin Zandvliet,John Linson;Andrew Baldwin,2018-03-09,PT120M,NA
+https://www.imdb.com/title/tt2704998/,Game Night (2018) ,7.4,R,Comedy;Crime;Mystery,John Francis Daley;Jonathan Goldstein,Mark Perez,2018-02-23,PT100M,NA
+https://www.imdb.com/title/tt2380307/,Coco (2017) ,8.5,PG,Animation;Adventure;Comedy,Lee Unkrich;Adrian Molina,Lee Unkrich;Jason Katz,2017-11-21,PT105M,NA
+https://www.imdb.com/title/tt5420376/,Riverdale             ,7.7,TV-14,Crime;Drama;Mystery,NA,Roberto Aguirre-Sacasa,NA,PT45M,NA
+https://www.imdb.com/title/tt2741602/,The Blacklist             ,8.1,TV-14,Crime;Drama;Mystery,NA,Jon Bokenkamp,NA,PT43M,NA
+https://www.imdb.com/title/tt3749900/,Gotham             ,7.9,TV-14,Action;Crime;Drama,NA,Bruno Heller,NA,PT42M,NA
+https://www.imdb.com/title/tt0452046/,Criminal Minds             ,8.1,TV-14,Crime;Drama;Mystery,NA,Jeff Davis,NA,PT42M,NA
+https://www.imdb.com/title/tt3402236/,Murder on the Orient Express (2017) ,6.6,PG-13,Crime;Drama;Mystery,Kenneth Branagh,Michael Green;Agatha Christie,2017-11-10,PT114M,NA
+https://www.imdb.com/title/tt3205802/,How to Get Away with Murder             ,8.2,TV-14,Crime;Drama;Mystery,NA,Peter Nowalk,NA,PT43M,NA
+https://www.imdb.com/title/tt4574334/,Stranger Things             ,8.9,TV-14,Drama;Fantasy;Horror,NA,Matt Duffer;Ross Duffer,NA,PT51M,NA
+https://www.imdb.com/title/tt6729080/,Collateral             ,6.7,TV-MA,Crime;Drama;Mystery,NA,NA,NA,PT57M,NA
+https://www.imdb.com/title/tt6468322/,La casa de papel             ,8.8,TV-MA,Action;Crime;Mystery,NA,Álex Pina,NA,PT70M,NA
+https://www.imdb.com/title/tt0364845/,NCIS             ,7.9,TV-14,Action;Comedy;Crime,NA,Donald P. Bellisario;Don McGill,NA,PT60M,NA
+https://www.imdb.com/title/tt0203259/,Law & Order: Special Victims Unit             ,8.1,TV-14,Crime;Drama;Mystery,NA,Dick Wolf,NA,PT60M,NA
+https://www.imdb.com/title/tt5052448/,Get Out (2017) ,7.7,R,Horror;Mystery;Thriller,Jordan Peele,Jordan Peele,2017-02-24,PT104M,NA
+https://www.imdb.com/title/tt0475784/,Westworld             ,8.9,TV-MA,Drama;Mystery;Sci-Fi,NA,NA,NA,PT62M,NA
+https://www.imdb.com/title/tt0106179/,The X-Files             ,8.7,TV-14,Drama;Mystery;Sci-Fi,NA,Chris Carter,NA,PT45M,NA
+https://www.imdb.com/title/tt1856101/,Blade Runner 2049 (2017) ,8.1,R,Drama;Mystery;Sci-Fi,Denis Villeneuve,Hampton Fancher;Michael Green,2017-10-06,PT164M,NA
+https://www.imdb.com/title/tt5296406/,Designated Survivor             ,7.8,TV-14,Action;Drama;Mystery,NA,David Guggenheim,NA,PT60M,NA
+https://www.imdb.com/title/tt2661044/,The 100             ,7.8,TV-14,Drama;Mystery;Sci-Fi,NA,Jason Rothenberg,NA,PT43M,NA
+https://www.imdb.com/title/tt5362988/,Wind River (2017) ,7.8,R,Crime;Drama;Mystery,Taylor Sheridan,Taylor Sheridan,2017-08-18,PT107M,NA
+https://www.imdb.com/title/tt4604612/,The Alienist             ,7.8,TV-MA,Drama;Mystery,NA,NA,NA,PT60M,NA
+https://www.imdb.com/title/tt1378167/,NCIS: Los Angeles             ,6.7,TV-14,Crime;Drama;Mystery,NA,Shane Brennan,NA,PT43M,NA
+https://www.imdb.com/title/tt1464763/,Mute (2018) ,5.4,TV-MA,Mystery;Sci-Fi;Thriller,Duncan Jones,Michael Robert Johnson;Duncan Jones,2018-02-23,PT126M,NA
+https://www.imdb.com/title/tt1405406/,The Vampire Diaries             ,7.8,TV-14,Drama;Fantasy;Horror,NA,Julie Plec;Kevin Williamson,NA,PT43M,NA
+https://www.imdb.com/title/tt1837492/,13 Reasons Why             ,8.3,TV-MA,Drama;Mystery,NA,Brian Yorkey,NA,PT60M,NA
+https://www.imdb.com/title/tt0436992/,Doctor Who             ,8.7,TV-PG,Adventure;Drama;Family,NA,Sydney Newman,NA,PT45M,NA
+https://www.imdb.com/title/tt2188671/,Bates Motel             ,8.2,TV-MA,Drama;Horror;Mystery,NA,Anthony Cipriano;Carlton Cuse;Kerry Ehrin,NA,PT45M,NA
+https://www.imdb.com/title/tt0773262/,Dexter             ,8.7,TV-MA,Crime;Drama;Mystery,NA,James Manos Jr.,NA,PT53M,NA
+https://www.imdb.com/title/tt0470752/,Ex Machina (2014) ,7.7,R,Drama;Mystery;Sci-Fi,Alex Garland,Alex Garland,2015-04-24,PT108M,NA
+https://www.imdb.com/title/tt4474344/,Blindspot             ,7.5,TV-14,Action;Crime;Drama,NA,Martin Gero,NA,PT42M,NA
+https://www.imdb.com/title/tt0455275/,Prison Break             ,8.4,TV-14,Action;Crime;Drama,NA,Paul Scheuring,NA,PT44M,NA
+https://www.imdb.com/title/tt5753856/,Dark             ,8.7,TV-MA,Crime;Drama;Mystery,NA,Baran bo Odar;Jantje Friese,NA,PT60M,NA
+https://www.imdb.com/title/tt1475582/,Sherlock             ,9.2,TV-14,Crime;Drama;Mystery,NA,Mark Gatiss;Steven Moffat,NA,PT88M,NA
+https://www.imdb.com/title/tt2632424/,The Originals             ,8.3,TV-14,Drama;Fantasy;Horror,NA,Julie Plec,NA,PT45M,NA
+https://www.imdb.com/title/tt5742374/,You Were Never Really Here (2017) ,7.5,R,Drama;Mystery;Thriller,Lynne Ramsay,Lynne Ramsay;Jonathan Ames,2018-04-06,PT90M,NA
+https://www.imdb.com/title/tt3920596/,Big Little Lies             ,8.6,TV-MA,Crime;Drama;Mystery,NA,David E. Kelley,NA,PT60M,NA
+https://www.imdb.com/title/tt0460627/,Bones             ,7.9,TV-14,Comedy;Crime;Drama,NA,Hart Hanson,NA,PT40M,NA
+https://www.imdb.com/title/tt2356777/,True Detective             ,9.0,TV-MA,Crime;Drama;Mystery,NA,Nic Pizzolatto,NA,PT55M,NA
+https://www.imdb.com/title/tt0491738/,Psych             ,8.4,TV-PG,Comedy;Crime;Mystery,NA,Steve Franks,NA,PT44M,NA
+https://www.imdb.com/title/tt2296777/,Sherlock Gnomes (2018) ,4.5,PG,Animation;Adventure;Comedy,John Stevenson,Ben Zazove;Andy Riley,2018-03-23,PT86M,NA
+https://www.imdb.com/title/tt5109784/,Mother! (2017) ,6.7,R,Drama;Horror;Mystery,Darren Aronofsky,Darren Aronofsky,2017-09-15,PT121M,NA
+https://www.imdb.com/title/tt4206804/,The Frankenstein Chronicles             ,7.4,TV-MA,Crime;Drama;Fantasy,NA,Barry Langford,NA,PT48M,NA
+https://www.imdb.com/title/tt0411008/,Lost             ,8.4,TV-14,Adventure;Drama;Fantasy,NA,J.J. Abrams;Jeffrey Lieber;Damon Lindelof,NA,PT44M,NA
+https://www.imdb.com/title/tt0412142/,House M.D.             ,8.8,TV-14,Drama;Mystery,NA,David Shore,NA,PT44M,NA
+https://www.imdb.com/title/tt4154756/,Avengers: Infinity War (2018) ,NA,NO RATED,Action;Adventure;Fantasy,Anthony Russo;Joe Russo,Christopher Markus;Stephen McFeely,2018-04-27,PT156M,NA
+https://www.imdb.com/title/tt2798920/,Annihilation (2018) ,7.2,R,Adventure;Drama;Fantasy,Alex Garland,Alex Garland;Jeff VanderMeer,2018-02-23,PT115M,NA
+https://www.imdb.com/title/tt1825683/,Black Panther (2018) ,7.8,PG-13,Action;Adventure;Sci-Fi,Ryan Coogler,Ryan Coogler;Joe Robert Cole,2018-02-16,PT134M,NA
+https://www.imdb.com/title/tt2357547/,Jessica Jones             ,8.1,TV-MA,Action;Crime;Drama,NA,Melissa Rosenberg,NA,PT56M,NA
+https://www.imdb.com/title/tt1620680/,A Wrinkle in Time (2018) ,4.2,PG,Adventure;Family;Fantasy,Ava DuVernay,Jennifer Lee;Jeff Stockwell,2018-03-09,PT109M,NA
+https://www.imdb.com/title/tt1677720/,Ready Player One (2018) ,8.1,PG-13,Action;Adventure;Sci-Fi,Steven Spielberg,Zak Penn;Ernest Cline,2018-03-29,PT140M,NA
+https://www.imdb.com/title/tt3501632/,Thor: Ragnarok (2017) ,8.0,PG-13,Action;Adventure;Comedy,Taika Waititi,Eric Pearson;Craig Kyle,2017-11-03,PT130M,NA
+https://www.imdb.com/title/tt2527336/,Star Wars: Episode VIII - The Last Jedi (2017) ,7.4,PG-13,Action;Adventure;Fantasy,Rian Johnson,Rian Johnson;George Lucas,2017-12-15,PT152M,NA
+https://www.imdb.com/title/tt2193021/,Arrow             ,7.8,TV-14,Action;Adventure;Crime,NA,Greg Berlanti;Marc Guggenheim;Andrew Kreisberg,NA,PT42M,NA
+https://www.imdb.com/title/tt2364582/,Agents of S.H.I.E.L.D.             ,7.5,TV-PG,Action;Adventure;Drama,NA,Maurissa Tancharoen;Jed Whedon;Joss Whedon,NA,PT45M,NA
+https://www.imdb.com/title/tt0974015/,Justice League (2017) ,6.8,PG-13,Action;Adventure;Fantasy,Zack Snyder,Chris Terrio;Joss Whedon,2017-11-17,PT120M,NA
+https://www.imdb.com/title/tt2085059/,Black Mirror             ,8.9,TV-MA,Drama;Sci-Fi;Thriller,NA,Charlie Brooker,NA,PT60M,NA
+https://www.imdb.com/title/tt2261227/,Altered Carbon             ,8.3,TV-MA,Drama;Sci-Fi;Thriller,NA,Laeta Kalogridis,NA,PT60M,NA
+https://www.imdb.com/title/tt3749900/,Gotham             ,7.9,TV-14,Action;Crime;Drama,NA,Bruno Heller,NA,PT42M,NA
+https://www.imdb.com/title/tt3107288/,The Flash             ,8.0,TV-PG,Action;Adventure;Drama,NA,Greg Berlanti;Geoff Johns;Andrew Kreisberg,NA,PT43M,NA
+https://www.imdb.com/title/tt4574334/,Stranger Things             ,8.9,TV-14,Drama;Fantasy;Horror,NA,Matt Duffer;Ross Duffer,NA,PT51M,NA
+https://www.imdb.com/title/tt5511582/,Timeless             ,7.6,NOT RATED,Action;Adventure;Drama,NA,Eric Kripke;Shawn Ryan,NA,PT60M,NA
+https://www.imdb.com/title/tt4532368/,Legends of Tomorrow             ,7.0,TV-14,Action;Adventure;Drama,NA,Greg Berlanti;Marc Guggenheim;Phil Klemmer,NA,PT42M,NA
+https://www.imdb.com/title/tt2557478/,Pacific Rim: Uprising (2018) ,6.0,PG-13,Action;Adventure;Sci-Fi,Steven S. DeKnight,Steven S. DeKnight;Emily Carmichael,2018-03-23,PT111M,NA
+https://www.imdb.com/title/tt0475784/,Westworld             ,8.9,TV-MA,Drama;Mystery;Sci-Fi,NA,NA,NA,PT62M,NA
+https://www.imdb.com/title/tt0106179/,The X-Files             ,8.7,TV-14,Drama;Mystery;Sci-Fi,NA,Chris Carter,NA,PT45M,NA
+https://www.imdb.com/title/tt1856101/,Blade Runner 2049 (2017) ,8.1,R,Drama;Mystery;Sci-Fi,Denis Villeneuve,Hampton Fancher;Michael Green,2017-10-06,PT164M,NA
+https://www.imdb.com/title/tt5834204/,The Handmaid's Tale             ,8.6,TV-MA,Drama;Sci-Fi,NA,Bruce Miller,NA,PT60M,NA
+https://www.imdb.com/title/tt6565702/,X-Men: Dark Phoenix (2018) ,NA,NO RATED,Action;Adventure;Sci-Fi,Simon Kinberg,John Byrne;Chris Claremont,2018-11-02,NA,NA
+https://www.imdb.com/title/tt2861424/,Rick and Morty             ,9.3,TV-14,Animation;Adventure;Comedy,NA,Dan Harmon;Justin Roiland,NA,PT23M,NA
+https://www.imdb.com/title/tt4643084/,Counterpart             ,8.3,TV-MA,Drama;Sci-Fi;Thriller,NA,Justin Marks,NA,PT60M,NA
+https://www.imdb.com/title/tt0451279/,Wonder Woman (2017) ,7.5,PG-13,Action;Adventure;Fantasy,Patty Jenkins,Allan Heinberg;Zack Snyder,2017-06-02,PT141M,NA
+https://www.imdb.com/title/tt2661044/,The 100             ,7.8,TV-14,Drama;Mystery;Sci-Fi,NA,Jason Rothenberg,NA,PT43M,NA
+https://www.imdb.com/title/tt5688932/,Sorry to Bother You (2018) ,6.0,NO RATED,Comedy;Fantasy;Sci-Fi,Boots Riley,Boots Riley,2018-07-06,PT105M,NA
+https://www.imdb.com/title/tt1389072/,Downsizing (2017) ,5.7,R,Comedy;Drama;Sci-Fi,Alexander Payne,Alexander Payne;Jim Taylor,2017-12-22,PT135M,NA
+https://www.imdb.com/title/tt5104604/,Isle of Dogs (2018) ,8.3,PG-13,Animation;Adventure;Comedy,Wes Anderson,Wes Anderson;Roman Coppola,2018-05-10,PT101M,NA
+https://www.imdb.com/title/tt4154664/,Captain Marvel (2019) ,NA,NO RATED,Action;Adventure;Sci-Fi,Anna Boden;Ryan Fleck,Gene Colan;Meg LeFauve,2019-03-08,NA,NA
+https://www.imdb.com/title/tt5463162/,Deadpool 2 (2018) ,NA,NO RATED,Action;Adventure;Comedy,David Leitch,Fabian Nicieza;Rob Liefeld,2018-05-18,NA,NA
+https://www.imdb.com/title/tt5675620/,The Punisher             ,8.7,TV-MA,Action;Adventure;Crime,NA,Steve Lightfoot,NA,PT53M,NA
+https://www.imdb.com/title/tt1464763/,Mute (2018) ,5.4,TV-MA,Mystery;Sci-Fi;Thriller,Duncan Jones,Michael Robert Johnson;Duncan Jones,2018-02-23,PT126M,NA
+https://www.imdb.com/title/tt4016454/,Supergirl             ,6.5,TV-PG,Action;Adventure;Drama,NA,Ali Adler;Greg Berlanti;Andrew Kreisberg,NA,PT43M,NA
+https://www.imdb.com/title/tt2250912/,Spider-Man: Homecoming (2017) ,7.5,PG-13,Action;Adventure;Sci-Fi,Jon Watts,Jonathan Goldstein;John Francis Daley,2017-07-07,PT133M,NA
+https://www.imdb.com/title/tt5171438/,Star Trek: Discovery             ,7.4,TV-14,Action;Adventure;Drama,NA,Bryan Fuller;Alex Kurtzman,NA,PT60M,NA
+https://www.imdb.com/title/tt0436992/,Doctor Who             ,8.7,TV-PG,Adventure;Drama;Family,NA,Sydney Newman,NA,PT45M,NA
+https://www.imdb.com/title/tt3778644/,Solo: A Star Wars Story (2018) ,NA,NO RATED,Action;Adventure;Fantasy,Ron Howard,Jon Kasdan;Lawrence Kasdan,2018-05-25,NA,NA
+https://www.imdb.com/title/tt3322312/,Daredevil             ,8.7,TV-MA,Action;Crime;Drama,NA,Drew Goddard,NA,PT54M,NA
+https://www.imdb.com/title/tt1477834/,Aquaman (2018) ,NA,NO RATED,Action;Adventure;Sci-Fi,James Wan,Will Beall;Geoff Johns,2018-12-21,NA,NA
+https://www.imdb.com/title/tt0470752/,Ex Machina (2014) ,7.7,R,Drama;Mystery;Sci-Fi,Alex Garland,Alex Garland,2015-04-24,PT108M,NA
+https://www.imdb.com/title/tt3896198/,Guardians of the Galaxy Vol. 2 (2017) ,7.7,PG-13,Action;Adventure;Sci-Fi,James Gunn,James Gunn;Dan Abnett,2017-05-05,PT136M,NA
+https://www.imdb.com/title/tt5114356/,Legion             ,8.4,TV-MA,Action;Drama;Sci-Fi,NA,Noah Hawley,NA,PT60M,NA
+https://www.imdb.com/title/tt2239822/,Valerian and the City of a Thousand Planets (2017) ,6.5,PG-13,Action;Adventure;Fantasy,Luc Besson,Pierre Christin;Jean-Claude Mézières,2017-07-21,PT137M,NA
+https://www.imdb.com/title/tt5753856/,Dark             ,8.7,TV-MA,Crime;Drama;Mystery,NA,Baran bo Odar;Jantje Friese,NA,PT60M,NA
+https://www.imdb.com/title/tt1270797/,Venom (2018) ,NA,NO RATED,Action;Horror;Sci-Fi,Ruben Fleischer,Will Beall;Scott Rosenberg,2018-10-05,NA,NA
+https://www.imdb.com/title/tt3829266/,The Predator (2018) ,NA,NO RATED,Action;Adventure;Horror,Shane Black,Shane Black;Fred Dekker,2018-09-14,NA,NA
+https://www.imdb.com/title/tt3743822/,Fear the Walking Dead             ,7.0,TV-MA,Drama;Horror;Sci-Fi,NA,Dave Erickson;Robert Kirkman,NA,PT44M,NA
+https://www.imdb.com/title/tt4154756/,Avengers: Infinity War (2018) ,NA,NO RATED,Action;Adventure;Fantasy,Anthony Russo;Joe Russo,Christopher Markus;Stephen McFeely,2018-04-27,PT156M,NA
+https://www.imdb.com/title/tt2798920/,Annihilation (2018) ,7.2,R,Adventure;Drama;Fantasy,Alex Garland,Alex Garland;Jeff VanderMeer,2018-02-23,PT115M,NA
+https://www.imdb.com/title/tt1365519/,Tomb Raider (2018) ,6.9,PG-13,Action;Adventure,Roar Uthaug,Geneva Robertson-Dworet;Alastair Siddons,2018-03-16,PT118M,NA
+https://www.imdb.com/title/tt1825683/,Black Panther (2018) ,7.8,PG-13,Action;Adventure;Sci-Fi,Ryan Coogler,Ryan Coogler;Joe Robert Cole,2018-02-16,PT134M,NA
+https://www.imdb.com/title/tt5580390/,The Shape of Water (2017) ,7.5,R,Adventure;Drama;Fantasy,Guillermo del Toro,Guillermo del Toro;Vanessa Taylor,2017-12-22,PT123M,NA
+https://www.imdb.com/title/tt1620680/,A Wrinkle in Time (2018) ,4.2,PG,Adventure;Family;Fantasy,Ava DuVernay,Jennifer Lee;Jeff Stockwell,2018-03-09,PT109M,NA
+https://www.imdb.com/title/tt2283362/,Jumanji: Welcome to the Jungle (2017) ,7.1,PG-13,Action;Adventure;Comedy,Jake Kasdan,Chris McKenna;Erik Sommers,2017-12-20,PT119M,NA
+https://www.imdb.com/title/tt1677720/,Ready Player One (2018) ,8.1,PG-13,Action;Adventure;Sci-Fi,Steven Spielberg,Zak Penn;Ernest Cline,2018-03-29,PT140M,NA
+https://www.imdb.com/title/tt4123430/,Fantastic Beasts: The Crimes of Grindelwald (2018) ,NA,NO RATED,Adventure;Family;Fantasy,David Yates,J.K. Rowling,2018-11-16,NA,NA
+https://www.imdb.com/title/tt3501632/,Thor: Ragnarok (2017) ,8.0,PG-13,Action;Adventure;Comedy,Taika Waititi,Eric Pearson;Craig Kyle,2017-11-03,PT130M,NA
+https://www.imdb.com/title/tt0944947/,Game of Thrones             ,9.5,TV-MA,Action;Adventure;Drama,NA,David Benioff;D.B. Weiss,NA,PT57M,NA
+https://www.imdb.com/title/tt2527336/,Star Wars: Episode VIII - The Last Jedi (2017) ,7.4,PG-13,Action;Adventure;Fantasy,Rian Johnson,Rian Johnson;George Lucas,2017-12-15,PT152M,NA
+https://www.imdb.com/title/tt2193021/,Arrow             ,7.8,TV-14,Action;Adventure;Crime,NA,Greg Berlanti;Marc Guggenheim;Andrew Kreisberg,NA,PT42M,NA
+https://www.imdb.com/title/tt2364582/,Agents of S.H.I.E.L.D.             ,7.5,TV-PG,Action;Adventure;Drama,NA,Maurissa Tancharoen;Jed Whedon;Joss Whedon,NA,PT45M,NA
+https://www.imdb.com/title/tt0974015/,Justice League (2017) ,6.8,PG-13,Action;Adventure;Fantasy,Zack Snyder,Chris Terrio;Joss Whedon,2017-11-17,PT120M,NA
+https://www.imdb.com/title/tt2380307/,Coco (2017) ,8.5,PG,Animation;Adventure;Comedy,Lee Unkrich;Adrian Molina,Lee Unkrich;Jason Katz,2017-11-21,PT105M,NA
+https://www.imdb.com/title/tt2306299/,Vikings             ,8.6,TV-MA,Action;Adventure;Drama,NA,Michael Hirst,NA,PT44M,NA
+https://www.imdb.com/title/tt3107288/,The Flash             ,8.0,TV-PG,Action;Adventure;Drama,NA,Greg Berlanti;Geoff Johns;Andrew Kreisberg,NA,PT43M,NA
+https://www.imdb.com/title/tt5511582/,Timeless             ,7.6,NOT RATED,Action;Adventure;Drama,NA,Eric Kripke;Shawn Ryan,NA,PT60M,NA
+https://www.imdb.com/title/tt4532368/,Legends of Tomorrow             ,7.0,TV-14,Action;Adventure;Drama,NA,Greg Berlanti;Marc Guggenheim;Phil Klemmer,NA,PT42M,NA
+https://www.imdb.com/title/tt2557478/,Pacific Rim: Uprising (2018) ,6.0,PG-13,Action;Adventure;Sci-Fi,Steven S. DeKnight,Steven S. DeKnight;Emily Carmichael,2018-03-23,PT111M,NA
+https://www.imdb.com/title/tt3411444/,Ferdinand (2017) ,6.7,PG,Animation;Adventure;Comedy,Carlos Saldanha,Munro Leaf;Robert Lawson,2017-12-15,PT108M,NA
+https://www.imdb.com/title/tt6306064/,Adrift (2018) ,NA,NO RATED,Action;Adventure;Drama,Baltasar Kormákur,Aaron Kandell;Jordan Kandell,2018-06-01,NA,NA
+https://www.imdb.com/title/tt6565702/,X-Men: Dark Phoenix (2018) ,NA,NO RATED,Action;Adventure;Sci-Fi,Simon Kinberg,John Byrne;Chris Claremont,2018-11-02,NA,NA
+https://www.imdb.com/title/tt2861424/,Rick and Morty             ,9.3,TV-14,Animation;Adventure;Comedy,NA,Dan Harmon;Justin Roiland,NA,PT23M,NA
+https://www.imdb.com/title/tt0451279/,Wonder Woman (2017) ,7.5,PG-13,Action;Adventure;Fantasy,Patty Jenkins,Allan Heinberg;Zack Snyder,2017-06-02,PT141M,NA
+https://www.imdb.com/title/tt1843230/,Once Upon a Time             ,7.8,TV-PG,Adventure;Fantasy;Romance,NA,Adam Horowitz;Edward Kitsis,NA,PT44M,NA
+https://www.imdb.com/title/tt5104604/,Isle of Dogs (2018) ,8.3,PG-13,Animation;Adventure;Comedy,Wes Anderson,Wes Anderson;Roman Coppola,2018-05-10,PT101M,NA
+https://www.imdb.com/title/tt4575576/,Christopher Robin (2018) ,NA,NO RATED,Animation;Adventure;Comedy,Marc Forster,Tom McCarthy;A.A. Milne,2018-08-03,NA,NA
+https://www.imdb.com/title/tt4154664/,Captain Marvel (2019) ,NA,NO RATED,Action;Adventure;Sci-Fi,Anna Boden;Ryan Fleck,Gene Colan;Meg LeFauve,2019-03-08,NA,NA
+https://www.imdb.com/title/tt5117670/,Peter Rabbit (2018) ,6.4,PG,Animation;Adventure;Comedy,Will Gluck,Rob Lieber;Will Gluck,2018-02-09,PT95M,NA
+https://www.imdb.com/title/tt4468740/,Paddington 2 (2017) ,8.0,PG,Animation;Adventure;Comedy,Paul King,Paul King;Simon Farnaby,2018-01-12,PT103M,NA
+https://www.imdb.com/title/tt0146316/,Lara Croft: Tomb Raider (2001) ,5.8,PG-13,Action;Adventure;Fantasy,Simon West,Sara B. Cooper;Mike Werb,2001-06-15,PT100M,NA
+https://www.imdb.com/title/tt5463162/,Deadpool 2 (2018) ,NA,NO RATED,Action;Adventure;Comedy,David Leitch,Fabian Nicieza;Rob Liefeld,2018-05-18,NA,NA
+https://www.imdb.com/title/tt5675620/,The Punisher             ,8.7,TV-MA,Action;Adventure;Crime,NA,Steve Lightfoot,NA,PT53M,NA
+https://www.imdb.com/title/tt4016454/,Supergirl             ,6.5,TV-PG,Action;Adventure;Drama,NA,Ali Adler;Greg Berlanti;Andrew Kreisberg,NA,PT43M,NA
+https://www.imdb.com/title/tt2250912/,Spider-Man: Homecoming (2017) ,7.5,PG-13,Action;Adventure;Sci-Fi,Jon Watts,Jonathan Goldstein;John Francis Daley,2017-07-07,PT133M,NA
+https://www.imdb.com/title/tt5171438/,Star Trek: Discovery             ,7.4,TV-14,Action;Adventure;Drama,NA,Bryan Fuller;Alex Kurtzman,NA,PT60M,NA
+https://www.imdb.com/title/tt0436992/,Doctor Who             ,8.7,TV-PG,Adventure;Drama;Family,NA,Sydney Newman,NA,PT45M,NA
+https://www.imdb.com/title/tt3183660/,Fantastic Beasts and Where to Find Them (2016) ,7.4,PG-13,Adventure;Family;Fantasy,David Yates,J.K. Rowling,2016-11-18,PT133M,NA
+https://www.imdb.com/title/tt3778644/,Solo: A Star Wars Story (2018) ,NA,NO RATED,Action;Adventure;Fantasy,Ron Howard,Jon Kasdan;Lawrence Kasdan,2018-05-25,NA,NA
+https://www.imdb.com/title/tt1477834/,Aquaman (2018) ,NA,NO RATED,Action;Adventure;Sci-Fi,James Wan,Will Beall;Geoff Johns,2018-12-21,NA,NA
+https://www.imdb.com/title/tt3896198/,Guardians of the Galaxy Vol. 2 (2017) ,7.7,PG-13,Action;Adventure;Sci-Fi,James Gunn,James Gunn;Dan Abnett,2017-05-05,PT136M,NA
+https://www.imdb.com/title/tt2239822/,Valerian and the City of a Thousand Planets (2017) ,6.5,PG-13,Action;Adventure;Fantasy,Luc Besson,Pierre Christin;Jean-Claude Mézières,2017-07-21,PT137M,NA
+https://www.imdb.com/title/tt3829266/,The Predator (2018) ,NA,NO RATED,Action;Adventure;Horror,Shane Black,Shane Black;Fred Dekker,2018-09-14,NA,NA
+https://www.imdb.com/title/tt1431045/,Deadpool (2016) ,8.0,R,Action;Adventure;Comedy,Tim Miller,Rhett Reese;Paul Wernick,2016-02-12,PT108M,NA
+https://www.imdb.com/title/tt3498820/,Captain America: Civil War (2016) ,7.8,PG-13,Action;Adventure;Sci-Fi,Anthony Russo;Joe Russo,Christopher Markus;Stephen McFeely,2016-05-06,PT147M,NA
+https://www.imdb.com/title/tt2296777/,Sherlock Gnomes (2018) ,4.5,PG,Animation;Adventure;Comedy,John Stevenson,Ben Zazove;Andy Riley,2018-03-23,PT86M,NA
+https://www.imdb.com/title/tt4649466/,Kingsman: The Golden Circle (2017) ,6.8,R,Action;Adventure;Comedy,Matthew Vaughn,Jane Goldman;Matthew Vaughn,2017-09-22,PT141M,NA
+https://www.imdb.com/title/tt3371366/,Transformers: The Last Knight (2017) ,5.2,PG-13,Action;Adventure;Sci-Fi,Michael Bay,Art Marcum;Matt Holloway,2017-06-21,PT154M,NA
+https://www.imdb.com/title/tt4154756/,Avengers: Infinity War (2018) ,NA,NO RATED,Action;Adventure;Fantasy,Anthony Russo;Joe Russo,Christopher Markus;Stephen McFeely,2018-04-27,PT156M,NA
+https://www.imdb.com/title/tt2798920/,Annihilation (2018) ,7.2,R,Adventure;Drama;Fantasy,Alex Garland,Alex Garland;Jeff VanderMeer,2018-02-23,PT115M,NA
+https://www.imdb.com/title/tt5580390/,The Shape of Water (2017) ,7.5,R,Adventure;Drama;Fantasy,Guillermo del Toro,Guillermo del Toro;Vanessa Taylor,2017-12-22,PT123M,NA
+https://www.imdb.com/title/tt1620680/,A Wrinkle in Time (2018) ,4.2,PG,Adventure;Family;Fantasy,Ava DuVernay,Jennifer Lee;Jeff Stockwell,2018-03-09,PT109M,NA
+https://www.imdb.com/title/tt2283362/,Jumanji: Welcome to the Jungle (2017) ,7.1,PG-13,Action;Adventure;Comedy,Jake Kasdan,Chris McKenna;Erik Sommers,2017-12-20,PT119M,NA
+https://www.imdb.com/title/tt4123430/,Fantastic Beasts: The Crimes of Grindelwald (2018) ,NA,NO RATED,Adventure;Family;Fantasy,David Yates,J.K. Rowling,2018-11-16,NA,NA
+https://www.imdb.com/title/tt3501632/,Thor: Ragnarok (2017) ,8.0,PG-13,Action;Adventure;Comedy,Taika Waititi,Eric Pearson;Craig Kyle,2017-11-03,PT130M,NA
+https://www.imdb.com/title/tt0944947/,Game of Thrones             ,9.5,TV-MA,Action;Adventure;Drama,NA,David Benioff;D.B. Weiss,NA,PT57M,NA
+https://www.imdb.com/title/tt2527336/,Star Wars: Episode VIII - The Last Jedi (2017) ,7.4,PG-13,Action;Adventure;Fantasy,Rian Johnson,Rian Johnson;George Lucas,2017-12-15,PT152M,NA
+https://www.imdb.com/title/tt0460681/,Supernatural             ,8.5,TV-14,Drama;Fantasy;Horror,NA,Eric Kripke,NA,PT44M,NA
+https://www.imdb.com/title/tt0974015/,Justice League (2017) ,6.8,PG-13,Action;Adventure;Fantasy,Zack Snyder,Chris Terrio;Joss Whedon,2017-11-17,PT120M,NA
+https://www.imdb.com/title/tt2380307/,Coco (2017) ,8.5,PG,Animation;Adventure;Comedy,Lee Unkrich;Adrian Molina,Lee Unkrich;Jason Katz,2017-11-21,PT105M,NA
+https://www.imdb.com/title/tt4052886/,Lucifer             ,8.2,TV-14,Crime;Drama;Fantasy,NA,Tom Kapinos,NA,PT42M,NA
+https://www.imdb.com/title/tt4574334/,Stranger Things             ,8.9,TV-14,Drama;Fantasy;Horror,NA,Matt Duffer;Ross Duffer,NA,PT51M,NA
+https://www.imdb.com/title/tt3411444/,Ferdinand (2017) ,6.7,PG,Animation;Adventure;Comedy,Carlos Saldanha,Munro Leaf;Robert Lawson,2017-12-15,PT108M,NA
+https://www.imdb.com/title/tt0451279/,Wonder Woman (2017) ,7.5,PG-13,Action;Adventure;Fantasy,Patty Jenkins,Allan Heinberg;Zack Snyder,2017-06-02,PT141M,NA
+https://www.imdb.com/title/tt1843230/,Once Upon a Time             ,7.8,TV-PG,Adventure;Fantasy;Romance,NA,Adam Horowitz;Edward Kitsis,NA,PT44M,NA
+https://www.imdb.com/title/tt4254242/,The Magicians             ,7.5,TV-14,Drama;Fantasy,NA,NA,NA,PT60M,NA
+https://www.imdb.com/title/tt5688932/,Sorry to Bother You (2018) ,6.0,NO RATED,Comedy;Fantasy;Sci-Fi,Boots Riley,Boots Riley,2018-07-06,PT105M,NA
+https://www.imdb.com/title/tt5104604/,Isle of Dogs (2018) ,8.3,PG-13,Animation;Adventure;Comedy,Wes Anderson,Wes Anderson;Roman Coppola,2018-05-10,PT101M,NA
+https://www.imdb.com/title/tt5117670/,Peter Rabbit (2018) ,6.4,PG,Animation;Adventure;Comedy,Will Gluck,Rob Lieber;Will Gluck,2018-02-09,PT95M,NA
+https://www.imdb.com/title/tt5028340/,Mary Poppins Returns (2018) ,NA,NO RATED,Family;Fantasy;Musical,Rob Marshall,David Magee;P.L. Travers,2018-12-25,NA,NA
+https://www.imdb.com/title/tt4992060/,Sadie (2016) ,3.8,NO RATED,Drama;Fantasy;Horror,Craig Goodwill,Brian Clark,2018-03-15,PT84M,NA
+https://www.imdb.com/title/tt4468740/,Paddington 2 (2017) ,8.0,PG,Animation;Adventure;Comedy,Paul King,Paul King;Simon Farnaby,2018-01-12,PT103M,NA
+https://www.imdb.com/title/tt0146316/,Lara Croft: Tomb Raider (2001) ,5.8,PG-13,Action;Adventure;Fantasy,Simon West,Sara B. Cooper;Mike Werb,2001-06-15,PT100M,NA
+https://www.imdb.com/title/tt1405406/,The Vampire Diaries             ,7.8,TV-14,Drama;Fantasy;Horror,NA,Julie Plec;Kevin Williamson,NA,PT43M,NA
+https://www.imdb.com/title/tt2709692/,The Grinch (2018) ,NA,NO RATED,Animation;Comedy;Family,Yarrow Cheney;Scott Mosier,Dr. Seuss;Michael LeSieur,2018-11-09,NA,NA
+https://www.imdb.com/title/tt3183660/,Fantastic Beasts and Where to Find Them (2016) ,7.4,PG-13,Adventure;Family;Fantasy,David Yates,J.K. Rowling,2016-11-18,PT133M,NA
+https://www.imdb.com/title/tt3006802/,Outlander             ,8.5,TV-MA,Drama;Fantasy;Romance,NA,Ronald D. Moore,NA,PT64M,NA
+https://www.imdb.com/title/tt3778644/,Solo: A Star Wars Story (2018) ,NA,NO RATED,Action;Adventure;Fantasy,Ron Howard,Jon Kasdan;Lawrence Kasdan,2018-05-25,NA,NA
+https://www.imdb.com/title/tt4189022/,Ash vs Evil Dead             ,8.5,TV-MA,Action;Comedy;Fantasy,NA,Ivan Raimi;Sam Raimi;Tom Spezialy,NA,PT30M,NA
+https://www.imdb.com/title/tt2239822/,Valerian and the City of a Thousand Planets (2017) ,6.5,PG-13,Action;Adventure;Fantasy,Luc Besson,Pierre Christin;Jean-Claude Mézières,2017-07-21,PT137M,NA
+https://www.imdb.com/title/tt2632424/,The Originals             ,8.3,TV-14,Drama;Fantasy;Horror,NA,Julie Plec,NA,PT45M,NA
+https://www.imdb.com/title/tt4955642/,The Good Place             ,8.0,TV-PG,Comedy;Drama;Fantasy,NA,Michael Schur,NA,PT22M,NA
+https://www.imdb.com/title/tt1567432/,Teen Wolf             ,7.7,TV-14,Action;Comedy;Drama,NA,Jeff Davis,NA,PT41M,NA
+https://www.imdb.com/title/tt2296777/,Sherlock Gnomes (2018) ,4.5,PG,Animation;Adventure;Comedy,John Stevenson,Ben Zazove;Andy Riley,2018-03-23,PT86M,NA
+https://www.imdb.com/title/tt4547194/,I Kill Giants (2017) ,7.4,NOT RATED,Drama;Fantasy;Thriller,Anders Walter,Joe Kelly;Joe Kelly,2018-03-23,PT106M,NA
+https://www.imdb.com/title/tt4206804/,The Frankenstein Chronicles             ,7.4,TV-MA,Crime;Drama;Fantasy,NA,Barry Langford,NA,PT48M,NA
+https://www.imdb.com/title/tt2771200/,Beauty and the Beast (2017) ,7.3,PG,Family;Fantasy;Musical,Bill Condon,Stephen Chbosky;Evan Spiliotopoulos,2017-03-17,PT129M,NA
+https://www.imdb.com/title/tt0411008/,Lost             ,8.4,TV-14,Adventure;Drama;Fantasy,NA,J.J. Abrams;Jeffrey Lieber;Damon Lindelof,NA,PT44M,NA
+https://www.imdb.com/title/tt1386697/,Suicide Squad (2016) ,6.1,PG-13,Action;Adventure;Fantasy,David Ayer,David Ayer,2016-08-05,PT123M,NA
+https://www.imdb.com/title/tt1072748/,Winchester (2018) ,5.4,PG-13,Biography;Fantasy;Horror,Michael Spierig;Peter Spierig,Tom Vaughan;Michael Spierig,2018-02-02,PT99M,NA
+https://www.imdb.com/title/tt0113497/,Jumanji (1995) ,6.9,PG,Adventure;Family;Fantasy,Joe Johnston,Jonathan Hensleigh;Greg Taylor,1995-12-15,PT104M,NA
+https://www.imdb.com/title/tt0241527/,Harry Potter and the Sorcerer's Stone (2001) ,7.6,PG,Adventure;Family;Fantasy,Chris Columbus,J.K. Rowling;Steve Kloves,2001-11-16,PT152M,NA
+https://www.imdb.com/title/tt3521164/,Moana (2016) ,7.6,PG,Animation;Adventure;Comedy,Ron Clements;John Musker,Jared Bush;Ron Clements,2016-11-23,PT107M,NA
+https://www.imdb.com/title/tt5932548/,Britannia             ,6.6,TV-MA,Action;Drama;Fantasy,NA,Jez Butterworth;Tom Butterworth;James Richardson,NA,PT60M,NA
+https://www.imdb.com/title/tt6856484/,Ghost Wars             ,6.5,TV-14,Drama;Fantasy;Horror,NA,Simon Barry,NA,PT60M,NA
+https://www.imdb.com/title/tt5519340/,Bright (2017) ,6.4,TV-MA,Action;Crime;Fantasy,David Ayer,Max Landis,2017-12-22,PT117M,NA
+https://www.imdb.com/title/tt5783956/,When We First Met (2018) ,6.4,TV-14,Comedy;Fantasy;Romance,Ari Sandel,John Whittington,2018-02-09,PT97M,NA
+https://www.imdb.com/title/tt0457430/,Pan's Labyrinth (2006) ,8.2,R,Drama;Fantasy;War,Guillermo del Toro,Guillermo del Toro,2007-01-19,PT118M,NA
+https://www.imdb.com/title/tt2798920/,Annihilation (2018) ,7.2,R,Adventure;Drama;Fantasy,Alex Garland,Alex Garland;Jeff VanderMeer,2018-02-23,PT115M,NA
+https://www.imdb.com/title/tt1520211/,The Walking Dead             ,8.4,TV-MA,Drama;Horror;Thriller,NA,Frank Darabont,NA,PT44M,NA
+https://www.imdb.com/title/tt5580390/,The Shape of Water (2017) ,7.5,R,Adventure;Drama;Fantasy,Guillermo del Toro,Guillermo del Toro;Vanessa Taylor,2017-12-22,PT123M,NA
+https://www.imdb.com/title/tt0460681/,Supernatural             ,8.5,TV-14,Drama;Fantasy;Horror,NA,Eric Kripke,NA,PT44M,NA
+https://www.imdb.com/title/tt1285009/,The Strangers: Prey at Night (2018) ,5.9,R,Horror,Johannes Roberts,Bryan Bertino;Ben Ketai,2018-03-09,PT85M,NA
+https://www.imdb.com/title/tt5862312/,Verónica (2017) ,6.3,TV-MA,Drama;Horror,Paco Plaza,Fernando Navarro;Paco Plaza,2017-08-25,PT105M,NA
+https://www.imdb.com/title/tt6644200/,A Quiet Place (2018) ,8.6,PG-13,Drama;Horror;Thriller,John Krasinski,Bryan Woods;Scott Beck,2018-04-06,PT90M,NA
+https://www.imdb.com/title/tt4574334/,Stranger Things             ,8.9,TV-14,Drama;Fantasy;Horror,NA,Matt Duffer;Ross Duffer,NA,PT51M,NA
+https://www.imdb.com/title/tt5052448/,Get Out (2017) ,7.7,R,Horror;Mystery;Thriller,Jordan Peele,Jordan Peele,2017-02-24,PT104M,NA
+https://www.imdb.com/title/tt4992060/,Sadie (2016) ,3.8,NO RATED,Drama;Fantasy;Horror,Craig Goodwill,Brian Clark,2018-03-15,PT84M,NA
+https://www.imdb.com/title/tt1396484/,It (2017) ,7.5,R,Drama;Horror;Thriller,Andy Muschietti,Chase Palmer;Cary Joji Fukunaga,2017-09-08,PT135M,NA
+https://www.imdb.com/title/tt1844624/,American Horror Story             ,8.1,TV-MA,Drama;Horror;Thriller,NA,Brad Falchuk;Ryan Murphy,NA,PT60M,NA
+https://www.imdb.com/title/tt3501584/,iZombie             ,8.0,TV-14,Comedy;Crime;Drama,NA,Diane Ruggiero;Rob Thomas,NA,PT42M,NA
+https://www.imdb.com/title/tt1405406/,The Vampire Diaries             ,7.8,TV-14,Drama;Fantasy;Horror,NA,Julie Plec;Kevin Williamson,NA,PT43M,NA
+https://www.imdb.com/title/tt2188671/,Bates Motel             ,8.2,TV-MA,Drama;Horror;Mystery,NA,Anthony Cipriano;Carlton Cuse;Kerry Ehrin,NA,PT45M,NA
+https://www.imdb.com/title/tt4189022/,Ash vs Evil Dead             ,8.5,TV-MA,Action;Comedy;Fantasy,NA,Ivan Raimi;Sam Raimi;Tom Spezialy,NA,PT30M,NA
+https://www.imdb.com/title/tt1502407/,Halloween (2018) ,NA,NO RATED,Horror,David Gordon Green,John Carpenter;David Gordon Green,2018-10-19,NA,NA
+https://www.imdb.com/title/tt2632424/,The Originals             ,8.3,TV-14,Drama;Fantasy;Horror,NA,Julie Plec,NA,PT45M,NA
+https://www.imdb.com/title/tt1270797/,Venom (2018) ,NA,NO RATED,Action;Horror;Sci-Fi,Ruben Fleischer,Will Beall;Scott Rosenberg,2018-10-05,NA,NA
+https://www.imdb.com/title/tt3829266/,The Predator (2018) ,NA,NO RATED,Action;Adventure;Horror,Shane Black,Shane Black;Fred Dekker,2018-09-14,NA,NA
+https://www.imdb.com/title/tt1567432/,Teen Wolf             ,7.7,TV-14,Action;Comedy;Drama,NA,Jeff Davis,NA,PT41M,NA
+https://www.imdb.com/title/tt3743822/,Fear the Walking Dead             ,7.0,TV-MA,Drama;Horror;Sci-Fi,NA,Dave Erickson;Robert Kirkman,NA,PT44M,NA
+https://www.imdb.com/title/tt2316204/,Alien: Covenant (2017) ,6.5,R,Horror;Sci-Fi;Thriller,Ridley Scott,Dan O'Bannon;Ronald Shusett,2017-05-19,PT122M,NA
+https://www.imdb.com/title/tt5109784/,Mother! (2017) ,6.7,R,Drama;Horror;Mystery,Darren Aronofsky,Darren Aronofsky,2017-09-15,PT121M,NA
+https://www.imdb.com/title/tt5580540/,Santa Clarita Diet             ,7.6,TV-MA,Comedy;Horror,NA,Victor Fresco,NA,PT30M,NA
+https://www.imdb.com/title/tt5638642/,The Ritual (2017) ,6.3,TV-MA,Horror,David Bruckner,Joe Barton;Adam Nevill,2018-02-09,PT94M,NA
+https://www.imdb.com/title/tt1072748/,Winchester (2018) ,5.4,PG-13,Biography;Fantasy;Horror,Michael Spierig;Peter Spierig,Tom Vaughan;Michael Spierig,2018-02-02,PT99M,NA
+https://www.imdb.com/title/tt7153766/,Unsane (2018) ,6.8,R,Horror;Thriller,Steven Soderbergh,Jonathan Bernstein;James Greer,2018-03-23,PT97M,NA
+https://www.imdb.com/title/tt0482606/,The Strangers (2008) ,6.2,R,Horror;Mystery;Thriller,Bryan Bertino,Bryan Bertino,2008-05-30,PT86M,NA
+https://www.imdb.com/title/tt2708480/,The Terror             ,9.3,NO RATED,Drama;Horror,NA,David Kajganich,NA,PT60M,NA
+https://www.imdb.com/title/tt2548396/,The Cloverfield Paradox (2018) ,5.6,TV-MA,Horror;Mystery;Sci-Fi,Julius Onah,Oren Uziel;Oren Uziel,2018-02-04,PT102M,NA
+https://www.imdb.com/title/tt6856484/,Ghost Wars             ,6.5,TV-14,Drama;Fantasy;Horror,NA,Simon Barry,NA,PT60M,NA
+https://www.imdb.com/title/tt4779682/,The Meg (2018) ,NA,PG-13,Action;Horror;Sci-Fi,Jon Turteltaub,Steve Alten;Belle Avery,2018-08-10,NA,NA
+https://www.imdb.com/title/tt4820370/,Channel Zero             ,7.2,TV-14,Drama;Horror;Mystery,NA,Nick Antosca,NA,PT44M,NA
+https://www.imdb.com/title/tt4972582/,Split (2016) ,7.3,PG-13,Horror;Thriller,M. Night Shyamalan,M. Night Shyamalan,2017-01-20,PT117M,NA
+https://www.imdb.com/title/tt1830617/,Grimm             ,7.8,TV-14,Drama;Fantasy;Horror,NA,Stephen Carpenter;David Greenwalt;Jim Kouf,NA,PT45M,NA
+https://www.imdb.com/title/tt7820536/,Nightmare: Return to Elm Street (2018) ,7.3,NO RATED,Short;Horror,Domonic Smith,Damian Alpizar;Sean Michael Gloria,2018-01-01,PT3M,NA
+https://www.imdb.com/title/tt3843168/,Z Nation             ,6.7,TV-14,Action;Comedy;Drama,NA,Craig Engler;Karl Schaefer,NA,PT44M,NA
+https://www.imdb.com/title/tt7349950/,It: Chapter Two (2019) ,NA,NO RATED,Horror,Andy Muschietti,Gary Dauberman;Stephen King,2019-09-06,NA,NA
+https://www.imdb.com/title/tt5726086/,Insidious: The Last Key (2018) ,5.7,PG-13,Horror;Mystery;Thriller,Adam Robitel,Leigh Whannell;Leigh Whannell,2018-01-05,PT103M,NA
+https://www.imdb.com/title/tt4130484/,Demon House (2018) ,6.8,NO RATED,Documentary;Horror,Zak Bagans,Zak Bagans,2018-03-16,PT111M,NA
+https://www.imdb.com/title/tt3348730/,Jigsaw (2017) ,5.9,R,Crime;Horror;Mystery,Michael Spierig;Peter Spierig,Pete Goldfinger;Josh Stolberg,2017-10-27,PT92M,NA
+https://www.imdb.com/title/tt6572702/,Monster Family (2017) ,4.6,PG,Animation;Comedy;Family,Holger Tappe,David Safier;Catharina Junk,2018-02-09,PT93M,NA
+https://www.imdb.com/title/tt5886440/,Marrowbone (2017) ,6.6,R,Drama;Horror;Thriller,Sergio G. Sánchez,Sergio G. Sánchez,2018-04-13,PT110M,NA
+https://www.imdb.com/title/tt6772950/,Truth or Dare (2018) ,NA,PG-13,Horror;Thriller,Jeff Wadlow,Jillian Jacobs;Michael Reisz,2018-04-13,NA,NA
+https://www.imdb.com/title/tt7784604/,Hereditary (2018) ,7.2,NO RATED,Drama;Horror;Mystery,Ari Aster,Ari Aster,2018-06-08,PT126M,NA
+https://www.imdb.com/title/tt0054215/,Psycho (1960) ,8.5,R,Horror;Mystery;Thriller,Alfred Hitchcock,Joseph Stefano;Robert Bloch,1960-09-08,PT109M,NA
+https://www.imdb.com/title/tt5462326/,Mom and Dad (2017) ,5.5,R,Horror;Thriller,Brian Taylor,Brian Taylor,2018-01-19,PT86M,NA
+https://www.imdb.com/title/tt4682266/,The New Mutants (2019) ,NA,NO RATED,Action;Horror;Sci-Fi,Josh Boone,Josh Boone;Knate Lee,2019-02-22,NA,NA
+https://www.imdb.com/title/tt2291540/,My Friend Dahmer (2017) ,6.4,R,Biography;Drama;Horror,Marc Meyers,Marc Meyers;Derf Backderf,2018-06-01,PT107M,NA
+https://www.imdb.com/title/tt2380307/,Coco (2017) ,8.5,PG,Animation;Adventure;Comedy,Lee Unkrich;Adrian Molina,Lee Unkrich;Jason Katz,2017-11-21,PT105M,NA
+https://www.imdb.com/title/tt3411444/,Ferdinand (2017) ,6.7,PG,Animation;Adventure;Comedy,Carlos Saldanha,Munro Leaf;Robert Lawson,2017-12-15,PT108M,NA
+https://www.imdb.com/title/tt2861424/,Rick and Morty             ,9.3,TV-14,Animation;Adventure;Comedy,NA,Dan Harmon;Justin Roiland,NA,PT23M,NA
+https://www.imdb.com/title/tt5104604/,Isle of Dogs (2018) ,8.3,PG-13,Animation;Adventure;Comedy,Wes Anderson,Wes Anderson;Roman Coppola,2018-05-10,PT101M,NA
+https://www.imdb.com/title/tt4575576/,Christopher Robin (2018) ,NA,NO RATED,Animation;Adventure;Comedy,Marc Forster,Tom McCarthy;A.A. Milne,2018-08-03,NA,NA
+https://www.imdb.com/title/tt5117670/,Peter Rabbit (2018) ,6.4,PG,Animation;Adventure;Comedy,Will Gluck,Rob Lieber;Will Gluck,2018-02-09,PT95M,NA
+https://www.imdb.com/title/tt4468740/,Paddington 2 (2017) ,8.0,PG,Animation;Adventure;Comedy,Paul King,Paul King;Simon Farnaby,2018-01-12,PT103M,NA
+https://www.imdb.com/title/tt2709692/,The Grinch (2018) ,NA,NO RATED,Animation;Comedy;Family,Yarrow Cheney;Scott Mosier,Dr. Seuss;Michael LeSieur,2018-11-09,NA,NA
+https://www.imdb.com/title/tt1561755/,Bob's Burgers             ,8.1,TV-PG,Animation;Comedy,NA,Loren Bouchard;Jim Dauterive,NA,PT22M,NA
+https://www.imdb.com/title/tt2296777/,Sherlock Gnomes (2018) ,4.5,PG,Animation;Adventure;Comedy,John Stevenson,Ben Zazove;Andy Riley,2018-03-23,PT86M,NA
+https://www.imdb.com/title/tt2930604/,Star Wars: Rebels             ,8.0,TV-Y7,Animation;Action;Adventure,NA,Simon Kinberg;Carrie Beck;Dave Filoni,NA,PT22M,NA
+https://www.imdb.com/title/tt2261287/,Leap! (2016) ,6.8,PG,Animation;Adventure;Comedy,Eric Summer;Éric Warin,Eric Summer;Eric Summer,2017-08-25,PT89M,NA
+https://www.imdb.com/title/tt0182576/,Family Guy             ,8.2,TV-14,Animation;Comedy,NA,Seth MacFarlane;David Zuckerman,NA,PT22M,NA
+https://www.imdb.com/title/tt0096697/,The Simpsons             ,8.8,TV-14,Animation;Comedy,NA,James L. Brooks;Matt Groening;Sam Simon,NA,PT22M,NA
+https://www.imdb.com/title/tt3521164/,Moana (2016) ,7.6,PG,Animation;Adventure;Comedy,Ron Clements;John Musker,Jared Bush;Ron Clements,2016-11-23,PT107M,NA
+https://www.imdb.com/title/tt1486217/,Archer             ,8.7,TV-MA,Animation;Action;Comedy,NA,Adam Reed,NA,PT22M,NA
+https://www.imdb.com/title/tt0110357/,The Lion King (1994) ,8.5,G,Animation;Adventure;Drama,Roger Allers;Rob Minkoff,Irene Mecchi;Jonathan Roberts,1994-06-24,PT88M,NA
+https://www.imdb.com/title/tt2948356/,Zootopia (2016) ,8.0,PG,Animation;Adventure;Comedy,Byron Howard;Rich Moore,Byron Howard;Rich Moore,2016-03-04,PT108M,NA
+https://www.imdb.com/title/tt3470600/,Sing (2016) ,7.1,PG,Animation;Comedy;Family,Garth Jennings;Christophe Lourdelet,Garth Jennings,2016-12-21,PT108M,NA
+https://www.imdb.com/title/tt3606756/,Incredibles 2 (2018) ,NA,NO RATED,Animation;Action;Adventure,Brad Bird,Brad Bird,2018-06-15,NA,NA
+https://www.imdb.com/title/tt4701724/,Early Man (2018) ,6.3,PG,Animation;Adventure;Comedy,Nick Park,Mark Burton;James Higginson,2018-02-16,PT89M,NA
+https://www.imdb.com/title/tt6524350/,Big Mouth             ,8.1,TV-MA,Animation;Comedy;Romance,NA,Jennifer Flackett;Andrew Goldberg;Nick Kroll,NA,PT30M,NA
+https://www.imdb.com/title/tt6572702/,Monster Family (2017) ,4.6,PG,Animation;Comedy;Family,Holger Tappe,David Safier;Catharina Junk,2018-02-09,PT93M,NA
+https://www.imdb.com/title/tt0417299/,Avatar: The Last Airbender             ,9.2,TV-Y7-FV,Animation;Action;Adventure,NA,Michael Dante DiMartino;Bryan Konietzko,NA,PT23M,NA
+https://www.imdb.com/title/tt2294629/,Frozen (2013) ,7.5,PG,Animation;Adventure;Comedy,Chris Buck;Jennifer Lee,Jennifer Lee;Hans Christian Andersen,2013-11-27,PT102M,NA
+https://www.imdb.com/title/tt6317068/,Final Space             ,8.4,TV-14,Animation;Action;Adventure,NA,Olan Rogers;David Sacks,NA,PT30M,NA
+https://www.imdb.com/title/tt3606752/,Cars 3 (2017) ,6.8,G,Animation;Adventure;Comedy,Brian Fee,Brian Fee;Ben Queen,2017-06-16,PT102M,NA
+https://www.imdb.com/title/tt4877122/,The Emoji Movie (2017) ,3.1,PG,Animation;Adventure;Comedy,Tony Leondis,Tony Leondis;Eric Siegel,2017-07-28,PT86M,NA
+https://www.imdb.com/title/tt0121955/,South Park             ,8.7,TV-MA,Animation;Comedy,NA,Trey Parker;Matt Stone;Brian Graden,NA,PT22M,NA
+https://www.imdb.com/title/tt1679335/,Trolls (2016) ,6.5,PG,Animation;Adventure;Comedy,Mike Mitchell;Walt Dohrn,Jonathan Aibel;Glenn Berger,2016-11-04,PT92M,NA
+https://www.imdb.com/title/tt2096673/,Inside Out (2015) ,8.2,PG,Animation;Adventure;Comedy,Pete Docter;Ronnie Del Carmen,Pete Docter;Ronnie Del Carmen,2015-06-19,PT95M,NA
+https://www.imdb.com/title/tt0149460/,Futurama             ,8.5,TV-14,Animation;Comedy;Sci-Fi,NA,David X. Cohen;Matt Groening,NA,PT22M,NA
+https://www.imdb.com/title/tt0317705/,The Incredibles (2004) ,8.0,PG,Animation;Action;Adventure,Brad Bird,Brad Bird,2004-11-05,PT115M,NA
+https://www.imdb.com/title/tt3398228/,BoJack Horseman             ,8.5,TV-MA,Animation;Comedy;Drama,NA,Raphael Bob-Waksberg,NA,PT25M,NA
+https://www.imdb.com/title/tt5848272/,Ralph Breaks the Internet: Wreck-It Ralph 2 (2018) ,NA,NO RATED,Animation;Adventure;Comedy,Phil Johnston;Rich Moore,Phil Johnston;Jim Reardon,2018-11-21,NA,NA
+https://www.imdb.com/title/tt0397306/,American Dad!             ,7.4,TV-14,Animation;Comedy,NA,Mike Barker;Seth MacFarlane;Matt Weitzman,NA,PT22M,NA
+https://www.imdb.com/title/tt4644488/,Dragon Ball Super             ,8.1,TV-PG,Animation;Action;Adventure,NA,Akira Toriyama,NA,PT24M,NA
+https://www.imdb.com/title/tt1305826/,Adventure Time             ,8.6,TV-PG,Animation;Adventure;Comedy,NA,Pendleton Ward,NA,PT11M,NA
+https://www.imdb.com/title/tt2560140/,Attack on Titan             ,8.8,TV-14,Animation;Action;Adventure,NA,NA,NA,PT24M,NA
+https://www.imdb.com/title/tt0101414/,Beauty and the Beast (1991) ,8.0,G,Animation;Family;Fantasy,Gary Trousdale;Kirk Wise,Linda Woolverton;Brenda Chapman,1991-11-22,PT84M,NA
+https://www.imdb.com/title/tt3874544/,The Boss Baby (2017) ,6.3,PG,Animation;Comedy;Family,Tom McGrath,Michael McCullers;Marla Frazee,2017-03-31,PT97M,NA
+https://www.imdb.com/title/tt6105098/,The Lion King (2019) ,NA,NO RATED,Animation;Adventure;Drama,Jon Favreau,Irene Mecchi;Jeff Nathanson,2019-07-19,NA,NA
+https://www.imdb.com/title/tt3262342/,Loving Vincent (2017) ,7.9,PG-13,Animation;Biography;Crime,Dorota Kobiela;Hugh Welchman,Dorota Kobiela;Hugh Welchman,2017-09-22,PT94M,NA
+https://www.imdb.com/title/tt1109624/,Paddington (2014) ,7.2,PG,Animation;Adventure;Comedy,Paul King,Paul King;Hamish McColl,2015-01-16,PT95M,NA
+https://www.imdb.com/title/tt4633694/,Spider-Man: Into the Spider-Verse (2018) ,NA,NO RATED,Animation;Action;Sci-Fi,Bob Persichetti;Peter Ramsey,Brian Michael Bendis;Steve Ditko,2018-12-14,NA,NA
+https://www.imdb.com/title/tt0114709/,Toy Story (1995) ,8.3,G,Animation;Adventure;Comedy,John Lasseter,John Lasseter;Pete Docter,1995-11-22,PT81M,NA
+https://www.imdb.com/title/tt5311514/,Kimi no na wa. (2016) ,8.4,PG,Animation;Drama;Fantasy,Makoto Shinkai,Makoto Shinkai;Makoto Shinkai,2017-04-07,PT106M,NA
+https://www.imdb.com/title/tt1772341/,Wreck-It Ralph (2012) ,7.7,PG,Animation;Adventure;Comedy,Rich Moore,Rich Moore;Phil Johnston,2012-11-02,PT101M,NA
+https://www.imdb.com/title/tt7424200/,Teen Titans Go! To the Movies (2018) ,NA,NO RATED,Animation;Action;Comedy,Aaron Horvath;Peter Rida Michail,Aaron Horvath;Michael Jelenic,2018-07-27,NA,NA
+https://www.imdb.com/title/tt4587656/,The Star (2017) ,5.8,PG,Animation;Adventure;Comedy,Timothy Reckart,Carlos Kotkin;Simon Moore,2017-11-17,PT86M,NA
+https://www.imdb.com/title/tt2798920/,Annihilation (2018) ,7.2,R,Adventure;Drama;Fantasy,Alex Garland,Alex Garland;Jeff VanderMeer,2018-02-23,PT115M,NA
+https://www.imdb.com/title/tt2357547/,Jessica Jones             ,8.1,TV-MA,Action;Crime;Drama,NA,Melissa Rosenberg,NA,PT56M,NA
+https://www.imdb.com/title/tt1520211/,The Walking Dead             ,8.4,TV-MA,Drama;Horror;Thriller,NA,Frank Darabont,NA,PT44M,NA
+https://www.imdb.com/title/tt5580390/,The Shape of Water (2017) ,7.5,R,Adventure;Drama;Fantasy,Guillermo del Toro,Guillermo del Toro;Vanessa Taylor,2017-12-22,PT123M,NA
+https://www.imdb.com/title/tt0413573/,Grey's Anatomy             ,7.6,TV-14,Drama;Romance,NA,Shonda Rhimes,NA,PT41M,NA
+https://www.imdb.com/title/tt2873282/,Red Sparrow (2018) ,6.8,R,Drama;Mystery;Thriller,Francis Lawrence,Justin Haythe;Jason Matthews,2018-03-02,PT140M,NA
+https://www.imdb.com/title/tt5555260/,This Is Us             ,8.8,TV-14,Drama,NA,Dan Fogelman,NA,PT45M,NA
+https://www.imdb.com/title/tt0944947/,Game of Thrones             ,9.5,TV-MA,Action;Adventure;Drama,NA,David Benioff;D.B. Weiss,NA,PT57M,NA
+https://www.imdb.com/title/tt5027774/,"Three Billboards Outside Ebbing, Missouri (2017) ",8.2,R,Crime;Drama,Martin McDonagh,Martin McDonagh,2017-12-01,PT115M,NA
+https://www.imdb.com/title/tt1796960/,Homeland             ,8.4,TV-MA,Crime;Drama;Mystery,NA,Alex Gansa;Howard Gordon,NA,PT55M,NA
+https://www.imdb.com/title/tt5011816/,Sneaky Pete             ,8.3,TV-MA,Crime;Drama,NA,Bryan Cranston;David Shore,NA,PT60M,NA
+https://www.imdb.com/title/tt6470478/,The Good Doctor             ,8.4,TV-14,Drama,NA,David Shore,NA,PT41M,NA
+https://www.imdb.com/title/tt1485796/,The Greatest Showman (2017) ,7.9,PG,Biography;Drama;Musical,Michael Gracey,Jenny Bicks;Bill Condon,2017-12-20,PT105M,NA
+https://www.imdb.com/title/tt2193021/,Arrow             ,7.8,TV-14,Action;Adventure;Crime,NA,Greg Berlanti;Marc Guggenheim;Andrew Kreisberg,NA,PT42M,NA
+https://www.imdb.com/title/tt0460681/,Supernatural             ,8.5,TV-14,Drama;Fantasy;Horror,NA,Eric Kripke,NA,PT44M,NA
+https://www.imdb.com/title/tt2364582/,Agents of S.H.I.E.L.D.             ,7.5,TV-PG,Action;Adventure;Drama,NA,Maurissa Tancharoen;Jed Whedon;Joss Whedon,NA,PT45M,NA
+https://www.imdb.com/title/tt2011311/,The Outsider (2018) ,6.3,TV-MA,Crime;Drama;Mystery,Martin Zandvliet,John Linson;Andrew Baldwin,2018-03-09,PT120M,NA
+https://www.imdb.com/title/tt1137450/,Death Wish (2018) ,6.6,R,Action;Crime;Drama,Eli Roth,Joe Carnahan;Brian Garfield,2018-03-02,PT107M,NA
+https://www.imdb.com/title/tt1586680/,Shameless             ,8.7,TV-MA,Comedy;Drama,NA,Paul Abbott;John Wells,NA,PT46M,NA
+https://www.imdb.com/title/tt2085059/,Black Mirror             ,8.9,TV-MA,Drama;Sci-Fi;Thriller,NA,Charlie Brooker,NA,PT60M,NA
+https://www.imdb.com/title/tt2306299/,Vikings             ,8.6,TV-MA,Action;Adventure;Drama,NA,Michael Hirst,NA,PT44M,NA
+https://www.imdb.com/title/tt4052886/,Lucifer             ,8.2,TV-14,Crime;Drama;Fantasy,NA,Tom Kapinos,NA,PT42M,NA
+https://www.imdb.com/title/tt4061080/,Love             ,7.7,TV-MA,Comedy;Drama;Romance,NA,Judd Apatow;Lesley Arfin;Paul Rust,NA,PT50M,NA
+https://www.imdb.com/title/tt2261227/,Altered Carbon             ,8.3,TV-MA,Drama;Sci-Fi;Thriller,NA,Laeta Kalogridis,NA,PT60M,NA
+https://www.imdb.com/title/tt5420376/,Riverdale             ,7.7,TV-14,Crime;Drama;Mystery,NA,Roberto Aguirre-Sacasa,NA,PT45M,NA
+https://www.imdb.com/title/tt2741602/,The Blacklist             ,8.1,TV-14,Crime;Drama;Mystery,NA,Jon Bokenkamp,NA,PT43M,NA
+https://www.imdb.com/title/tt5164432/,"Love, Simon (2018) ",8.0,PG-13,Comedy;Drama;Romance,Greg Berlanti,Elizabeth Berger;Isaac Aptaker,2018-03-16,PT110M,NA
+https://www.imdb.com/title/tt3749900/,Gotham             ,7.9,TV-14,Action;Crime;Drama,NA,Bruno Heller,NA,PT42M,NA
+https://www.imdb.com/title/tt3107288/,The Flash             ,8.0,TV-PG,Action;Adventure;Drama,NA,Greg Berlanti;Geoff Johns;Andrew Kreisberg,NA,PT43M,NA
+https://www.imdb.com/title/tt0452046/,Criminal Minds             ,8.1,TV-14,Crime;Drama;Mystery,NA,Jeff Davis,NA,PT42M,NA
+https://www.imdb.com/title/tt3402236/,Murder on the Orient Express (2017) ,6.6,PG-13,Crime;Drama;Mystery,Kenneth Branagh,Michael Green;Agatha Christie,2017-11-10,PT114M,NA
+https://www.imdb.com/title/tt5580036/,"I, Tonya (2017) ",7.6,R,Biography;Comedy;Drama,Craig Gillespie,Steven Rogers,2018-01-19,PT120M,NA
+https://www.imdb.com/title/tt5862312/,Verónica (2017) ,6.3,TV-MA,Drama;Horror,Paco Plaza,Fernando Navarro;Paco Plaza,2017-08-25,PT105M,NA
+https://www.imdb.com/title/tt2788432/,American Crime Story             ,8.5,TV-MA,Biography;Crime;Drama,NA,Scott Alexander;Larry Karaszewski;Tom Rob Smith,NA,PT42M,NA
+https://www.imdb.com/title/tt6644200/,A Quiet Place (2018) ,8.6,PG-13,Drama;Horror;Thriller,John Krasinski,Bryan Woods;Scott Beck,2018-04-06,PT90M,NA
+https://www.imdb.com/title/tt3205802/,How to Get Away with Murder             ,8.2,TV-14,Crime;Drama;Mystery,NA,Peter Nowalk,NA,PT43M,NA
+https://www.imdb.com/title/tt5726616/,Call Me by Your Name (2017) ,8.0,R,Drama;Romance,Luca Guadagnino,James Ivory;André Aciman,2018-01-19,PT132M,NA
+https://www.imdb.com/title/tt4574334/,Stranger Things             ,8.9,TV-14,Drama;Fantasy;Horror,NA,Matt Duffer;Ross Duffer,NA,PT51M,NA
+https://www.imdb.com/title/tt4925292/,Lady Bird (2017) ,7.6,R,Comedy;Drama,Greta Gerwig,Greta Gerwig,2017-12-01,PT94M,NA
+https://www.imdb.com/title/tt5511582/,Timeless             ,7.6,NOT RATED,Action;Adventure;Drama,NA,Eric Kripke;Shawn Ryan,NA,PT60M,NA
+https://www.imdb.com/title/tt6729080/,Collateral             ,6.7,TV-MA,Crime;Drama;Mystery,NA,NA,NA,PT57M,NA
+https://www.imdb.com/title/tt2980516/,The Theory of Everything (2014) ,7.7,PG-13,Biography;Drama;Romance,James Marsh,Anthony McCarten;Jane Hawking,2014-11-26,PT123M,NA
+https://www.imdb.com/title/tt4532368/,Legends of Tomorrow             ,7.0,TV-14,Action;Adventure;Drama,NA,Greg Berlanti;Marc Guggenheim;Phil Klemmer,NA,PT42M,NA
+https://www.imdb.com/title/tt6297682/,Seven Seconds             ,7.7,TV-MA,Crime;Drama,NA,Veena Sud,NA,PT60M,NA
+https://www.imdb.com/title/tt2442560/,Peaky Blinders             ,8.8,TV-MA,Crime;Drama,NA,Steven Knight,NA,PT60M,NA
+https://www.imdb.com/title/tt0364845/,NCIS             ,7.9,TV-14,Action;Comedy;Crime,NA,Donald P. Bellisario;Don McGill,NA,PT60M,NA
+https://www.imdb.com/title/tt0203259/,Law & Order: Special Victims Unit             ,8.1,TV-14,Crime;Drama;Mystery,NA,Dick Wolf,NA,PT60M,NA
+https://www.imdb.com/title/tt0475784/,Westworld             ,8.9,TV-MA,Drama;Mystery;Sci-Fi,NA,NA,NA,PT62M,NA
+https://www.imdb.com/title/tt6487416/,Rise             ,7.0,TV-14,Drama,NA,Jason Katims,NA,PT60M,NA
+https://www.imdb.com/title/tt0106179/,The X-Files             ,8.7,TV-14,Drama;Mystery;Sci-Fi,NA,Chris Carter,NA,PT45M,NA
+https://www.imdb.com/title/tt2798920/,Annihilation (2018) ,7.2,R,Adventure;Drama;Fantasy,Alex Garland,Alex Garland;Jeff VanderMeer,2018-02-23,PT115M,NA
+https://www.imdb.com/title/tt2357547/,Jessica Jones             ,8.1,TV-MA,Action;Crime;Drama,NA,Melissa Rosenberg,NA,PT56M,NA
+https://www.imdb.com/title/tt1520211/,The Walking Dead             ,8.4,TV-MA,Drama;Horror;Thriller,NA,Frank Darabont,NA,PT44M,NA
+https://www.imdb.com/title/tt5580390/,The Shape of Water (2017) ,7.5,R,Adventure;Drama;Fantasy,Guillermo del Toro,Guillermo del Toro;Vanessa Taylor,2017-12-22,PT123M,NA
+https://www.imdb.com/title/tt2873282/,Red Sparrow (2018) ,6.8,R,Drama;Mystery;Thriller,Francis Lawrence,Justin Haythe;Jason Matthews,2018-03-02,PT140M,NA
+https://www.imdb.com/title/tt1796960/,Homeland             ,8.4,TV-MA,Crime;Drama;Mystery,NA,Alex Gansa;Howard Gordon,NA,PT55M,NA
+https://www.imdb.com/title/tt0460681/,Supernatural             ,8.5,TV-14,Drama;Fantasy;Horror,NA,Eric Kripke,NA,PT44M,NA
+https://www.imdb.com/title/tt2364582/,Agents of S.H.I.E.L.D.             ,7.5,TV-PG,Action;Adventure;Drama,NA,Maurissa Tancharoen;Jed Whedon;Joss Whedon,NA,PT45M,NA
+https://www.imdb.com/title/tt2011311/,The Outsider (2018) ,6.3,TV-MA,Crime;Drama;Mystery,Martin Zandvliet,John Linson;Andrew Baldwin,2018-03-09,PT120M,NA
+https://www.imdb.com/title/tt1137450/,Death Wish (2018) ,6.6,R,Action;Crime;Drama,Eli Roth,Joe Carnahan;Brian Garfield,2018-03-02,PT107M,NA
+https://www.imdb.com/title/tt2704998/,Game Night (2018) ,7.4,R,Comedy;Crime;Mystery,John Francis Daley;Jonathan Goldstein,Mark Perez,2018-02-23,PT100M,NA
+https://www.imdb.com/title/tt2085059/,Black Mirror             ,8.9,TV-MA,Drama;Sci-Fi;Thriller,NA,Charlie Brooker,NA,PT60M,NA
+https://www.imdb.com/title/tt2261227/,Altered Carbon             ,8.3,TV-MA,Drama;Sci-Fi;Thriller,NA,Laeta Kalogridis,NA,PT60M,NA
+https://www.imdb.com/title/tt2741602/,The Blacklist             ,8.1,TV-14,Crime;Drama;Mystery,NA,Jon Bokenkamp,NA,PT43M,NA
+https://www.imdb.com/title/tt3749900/,Gotham             ,7.9,TV-14,Action;Crime;Drama,NA,Bruno Heller,NA,PT42M,NA
+https://www.imdb.com/title/tt0452046/,Criminal Minds             ,8.1,TV-14,Crime;Drama;Mystery,NA,Jeff Davis,NA,PT42M,NA
+https://www.imdb.com/title/tt6644200/,A Quiet Place (2018) ,8.6,PG-13,Drama;Horror;Thriller,John Krasinski,Bryan Woods;Scott Beck,2018-04-06,PT90M,NA
+https://www.imdb.com/title/tt3205802/,How to Get Away with Murder             ,8.2,TV-14,Crime;Drama;Mystery,NA,Peter Nowalk,NA,PT43M,NA
+https://www.imdb.com/title/tt4574334/,Stranger Things             ,8.9,TV-14,Drama;Fantasy;Horror,NA,Matt Duffer;Ross Duffer,NA,PT51M,NA
+https://www.imdb.com/title/tt6729080/,Collateral             ,6.7,TV-MA,Crime;Drama;Mystery,NA,NA,NA,PT57M,NA
+https://www.imdb.com/title/tt6468322/,La casa de papel             ,8.8,TV-MA,Action;Crime;Mystery,NA,Álex Pina,NA,PT70M,NA
+https://www.imdb.com/title/tt0364845/,NCIS             ,7.9,TV-14,Action;Comedy;Crime,NA,Donald P. Bellisario;Don McGill,NA,PT60M,NA
+https://www.imdb.com/title/tt0203259/,Law & Order: Special Victims Unit             ,8.1,TV-14,Crime;Drama;Mystery,NA,Dick Wolf,NA,PT60M,NA
+https://www.imdb.com/title/tt5052448/,Get Out (2017) ,7.7,R,Horror;Mystery;Thriller,Jordan Peele,Jordan Peele,2017-02-24,PT104M,NA
+https://www.imdb.com/title/tt0106179/,The X-Files             ,8.7,TV-14,Drama;Mystery;Sci-Fi,NA,Chris Carter,NA,PT45M,NA
+https://www.imdb.com/title/tt1856101/,Blade Runner 2049 (2017) ,8.1,R,Drama;Mystery;Sci-Fi,Denis Villeneuve,Hampton Fancher;Michael Green,2017-10-06,PT164M,NA
+https://www.imdb.com/title/tt5296406/,Designated Survivor             ,7.8,TV-14,Action;Drama;Mystery,NA,David Guggenheim,NA,PT60M,NA
+https://www.imdb.com/title/tt1837576/,Scandal             ,7.8,TV-14,Drama;Thriller,NA,Shonda Rhimes,NA,PT43M,NA
+https://www.imdb.com/title/tt6306064/,Adrift (2018) ,NA,NO RATED,Action;Adventure;Drama,Baltasar Kormákur,Aaron Kandell;Jordan Kandell,2018-06-01,NA,NA
+https://www.imdb.com/title/tt5649108/,Thoroughbreds (2017) ,7.3,R,Drama;Thriller,Cory Finley,Cory Finley,2018-03-09,PT92M,NA
+https://www.imdb.com/title/tt4643084/,Counterpart             ,8.3,TV-MA,Drama;Sci-Fi;Thriller,NA,Justin Marks,NA,PT60M,NA
+https://www.imdb.com/title/tt0903747/,Breaking Bad             ,9.5,TV-MA,Crime;Drama;Thriller,NA,Vince Gilligan,NA,PT49M,NA
+https://www.imdb.com/title/tt5362988/,Wind River (2017) ,7.8,R,Crime;Drama;Mystery,Taylor Sheridan,Taylor Sheridan,2017-08-18,PT107M,NA
+https://www.imdb.com/title/tt5360952/,The Hurricane Heist (2018) ,4.9,PG-13,Action;Thriller,Rob Cohen,Scott Windhauser;Jeff Dixon,2018-03-09,PT103M,NA
+https://www.imdb.com/title/tt1378167/,NCIS: Los Angeles             ,6.7,TV-14,Crime;Drama;Mystery,NA,Shane Brennan,NA,PT43M,NA
+https://www.imdb.com/title/tt5013056/,Dunkirk (2017) ,8.0,PG-13,Action;Drama;History,Christopher Nolan,Christopher Nolan,2017-07-21,PT106M,NA
+https://www.imdb.com/title/tt4992060/,Sadie (2016) ,3.8,NO RATED,Drama;Fantasy;Horror,Craig Goodwill,Brian Clark,2018-03-15,PT84M,NA
+https://www.imdb.com/title/tt1396484/,It (2017) ,7.5,R,Drama;Horror;Thriller,Andy Muschietti,Chase Palmer;Cary Joji Fukunaga,2017-09-08,PT135M,NA
+https://www.imdb.com/title/tt1844624/,American Horror Story             ,8.1,TV-MA,Drama;Horror;Thriller,NA,Brad Falchuk;Ryan Murphy,NA,PT60M,NA
+https://www.imdb.com/title/tt7235466/,9-1-1             ,7.3,TV-14,Action;Drama;Thriller,NA,Brad Falchuk;Tim Minear;Ryan Murphy,NA,PT43M,NA
+https://www.imdb.com/title/tt0146316/,Lara Croft: Tomb Raider (2001) ,5.8,PG-13,Action;Adventure;Fantasy,Simon West,Sara B. Cooper;Mike Werb,2001-06-15,PT100M,NA
+https://www.imdb.com/title/tt5675620/,The Punisher             ,8.7,TV-MA,Action;Adventure;Crime,NA,Steve Lightfoot,NA,PT53M,NA
+https://www.imdb.com/title/tt1464763/,Mute (2018) ,5.4,TV-MA,Mystery;Sci-Fi;Thriller,Duncan Jones,Michael Robert Johnson;Duncan Jones,2018-02-23,PT126M,NA
+https://www.imdb.com/title/tt1405406/,The Vampire Diaries             ,7.8,TV-14,Drama;Fantasy;Horror,NA,Julie Plec;Kevin Williamson,NA,PT43M,NA
+https://www.imdb.com/title/tt4477536/,Fifty Shades Freed (2018) ,4.4,R,Drama;Romance;Thriller,James Foley,Niall Leonard;E.L. James,2018-02-09,PT105M,NA
+https://www.imdb.com/title/tt1124373/,Sons of Anarchy             ,8.6,TV-MA,Crime;Drama;Thriller,NA,Kurt Sutter,NA,PT45M,NA
+https://www.imdb.com/title/tt2707408/,Narcos             ,8.9,TV-MA,Biography;Crime;Drama,NA,Carlo Bernard;Chris Brancato;Doug Miro,NA,PT49M,NA
+https://www.imdb.com/title/tt1302006/,The Irishman (2019) ,NA,NO RATED,Biography;Crime;Drama,Martin Scorsese,Charles Brandt;Steven Zaillian,NA,NA,NA
+https://www.imdb.com/title/tt2802850/,Fargo             ,9.0,TV-MA,Crime;Drama;Thriller,NA,NA,NA,PT53M,NA
+https://www.imdb.com/title/tt3890160/,Baby Driver (2017) ,7.7,R,Action;Crime;Music,Edgar Wright,Edgar Wright,2017-06-28,PT112M,NA
