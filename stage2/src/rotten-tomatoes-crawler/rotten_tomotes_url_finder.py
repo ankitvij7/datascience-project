@@ -39,9 +39,10 @@ fieldnames = ['Url', 'Title', 'Score', 'Rating', 'Genre',
               'Studio', 'Audience Score']
 
 output = csv.DictWriter(open("RottenTomatoesMovieDatabase", "a"), fieldnames=fieldnames)
-output.writeheader()
+#output.writeheader()
 myApp = QApplication(sys.argv)
-count = 1
+#count = 1
+count = 49
 while count < 96:
     print("SERVING CURRENT PAGE WITH NUMBER: " + str(count))
     request_url = "https://www.rottentomatoes.com/api/private/v2.0/browse?maxTomato=100&maxPopcorn=100&services=amazon%3Bhbo_go%3Bitunes%3Bnetflix_iw%3Bvudu%3Bamazon_prime%3Bfandango_now&certified=false&sortBy=release&type=dvd-streaming-all&page=" + str(
