@@ -24,9 +24,10 @@ output_file = open("IMDBMovieDatabase.csv", "a")
 output = csv.DictWriter(output_file, fieldnames=fieldnames)
 # Comment this out when re-running
 output.writeheader()
+start_page = 0
 
-for g in imdb_genres:
-    for p in range(0, pages_per_genre):
+for p in range(start_page, pages_per_genre):
+    for g in imdb_genres:
         # build our URI
         uri = base_uri + genre_base + g + page_load_base + str(p * 50 + 1)
         # print(uri)
