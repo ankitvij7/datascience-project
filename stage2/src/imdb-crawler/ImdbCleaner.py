@@ -1,10 +1,9 @@
 import csv
 
-fieldnames = ['Url', 'Title', 'Score', 'Rating', 'Genre',
-              'Directed By', 'Written By', 'Box Office', 'Release Date', 'Runtime',
-              'Studio', 'Audience Score']
+#TODO: this must be changed to the correct one.
+fieldnames = ['Url', 'Title', 'Score', 'Rating', 'Genre', 'Directed By', 'Written By', 'Box Office', 'Release Date', 'Runtime', 'Studio', 'Audience Score']
 
-filename = "RottenTomatoesMovieDatabase"
+filename = "ImdbMovieDatabase"
 input_file = open(filename + ".raw", "r", encoding='utf-8')
 output_file = open("../../data/" + filename + ".csv", "a")
 reader = csv.DictReader(input_file, fieldnames=fieldnames)
