@@ -2,7 +2,7 @@ import sys
 from PyQt5.QtWebEngineWidgets import QWebEnginePage
 from PyQt5.QtWidgets import QApplication
 from PyQt5.QtCore import QUrl
-from rotten_tomatoes_crawler import extract_info
+from RottenTomatoesExtractor import extract_info
 import requests
 import csv
 
@@ -38,7 +38,7 @@ fieldnames = ['Url', 'Title', 'Score', 'Rating', 'Genre',
               'Directed By', 'Written By', 'Box Office', 'Release Date', 'Runtime',
               'Studio', 'Audience Score']
 
-output = csv.DictWriter(open("RottenTomatoesMovieDatabase", "a"), fieldnames=fieldnames)
+output = csv.DictWriter(open("RottenTomatoesMovieDatabase.raw", "a"), fieldnames=fieldnames)
 #output.writeheader()
 myApp = QApplication(sys.argv)
 #count = 1

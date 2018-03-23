@@ -1,6 +1,6 @@
 from bs4 import BeautifulSoup
 import requests
-from imdbExtractor import extract_info
+from ImdbExtractor import extract_info
 import csv
 
 # ```http://www.imdb.com/search/title?at=0&genres=action&start=51```
@@ -45,4 +45,6 @@ for p in range(start_page, pages_per_genre):
             url = "https://www.imdb.com" + urlEnd;
             print("genre: ", g, ", page: ", p, " , movie: ", url)
             extract_info(url, output)
-            output_file.flush()
+            #output_file.flush()
+        #flush per page load, should speed it up.
+        output_file.flush()
