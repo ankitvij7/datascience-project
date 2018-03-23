@@ -45,6 +45,6 @@ for p in range(start_page, pages_per_genre):
             url = "https://www.imdb.com" + urlEnd;
             print("genre: ", g, ", page: ", p, " , movie: ", url)
             extract_info(url, output)
-            #output_file.flush()
-        #flush per page load, should speed it up. 
+            # output_file.flush()
+        # flush per page load, should speed it up.
         output_file.flush()
