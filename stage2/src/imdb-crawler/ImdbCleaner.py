@@ -9,7 +9,17 @@ output_file = open("../../data/" + filename + ".csv", "a")
 reader = csv.DictReader(input_file, fieldnames=fieldnames)
 writer = csv.DictWriter(output_file, fieldnames=fieldnames)
 
+readUrl = []
+duplicate_count = 0
 for row in reader:
-    print(row)
-    writer.writerow(row)
+    # print(row)
+    url = row['Url']
+    if url not in readUrl:
+        readUrl.append(url)
+        writer.writerow(row)
+    else:
+        duplicate_count = duplicate_count + 1
+        print("duplicate row: ", duplicate_count)
+
     output_file.flush()
+
