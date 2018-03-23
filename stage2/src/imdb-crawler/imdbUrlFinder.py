@@ -20,7 +20,7 @@ page_load_base = '&start='
 pages_per_genre = 7
 
 fieldnames = ['Movie Url', 'Title', 'Score', 'Rating', 'Genre', 'Genre1', 'Genre2', 'Director', 'Writer', 'Release Date', 'Runtime', 'Studio']
-output_file = open("IMDBMovieDatabase.csv", "a")
+output_file = open("ImdbMovieDatabase.raw", "a")
 output = csv.DictWriter(output_file, fieldnames=fieldnames)
 # Comment this out when re-running
 output.writeheader()
