@@ -128,7 +128,6 @@ def extract_info(movie_url, output):
                      'Runtime': 'NA' if runtime_str not in movie_info else movie_info[runtime_str],
                      'Studio': 'NA' if studio_str not in movie_info else movie_info[studio_str]})
 
-
 # Standalone execution examples.
 # extract_info('http://www.imdb.com/title/tt1365519/')
 # extract_info('https://www.imdb.com/title/tt5164432/')

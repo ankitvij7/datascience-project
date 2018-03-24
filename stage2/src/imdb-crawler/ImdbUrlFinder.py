@@ -17,7 +17,7 @@ genre_base = '&genres='
 imdb_genres = ("action", "comedy", "mystery", "sci_fi", "adventure", "fantasy", "horror", "animation", "drama", "thriller")
 page_load_base = '&start='
 # 50 movies per page
-pages_per_genre = 1  # change it back to 7
+pages_per_genre = 12
 
 fieldnames = ['Url', 'Title', 'Score', 'Rating', 'Genre', 'Directed By', 'Written By', 'Box Office', 'Release Date', 'Runtime', 'Studio']
 output_file = open("ImdbMovieDatabase.raw", "a")
@@ -29,7 +29,7 @@ start_page = 0
 for p in range(start_page, pages_per_genre):
     for g in imdb_genres:
         # build our URI
-        uri = base_uri + genre_base + g + page_load_base + str(p * 50 + 1)  # TODO: change it back to 50
+        uri = base_uri + genre_base + g + page_load_base + str(p * 50 + 1)
         # print(uri)
         page = requests.get(uri)
         soup = BeautifulSoup(page.text, 'html.parser')
