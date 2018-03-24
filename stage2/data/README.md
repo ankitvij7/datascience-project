@@ -1,7 +1,7 @@
 Table A and Table B contain:
 They were obtained by crawling:
-* Web site A
-* Web Site B
+* IMDB (Link: http://www.imdb.com)
+* Rotten Tomatoes (Link: http://www.rottentomatoes.com)
 
 Table A comprises of Attributes
 1. -
