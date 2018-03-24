@@ -63,9 +63,45 @@ def extract_info(movie_url, output):
             movie_info[release_date_str] = m.get("content")
 
     # Left to extract
-    # movie_info[score_str] =
-    # movie_info[director_str] =
-    # movie_info[writer_str] =
+    # get the movie score aka ratingsValue
+
+    # Try to get ratings wrapper
+    ratings_wrapper = soup.find("div", {"class": "ratings_wrapper"})
+    if ratings_wrapper is not None:
+        span = ratings_wrapper.find_all("span")
+        for s in span:
+            if s.get("itemprop") == "ratingValue":
+                movie_info[score_str] = s.text
+
+
+    #finding directors and writers and possibly stars if we want
+    credit_summary_item_s = soup.find_all("div", {"class": "credit_summary_item"})
+    directors = []
+    writers = []
+    for item in credit_summary_item_s:
+        span = item.find_all("span")
+        flag_writer = 0
+        flag_director = 0
+        for s in span:
+            if s.get("itemprop") == "director":
+                flag_director = 1
+                break
+            elif s.get("itemprop") == "creator":
+                flag_writer = 1
+                break
+        for s in span:
+            if s.get("itemprop") == "name":
+                if flag_director == 1:
+                    directors.append(s.text)
+                elif flag_writer == 1:
+                    writers.append(s.text)
+                # elif flag_actor == 1:
+                #     stars.append...
+    print("-".join(directors ))
+    print("-".join(writers ))
+    #TODO: change this - to something else, or only record limited number of directors and writers.
+    movie_info[director_str] = "-".join(directors ) #concatenating all directors by - and adding them to the director column
+    movie_info[writer_str] = "-".join(writers )
 
     # fieldnames = ['Movie Url', 'Title', 'Score', 'Rating', 'Genre', 'Genre1', 'Genre2', 'Director', 'Writer', 'Release Date', 'Runtime', 'Studio']
     output.writerow({'Movie Url': movie_url,
