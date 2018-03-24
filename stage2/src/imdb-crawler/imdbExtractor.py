@@ -74,6 +74,20 @@ def extract_info(movie_url, output):
             movie_info[box_office_str] = temp.next_sibling.strip().rstrip(',')
     #print(movie_info[box_office_str])
 
+    #finding company credits - studio
+    studios = []
+    for item in box_office_wrapper_s:
+        temp = item.find("h4", {"class": "inline"})
+        if temp and temp.text and temp.text == "Production Co:":
+            span_on_creators = item.find_all("span", {"class": "itemprop", "itemprop":"name"})
+            for s in span_on_creators:
+                if s.get("itemprop") == "name":
+                    studios.append(s.text)
+    if len(studios) > 0:
+        movie_info[studio_str] = ";".join(studios)
+        print(movie_info[studio_str])
+
+
     # finding directors and writers and possibly stars if we want
     credit_summary_item_s = soup.find_all("div", {"class": "credit_summary_item"})
     directors = []
