@@ -28,7 +28,7 @@ def extract_info(movie_url, output):
     # print("***********************")
 
     # Get Movie Title
-    movie_info[title_str] = soup.find("h1", {"class": ["", "long"]}).text
+    movie_info[title_str] = soup.find("h1", {"class": ["", "long"]}).text.strip()
     # print(movie_info[title_str])
 
     # Get Run Time
@@ -66,27 +66,23 @@ def extract_info(movie_url, output):
             if s.get("itemprop") == "ratingValue":
                 movie_info[score_str] = s.text
 
-    #Get the Box office earnings.
+    # finding company credits - studio & Box office earnings
+    studios = []
     box_office_wrapper_s = soup.find_all("div", {"class": "txt-block"})
     for item in box_office_wrapper_s:
         temp = item.find("h4", {"class": "inline"})
-        if temp and temp.text and temp.text == "Gross USA:":
-            movie_info[box_office_str] = temp.next_sibling.strip().rstrip(',')
-    #print(movie_info[box_office_str])
-
-    #finding company credits - studio
-    studios = []
-    for item in box_office_wrapper_s:
-        temp = item.find("h4", {"class": "inline"})
-        if temp and temp.text and temp.text == "Production Co:":
-            span_on_creators = item.find_all("span", {"class": "itemprop", "itemprop":"name"})
-            for s in span_on_creators:
-                if s.get("itemprop") == "name":
-                    studios.append(s.text)
+        if temp and temp.text:
+            if temp.text == "Gross USA:":
+                movie_info[box_office_str] = temp.next_sibling.strip().rstrip(',')
+            elif temp.text == "Production Co:":
+                span_on_creators = item.find_all("span", {"class": "itemprop", "itemprop": "name"})
+                for s in span_on_creators:
+                    if s.get("itemprop") == "name":
+                        studios.append(s.text)
+    # print(movie_info[box_office_str])
     if len(studios) > 0:
         movie_info[studio_str] = ";".join(studios)
-        print(movie_info[studio_str])
-
+        # print(movie_info[studio_str])
 
     # finding directors and writers and possibly stars if we want
     credit_summary_item_s = soup.find_all("div", {"class": "credit_summary_item"})
@@ -111,8 +107,8 @@ def extract_info(movie_url, output):
                     writers.append(s.text)
                 # elif flag_actor == 1:
                 #     stars.append...
-    #print(";".join(directors))
-    #print(";".join(writers))
+    # print(";".join(directors))
+    # print(";".join(writers))
     # TODO: change this - to something else, or only record limited number of directors and writers.
     if len(directors) > 0:
         movie_info[director_str] = ";".join(directors)  # concatenating all directors by - and adding them to the director column

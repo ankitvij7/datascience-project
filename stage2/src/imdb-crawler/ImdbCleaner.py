@@ -58,10 +58,6 @@ def clean_studio(studio):
     return studio
 
 
-def clean_aud_score(aud_score):
-    return aud_score
-
-
 clean_field_fns = {url: clean_url,
                    title: clean_title,
                    score: clean_score,
@@ -72,8 +68,7 @@ clean_field_fns = {url: clean_url,
                    box_office: clean_box_office,
                    release_date: clean_release_date,
                    runtime: clean_runtime,
-                   studio: clean_studio,
-                   aud_score: clean_aud_score}
+                   studio: clean_studio}
 
 
 def clean_row(row):
