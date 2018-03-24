@@ -2,14 +2,14 @@ from bs4 import BeautifulSoup
 import requests
 import csv
 
-fieldnames = ['Movie Url', 'Title', 'Score', 'Rating', 'Genre', 'Genre1', 'Genre2', 'Director', 'Writer', 'Release Date', 'Runtime', 'Studio']
+fieldnames = ['Movie Url', 'Title', 'Score', 'Rating', 'Genre', 'Director', 'Writer', 'Release Date', 'Runtime', 'Studio']
 # movie_url_str = "Movie Url"
 title_str = "Title"
 score_str = "Score"
 rating_str = "Rating"
 genre_str = "Genre"
-genre1_str = "Genre1"
-genre2_str = "Genre2"
+# genre1_str = "Genre1"
+# genre2_str = "Genre2"
 director_str = "Director"
 writer_str = "Writer"
 release_date_str = "Release Date"
@@ -44,14 +44,16 @@ def extract_info(movie_url, output):
     for i in itemProps:
         if i.get("itemprop") == "genre":
             genres.append(i.text)
+
+    movie_info[genre_str] = ";".join(genres)
     # print(genres)
     # ignore any genres over 3
-    if 2 < len(genres):
-        movie_info[genre2_str] = genres[2]
-    if 1 < len(genres):
-        movie_info[genre1_str] = genres[1]
-    if 0 < len(genres):
-        movie_info[genre_str] = genres[0]
+    # if 2 < len(genres):
+    #     movie_info[genre2_str] = genres[2]
+    # if 1 < len(genres):
+    #     movie_info[genre1_str] = genres[1]
+    # if 0 < len(genres):
+    #     movie_info[genre_str] = genres[0]
 
     # get the Content Rating & release date.
     meta = title_wrapper.find_all("meta")
@@ -97,11 +99,13 @@ def extract_info(movie_url, output):
                     writers.append(s.text)
                 # elif flag_actor == 1:
                 #     stars.append...
-    print("-".join(directors ))
-    print("-".join(writers ))
+    print(";".join(directors ))
+    print(";".join(writers ))
     #TODO: change this - to something else, or only record limited number of directors and writers.
-    movie_info[director_str] = "-".join(directors ) #concatenating all directors by - and adding them to the director column
-    movie_info[writer_str] = "-".join(writers )
+    if len(directors) > 0:
+        movie_info[director_str] = ";".join(directors ) #concatenating all directors by - and adding them to the director column
+    if len(writers) > 0:
+        movie_info[writer_str] = ";".join(writers )
 
     # fieldnames = ['Movie Url', 'Title', 'Score', 'Rating', 'Genre', 'Genre1', 'Genre2', 'Director', 'Writer', 'Release Date', 'Runtime', 'Studio']
     output.writerow({'Movie Url': movie_url,
@@ -109,8 +113,8 @@ def extract_info(movie_url, output):
                      'Score': 'NA' if score_str not in movie_info else movie_info[score_str],
                      'Rating': 'NO RATED' if rating_str not in movie_info else movie_info[rating_str],
                      'Genre': 'NA' if genre_str not in movie_info else movie_info[genre_str],
-                     'Genre1': 'NA' if genre1_str not in movie_info else movie_info[genre1_str],
-                     'Genre2': 'NA' if genre2_str not in movie_info else movie_info[genre2_str],
+                     # 'Genre1': 'NA' if genre1_str not in movie_info else movie_info[genre1_str],
+                     # 'Genre2': 'NA' if genre2_str not in movie_info else movie_info[genre2_str],
                      'Director': 'NA' if director_str not in movie_info else movie_info[director_str],
                      'Writer': 'NA' if writer_str not in movie_info else movie_info[writer_str],
                      'Release Date': 'NA' if release_date_str not in movie_info else movie_info[release_date_str],
