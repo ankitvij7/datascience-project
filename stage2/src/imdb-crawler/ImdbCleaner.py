@@ -1,8 +1,6 @@
 import csv
 
-fieldnames = ['Url', 'Title', 'Score', 'Rating', 'Genre',
-              'Directed By', 'Written By', 'Box Office', 'Release Date', 'Runtime',
-              'Studio', 'Audience Score']
+fieldnames = ['Url', 'Title', 'Score', 'Rating', 'Genre', 'Directed By', 'Written By', 'Box Office', 'Release Date', 'Runtime', 'Studio']
 url = "Url"
 title = "Title"
 score = "Score"
@@ -14,7 +12,6 @@ box_office = "Box Office"
 release_date = "Release Date"
 runtime = "Runtime"
 studio = "Studio"
-aud_score = "Audience Score"
 
 
 def clean_url(url):
@@ -89,7 +86,8 @@ def clean_row(row):
 
 
 filename = "ImdbMovieDatabase"
-input_file = open(filename + ".raw", "r", encoding='utf-8')
+# input_file = open(filename + ".raw", "r", encoding='utf-8')
+input_file = open(filename + ".raw", "r", encoding='ansi')
 output_file = open("../../data/" + filename + ".csv", "a")
 reader = csv.DictReader(input_file, fieldnames=fieldnames)
 writer = csv.DictWriter(output_file, fieldnames=fieldnames)
@@ -105,5 +103,6 @@ for row in reader:
     else:
         duplicate_count = duplicate_count + 1
         print("duplicate row: ", duplicate_count)
+        print("url: ", url)
 
     output_file.flush()
