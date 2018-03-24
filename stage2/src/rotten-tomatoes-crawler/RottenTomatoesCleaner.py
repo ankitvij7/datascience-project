@@ -22,7 +22,7 @@ def clean_url(url):
 
 
 def clean_title(title):
-    return title
+    return title.replace("2018", "").replace("2017", "").replace("2016", "").replace("2015", "").replace("2014", "").replace("2013", "").replace("2012", "").replace("()", "").strip(' \t\n\r')
 
 
 def clean_score(score):
@@ -50,7 +50,7 @@ def clean_box_office(box_office):
 
 
 def clean_release_date(release_date):
-    return release_date
+    return release_date.replace("\"", "")
 
 
 def clean_runtime(runtime):
