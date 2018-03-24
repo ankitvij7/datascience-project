@@ -1,6 +1,6 @@
 # Reports
  - [Stage 1 Report](https://github.com/ankitvij7/datascience-project/blob/master/stage1/CS839%20Spring%202018%20-%20Project%20Stage%201%20-%20Team%2010%20Report.pdf)
- - [Stage 2 Report]()
+ - [Stage 2 Report](https://github.com/ankitvij7/datascience-project/blob/master/stage2/CS839%20Spring%202018%20-%20Project%20Stage%202%20-%20Team%2010%20Report.pdf)
  
 # Project Stage 1 -- Entity Extraction
  - [Stage 1 Report](https://github.com/ankitvij7/datascience-project/blob/master/stage1/CS839%20Spring%202018%20-%20Project%20Stage%201%20-%20Team%2010%20Report.pdf)
