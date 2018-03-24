@@ -2,7 +2,7 @@ Table A and Table B were obtained by crawling:
 * IMDB (Link: http://www.imdb.com)
 * Rotten Tomatoes (Link: http://www.rottentomatoes.com)
 
-We collected > 3000 tuples from each site across a variety of movie genres.  We collected **3006** movies from rottenTomatoes and **N** from imdb.  The source of the data is not found in the data / schema but in the file name.  The Tuples are of the form:
+We collected > 3000 tuples from each site across a variety of movie genres.  We collected **3005** movies from rottenTomatoes and **3250** from imdb.  The source of the data is not found in the data / schema but in the file name.  The Tuples are of the form:
 
 #### Attributes:
 Url,Title,Score,Rating,Genre,Directed By,Written By,Box Office,Release Date,Runtime,Studio
