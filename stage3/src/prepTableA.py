@@ -16,20 +16,35 @@ runtime_str = "Runtime"
 studio_str = "Studio"
 
 
+# Not Used
 def prep_url(url):
     return url
 
 
+# String
 def prep_title(title):
     return title
 
 
+# Range Input = NA or [0.0, 10.0] map to NA or [0-100]
 def prep_score(score):
-    return score
+    if score == 'NA' or score == score_str:
+        return score
+    else:
+        return int(float(score) * 10)
 
 
+# Ratings in the file:
+#   file_ratings = [Rating, NO RATED, PG - 13, TV - MA, TV - 14, TV - PG, R, NOT RATED, PG, TV - Y7, G, TV - Y7 - FV, TV - G, NC - 17, TV - Y, APPROVED, UNRATED, PASSED]
+# Invalid Ratings:
+#   invalid_ratings = [NO RATED, APPROVED, UNRATED, PASSED]
+# Valid Ratings
+#   valid_ratings = [PG-13, TV-MA, TV-14, TV-PG, R, NOT RATED, PG, TV-Y7, G, TV-Y7-FV, TV-G, NC-17, TV-Y]
 def prep_rating(rating):
-    return rating
+    ret_rating = rating
+    if rating == 'NO RATED' or rating == 'APPROVED' or rating == 'UNRATED' or rating == 'PASSED':
+        ret_rating = 'NOT RATED'
+    return ret_rating
 
 
 def prep_genre(genre):
@@ -44,18 +59,28 @@ def prep_writen(writen):
     return writen
 
 
+# Input $num,ber; output integer
 def prep_box_office(box_office):
-    return box_office
+    if box_office == 'NA' or box_office == box_office_str:
+        return box_office
+    else:
+        return int(box_office.replace('$', '').replace(',', ''))
 
 
+# Input Year-Month-Year
 def prep_release_date(release_date):
     return release_date
 
 
+# Input NA or PT156M;  output number of minutes
 def prep_runtime(runtime):
-    return runtime
+    if runtime == 'NA' or runtime == runtime_str:
+        return runtime
+    else:
+        return int(runtime[2:].split('M', 1)[0])
 
 
+# String
 def prep_studio(studio):
     return studio
 
@@ -86,7 +111,7 @@ def prep_row(input_row, id_val):
     return new_row
 
 
-id_prepend = "A"
+id_prepend = "A_"
 input_filename = "../data/ImdbMovieDatabase.csv"
 output_filename = "../data/A.csv"
 input_file = open(input_filename, "r", encoding='ansi')
@@ -94,11 +119,18 @@ output_file = open(output_filename, "a")
 reader = csv.DictReader(input_file, fieldnames=input_fieldnames)
 writer = csv.DictWriter(output_file, fieldnames=output_fieldnames)
 
+# values = []
 i = 1
 for row in reader:
+    # preped_row = prep_row(row, (id_prepend + '{:04d}'.format(i)))
+    # value = preped_row[box_office_str]
+    # if value not in values:
+    #     values.append(value)
+
     # print(row)
     # we only have ~3000 entries thus we only need 4 zero padded numbers
     writer.writerow(prep_row(row, (id_prepend + '{:04d}'.format(i))))
     i = i + 1
 
+# print(*values)
 output_file.flush()

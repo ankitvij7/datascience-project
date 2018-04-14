@@ -1,4 +1,5 @@
 import csv
+from datetime import datetime
 
 input_fieldnames = ['Url', 'Title', 'Score', 'Rating', 'Genre', 'Directed By', 'Written By', 'Box Office', 'Release Date', 'Runtime', 'Studio', 'Audience Score']
 output_fieldnames = ['ID', 'Title', 'Score', 'Rating', 'Genre', 'Directed By', 'Written By', 'Box Office', 'Release Date', 'Runtime', 'Studio']
@@ -17,20 +18,39 @@ studio_str = "Studio"
 aud_score_str = "Audience Score"
 
 
+# Not Used
 def prep_url(url):
     return url
 
 
+# String
 def prep_title(title):
     return title
 
 
+# String Input: NA , 0-100
 def prep_score(score):
     return score
 
 
+# Comes in the form of: String with Rating(description)
+# Ratings in the file:
+#   file_ratings = [ Rating, PG-13, PG, NR, R, G, NC17, NA ]
+# Invalid Ratings:
+#   invalid_ratings = [NR, NC17, NA]
+# Valid Ratings
+#   valid_ratings = [Rating, PG-13, PG, NOT RATED, R, G, NC-17]
 def prep_rating(rating):
-    return rating
+    if rating != rating_str:
+        ret_rating = rating.split('(', 1)[0].strip()
+        if ret_rating == 'NA' or ret_rating == 'NR':
+            return 'NOT RATED'
+        elif ret_rating == 'NC17':
+            return 'NC-17'
+        else:
+            return ret_rating
+    else:
+        return rating
 
 
 def prep_genre(genre):
@@ -46,17 +66,29 @@ def prep_writen(writen):
 
 
 def prep_box_office(box_office):
-    return box_office
+    if box_office == 'NA' or box_office == box_office_str:
+        return box_office
+    else:
+        return int(box_office.replace('$', '').replace(',', ''))
 
 
+# Input Mon day, year, output year-month-day
 def prep_release_date(release_date):
-    return release_date
+    if release_date == 'NA' or release_date == release_date_str:
+        return release_date
+    else:
+        return f"{datetime.strptime(release_date, '%b %d, %Y'):%Y-%m-%d}"
 
 
+# input NA, integer minutes, output integer number of minutes
 def prep_runtime(runtime):
-    return runtime
+    if runtime == 'NA' or runtime == runtime_str:
+        return runtime
+    else:
+        return int(runtime.split(' ', 1)[0].strip())
 
 
+# String
 def prep_studio(studio):
     return studio
 
@@ -92,7 +124,7 @@ def prep_row(input_row, id_val):
     return new_row
 
 
-id_prepend = "B"
+id_prepend = "B_"
 input_filename = "../data/RottenTomatoesMovieDatabase.csv"
 output_filename = "../data/B.csv"
 input_file = open(input_filename, "r", encoding='utf-8')
@@ -100,11 +132,18 @@ output_file = open(output_filename, "a", encoding='utf-8')
 reader = csv.DictReader(input_file, fieldnames=input_fieldnames)
 writer = csv.DictWriter(output_file, fieldnames=output_fieldnames)
 
+# values = []
 i = 1
 for row in reader:
+    # preped_row = prep_row(row, (id_prepend + '{:04d}'.format(i)))
+    # value = preped_row[box_office_str]
+    # if value not in values:
+    #     values.append(value)
+
     # print(row)
     # we only have ~3000 entries thus we only need 4 zero padded numbers
     writer.writerow(prep_row(row, (id_prepend + '{:04d}'.format(i))))
     i = i + 1
 
+# print(*values)
 output_file.flush()
