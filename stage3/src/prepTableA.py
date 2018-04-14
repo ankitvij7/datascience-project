@@ -9,7 +9,7 @@ score_str = "Score"
 rating_str = "Rating"
 genre_str = "Genre"
 directed_str = "Directed By"
-writen_str = "Written By"
+written_str = "Written By"
 box_office_str = "Box Office"
 release_date_str = "Release Date"
 runtime_str = "Runtime"
@@ -55,8 +55,8 @@ def prep_directed(directed):
     return directed
 
 
-def prep_writen(writen):
-    return writen
+def prep_written(written):
+    return written
 
 
 # Input $num,ber; output integer
@@ -91,7 +91,7 @@ prep_field_fns = {url_str: prep_url,
                   rating_str: prep_rating,
                   genre_str: prep_genre,
                   directed_str: prep_directed,
-                  writen_str: prep_writen,
+                  written_str: prep_written,
                   box_office_str: prep_box_office,
                   release_date_str: prep_release_date,
                   runtime_str: prep_runtime,
@@ -119,18 +119,18 @@ output_file = open(output_filename, "a")
 reader = csv.DictReader(input_file, fieldnames=input_fieldnames)
 writer = csv.DictWriter(output_file, fieldnames=output_fieldnames)
 
-# values = []
+values = []
 i = 1
 for row in reader:
-    # preped_row = prep_row(row, (id_prepend + '{:04d}'.format(i)))
-    # value = preped_row[box_office_str]
-    # if value not in values:
-    #     values.append(value)
+    preped_row = prep_row(row, (id_prepend + '{:04d}'.format(i)))
+    value = preped_row[box_office_str]
+    if value not in values:
+        values.append(value)
 
     # print(row)
     # we only have ~3000 entries thus we only need 4 zero padded numbers
-    writer.writerow(prep_row(row, (id_prepend + '{:04d}'.format(i))))
+    # writer.writerow(prep_row(row, (id_prepend + '{:04d}'.format(i))))
     i = i + 1
 
-# print(*values)
+print(*values)
 output_file.flush()
