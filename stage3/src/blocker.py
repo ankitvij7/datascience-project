@@ -4,9 +4,9 @@ import pandas as pd
 import os
 
 # Display the versions
-print('python version: ' + sys.version )
-print('pandas version: ' + pd.__version__ )
-print('magellan version: ' + em.__version__ )
+print('python version: ' + sys.version)
+print('pandas version: ' + pd.__version__)
+print('magellan version: ' + em.__version__)
 
 # Get the paths
 path_A = '../data/A.csv'
@@ -18,7 +18,7 @@ B = em.read_csv_metadata(path_B, key='ID')
 
 print('Number of tuples in A: ' + str(len(A)))
 print('Number of tuples in B: ' + str(len(B)))
-print('Number of tuples in A X B (i.e the cartesian product): ' + str(len(A)*len(B)))
+print('Number of tuples in A X B (i.e the cartesian product): ' + str(len(A) * len(B)))
 
 print(A.head(2))
 
@@ -29,7 +29,7 @@ em.get_key(A), em.get_key(B)
 
 # Blocking plan
 
-# A, B -- AttrEquivalence blocker [release date] --------------------|
+# A, B -- AttrEquivalence blocker [release date] -----------|
 #                                                           |---> candidate set C--> Score proximity rule based blocker --> D
 # A, B -- Overlap blocker [title]---------------------------|
 
@@ -39,27 +39,37 @@ ab = em.AttrEquivalenceBlocker()
 C1 = ab.block_tables(A, B, 'Release Date', 'Release Date',
                      l_output_attrs=['Title', 'Genre', 'Score', 'Release Date', 'Rating'],
                      r_output_attrs=['Title', 'Genre', 'Score', 'Release Date', 'Rating']
-                    )
+                     )
+print("C1", len(C1))
 
-
-# Initialize overlap blocker
+#  Initializeoverlap blocker
 ob = em.OverlapBlocker()
 # Block over title attribute
-C2 = ob.block_tables(A, B, 'Title', 'Title', show_progress=False, overlap_size=2)
-print(len(C2))
-
+# overlap_size |rem_stop_words | ! rem_stop_words
+# -------------|---------------|-----------------
+#       1      |    103202     |    865894
+#       2      |      1826     |     42140
+#       3      |       260     |      1235
+C2 = ob.block_tables(A, B, 'Title', 'Title', show_progress=False, overlap_size=2, rem_stop_words=True)
+#print(C2)
+print("C2", len(C2))
 
 # Combine the outputs from attr. equivalence blocker and overlap blocker
-#union becuase if there is an error in the release date, at least the movies should have their names in common
+# union because if there is an error in the release date, at least the movies should have their names in common
 C = em.combine_blocker_outputs_via_union([C1, C2])
-print(len(C))
+print("C", len(C))
+
+#E = em.debug_blocker(C2, A, B, attr_corres=[('Title','Title')])
+#print(E)
 
 # Rule based blocker on score after C
 block_f = em.get_features_for_blocking(A, B, validate_inferred_attr_types=False)
-print(block_f)
+# print(block_f)
 rb = em.RuleBasedBlocker()
 rb.add_rule(['Score_Score_anm(ltuple, rtuple) > 0.90'], block_f)
 
 D = rb.block_candset(C, show_progress=False)
 D.head()
 print(len(D))
+
+
