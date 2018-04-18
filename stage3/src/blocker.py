@@ -123,14 +123,6 @@ G.to_csv('G.csv')
 print(G.loc[G['label'] == 1])
 true_matches_in_df(G)
 print(len(G))
-# A_title = A[['Title']]
-# B_title = B[['Title']]
-# i = 0
-# for index, row in S.iterrows():
-#     if row['ltable_Title'] == row2['rtable_Title']:
-#
-#             i += 1
-# print(i)
 #
 # print(S.head(7))
 # G = em.label_table(S, 'gold')
@@ -140,9 +132,6 @@ print(len(G))
 # # print(E.head(20))
 # print(len(E))
 
-# exact matches
-# print(block_f)
-#
 
 #Code to calculate true matches b/w A and B:
 # A_title = A[['Title']]
