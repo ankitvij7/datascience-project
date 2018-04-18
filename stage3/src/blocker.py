@@ -51,6 +51,7 @@ ob = em.OverlapBlocker()
 #       2      |      1826     |     42140
 #       3      |       260     |      1235
 C2 = ob.block_tables(A, B, 'Title', 'Title', show_progress=False, overlap_size=2, rem_stop_words=True)
+# C2 = ob.block_tables(A, B, 'Title')
 #print(C2)
 print("C2", len(C2))
 
@@ -59,8 +60,9 @@ print("C2", len(C2))
 C = em.combine_blocker_outputs_via_union([C1, C2])
 print("C", len(C))
 
-#E = em.debug_blocker(C2, A, B, attr_corres=[('Title','Title')])
-#print(E)
+# debug 1
+E = em.debug_blocker(C2, A, B, attr_corres=[('Title','Title')])
+print(len(E))
 
 # Rule based blocker on score after C
 block_f = em.get_features_for_blocking(A, B, validate_inferred_attr_types=False)
@@ -72,4 +74,57 @@ D = rb.block_candset(C, show_progress=False)
 D.head()
 print(len(D))
 
+S = em.sample_table(D, 300)
+# S.to_csv('S.csv')
+
+def f(row):
+    if str(row['ltable_Title']).lower() == str(row['rtable_Title']).lower():
+        val = 1
+    else:
+        val = 0
+    return val
+
+G = S.copy()
+G['label'] = S.apply(f, axis=1)
+G = G.drop(columns=['rtable_Release Date', 'ltable_Release Date'])
+G.to_csv('G.csv')
+# print(G.head(10))
+print(G.loc[G['label'] == 1])
+# A_title = A[['Title']]
+# B_title = B[['Title']]
+# i = 0
+# for index, row in S.iterrows():
+#     if row['ltable_Title'] == row2['rtable_Title']:
+#
+#             i += 1
+# print(i)
+#
+# print(S.head(7))
+# G = em.label_table(S, 'gold')
+
+# debug 2
+E = em.debug_blocker(D, A, B, attr_corres=[('Title','Title')])
+# print(E.head(20))
+print(len(E))
+
+# exact matches
+# print(block_f)
+#
+# A_title = A[['Title']]
+# B_title = B[['Title']]
+#
+
+
+# i = 0
+# for index, row in A_title.iterrows():
+#     for index2, row2 in B_title.iterrows():
+#         if row['Title'] == row2['Title']:
+#             i += 1
+# print(i)
+#
+# rb2 = em.RuleBasedBlocker()
+# rb2.add_rule(['Title_Title_jac_qgm_3_qgm_3(ltuple, rtuple) > 0.90'], block_f)
+# Exact_Matches = rb2.block_tables(A, B, l_output_attrs=['Title'], r_output_attrs=['Title'])
+# print(Exact_Matches.head(2))
+# print(len(Exact_Matches))
 
