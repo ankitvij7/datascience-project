@@ -1,301 +1,301 @@
 ,_id,ltable_ID,rtable_ID,ltable_Title,ltable_Genre,ltable_Score,ltable_Rating,rtable_Title,rtable_Genre,rtable_Score,rtable_Rating,label
-229,229,A_0008,B_0284,Game of Thrones,Action;Adventure;Drama,95,TV-MA,Newness,Drama,69,NOT RATED,0
-483,483,A_0010,B_1144,Arrow,Action;Adventure,78,TV-14,Rhythm 'N' Bayous: A Road Map To Louisiana Music (2000),Documentary;Musical,40,NOT RATED,0
-1245,1245,A_0016,B_1038,The Flash,Action;Adventure;Drama,80,TV-PG,The Steps,Comedy;Drama;Film-Noir,33,NOT RATED,0
-1302,1302,A_0016,B_1980,The Flash,Action;Adventure;Drama,80,TV-PG,The Year Dolly Parton Was My Mom2011,Comedy;Drama,40,NOT RATED,0
-1317,1317,A_0016,B_2257,The Flash,Action;Adventure;Drama,80,TV-PG,See No Evil 2,Horror,60,R,0
-1785,1785,A_0019,B_0724,La casa de papel,Action;Mystery,88,TV-MA,A Month Of Sundays,Comedy;Film-Noir,63,PG-13,0
-3472,3472,A_0041,B_0284,Daredevil,Action;Drama,87,TV-MA,Newness,Drama,69,NOT RATED,0
-4812,4812,A_0058,B_0032,Friends,Comedy;Romance,89,TV-14,Prodigy,Drama;Fantasy;Mystery;Sci-Fi;Thriller,80,NOT RATED,0
-6423,6423,A_0075,B_1102,Roseanne,Comedy,0,TV-PG,,,0,NOT RATED,0
-6896,6896,A_0077,B_2819,Orange Is the New Black,Comedy;Drama,82,TV-MA,The Sound Of Music Live!,Musical,44,NOT RATED,0
-8169,8169,A_0086,B_1920,Good Girls,Comedy;Drama,72,TV-14,Outside Bet,Comedy;Film-Noir,0,NOT RATED,0
-9560,9560,A_0097,B_0093,Supernatural,Drama;Fantasy;Horror,85,TV-14,Hellraiser: Judgment,Horror,50,NOT RATED,0
-10220,10220,A_0101,B_1443,Criminal Minds,Drama;Mystery,81,TV-14,Cut Snake,Mystery;Thriller,67,R,0
-11135,11135,A_0108,B_0862,Westworld,Drama;Mystery;Sci-Fi,89,TV-MA,Orange Sunshine,Action;Adventure;Documentary,100,NOT RATED,0
-11597,11597,A_0111,B_1920,The 100,Drama;Mystery;Sci-Fi,78,TV-14,Outside Bet,Comedy;Film-Noir,0,NOT RATED,0
-12174,12174,A_0116,B_1796,The Vampire Diaries,Drama;Fantasy;Horror,78,TV-14,A Few Best Men,Comedy,15,NOT RATED,0
-12429,12429,A_0118,B_0119,Doctor Who,Adventure;Drama;Family,87,TV-PG,Victor Crowley,Comedy;Horror,44,NOT RATED,0
-13137,13137,A_0122,B_2040,Dark,Drama;Mystery,87,TV-MA,Big Driver,Mystery;Thriller,50,NOT RATED,0
-13835,13835,A_0127,B_1151,Bones,Comedy;Drama,79,TV-14,Of Men And War,Documentary,100,NOT RATED,0
-14061,14061,A_0128,B_1765,True Detective,Drama;Mystery,90,TV-MA,La religieuse (The Nun),Drama,75,NOT RATED,0
-14730,14730,A_0134,B_0490,House M.D.,Drama;Mystery,88,TV-14,"Can't Stop, Won't Stop: A Bad Boy Story",Documentary,38,NOT RATED,0
-15875,15875,A_0143,B_0681,Once Upon a Time,Adventure;Fantasy;Romance,78,TV-PG,Girlfriend's Day,Comedy,20,NOT RATED,0
-16220,16220,A_0149,B_2592,Lucifer,Drama;Fantasy,82,TV-14,The Patrol,Action;Adventure;Drama,64,NOT RATED,0
-16253,16253,A_0150,B_0129,The Magicians,Drama;Fantasy,75,TV-14,The Polka King,Comedy;Drama,59,NOT RATED,0
-16864,16864,A_0162,B_0444,Britannia,Action;Drama;Fantasy,66,TV-MA,Message from the King,Drama;Mystery;Thriller,43,R,0
-18399,18399,A_0184,B_2898,Grimm,Drama;Fantasy;Horror,78,TV-14,The Seasoning House,Action;Adventure;Drama;Horror,21,NOT RATED,0
-18938,18938,A_0201,B_1535,Family Guy,Animation;Comedy,82,TV-14,The Editor,Horror,55,NOT RATED,0
-18947,18947,A_0201,B_1668,Family Guy,Animation;Comedy,82,TV-14,Elimination Game (Turkey Shoot),Action;Adventure;Film-Noir,20,NOT RATED,0
-20271,20271,A_0218,B_1038,Futurama,Animation;Comedy;Sci-Fi,85,TV-14,The Steps,Comedy;Drama;Film-Noir,33,NOT RATED,0
-21177,21177,A_0225,B_0681,Attack on Titan,Action;Adventure;Animation,88,TV-14,Girlfriend's Day,Comedy,20,NOT RATED,0
-21320,21320,A_0227,B_0428,The Boss Baby,Animation;Comedy;Family,63,PG,The Boss Baby,Animation;Comedy;Family,52,PG,1
-22153,22153,A_0243,B_0196,American Crime Story,Documentary;Drama,85,TV-MA,The Crucifixion,Horror,0,R,0
-22206,22206,A_0243,B_0926,American Crime Story,Documentary;Drama,85,TV-MA,ARQ,Drama;Fantasy;Mystery;Sci-Fi;Thriller,43,NOT RATED,0
-22956,22956,A_0249,B_0832,Scandal,Drama;Thriller,78,TV-14,The 24 Hour War,Documentary,100,NOT RATED,0
-23308,23308,A_0253,B_0280,Sons of Anarchy,Drama;Thriller,86,TV-MA,Daguerrotype (Le secret de la chambre noire),Drama;Fantasy;Film-Noir;Horror;Sci-Fi,46,NOT RATED,0
-23666,23666,A_0255,B_0093,The Irishman,Documentary;Drama,0,NOT RATED,Hellraiser: Judgment,Horror,50,NOT RATED,0
-24521,24521,A_0259,B_1547,MacGyver,Action;Adventure;Drama,51,TV-14,Bessie,Drama;Television,89,R,0
-24896,24896,A_0264,B_1151,Black Lightning,Action;Drama;Sci-Fi,64,TV-14,Of Men And War,Documentary,100,NOT RATED,0
-25113,25113,A_0266,B_1547,Chicago Fire,Action;Drama,79,TV-14,Bessie,Drama;Television,89,R,0
-26164,26164,A_0284,B_2040,SEAL Team,Action;Documentary;Drama,68,TV-14,Big Driver,Mystery;Thriller,50,NOT RATED,0
-26480,26480,A_0288,B_0925,Buffy the Vampire Slayer,Action;Drama;Fantasy,82,TV-14,The White Helmets,Documentary,100,NOT RATED,0
-26973,26973,A_0290,B_2900,The Gifted,Action;Drama;Fantasy,77,TV-14,Twenty8k,Drama;Film-Noir;Mystery;Thriller,20,NOT RATED,0
-27216,27216,A_0292,B_0704,Person of Interest,Action;Drama,85,TV-14,Justice League Dark,Action;Adventure;Animation;Fantasy;Sci-Fi,71,R,0
-28251,28251,A_0299,B_1903,That '70s Show,Comedy;Romance,81,TV-PG,WolfCop,Comedy;Horror,63,NOT RATED,0
-28385,28385,A_0301,B_0891,Life Sentence,Comedy;Drama,67,TV-PG,Amanda Knox,Documentary,84,NOT RATED,0
-28910,28910,A_0304,B_0328,Black-ish,Comedy,71,TV-PG,Haunters: The Art of the Scare,Documentary;Horror,100,NOT RATED,0
-29321,29321,A_0307,B_0894,The Orville,Adventure;Comedy;Drama,79,TV-14,Everlasting,Drama;Mystery;Thriller,100,NOT RATED,0
-29728,29728,A_0309,B_1343,Young Sheldon,Comedy,69,TV-PG,Get Santa,Comedy;Family,77,PG,0
-30072,30072,A_0313,B_0724,Gilmore Girls,Comedy;Drama,81,TV-PG,A Month Of Sundays,Comedy;Film-Noir,63,PG-13,0
-31157,31157,A_0322,B_2787,Castle,Comedy;Drama,82,TV-14,Killing Kennedy,Drama,56,NOT RATED,0
-33006,33006,A_0332,B_2373,Elementary,Drama;Mystery,79,TV-14,The Normal Heart,Drama;Television,94,R,0
-33739,33739,A_0336,B_2073,True Blood,Drama;Fantasy;Mystery,79,TV-MA,Uncle Kent2010,Comedy;Drama,60,NOT RATED,0
-36025,36025,A_0358,B_1572,Beyond,Drama;Fantasy;Mystery,72,TV-14,Hangar 10,Fantasy;Horror;Mystery;Sci-Fi;Thriller,14,NOT RATED,0
-39058,39058,A_0400,B_2259,Titans,Action;Adventure;Fantasy,0,NOT RATED,Topkapi (1964),Action;Adventure;Classics;Comedy;Drama;Mystery;Thriller,90,NOT RATED,0
-39076,39076,A_0400,B_2656,Titans,Action;Adventure;Fantasy,0,NOT RATED,Flowers in the Attic,Documentary;Drama,52,NOT RATED,0
-41535,41535,A_0463,B_1951,Star Wars: The Clone Wars,Action;Adventure;Animation,80,TV-PG,In Your Eyes,Fantasy;Romance;Sci-Fi,61,NOT RATED,0
-43326,43326,A_0500,B_1903,The Loud House,Action;Animation;Comedy,77,TV-Y7,WolfCop,Comedy;Horror,63,NOT RATED,0
-43498,43498,A_0503,B_1409,Steven Universe,Action;Animation;Comedy,84,TV-PG,Mr. Dynamite: The Rise of James Brown,Documentary;Musical,100,NOT RATED,0
-43990,43990,A_0508,B_0133,Phineas and Ferb,Action;Animation;Comedy,80,TV-G,Girl Flu.,Comedy;Family,100,NOT RATED,0
-44958,44958,A_0518,B_0232,The Looming Tower,Drama,76,TV-MA,Rift (RÃÂ¶kkur),Drama;Mystery;Thriller,100,NOT RATED,0
-44984,44984,A_0518,B_0614,The Looming Tower,Drama,76,TV-MA,Louis C.K.:,Comedy,100,NOT RATED,0
-45666,45666,A_0522,B_2602,Blue Bloods,Drama,75,TV-14,Gambit,Action;Adventure;Comedy;Drama;Mystery;Thriller,17,PG-13,0
-45676,45676,A_0522,B_2787,Blue Bloods,Drama,75,TV-14,Killing Kennedy,Drama,56,NOT RATED,0
-47401,47401,A_0539,B_2415,Band of Brothers,Action;Documentary;Drama,95,TV-MA,Justin and the Knights of Valour,Action;Adventure;Animation;Fantasy;Film-Noir;Sci-Fi,7,PG,0
-47494,47494,A_0540,B_0871,The Last Kingdom,Action;Documentary,83,TV-MA,The Siege of Jadotville,Drama,60,NOT RATED,0
-47743,47743,A_0545,B_1476,24,Action;Drama,84,TV-14,Sharknado 3: Oh Hell No!,Television,36,NOT RATED,0
-48631,48631,A_0558,B_0133,Glee,Comedy;Drama;Musical,67,TV-PG,Girl Flu.,Comedy;Family,100,NOT RATED,0
-48795,48795,A_0558,B_2785,Glee,Comedy;Drama;Musical,67,TV-PG,Burton And Taylor,Drama,100,PG,0
-48837,48837,A_0561,B_0324,Champions,Comedy,55,TV-14,Cult of Chucky,Horror,82,R,0
-49157,49157,A_0562,B_2503,Frasier,Comedy,80,TV-PG,Joy Ride 3: Road Kill,Horror;Mystery;Thriller,60,R,0
-49364,49364,A_0563,B_2846,The Ranch,Comedy,77,TV-MA,Kiss the Water,Documentary,87,NOT RATED,0
-49724,49724,A_0568,B_2320,Saturday Night Live,Comedy;Musical,81,TV-14,Victim2011,Action;Adventure;Drama;Mystery;Thriller,38,NOT RATED,0
-50093,50093,A_0571,B_2207,Crazy Ex-Girlfriend,Comedy;Musical,77,TV-14,The Forgotten Kingdom,Drama,86,NOT RATED,0
-50794,50794,A_0575,B_1313,Man with a Plan,Comedy,68,TV-PG,Over Your Dead Body (Kuime),Film-Noir;Horror,43,NOT RATED,0
-50891,50891,A_0576,B_0096,Fresh Off the Boat,Comedy,79,TV-PG,A Futile and Stupid Gesture,Comedy,61,NOT RATED,0
-52198,52198,A_0586,B_2597,Full House,Comedy;Drama;Family,67,TV-G,Mischief Night,Comedy;Drama;Family;Mystery;Thriller,100,R,0
-52791,52791,A_0592,B_0732,Arrival,Drama;Mystery;Sci-Fi,79,PG-13,The Anthropologist,Documentary,100,NOT RATED,0
-53751,53751,A_0605,B_2252,Columbo,Drama;Mystery,82,TV-PG,Saving Santa,Animation;Family,20,NOT RATED,0
-54729,54729,A_0612,B_2656,Dirk Gently's Holistic Detective Agency,Comedy;Mystery;Sci-Fi,84,TV-14,Flowers in the Attic,Documentary;Drama,52,NOT RATED,0
-55449,55449,A_0623,B_1572,Agatha Christie's Poirot,Drama;Mystery,86,TV-14,Hangar 10,Fantasy;Horror;Mystery;Sci-Fi;Thriller,14,NOT RATED,0
-55513,55513,A_0623,B_2815,Agatha Christie's Poirot,Drama;Mystery,86,TV-14,Antisocial,Horror,0,R,0
-56498,56498,A_0635,B_0119,Star Trek: Deep Space Nine,Action;Adventure;Drama,79,TV-PG,Victor Crowley,Comedy;Horror,44,NOT RATED,0
-56546,56546,A_0635,B_0804,Star Trek: Deep Space Nine,Action;Adventure;Drama,79,TV-PG,The Lost Bladesman (Guan yun chang)2011,Action;Adventure;Film-Noir,57,NOT RATED,0
-56695,56695,A_0637,B_0030,The Last Ship,Action;Drama;Sci-Fi,75,TV-14,The Outsider,Drama;Mystery;Thriller,22,NOT RATED,0
-57019,57019,A_0640,B_2009,Star Trek,Action;Adventure;Sci-Fi,83,TV-PG,Justice League: Throne Of Atlantis,Action;Adventure;Animation,40,PG-13,0
-58183,58183,A_0697,B_2442,Fortitude,Drama;Horror;Mystery,74,TV-MA,Endless Love1981,Drama;Romance,25,R,0
-61341,61341,A_0747,B_2040,Boku no Hero Academia,Action;Animation;Comedy,84,TV-14,Big Driver,Mystery;Thriller,50,NOT RATED,0
-61761,61761,A_0754,B_2785,The Fairly OddParents,Animation;Comedy;Family,72,TV-PG,Burton And Taylor,Drama,100,PG,0
-62632,62632,A_0769,B_1264,Robot Chicken,Animation;Comedy;Sci-Fi,78,TV-MA,Marshland (La isla mÃÂ­nima),Film-Noir;Mystery;Thriller,91,NOT RATED,0
-63653,63653,A_0778,B_2592,Call the Midwife,Drama,84,TV-PG,The Patrol,Action;Adventure;Drama,64,NOT RATED,0
-64071,64071,A_0782,B_0133,Better Call Saul,Drama,87,TV-MA,Girl Flu.,Comedy;Family,100,NOT RATED,0
-64188,64188,A_0782,B_1854,Better Call Saul,Drama,87,TV-MA,Batman Vs. Robin,Action;Adventure;Animation,100,PG-13,0
-65097,65097,A_0795,B_0804,Tabula Rasa,Thriller,82,TV-MA,The Lost Bladesman (Guan yun chang)2011,Action;Adventure;Film-Noir,57,NOT RATED,0
-65577,65577,A_0803,B_1719,The Brave,Action;Drama;Thriller,75,TV-14,Der Samurai,Fantasy;Horror;Mystery;Sci-Fi;Thriller,100,NOT RATED,0
-65738,65738,A_0805,B_1143,Into the Badlands,Action;Adventure;Drama,81,TV-14,Special Correspondents,Comedy,16,NOT RATED,0
-66472,66472,A_0811,B_0894,Battlestar Galactica,Action;Adventure;Drama,87,TV-14,Everlasting,Drama;Mystery;Thriller,100,NOT RATED,0
-67301,67301,A_0820,B_1630,2 Broke Girls,Comedy,67,TV-14,Lost Soul: The Doomed Journey of Richard Stanley's Island of Dr. Moreau,Documentary,100,NOT RATED,0
-67422,67422,A_0821,B_0704,Californication,Comedy;Drama,83,TV-MA,Justice League Dark,Action;Adventure;Animation;Fantasy;Sci-Fi,71,R,0
-67425,67425,A_0821,B_0738,Californication,Comedy;Drama,83,TV-MA,Roger Corman's Death Race 2050,Action;Adventure,100,R,0
-67499,67499,A_0821,B_1796,Californication,Comedy;Drama,83,TV-MA,A Few Best Men,Comedy,15,NOT RATED,0
-70224,70224,A_0846,B_0165,Jersey Shore,Comedy;Drama;Television,35,TV-14,Shock Wave,Action;Adventure;Film-Noir,83,NOT RATED,0
-70375,70375,A_0846,B_2531,Jersey Shore,Comedy;Drama;Television,35,TV-14,No Clue,Comedy,40,NOT RATED,0
-72006,72006,A_0870,B_1102,Under the Dome,Drama;Mystery;Sci-Fi,67,TV-14,,,0,NOT RATED,0
-73033,73033,A_0882,B_1980,Rizzoli & Isles,Drama;Mystery,76,NOT RATED,The Year Dolly Parton Was My Mom2011,Comedy;Drama,40,NOT RATED,0
-73279,73279,A_0884,B_2788,Suicide Squad 2,Action;Adventure;Fantasy,0,NOT RATED,Justice League: War,Action;Adventure;Animation,50,PG-13,0
-73739,73739,A_0894,B_0421,Future Man,Action;Comedy;Sci-Fi,80,TV-MA,Naked,Comedy;Romance,0,NOT RATED,0
-73972,73972,A_0907,B_0280,Star Trek: Enterprise,Action;Adventure;Drama,75,TV-PG,Daguerrotype (Le secret de la chambre noire),Drama;Fantasy;Film-Noir;Horror;Sci-Fi,46,NOT RATED,0
-74297,74297,A_0910,B_2447,Frontier,Adventure,72,TV-MA,Vinyl,Comedy,60,NOT RATED,0
-74645,74645,A_0916,B_1509,Mighty Morphin Power Rangers,Action;Adventure;Family,64,TV-Y7,Lyle,Drama;Horror,100,NOT RATED,0
-74812,74812,A_0921,B_0871,Kevin (Probably) Saves the World,Comedy;Drama;Fantasy,78,TV-14,The Siege of Jadotville,Drama,60,NOT RATED,0
-74874,74874,A_0921,B_1756,Kevin (Probably) Saves the World,Comedy;Drama;Fantasy,78,TV-14,Li'l Quinquin,Drama,100,NOT RATED,0
-75243,75243,A_0925,B_1529,Good Omens,Comedy;Fantasy,0,NOT RATED,The Last Impresario,Documentary,93,NOT RATED,0
-75489,75489,A_0926,B_2602,Angel,Action;Drama;Fantasy,80,TV-14,Gambit,Action;Adventure;Comedy;Drama;Mystery;Thriller,17,PG-13,0
-75595,75595,A_0945,B_2950,The Purge,Horror;Sci-Fi;Thriller,57,R,Violet & Daisy,Action;Adventure;Drama;Mystery;Thriller,22,R,0
-75677,75677,A_0950,B_0894,The Mist,Drama;Horror;Sci-Fi,54,TV-14,Everlasting,Drama;Mystery;Thriller,100,NOT RATED,0
-77601,77601,A_1003,B_2353,King of the Hill,Animation;Comedy;Drama,73,TV-PG,When I Saw You,Drama,100,NOT RATED,0
-77893,77893,A_1006,B_0832,Elena of Avalor,Adventure;Animation;Family,67,TV-Y,The 24 Hour War,Documentary,100,NOT RATED,0
-78832,78832,A_1024,B_0476,"Scooby Doo, Where Are You!",Animation;Comedy;Family,79,TV-G,Love at First Child (Ange et Gabrielle),Comedy;Film-Noir,50,NOT RATED,0
-79328,79328,A_1030,B_2257,My Little Pony: Friendship Is Magic,Adventure;Animation;Comedy,77,TV-Y,See No Evil 2,Horror,60,R,0
-79797,79797,A_1042,B_0695,Gossip Girl,Drama;Romance,74,TV-14,Nerdland,Drama,27,NOT RATED,0
-79800,79800,A_1042,B_0716,Gossip Girl,Drama;Romance,74,TV-14,Imperial Dreams,Drama,91,NOT RATED,0
-79896,79896,A_1042,B_2246,Gossip Girl,Drama;Romance,74,TV-14,Mystery Road,Mystery;Thriller,91,NOT RATED,0
-80790,80790,A_1050,B_1028,The Royals,Drama,75,TV-14,Lucky Stiff,Comedy;Musical,40,NOT RATED,0
-81291,81291,A_1056,B_0068,Gomorra: La serie,Drama;Thriller,87,TV-MA,Red Dog: True Blue,Drama;Family,100,NOT RATED,0
-81439,81439,A_1056,B_2279,Gomorra: La serie,Drama;Thriller,87,TV-MA,Wolf,Action;Adventure;Documentary;Drama;Mystery;Thriller,67,NOT RATED,0
-82163,82163,A_1082,B_0119,Everybody Loves Raymond,Comedy,71,TV-PG,Victor Crowley,Comedy;Horror,44,NOT RATED,0
-82927,82927,A_1088,B_0934,Can You Ever Forgive Me?,Comedy;Documentary;Drama,0,R,Me Before You,Drama,56,PG-13,0
-83443,83443,A_1091,B_2040,Episodes,Comedy,78,TV-MA,Big Driver,Mystery;Thriller,50,NOT RATED,0
-83715,83715,A_1093,B_0476,Entourage,Comedy;Drama,85,TV-MA,Love at First Child (Ange et Gabrielle),Comedy;Film-Noir,50,NOT RATED,0
-83860,83860,A_1093,B_2851,Entourage,Comedy;Drama,85,TV-MA,Nativity!2009,Comedy,46,PG,0
-84134,84134,A_1095,B_1129,Still Game,Comedy,90,NOT RATED,Theory of Obscurity: A Film About the Residents,Documentary,75,NOT RATED,0
-84678,84678,A_1103,B_0595,One Day at a Time,Comedy,82,TV-PG,The Discovery,Drama;Fantasy;Romance;Sci-Fi,45,NOT RATED,0
-85222,85222,A_1113,B_0068,Atypical,Comedy;Drama,83,TV-MA,Red Dog: True Blue,Drama;Family,100,NOT RATED,0
-85434,85434,A_1117,B_0328,The Following,Drama;Mystery,75,TV-14,Haunters: The Art of the Scare,Documentary;Horror,100,NOT RATED,0
-86756,86756,A_1130,B_0360,Mosaic,Drama;Mystery,64,TV-MA,Jerry Before Seinfeld,Comedy,92,NOT RATED,0
-88456,88456,A_1150,B_0284,American Vandal,Comedy;Mystery,82,TV-MA,Newness,Drama,69,NOT RATED,0
-88460,88460,A_1150,B_0319,American Vandal,Comedy;Mystery,82,TV-MA,Sharknado 5: Global Swarming,Fantasy;Horror;Sci-Fi;Television,33,NOT RATED,0
-89428,89428,A_1188,B_1175,Misfits,Comedy;Drama;Fantasy,83,TV-MA,Hush,Horror,94,R,0
-90707,90707,A_1264,B_0479,Guardians of the Galaxy,Action;Adventure;Animation,76,TV-Y7,Correspondence (La corrispondenza),Drama;Film-Noir;Romance,14,NOT RATED,0
-91203,91203,A_1269,B_2442,Nanatsu no taizai,Action;Adventure;Animation,82,TV-14,Endless Love1981,Drama;Romance,25,R,0
-93206,93206,A_1306,B_0987,Sofia the First,Animation;Family;Fantasy,72,TV-Y,Guernica (Gernika),Drama,80,NOT RATED,0
-95033,95033,A_1321,B_2706,The Fall,Drama;Thriller,82,TV-MA,All Stars,Comedy;Film-Noir,56,PG,0
-95223,95223,A_1327,B_2353,Babylon Berlin,Documentary;Drama,85,TV-MA,When I Saw You,Drama,100,NOT RATED,0
-95395,95395,A_1328,B_2040,Bloodline,Drama;Thriller,81,TV-MA,Big Driver,Mystery;Thriller,50,NOT RATED,0
-97404,97404,A_1359,B_0801,Crashing,Comedy,74,TV-MA,I Am Bolt,Documentary,85,PG,0
-97710,97710,A_1360,B_2706,My Name Is Earl,Comedy,78,TV-PG,All Stars,Comedy;Film-Noir,56,PG,0
-98585,98585,A_1367,B_1443,Trailer Park Boys,Comedy,84,TV-MA,Cut Snake,Mystery;Thriller,67,R,0
-99445,99445,A_1379,B_1742,Before I Fall,Drama;Mystery,64,PG-13,Before I Disappear,Drama,38,NOT RATED,0
-100533,100533,A_1390,B_1796,NYPD Blue,Drama;Mystery,75,TV-14,A Few Best Men,Comedy,15,NOT RATED,0
-102490,102490,A_1431,B_1572,Humans,Drama;Sci-Fi,80,TV-14,Hangar 10,Fantasy;Horror;Mystery;Sci-Fi;Thriller,14,NOT RATED,0
-102657,102657,A_1436,B_1144,Justice League Part Two,Action;Sci-Fi,0,NOT RATED,Rhythm 'N' Bayous: A Road Map To Louisiana Music (2000),Documentary;Musical,40,NOT RATED,0
-103294,103294,A_1453,B_1476,Xena: Warrior Princess,Action;Adventure;Drama,67,TV-PG,Sharknado 3: Oh Hell No!,Television,36,NOT RATED,0
-103477,103477,A_1456,B_1151,Good Witch,Comedy;Drama;Fantasy,73,TV-PG,Of Men And War,Documentary,100,NOT RATED,0
-103589,103589,A_1457,B_0133,Bewitched,Comedy;Family;Fantasy,76,TV-G,Girl Flu.,Comedy;Family,100,NOT RATED,0
-104732,104732,A_1483,B_2999,Wonder Woman,Action;Adventure;Drama,71,TV-G,The Great Hip Hop Hoax,Documentary,86,PG-13,0
-105196,105196,A_1533,B_1529,PAW Patrol,Action;Adventure;Animation,68,TV-Y,The Last Impresario,Documentary,93,NOT RATED,0
-105197,105197,A_1533,B_1532,PAW Patrol,Action;Adventure;Animation,68,TV-Y,Blood Punch,Horror;Mystery;Thriller,78,NOT RATED,0
-106040,106040,A_1550,B_2522,Cloudy with a Chance of Meatballs 2,Action;Adventure;Animation,64,PG,The Secret Lives Of Dorks,Comedy,13,PG-13,0
-106089,106089,A_1551,B_0476,Spirit Riding Free,Adventure;Animation;Family,64,TV-Y7,Love at First Child (Ange et Gabrielle),Comedy;Film-Noir,50,NOT RATED,0
-107117,107117,A_1561,B_1796,Moominvalley,Animation;Drama;Family,0,NOT RATED,A Few Best Men,Comedy,15,NOT RATED,0
-107316,107316,A_1564,B_1796,JoJo's Bizarre Adventure,Action;Adventure;Animation,83,TV-MA,A Few Best Men,Comedy,15,NOT RATED,0
-107529,107529,A_1565,B_2353,Rugrats,Adventure;Animation;Comedy,75,TV-G,When I Saw You,Drama,100,NOT RATED,0
-107745,107745,A_1566,B_2898,The Backyardigans,Adventure;Animation;Comedy,69,TV-Y,The Seasoning House,Action;Adventure;Drama;Horror,21,NOT RATED,0
-108956,108956,A_1582,B_0977,Dynasty,Drama,66,TV-14,Holding The Man,Drama,79,NOT RATED,0
-109546,109546,A_1592,B_1143,Victoria,Documentary;Drama,82,TV-PG,Special Correspondents,Comedy,16,NOT RATED,0
-109743,109743,A_1604,B_0602,Oz,Drama;Thriller,88,TV-MA,Sandy Wexler,Comedy,30,NOT RATED,0
-109752,109752,A_1604,B_0738,Oz,Drama;Thriller,88,TV-MA,Roger Corman's Death Race 2050,Action;Adventure,100,R,0
-110098,110098,A_1618,B_2700,Veep,Comedy,82,TV-MA,Day of the Flowers,Comedy;Drama;Romance,58,NOT RATED,0
-110724,110724,A_1628,B_1421,Life of the Party,Comedy,0,PG-13,Winning: The Racing Life Of Paul Newman,Documentary,90,NOT RATED,0
-110917,110917,A_1632,B_2898,30 Rock,Comedy,82,TV-14,The Seasoning House,Action;Adventure;Drama;Horror,21,NOT RATED,0
-112036,112036,A_1645,B_1907,Top Gear,Comedy;Television,87,TV-PG,TinkerBell and the Legend of the NeverBeast,Action;Adventure;Animation;Family,74,G,0
-112797,112797,A_1659,B_1151,Miami Vice,Action;Drama,75,TV-14,Of Men And War,Documentary,100,NOT RATED,0
-112850,112850,A_1659,B_2069,Miami Vice,Action;Drama,75,TV-14,Viktor,Action;Adventure;Mystery;Thriller,0,NOT RATED,0
-114794,114794,A_1689,B_0280,Limitless,Comedy;Drama,78,TV-14,Daguerrotype (Le secret de la chambre noire),Drama;Fantasy;Film-Noir;Horror;Sci-Fi,46,NOT RATED,0
-115005,115005,A_1695,B_0444,Cloak & Dagger,Action;Adventure;Drama,68,NOT RATED,Message from the King,Drama;Mystery;Thriller,43,R,0
-115033,115033,A_1695,B_0862,Cloak & Dagger,Action;Adventure;Drama,68,NOT RATED,Orange Sunshine,Action;Adventure;Documentary,100,NOT RATED,0
-115800,115800,A_1709,B_0319,Babylon 5,Action;Adventure;Drama,83,NOT RATED,Sharknado 5: Global Swarming,Fantasy;Horror;Sci-Fi;Television,33,NOT RATED,0
-116595,116595,A_1735,B_2999,H2O: Just Add Water,Adventure;Drama;Family,72,TV-PG,The Great Hip Hop Hoax,Documentary,86,PG-13,0
-116920,116920,A_1772,B_0724,Outcast,Drama;Horror,75,TV-MA,A Month Of Sundays,Comedy;Film-Noir,63,PG-13,0
-117092,117092,A_1774,B_0328,Dominion,Action;Drama;Fantasy,68,TV-MA,Haunters: The Art of the Scare,Documentary;Horror,100,NOT RATED,0
-117876,117876,A_1795,B_0681,Blood Drive,Action;Adventure;Comedy,73,TV-MA,Girlfriend's Day,Comedy,20,NOT RATED,0
-118307,118307,A_1805,B_1004,The Boondocks,Action;Animation;Comedy,84,TV-MA,No Men Beyond This Point,Comedy;Drama;Fantasy;Film-Noir;Sci-Fi,43,NOT RATED,0
-118566,118566,A_1808,B_1980,The Ancient Magus' Bride,Animation;Fantasy,82,NOT RATED,The Year Dolly Parton Was My Mom2011,Comedy;Drama,40,NOT RATED,0
-118688,118688,A_1811,B_0925,The Avengers: Earth's Mightiest Heroes,Action;Animation;Family,83,TV-Y7,The White Helmets,Documentary,100,NOT RATED,0
-119052,119052,A_1815,B_0704,Space Jam 2,Adventure;Animation;Comedy,0,NOT RATED,Justice League Dark,Action;Adventure;Animation;Fantasy;Sci-Fi,71,R,0
-119400,119400,A_1817,B_0298,Disenchanted,Adventure;Animation;Comedy,0,NOT RATED,Patton Oswalt: Annihilation,Comedy,100,NOT RATED,0
-120885,120885,A_1834,B_2993,Boruto: Naruto Next Generations,Action;Adventure;Animation,79,NOT RATED,Clear History,Comedy,55,NOT RATED,0
-123343,123343,A_1865,B_1980,Bosch,Drama,83,TV-MA,The Year Dolly Parton Was My Mom2011,Comedy;Drama,40,NOT RATED,0
-123509,123509,A_1868,B_1547,The Path,Drama,74,TV-MA,Bessie,Drama;Television,89,R,0
-123837,123837,A_1874,B_0788,Chicago Med,Drama,75,TV-14,Oddball and the Penguins (Oddball),Action;Adventure;Family;Film-Noir,86,NOT RATED,0
-124479,124479,A_1903,B_0595,Knight Rider,Action;Drama,69,TV-PG,The Discovery,Drama;Fantasy;Romance;Sci-Fi,45,NOT RATED,0
-124670,124670,A_1909,B_0548,Crossing Lines,Action;Drama,74,NOT RATED,Mommy Dead and Dearest,Documentary,100,NOT RATED,0
-125552,125552,A_1925,B_1252,Growing Pains,Comedy;Family,66,TV-G,Second Coming,Drama,82,NOT RATED,0
-125662,125662,A_1926,B_0196,The Suite Life of Zack and Cody,Comedy;Family,64,TV-G,The Crucifixion,Horror,0,R,0
-126002,126002,A_1927,B_2368,Joey,Comedy;Romance,60,TV-14,Project Wild Thing,Action;Adventure;Documentary;Drama,80,NOT RATED,0
-127029,127029,A_1943,B_0490,Saved by the Bell,Comedy;Family;Romance,70,TV-PG,"Can't Stop, Won't Stop: A Bad Boy Story",Documentary,38,NOT RATED,0
-129002,129002,A_1987,B_0840,Perception,Drama;Mystery,75,TV-14,Schneider vs. Bax,Comedy;Drama;Mystery;Thriller,63,NOT RATED,0
-130016,130016,A_2000,B_1909,Between,Drama;Mystery;Sci-Fi,60,TV-14,The White Haired Witch of Lunar Kingdom,Action;Adventure;Drama;Fantasy;Sci-Fi,0,NOT RATED,0
-130515,130515,A_2013,B_0319,Dark Angel,Action;Drama;Mystery,74,TV-14,Sharknado 5: Global Swarming,Fantasy;Horror;Sci-Fi;Television,33,NOT RATED,0
-130975,130975,A_2017,B_1547,The Thundermans,Action;Comedy;Family,58,TV-G,Bessie,Drama;Television,89,R,0
-131044,131044,A_2017,B_2851,The Thundermans,Action;Comedy;Family,58,TV-G,Nativity!2009,Comedy,46,PG,0
-131209,131209,A_2020,B_2447,Power Rangers Ninja Steel,Action;Sci-Fi,67,TV-Y7,Vinyl,Comedy,60,NOT RATED,0
-132682,132682,A_2055,B_1535,Revolution,Action;Adventure;Drama,67,TV-14,The Editor,Horror,55,NOT RATED,0
-134502,134502,A_2137,B_1464,Moonlight,Drama;Fantasy;Horror,77,NOT RATED,Get Married If You Can,Comedy,20,NOT RATED,0
-135672,135672,A_2147,B_1985,The Magic School Bus Rides Again,Adventure;Animation;Family,67,TV-Y,Valentine Road,Documentary,91,NOT RATED,0
-136320,136320,A_2152,B_0472,SuperMansion,Animation;Comedy,77,NOT RATED,Dirty Dancing,Drama;Musical,19,NOT RATED,0
-136466,136466,A_2152,B_2851,SuperMansion,Animation;Comedy,77,NOT RATED,Nativity!2009,Comedy,46,PG,0
-136759,136759,A_2156,B_1332,Bob the Builder,Animation;Family,54,TV-Y,The Inhabitants,Horror;Mystery;Thriller,60,NOT RATED,0
-136918,136918,A_2157,B_0955,X-Men,Action;Animation;Family,85,TV-Y7,XOXO,Comedy,71,NOT RATED,0
-137510,137510,A_2160,B_1409,Wendell and Wild,Animation,0,NOT RATED,Mr. Dynamite: The Rise of James Brown,Documentary;Musical,100,NOT RATED,0
-137863,137863,A_2165,B_1038,The New Adventures of Winnie the Pooh,Adventure;Animation;Comedy,76,TV-Y,The Steps,Comedy;Drama;Film-Noir,33,NOT RATED,0
-138871,138871,A_2171,B_2257,Sôru îtâ,Action;Adventure;Animation,79,TV-14,See No Evil 2,Horror,60,R,0
-139346,139346,A_2178,B_0862,Daniel Tiger's Neighborhood,Animation;Family,74,TV-Y,Orange Sunshine,Action;Adventure;Documentary,100,NOT RATED,0
-139519,139519,A_2179,B_0681,The Adventures of Puss in Boots,Adventure;Animation;Comedy,69,TV-Y7,Girlfriend's Day,Comedy,20,NOT RATED,0
-142198,142198,A_2233,B_2503,Spartacus: Gods of the Arena,Action;Adventure;Documentary,85,TV-MA,Joy Ride 3: Road Kill,Horror;Mystery;Thriller,60,R,0
-142466,142466,A_2240,B_0421,The Unit,Action;Drama;Thriller,81,TV-PG,Naked,Comedy;Romance,0,NOT RATED,0
-144294,144294,A_2273,B_1529,You Me Her,Comedy;Drama;Romance,70,NOT RATED,The Last Impresario,Documentary,93,NOT RATED,0
-144529,144529,A_2282,B_1787,Red Dwarf,Comedy;Sci-Fi,84,TV-14,My Mistress,Drama;Romance,33,NOT RATED,0
-145655,145655,A_2299,B_1787,Dark Shadows,Drama;Fantasy;Horror,80,NOT RATED,My Mistress,Drama;Romance,33,NOT RATED,0
-147382,147382,A_2334,B_1264,24: Legacy,Action;Drama,63,TV-14,Marshland (La isla mÃÂ­nima),Film-Noir;Mystery;Thriller,91,NOT RATED,0
-147648,147648,A_2335,B_2731,The Closer,Drama;Mystery,76,NOT RATED,Silence,Drama,90,R,0
-147912,147912,A_2341,B_0476,Torchwood,Action;Drama;Sci-Fi,78,TV-MA,Love at First Child (Ange et Gabrielle),Comedy;Film-Noir,50,NOT RATED,0
-147968,147968,A_2341,B_1233,Torchwood,Action;Drama;Sci-Fi,78,TV-MA,Capture the Flag,Action;Adventure;Animation;Comedy;Film-Noir,48,NOT RATED,0
-150376,150376,A_2388,B_0196,The Wild Wild West,Action;Adventure;Sci-Fi,82,NOT RATED,The Crucifixion,Horror,0,R,0
-150555,150555,A_2396,B_1556,Battleship,Action;Adventure;Sci-Fi,58,PG-13,The Color Wheel,Comedy;Drama,76,NOT RATED,0
-150824,150824,A_2417,B_0472,The Returned,Drama;Fantasy;Horror,71,TV-14,Dirty Dancing,Drama;Musical,19,NOT RATED,0
-150973,150973,A_2417,B_2922,The Returned,Drama;Fantasy;Horror,71,TV-14,Harold's Going Stiff,Comedy;Horror,100,NOT RATED,0
-151154,151154,A_2418,B_2815,The Stand,Adventure;Drama;Fantasy,72,NOT RATED,Antisocial,Horror,0,R,0
+97,97,A_0004,B_1175,Jessica Jones,Action;Drama,81,TV-MA,Hush,Horror,94,R,0
+208,208,A_0008,B_0032,Game of Thrones,Action;Adventure;Drama,95,TV-MA,Prodigy,Drama;Fantasy;Mystery;Sci-Fi;Thriller,80,NOT RATED,0
+1134,1134,A_0015,B_2353,Gotham,Action;Drama,79,TV-14,When I Saw You,Drama,100,NOT RATED,0
+1460,1460,A_0017,B_1505,Timeless,Action;Adventure;Drama,76,NOT RATED,Famous Nathan,Documentary,100,NOT RATED,0
+3682,3682,A_0044,B_0421,Legion,Action;Drama;Sci-Fi,84,TV-MA,Naked,Comedy;Romance,0,NOT RATED,0
+4794,4794,A_0055,B_0025,"Love, Simon",Comedy;Drama;Romance,80,PG-13,Josie,Drama;Mystery;Thriller,14,NOT RATED,0
+5710,5710,A_0064,B_2073,Rick and Morty,Adventure;Animation;Comedy,93,TV-14,Uncle Kent2010,Comedy;Drama,60,NOT RATED,0
+6208,6208,A_0069,B_0963,Brooklyn Nine-Nine,Comedy,83,TV-14,Sea Fog (Haemoo),Drama;Film-Noir,67,NOT RATED,0
+6576,6576,A_0076,B_0648,iZombie,Comedy;Drama,80,TV-14,Resistance (2011),Drama;Film-Noir;Mystery;Thriller,60,NOT RATED,0
+7420,7420,A_0082,B_1909,New Girl,Comedy,77,TV-14,The White Haired Witch of Lunar Kingdom,Action;Adventure;Drama;Fantasy;Sci-Fi,0,NOT RATED,0
+7550,7550,A_0083,B_1004,Will & Grace,Comedy;Romance,72,TV-14,No Men Beyond This Point,Comedy;Drama;Fantasy;Film-Noir;Sci-Fi,43,NOT RATED,0
+8302,8302,A_0087,B_1038,Parks and Recreation,Comedy,86,TV-PG,The Steps,Comedy;Drama;Film-Noir,33,NOT RATED,0
+8683,8683,A_0090,B_1144,Bob's Burgers,Animation;Comedy,81,TV-PG,Rhythm 'N' Bayous: A Road Map To Louisiana Music (2000),Documentary;Musical,40,NOT RATED,0
+9154,9154,A_0092,B_2755,The End of the F***ing World,Comedy;Drama,83,TV-MA,Bullet,Action;Adventure;Drama;Mystery;Thriller,11,NOT RATED,0
+9559,9559,A_0097,B_0088,Supernatural,Drama;Fantasy;Horror,85,TV-14,The Ritual,Film-Noir;Horror,71,NOT RATED,0
+10069,10069,A_0100,B_2009,The Blacklist,Drama;Mystery,81,TV-14,Justice League: Throne Of Atlantis,Action;Adventure;Animation,40,PG-13,0
+10286,10286,A_0101,B_2634,Criminal Minds,Drama;Mystery,81,TV-14,The Curse Of The Gothic Symphony (2011),Documentary;Musical,100,NOT RATED,0
+10440,10440,A_0103,B_1787,How to Get Away with Murder,Drama;Mystery,82,TV-14,My Mistress,Drama;Romance,33,NOT RATED,0
+10714,10714,A_0105,B_0319,Collateral,Drama;Mystery,67,TV-MA,Sharknado 5: Global Swarming,Fantasy;Horror;Sci-Fi;Television,33,NOT RATED,0
+11076,11076,A_0108,B_0066,Westworld,Drama;Mystery;Sci-Fi,89,TV-MA,Teenage Cocktail,Drama,100,NOT RATED,0
+12213,12213,A_0116,B_2602,The Vampire Diaries,Drama;Fantasy;Horror,78,TV-14,Gambit,Action;Adventure;Comedy;Drama;Mystery;Thriller,17,PG-13,0
+13122,13122,A_0122,B_1749,Dark,Drama;Mystery,87,TV-MA,Let Us Prey,Horror,75,NOT RATED,0
+13221,13221,A_0123,B_0472,Sherlock,Drama;Mystery,92,TV-14,Dirty Dancing,Drama;Musical,19,NOT RATED,0
+13421,13421,A_0124,B_0695,The Originals,Drama;Fantasy;Horror,83,TV-14,Nerdland,Drama,27,NOT RATED,0
+13720,13720,A_0126,B_2447,Big Little Lies,Drama;Mystery,86,TV-MA,Vinyl,Comedy,60,NOT RATED,0
+13852,13852,A_0127,B_1476,Bones,Comedy;Drama,79,TV-14,Sharknado 3: Oh Hell No!,Television,36,NOT RATED,0
+14795,14795,A_0134,B_1476,House M.D.,Drama;Mystery,88,TV-14,Sharknado 3: Oh Hell No!,Television,36,NOT RATED,0
+14951,14951,A_0136,B_0955,Black Mirror,Drama;Sci-Fi;Thriller,89,TV-MA,XOXO,Comedy,71,NOT RATED,0
+15531,15531,A_0139,B_1195,Counterpart,Drama;Sci-Fi;Thriller,83,TV-MA,The Mask You Live In,Documentary,60,NOT RATED,0
+15614,15614,A_0139,B_2700,Counterpart,Drama;Sci-Fi;Thriller,83,TV-MA,Day of the Flowers,Comedy;Drama;Romance,58,NOT RATED,0
+16033,16033,A_0145,B_1267,Deadpool,Action;Adventure;Comedy,80,R,Cabin Fever,Horror,0,R,0
+19188,19188,A_0202,B_2706,The Simpsons,Animation;Comedy,88,TV-14,All Stars,Comedy;Film-Noir,56,PG,0
+19938,19938,A_0212,B_2353,Final Space,Action;Adventure;Animation,84,TV-14,When I Saw You,Drama,100,NOT RATED,0
+20449,20449,A_0220,B_0926,BoJack Horseman,Animation;Comedy;Drama,85,TV-MA,ARQ,Drama;Fantasy;Mystery;Sci-Fi;Thriller,43,NOT RATED,0
+20943,20943,A_0224,B_0030,Adventure Time,Adventure;Animation;Comedy,86,TV-PG,The Outsider,Drama;Mystery;Thriller,22,NOT RATED,0
+21348,21348,A_0230,B_1940,Paddington,Adventure;Animation;Comedy,72,PG,Loitering With Intent,Comedy;Drama,31,NOT RATED,0
+21435,21435,A_0237,B_0788,Grey's Anatomy,Drama;Romance,76,TV-14,Oddball and the Penguins (Oddball),Action;Adventure;Family;Film-Noir,86,NOT RATED,0
+22599,22599,A_0247,B_1011,Peaky Blinders,Drama,88,TV-MA,Brahman Naman,Comedy,75,NOT RATED,0
+23521,23521,A_0254,B_0681,Narcos,Documentary;Drama,89,TV-MA,Girlfriend's Day,Comedy,20,NOT RATED,0
+23987,23987,A_0256,B_2069,Fargo,Drama;Thriller,90,TV-MA,Viktor,Action;Adventure;Mystery;Thriller,0,NOT RATED,0
+24462,24462,A_0259,B_0738,MacGyver,Action;Adventure;Drama,51,TV-14,Roger Corman's Death Race 2050,Action;Adventure,100,R,0
+25405,25405,A_0274,B_0121,Troy: Fall of a City,Action;Documentary,29,TV-MA,Batman: Gotham by Gaslight,Animation,83,R,0
+25588,25588,A_0274,B_2993,Troy: Fall of a City,Action;Documentary,29,TV-MA,Clear History,Comedy,55,NOT RATED,0
+25795,25795,A_0282,B_2182,Longmire,Action;Drama,83,TV-14,I am Yours,Drama,100,NOT RATED,0
+26162,26162,A_0284,B_1990,SEAL Team,Action;Documentary;Drama,68,TV-14,Richard Pryor: Omit The Logic,Documentary,80,R,0
+26711,26711,A_0289,B_1535,Spartacus: War of the Damned,Action;Adventure;Documentary,86,TV-MA,The Editor,Horror,55,NOT RATED,0
+26838,26838,A_0290,B_0695,The Gifted,Action;Drama;Fantasy,77,TV-14,Nerdland,Drama,27,NOT RATED,0
+28279,28279,A_0299,B_2442,That '70s Show,Comedy;Romance,81,TV-PG,Endless Love1981,Drama;Romance,25,R,0
+28320,28320,A_0300,B_0390,The Square,Comedy;Drama,74,R,Unleashed,Comedy;Romance,86,NOT RATED,0
+30631,30631,A_0319,B_0395,Here and Now,Comedy;Drama,66,TV-MA,The Sea,Drama,47,NOT RATED,0
+30747,30747,A_0319,B_2246,Here and Now,Comedy;Drama,66,TV-MA,Mystery Road,Mystery;Thriller,91,NOT RATED,0
+30946,30946,A_0320,B_2449,Schitt's Creek,Comedy,79,TV-14,Breath Of The Gods,Documentary,44,NOT RATED,0
+31561,31561,A_0325,B_0232,Monk,Comedy;Drama,80,TV-PG,Rift (RÃÂ¶kkur),Drama;Mystery;Thriller,100,NOT RATED,0
+32151,32151,A_0328,B_0695,Pretty Little Liars,Drama;Mystery;Romance,76,TV-14,Nerdland,Drama,27,NOT RATED,0
+32405,32405,A_0329,B_1599,The Americans,Drama;Mystery,83,TV-MA,Cub (Welp),Action;Adventure;Drama;Film-Noir;Horror,38,NOT RATED,0
+32853,32853,A_0332,B_0066,Elementary,Drama;Mystery,79,TV-14,Teenage Cocktail,Drama,100,NOT RATED,0
+34326,34326,A_0341,B_2246,Shetland,Drama;Mystery,79,TV-14,Mystery Road,Mystery;Thriller,91,NOT RATED,0
+36530,36530,A_0363,B_0421,Travelers,Drama;Mystery;Sci-Fi,81,TV-MA,Naked,Comedy;Romance,0,NOT RATED,0
+37226,37226,A_0369,B_2069,The Man in the High Castle,Drama;Sci-Fi;Thriller,81,TV-MA,Viktor,Action;Adventure;Mystery;Thriller,0,NOT RATED,0
+37237,37237,A_0369,B_2259,The Man in the High Castle,Drama;Sci-Fi;Thriller,81,TV-MA,Topkapi (1964),Action;Adventure;Classics;Comedy;Drama;Mystery;Thriller,90,NOT RATED,0
+37518,37518,A_0372,B_0583,Krypton,Action;Adventure;Drama,74,TV-14,Small Crimes,Drama;Mystery;Thriller,62,NOT RATED,0
+37757,37757,A_0378,B_0716,Philip K. Dick's Electric Dreams,Sci-Fi,73,TV-MA,Imperial Dreams,Drama,91,NOT RATED,0
+37891,37891,A_0378,B_2993,Philip K. Dick's Electric Dreams,Sci-Fi,73,TV-MA,Clear History,Comedy,55,NOT RATED,0
+37894,37894,A_0380,B_0580,I Am Number Four,Action;Adventure;Sci-Fi,61,PG-13,I Am Not Your Negro,Documentary,98,PG-13,0
+38149,38149,A_0384,B_0702,A Series of Unfortunate Events,Adventure;Drama;Family,79,TV-PG,Spin Out,Comedy;Romance,13,R,0
+39760,39760,A_0411,B_1028,Penny Dreadful,Drama;Fantasy;Horror,82,TV-MA,Lucky Stiff,Comedy;Musical,40,NOT RATED,0
+43450,43450,A_0503,B_0724,Steven Universe,Action;Animation;Comedy,84,TV-PG,A Month Of Sundays,Comedy;Film-Noir,63,PG-13,0
+46428,46428,A_0530,B_2279,Ozark,Drama;Thriller,83,TV-MA,Wolf,Action;Adventure;Documentary;Drama;Mystery;Thriller,67,NOT RATED,0
+46771,46771,A_0534,B_1572,McMafia,Drama;Thriller,77,TV-14,Hangar 10,Fantasy;Horror;Mystery;Sci-Fi;Thriller,14,NOT RATED,0
+47913,47913,A_0546,B_1151,Runaways,Action;Drama;Sci-Fi,74,TV-14,Of Men And War,Documentary,100,NOT RATED,0
+48185,48185,A_0547,B_2700,Taken,Action;Drama;Thriller,66,TV-14,Day of the Flowers,Comedy;Drama;Romance,58,NOT RATED,0
+50752,50752,A_0575,B_0788,Man with a Plan,Comedy,68,TV-PG,Oddball and the Penguins (Oddball),Action;Adventure;Family;Film-Noir,86,NOT RATED,0
+51140,51140,A_0577,B_0925,Kevin Can Wait,Comedy,58,TV-PG,The White Helmets,Documentary,100,NOT RATED,0
+53049,53049,A_0601,B_0261,Murdoch Mysteries,Drama;Mystery,81,TV-PG,Radius,Fantasy;Film-Noir;Mystery;Sci-Fi;Thriller,91,NOT RATED,0
+54450,54450,A_0611,B_1028,C.B. Strike,Drama;Mystery,79,NOT RATED,Lucky Stiff,Comedy;Musical,40,NOT RATED,0
+54586,54586,A_0612,B_0316,Dirk Gently's Holistic Detective Agency,Comedy;Mystery;Sci-Fi,84,TV-14,The Wizard of Lies,Drama,72,NOT RATED,0
+54661,54661,A_0612,B_1409,Dirk Gently's Holistic Detective Agency,Comedy;Mystery;Sci-Fi,84,TV-14,Mr. Dynamite: The Rise of James Brown,Documentary;Musical,100,NOT RATED,0
+55249,55249,A_0620,B_1464,Absentia,Drama;Mystery,73,TV-MA,Get Married If You Can,Comedy,20,NOT RATED,0
+55572,55572,A_0624,B_0704,Banshee,Action;Drama,84,TV-MA,Justice League Dark,Action;Adventure;Animation;Fantasy;Sci-Fi,71,R,0
+56380,56380,A_0630,B_1476,Star Trek: Voyager,Action;Adventure;Sci-Fi,77,TV-PG,Sharknado 3: Oh Hell No!,Television,36,NOT RATED,0
+57048,57048,A_0640,B_2602,Star Trek,Action;Adventure;Sci-Fi,83,TV-PG,Gambit,Action;Adventure;Comedy;Drama;Mystery;Thriller,17,PG-13,0
+57497,57497,A_0660,B_2634,Heroes,Drama;Fantasy;Sci-Fi,76,TV-14,The Curse Of The Gothic Symphony (2011),Documentary;Musical,100,NOT RATED,0
+57768,57768,A_0687,B_2700,The Chilling Adventures of Sabrina,Fantasy;Horror;Thriller,0,NOT RATED,Day of the Flowers,Comedy;Drama;Romance,58,NOT RATED,0
+58689,58689,A_0711,B_1038,Hemlock Grove,Horror;Mystery;Thriller,72,TV-MA,The Steps,Comedy;Drama;Film-Noir,33,NOT RATED,0
+59412,59412,A_0726,B_2687,Young Justice,Action;Adventure;Animation,87,TV-PG,When Jews Were Funny,Comedy;Documentary,67,NOT RATED,0
+60646,60646,A_0742,B_0160,Batman: The Animated Series,Action;Adventure;Animation,90,TV-PG,Axolotl Overkill,Drama;Film-Noir,64,NOT RATED,0
+61210,61210,A_0747,B_0102,Boku no Hero Academia,Action;Animation;Comedy,84,TV-14,The Odyssey (L'odyssÃÂ©e),Action;Adventure;Drama,61,PG,0
+61531,61531,A_0751,B_1920,F Is for Family,Animation;Comedy;Drama,80,TV-MA,Outside Bet,Comedy;Film-Noir,0,NOT RATED,0
+62175,62175,A_0767,B_0133,Dragons: Race to the Edge,Adventure;Animation;Comedy,84,TV-Y7,Girl Flu.,Comedy;Family,100,NOT RATED,0
+63276,63276,A_0775,B_2504,Fullmetal Alchemist,Action;Adventure;Animation,86,TV-PG,Son of Batman,Action;Adventure;Animation,70,PG-13,0
+63803,63803,A_0780,B_1668,The Sopranos,Drama,92,TV-MA,Elimination Game (Turkey Shoot),Action;Adventure;Film-Noir,20,NOT RATED,0
+64362,64362,A_0783,B_1599,Billions,Drama,84,TV-MA,Cub (Welp),Action;Adventure;Drama;Film-Noir;Horror,38,NOT RATED,0
+65186,65186,A_0795,B_2211,Tabula Rasa,Thriller,82,TV-MA,LFO: The Movie,Drama;Fantasy;Sci-Fi,100,NOT RATED,0
+65722,65722,A_0805,B_0925,Into the Badlands,Action;Adventure;Drama,81,TV-14,The White Helmets,Documentary,100,NOT RATED,0
+65903,65903,A_0807,B_0859,Shooter,Action;Drama,76,TV-14,Justin Timberlake + The Tennessee Kids,Documentary;Musical,100,NOT RATED,0
+65930,65930,A_0807,B_1175,Shooter,Action;Drama,76,TV-14,Hush,Horror,94,R,0
+66111,66111,A_0808,B_1096,Queen of the South,Action;Drama,77,TV-14,The Damned: Don't You Wish That We Were Dead,Documentary,100,NOT RATED,0
+67028,67028,A_0817,B_0383,Younger,Comedy;Romance,78,TV-14,Death Note,Drama;Horror;Mystery;Thriller,41,NOT RATED,0
+68266,68266,A_0828,B_1951,The Golden Girls,Comedy;Drama,78,TV-PG,In Your Eyes,Fantasy;Romance;Sci-Fi,61,NOT RATED,0
+68470,68470,A_0829,B_2259,Ballers,Comedy;Drama;Sport,76,TV-MA,Topkapi (1964),Action;Adventure;Classics;Comedy;Drama;Mystery;Thriller,90,NOT RATED,0
+68667,68667,A_0830,B_2503,Married with Children,Comedy,81,TV-PG,Joy Ride 3: Road Kill,Horror;Mystery;Thriller,60,R,0
+69435,69435,A_0836,B_2846,Living Biblically,Comedy,47,TV-PG,Kiss the Water,Documentary,87,NOT RATED,0
+69687,69687,A_0841,B_0577,Unbreakable Kimmy Schmidt,Comedy;Drama,78,TV-14,Tramps,Comedy;Romance,95,NOT RATED,0
+71518,71518,A_0866,B_2353,Dark Matter,Adventure;Drama;Mystery,75,TV-14,When I Saw You,Drama,100,NOT RATED,0
+72670,72670,A_0879,B_2503,Happy!,Comedy;Fantasy,83,TV-MA,Joy Ride 3: Road Kill,Horror;Mystery;Thriller,60,R,0
+72714,72714,A_0881,B_0066,Shakespeare & Hathaway: Private Investigators,Comedy;Drama;Mystery,76,NOT RATED,Teenage Cocktail,Drama,100,NOT RATED,0
+72757,72757,A_0881,B_0614,Shakespeare & Hathaway: Private Investigators,Comedy;Drama;Mystery,76,NOT RATED,Louis C.K.:,Comedy,100,NOT RATED,0
+73774,73774,A_0894,B_0925,Future Man,Action;Comedy;Sci-Fi,80,TV-MA,The White Helmets,Documentary,100,NOT RATED,0
+73821,73821,A_0894,B_1572,Future Man,Action;Comedy;Sci-Fi,80,TV-MA,Hangar 10,Fantasy;Horror;Mystery;Sci-Fi;Thriller,14,NOT RATED,0
+73913,73913,A_0898,B_0305,Flatliners,Drama;Sci-Fi;Thriller,52,PG-13,"Top Cat Begins (Don Gato, el inicio de la pandilla)",Animation;Comedy;Family;Film-Noir,17,PG,0
+73918,73918,A_0898,B_0326,Flatliners,Drama;Sci-Fi;Thriller,52,PG-13,Don't Sleep,Horror;Mystery;Thriller,0,NOT RATED,0
+74418,74418,A_0915,B_0925,"Sabrina, the Teenage Witch",Comedy;Family;Fantasy,66,TV-Y,The White Helmets,Documentary,100,NOT RATED,0
+74667,74667,A_0916,B_1854,Mighty Morphin Power Rangers,Action;Adventure;Family,64,TV-Y7,Batman Vs. Robin,Action;Adventure;Animation,100,PG-13,0
+75150,75150,A_0925,B_0188,Good Omens,Comedy;Fantasy,0,NOT RATED,Conor McGregor: Notorious,Documentary,54,R,0
+76601,76601,A_0986,B_1409,Tales from the Crypt,Comedy;Fantasy,80,TV-MA,Mr. Dynamite: The Rise of James Brown,Documentary;Musical,100,NOT RATED,0
+76700,76700,A_0992,B_0066,Tokyo Ghoul,Action;Animation;Drama,80,TV-MA,Teenage Cocktail,Drama,100,NOT RATED,0
+76881,76881,A_0992,B_2900,Tokyo Ghoul,Action;Animation;Drama,80,TV-MA,Twenty8k,Drama;Film-Noir;Mystery;Thriller,20,NOT RATED,0
+77203,77203,A_0998,B_1909,Cowboy Bebop,Action;Adventure;Animation,89,TV-MA,The White Haired Witch of Lunar Kingdom,Action;Adventure;Drama;Fantasy;Sci-Fi,0,NOT RATED,0
+77292,77292,A_1001,B_0421,Naruto: Shippûden,Action;Adventure;Animation,85,TV-14,Naked,Comedy;Romance,0,NOT RATED,0
+77477,77477,A_1003,B_0383,King of the Hill,Animation;Comedy;Drama,73,TV-PG,Death Note,Drama;Horror;Mystery;Thriller,41,NOT RATED,0
+77649,77649,A_1004,B_0133,Devilman: Crybaby,Action;Animation;Horror,78,TV-MA,Girl Flu.,Comedy;Family,100,NOT RATED,0
+78697,78697,A_1022,B_1195,Over the Garden Wall,Adventure;Animation;Drama,89,TV-PG,The Mask You Live In,Documentary,60,NOT RATED,0
+79635,79635,A_1040,B_0999,Madam Secretary,Drama,76,TV-PG,600 Miles,Drama;Mystery;Thriller,94,R,0
+80327,80327,A_1047,B_0066,Ray Donovan,Drama,83,TV-MA,Teenage Cocktail,Drama,100,NOT RATED,0
+80966,80966,A_1052,B_0894,Godless,Drama;Western,84,TV-MA,Everlasting,Drama;Mystery;Thriller,100,NOT RATED,0
+81242,81242,A_1053,B_2368,Grenseland,Thriller,70,TV-MA,Project Wild Thing,Action;Adventure;Documentary;Drama,80,NOT RATED,0
+81503,81503,A_1063,B_1493,Furious 7,Action;Thriller,72,PG-13,Furious 7,Action;Adventure;Mystery;Thriller,80,PG-13,1
+81753,81753,A_1068,B_0444,Rome,Action;Documentary;Drama,88,TV-MA,Message from the King,Drama;Mystery;Thriller,43,R,0
+84316,84316,A_1098,B_0871,Boy Meets World,Comedy;Drama;Family,81,TV-G,The Siege of Jadotville,Drama,60,NOT RATED,0
+85501,85501,A_1117,B_1280,The Following,Drama;Mystery,75,TV-14,Night Will Fall,Documentary;Drama,100,NOT RATED,0
+86245,86245,A_1122,B_1226,Falling Water,Drama;Mystery;Sci-Fi,65,NOT RATED,Gored,Documentary,75,NOT RATED,0
+88538,88538,A_1150,B_1503,American Vandal,Comedy;Mystery,82,TV-MA,"Bai ri yan huo (Black Coal, Thin Ice)",Drama;Mystery;Thriller,95,NOT RATED,0
+89483,89483,A_1188,B_2143,Misfits,Comedy;Drama;Fantasy,83,TV-MA,All Things To All Men,Drama;Mystery;Thriller,25,NOT RATED,0
+90435,90435,A_1234,B_0133,Castle Rock,Drama;Fantasy;Horror,0,NOT RATED,Girl Flu.,Comedy;Family,100,NOT RATED,0
+91235,91235,A_1270,B_0066,The Cleveland Show,Animation;Comedy,56,TV-14,Teenage Cocktail,Drama,100,NOT RATED,0
+93140,93140,A_1306,B_0096,Sofia the First,Animation;Family;Fantasy,72,TV-Y,A Futile and Stupid Gesture,Comedy,61,NOT RATED,0
+95001,95001,A_1321,B_2073,The Fall,Drama;Thriller,82,TV-MA,Uncle Kent2010,Comedy;Drama,60,NOT RATED,0
+96171,96171,A_1345,B_1980,The IT Crowd,Comedy,86,TV-14,The Year Dolly Parton Was My Mom2011,Comedy;Drama,40,NOT RATED,0
+96679,96679,A_1350,B_1096,SMILF,Comedy,67,TV-MA,The Damned: Don't You Wish That We Were Dead,Documentary,100,NOT RATED,0
+96962,96962,A_1351,B_2785,The Mindy Project,Comedy,74,TV-14,Burton And Taylor,Drama,100,PG,0
+98590,98590,A_1367,B_1509,Trailer Park Boys,Comedy,84,TV-MA,Lyle,Drama;Horror,100,NOT RATED,0
+99248,99248,A_1374,B_0196,Victorious,Comedy;Drama;Family,69,TV-PG,The Crucifixion,Horror,0,R,0
+99250,99250,A_1374,B_0216,Victorious,Comedy;Drama;Family,69,TV-PG,Love Is Thicker Than Water,Comedy;Romance,43,NOT RATED,0
+99265,99265,A_1374,B_0421,Victorious,Comedy;Drama;Family,69,TV-PG,Naked,Comedy;Romance,0,NOT RATED,0
+99414,99414,A_1374,B_2851,Victorious,Comedy;Drama;Family,69,TV-PG,Nativity!2009,Comedy,46,PG,0
+100380,100380,A_1388,B_2755,Alias,Action;Drama;Mystery,76,TV-14,Bullet,Action;Adventure;Drama;Mystery;Thriller,11,NOT RATED,0
+100580,100580,A_1390,B_2755,NYPD Blue,Drama;Mystery,75,TV-14,Bullet,Action;Adventure;Drama;Mystery;Thriller,11,NOT RATED,0
+102706,102706,A_1436,B_1951,Justice League Part Two,Action;Sci-Fi,0,NOT RATED,In Your Eyes,Fantasy;Romance;Sci-Fi,61,NOT RATED,0
+103438,103438,A_1456,B_0681,Good Witch,Comedy;Drama;Fantasy,73,TV-PG,Girlfriend's Day,Comedy,20,NOT RATED,0
+103682,103682,A_1457,B_1503,Bewitched,Comedy;Family;Fantasy,76,TV-G,"Bai ri yan huo (Black Coal, Thin Ice)",Drama;Mystery;Thriller,95,NOT RATED,0
+104604,104604,A_1483,B_0832,Wonder Woman,Action;Adventure;Drama,71,TV-G,The 24 Hour War,Documentary,100,NOT RATED,0
+104902,104902,A_1486,B_2442,The Secret Circle,Drama;Fantasy;Horror,74,TV-14,Endless Love1981,Drama;Romance,25,R,0
+105035,105035,A_1520,B_2082,Tusk,Comedy;Drama;Horror,54,R,This Is Where I Leave You,Comedy,42,R,0
+105092,105092,A_1533,B_0068,PAW Patrol,Action;Adventure;Animation,68,TV-Y,Red Dog: True Blue,Drama;Family,100,NOT RATED,0
+105137,105137,A_1533,B_0695,PAW Patrol,Action;Adventure;Animation,68,TV-Y,Nerdland,Drama,27,NOT RATED,0
+106070,106070,A_1551,B_0216,Spirit Riding Free,Adventure;Animation;Family,64,TV-Y7,Love Is Thicker Than Water,Comedy;Romance,43,NOT RATED,0
+107174,107174,A_1561,B_2922,Moominvalley,Animation;Drama;Family,0,NOT RATED,Harold's Going Stiff,Comedy;Horror,100,NOT RATED,0
+107284,107284,A_1564,B_1280,JoJo's Bizarre Adventure,Action;Adventure;Animation,83,TV-MA,Night Will Fall,Documentary;Drama,100,NOT RATED,0
+107605,107605,A_1566,B_0583,The Backyardigans,Adventure;Animation;Comedy,69,TV-Y,Small Crimes,Drama;Mystery;Thriller,62,NOT RATED,0
+107647,107647,A_1566,B_1144,The Backyardigans,Adventure;Animation;Comedy,69,TV-Y,Rhythm 'N' Bayous: A Road Map To Louisiana Music (2000),Documentary;Musical,40,NOT RATED,0
+107738,107738,A_1566,B_2785,The Backyardigans,Adventure;Animation;Comedy,69,TV-Y,Burton And Taylor,Drama,100,PG,0
+108450,108450,A_1571,B_2040,Danny Phantom,Action;Adventure;Animation,71,TV-PG,Big Driver,Mystery;Thriller,50,NOT RATED,0
+109459,109459,A_1591,B_0262,Mudbound,Drama,75,R,Almost Friends,Comedy;Drama,29,NOT RATED,0
+110067,110067,A_1618,B_2073,Veep,Comedy,82,TV-MA,Uncle Kent2010,Comedy;Drama,60,NOT RATED,0
+110130,110130,A_1623,B_0484,People You May Know,Comedy;Drama;Romance,57,NOT RATED,Their Finest,Comedy;Drama;Romance,90,R,0
+112242,112242,A_1649,B_1745,Retribution,Drama;Mystery;Thriller,70,TV-MA,Pandas: The Journey Home,Documentary,80,NOT RATED,0
+112347,112347,A_1651,B_0539,The Tunnel,Drama;Mystery,78,TV-MA,Bad Rap,Documentary;Musical,67,NOT RATED,0
+112938,112938,A_1660,B_0548,Chance,Drama;Mystery;Thriller,77,TV-MA,Mommy Dead and Dearest,Documentary,100,NOT RATED,0
+116550,116550,A_1735,B_2101,H2O: Just Add Water,Adventure;Drama;Family,72,TV-PG,Grumpy Cat's Worst Christmas Ever,Comedy,30,NOT RATED,0
+116904,116904,A_1772,B_0476,Outcast,Drama;Horror,75,TV-MA,Love at First Child (Ange et Gabrielle),Comedy;Film-Noir,50,NOT RATED,0
+117389,117389,A_1776,B_2040,Being Human,Drama;Fantasy;Horror,75,TV-14,Big Driver,Mystery;Thriller,50,NOT RATED,0
+121085,121085,A_1838,B_0119,Berserk,Action;Adventure;Animation,86,NOT RATED,Victor Crowley,Comedy;Horror,44,NOT RATED,0
+125999,125999,A_1927,B_2279,Joey,Comedy;Romance,60,TV-14,Wolf,Action;Adventure;Documentary;Drama;Mystery;Thriller,67,NOT RATED,0
+126057,126057,A_1933,B_0188,K.C. Undercover,Action;Comedy;Family,61,TV-Y7,Conor McGregor: Notorious,Documentary,54,R,0
+126587,126587,A_1936,B_2442,Happy Days,Comedy;Family;Musical,75,TV-G,Endless Love1981,Drama;Romance,25,R,0
+126783,126783,A_1937,B_2602,This Country,Comedy,83,NOT RATED,Gambit,Action;Adventure;Comedy;Drama;Mystery;Thriller,17,PG-13,0
+129203,129203,A_1992,B_0987,Kiri,Mystery,64,NOT RATED,Guernica (Gernika),Drama,80,NOT RATED,0
+129661,129661,A_1996,B_2259,Killers of the Flower Moon,Documentary;Drama,0,NOT RATED,Topkapi (1964),Action;Adventure;Classics;Comedy;Drama;Mystery;Thriller,90,NOT RATED,0
+129785,129785,A_1997,B_1175,The Conjuring 3,Horror;Mystery;Thriller,0,NOT RATED,Hush,Horror,94,R,0
+130724,130724,A_2015,B_0695,Ghost Adventures,Documentary;Sci-Fi;Thriller,77,TV-PG,Nerdland,Drama,27,NOT RATED,0
+131959,131959,A_2033,B_2353,Earth: Final Conflict,Action;Drama;Mystery,63,TV-PG,When I Saw You,Drama,100,NOT RATED,0
+133194,133194,A_2064,B_0859,That's So Raven,Comedy;Family;Fantasy,65,TV-G,Justin Timberlake + The Tennessee Kids,Documentary;Musical,100,NOT RATED,0
+133879,133879,A_2088,B_2353,Beauty and the Beast,Drama;Fantasy,71,NOT RATED,When I Saw You,Drama,100,NOT RATED,0
+134582,134582,A_2137,B_2898,Moonlight,Drama;Fantasy;Horror,77,NOT RATED,The Seasoning House,Action;Adventure;Drama;Horror,21,NOT RATED,0
+134876,134876,A_2141,B_1443,Inuyasha,Action;Adventure;Animation,79,TV-14,Cut Snake,Mystery;Thriller,67,R,0
+135533,135533,A_2145,B_2900,Akame ga Kill!,Action;Animation;Comedy,80,TV-MA,Twenty8k,Drama;Film-Noir;Mystery;Thriller,20,NOT RATED,0
+136711,136711,A_2156,B_0702,Bob the Builder,Animation;Family,54,TV-Y,Spin Out,Comedy;Romance,13,R,0
+137513,137513,A_2160,B_1476,Wendell and Wild,Animation,0,NOT RATED,Sharknado 3: Oh Hell No!,Television,36,NOT RATED,0
+137591,137591,A_2160,B_2851,Wendell and Wild,Animation,0,NOT RATED,Nativity!2009,Comedy,46,PG,0
+140308,140308,A_2184,B_1175,"Ed, Edd n Eddy",Animation;Comedy;Family,75,TV-Y7,Hush,Horror,94,R,0
+140869,140869,A_2198,B_0724,The Deuce,Drama,82,TV-MA,A Month Of Sundays,Comedy;Film-Noir,63,PG-13,0
+141866,141866,A_2221,B_0832,Nikita,Action;Drama,77,NOT RATED,The 24 Hour War,Documentary,100,NOT RATED,0
+142009,142009,A_2222,B_2376,The Expendables 3,Action;Adventure;Thriller,61,PG-13,Septic Man,Drama;Horror,13,R,0
+142495,142495,A_2240,B_0862,The Unit,Action;Drama;Thriller,81,TV-PG,Orange Sunshine,Action;Adventure;Documentary,100,NOT RATED,0
+142717,142717,A_2247,B_1129,Fauda,Action;Drama;Thriller,84,NOT RATED,Theory of Obscurity: A Film About the Residents,Documentary,75,NOT RATED,0
+143000,143000,A_2254,B_2182,The Dukes of Hazzard,Action;Comedy,71,PG,I am Yours,Drama,100,NOT RATED,0
+143080,143080,A_2262,B_0472,Stuck in the Middle,Comedy;Family,59,NOT RATED,Dirty Dancing,Drama;Musical,19,NOT RATED,0
+143542,143542,A_2266,B_1719,3rd Rock from the Sun,Comedy;Family;Sci-Fi,78,TV-PG,Der Samurai,Fantasy;Horror;Mystery;Sci-Fi;Thriller,100,NOT RATED,0
+143827,143827,A_2271,B_0198,Melissa & Joey,Comedy;Romance,70,TV-14,Love and Saucers,Documentary;Mystery;Thriller,80,NOT RATED,0
+144143,144143,A_2272,B_2211,Step by Step,Comedy;Family;Romance,65,TV-G,LFO: The Movie,Drama;Fantasy;Sci-Fi,100,NOT RATED,0
+144261,144261,A_2273,B_1004,You Me Her,Comedy;Drama;Romance,70,NOT RATED,No Men Beyond This Point,Comedy;Drama;Fantasy;Film-Noir;Sci-Fi,43,NOT RATED,0
+144860,144860,A_2287,B_1143,The Wonder Years,Comedy;Drama;Family,83,TV-PG,Special Correspondents,Comedy,16,NOT RATED,0
+145410,145410,A_2295,B_0963,Inspector George Gently,Drama;Mystery,79,NOT RATED,Sea Fog (Haemoo),Drama;Film-Noir,67,NOT RATED,0
+145493,145493,A_2295,B_2353,Inspector George Gently,Drama;Mystery,79,NOT RATED,When I Saw You,Drama,100,NOT RATED,0
+147456,147456,A_2334,B_2656,24: Legacy,Action;Drama,63,TV-14,Flowers in the Attic,Documentary;Drama,52,NOT RATED,0
+148433,148433,A_2344,B_2851,The Six Million Dollar Man,Action;Adventure,71,NOT RATED,Nativity!2009,Comedy,46,PG,0
+149211,149211,A_2360,B_0160,Jericho,Action;Drama;Mystery,80,TV-14,Axolotl Overkill,Drama;Film-Noir,64,NOT RATED,0
+149430,149430,A_2362,B_0602,Terra Nova,Adventure;Mystery;Sci-Fi,68,TV-14,Sandy Wexler,Comedy,30,NOT RATED,0
+149779,149779,A_2373,B_0133,Da Vinci's Demons,Adventure;Documentary;Drama,80,NOT RATED,Girl Flu.,Comedy;Family,100,NOT RATED,0
+149848,149848,A_2373,B_1102,Da Vinci's Demons,Adventure;Documentary;Drama,80,NOT RATED,,,0,NOT RATED,0
+150012,150012,A_2385,B_0316,"Walker, Texas Ranger",Action;Adventure,55,TV-14,The Wizard of Lies,Drama,72,NOT RATED,0
+150909,150909,A_2417,B_1719,The Returned,Drama;Fantasy;Horror,71,TV-14,Der Samurai,Fantasy;Horror;Mystery;Sci-Fi;Thriller,100,NOT RATED,0
 151222,151222,A_2419,B_0840,Dinosaurs,Comedy;Family;Fantasy,75,TV-PG,Schneider vs. Bax,Comedy;Drama;Mystery;Thriller,63,NOT RATED,0
-151370,151370,A_2427,B_0160,A Korean Odyssey,Fantasy,87,NOT RATED,Axolotl Overkill,Drama;Film-Noir,64,NOT RATED,0
-151442,151442,A_2427,B_1144,A Korean Odyssey,Fantasy,87,NOT RATED,Rhythm 'N' Bayous: A Road Map To Louisiana Music (2000),Documentary;Musical,40,NOT RATED,0
-151968,151968,A_2435,B_0383,Nymfit,Drama;Fantasy,49,NOT RATED,Death Note,Drama;Horror;Mystery;Thriller,41,NOT RATED,0
-152347,152347,A_2472,B_1796,Death Stranding,Action;Horror,0,NOT RATED,A Few Best Men,Comedy,15,NOT RATED,0
-152356,152356,A_2472,B_1990,Death Stranding,Action;Horror,0,NOT RATED,Richard Pryor: Omit The Logic,Documentary,80,R,0
-152553,152553,A_2486,B_1129,Marvel Rising: Secret Warriors,Action;Animation;Comedy,0,NOT RATED,Theory of Obscurity: A Film About the Residents,Documentary,75,NOT RATED,0
-152774,152774,A_2489,B_1572,Fate/Zero,Action;Animation;Fantasy,83,TV-MA,Hangar 10,Fantasy;Horror;Mystery;Sci-Fi;Thriller,14,NOT RATED,0
-153185,153185,A_2491,B_2246,Constantine: City of Demons,Animation;Fantasy;Horror,0,NOT RATED,Mystery Road,Mystery;Thriller,91,NOT RATED,0
-153471,153471,A_2494,B_0832,Llama Llama,Animation,74,TV-Y,The 24 Hour War,Documentary,100,NOT RATED,0
-153784,153784,A_2496,B_2922,Rocket Power,Animation;Family;Sport,69,TV-G,Harold's Going Stiff,Comedy;Horror,100,NOT RATED,0
-153843,153843,A_2498,B_0702,Dexter's Laboratory,Animation;Comedy;Family,80,TV-G,Spin Out,Comedy;Romance,13,R,0
-154520,154520,A_2506,B_2592,Re: Zero kara hajimeru isekai seikatsu,Adventure;Animation;Drama,81,TV-14,The Patrol,Action;Adventure;Drama,64,NOT RATED,0
-154703,154703,A_2507,B_2503,Rurouni Kenshin: Wandering Samurai,Action;Adventure;Animation,86,TV-14,Joy Ride 3: Road Kill,Horror;Mystery;Thriller,60,R,0
-156869,156869,A_2530,B_0925,"No Game, No Life",Adventure;Animation;Comedy,80,TV-14,The White Helmets,Documentary,100,NOT RATED,0
-156876,156876,A_2530,B_1004,"No Game, No Life",Adventure;Animation;Comedy,80,TV-14,No Men Beyond This Point,Comedy;Drama;Fantasy;Film-Noir;Sci-Fi,43,NOT RATED,0
-157606,157606,A_2574,B_1540,Jack Ryan,Action;Drama;Thriller,0,TV-14,Paper Planes,Drama;Family,83,NOT RATED,0
-157664,157664,A_2574,B_2634,Jack Ryan,Action;Drama;Thriller,0,TV-14,The Curse Of The Gothic Symphony (2011),Documentary;Musical,100,NOT RATED,0
-158482,158482,A_2589,B_2700,Disjointed,Comedy,66,TV-MA,Day of the Flowers,Comedy;Drama;Romance,58,NOT RATED,0
-158595,158595,A_2592,B_1175,Corporate,Comedy,71,NOT RATED,Hush,Horror,94,R,0
-160471,160471,A_2625,B_0548,Agatha Christie's Marple,Drama;Mystery,78,TV-14,Mommy Dead and Dearest,Documentary,100,NOT RATED,0
-160735,160735,A_2626,B_1640,Beck,Mystery;Thriller,74,NOT RATED,Justice League: Gods and Monsters,Action;Adventure,86,PG-13,0
-162064,162064,A_2691,B_1580,Maggie,Drama;Horror,56,PG-13,Hunting Elephants,Comedy,36,NOT RATED,0
-162802,162802,A_2717,B_0832,Animaniacs,Animation;Comedy;Family,79,TV-Y7,The 24 Hour War,Documentary,100,NOT RATED,0
-163280,163280,A_2721,B_2415,Dora the Explorer,Adventure;Animation;Comedy,39,TV-Y,Justin and the Knights of Valour,Action;Adventure;Animation;Fantasy;Film-Noir;Sci-Fi,7,PG,0
-163690,163690,A_2724,B_0066,Justice League,Action;Adventure;Animation,86,TV-PG,Teenage Cocktail,Drama,100,NOT RATED,0
-163959,163959,A_2727,B_1144,Deadpool,Action;Adventure;Animation,0,NOT RATED,Rhythm 'N' Bayous: A Road Map To Louisiana Music (2000),Documentary;Musical,40,NOT RATED,0
-164285,164285,A_2732,B_0293,The Real Ghostbusters,Action;Animation;Comedy,76,TV-Y7,One of Us,Documentary,95,NOT RATED,0
-164483,164483,A_2733,B_0449,Big Hero 6: The Series,Action;Adventure;Animation,75,TV-Y7,The Incredible Jessica James,Comedy,86,NOT RATED,0
-167346,167346,A_2778,B_0360,Vis a vis,Drama;Thriller,82,TV-MA,Jerry Before Seinfeld,Comedy,92,NOT RATED,0
-167764,167764,A_2793,B_0198,Heathers,Comedy,45,TV-MA,Love and Saucers,Documentary;Mystery;Thriller,80,NOT RATED,0
-167885,167885,A_2793,B_2009,Heathers,Comedy,45,TV-MA,Justice League: Throne Of Atlantis,Action;Adventure;Animation,40,PG-13,0
-167924,167924,A_2793,B_2787,Heathers,Comedy,45,TV-MA,Killing Kennedy,Drama,56,NOT RATED,0
-169304,169304,A_2829,B_2900,In the Heat of the Night,Drama;Mystery,75,NOT RATED,Twenty8k,Drama;Film-Noir;Mystery;Thriller,20,NOT RATED,0
-170050,170050,A_2837,B_2846,A Touch of Frost,Drama;Mystery,78,TV-MA,Kiss the Water,Documentary,87,NOT RATED,0
-171127,171127,A_2854,B_1547,Glitch,Drama;Sci-Fi,76,TV-MA,Bessie,Drama;Television,89,R,0
-171192,171192,A_2854,B_2788,Glitch,Drama;Sci-Fi,76,TV-MA,Justice League: War,Action;Adventure;Animation,50,PG-13,0
-171413,171413,A_2865,B_0232,V,Drama;Sci-Fi;Thriller,68,TV-14,Rift (RÃÂ¶kkur),Drama;Mystery;Thriller,100,NOT RATED,0
-171598,171598,A_2868,B_0066,Naked and Afraid,Adventure;Television,67,TV-14,Teenage Cocktail,Drama,100,NOT RATED,0
-173707,173707,A_2921,B_2246,The Addams Family,Comedy;Family;Horror,80,TV-G,Mystery Road,Mystery;Thriller,91,NOT RATED,0
-173830,173830,A_2933,B_0614,Being Human,Comedy;Drama;Fantasy,78,NOT RATED,Louis C.K.:,Comedy,100,NOT RATED,0
-173959,173959,A_2933,B_2755,Being Human,Comedy;Drama;Fantasy,78,NOT RATED,Bullet,Action;Adventure;Drama;Mystery;Thriller,11,NOT RATED,0
-174861,174861,A_2962,B_2999,Lilo & Stitch: The Series,Action;Adventure;Animation,68,TV-Y,The Great Hip Hop Hoax,Documentary,86,PG-13,0
-175841,175841,A_2972,B_0539,Dragons: Riders of Berk,Adventure;Animation;Comedy,81,TV-PG,Bad Rap,Documentary;Musical,67,NOT RATED,0
-176962,176962,A_2980,B_0472,Spider-Man,Action;Adventure;Animation,65,TV-Y7,Dirty Dancing,Drama;Musical,19,NOT RATED,0
-177146,177146,A_2981,B_0421,Neo Yokio,Animation;Comedy;Fantasy,58,TV-MA,Naked,Comedy;Romance,0,NOT RATED,0
-178034,178034,A_2988,B_2656,The New Scooby-Doo Movies,Animation;Comedy;Family,77,TV-G,Flowers in the Attic,Documentary;Drama,52,NOT RATED,0
-178600,178600,A_2992,B_2531,Animal Kingdom,Drama,81,TV-MA,No Clue,Comedy,40,NOT RATED,0
-179928,179928,A_3019,B_1706,Bunk'd,Comedy;Family,57,NOT RATED,Papadopoulos & Sons,Comedy;Drama;Film-Noir,77,NOT RATED,0
-180275,180275,A_3023,B_1102,Girl Meets World,Comedy;Drama;Family,72,TV-G,,,0,NOT RATED,0
-180552,180552,A_3025,B_2656,Gilligan's Island,Comedy;Family,74,TV-G,Flowers in the Attic,Documentary;Drama,52,NOT RATED,0
-181042,181042,A_3042,B_1151,Blue Mountain State,Comedy;Sport,84,TV-MA,Of Men And War,Documentary,100,NOT RATED,0
-181351,181351,A_3045,B_0096,The Perfectionists,Drama;Mystery,0,NOT RATED,A Futile and Stupid Gesture,Comedy,61,NOT RATED,0
-181751,181751,A_3052,B_0216,The Five,Drama;Mystery,77,NOT RATED,Love Is Thicker Than Water,Comedy;Romance,43,NOT RATED,0
-182850,182850,A_3067,B_2252,Zone Blanche,Drama;Mystery;Thriller,77,NOT RATED,Saving Santa,Animation;Family,20,NOT RATED,0
-182886,182886,A_3067,B_2922,Zone Blanche,Drama;Mystery;Thriller,77,NOT RATED,Harold's Going Stiff,Comedy;Horror,100,NOT RATED,0
-184587,184587,A_3110,B_2211,Hercules: The Legendary Journeys,Action;Adventure;Drama,65,NOT RATED,LFO: The Movie,Drama;Fantasy;Sci-Fi,100,NOT RATED,0
-184763,184763,A_3113,B_1980,The Witcher,Action;Adventure;Drama,0,NOT RATED,The Year Dolly Parton Was My Mom2011,Comedy;Drama,40,NOT RATED,0
-185132,185132,A_3146,B_0738,The Outer Limits,Drama;Fantasy;Horror,78,TV-PG,Roger Corman's Death Race 2050,Action;Adventure,100,R,0
-185442,185442,A_3156,B_2373,Night Gallery,Drama;Fantasy;Horror,80,TV-PG,The Normal Heart,Drama;Television,94,R,0
-185645,185645,A_3167,B_1990,Room 104,Drama;Horror;Thriller,61,TV-MA,Richard Pryor: Omit The Logic,Documentary,80,R,0
-185675,185675,A_3167,B_2602,Room 104,Drama;Horror;Thriller,61,TV-MA,Gambit,Action;Adventure;Comedy;Drama;Mystery;Thriller,17,PG-13,0
-185861,185861,A_3170,B_2279,Mickey Mouse Clubhouse,Animation;Comedy;Family,59,TV-Y,Wolf,Action;Adventure;Documentary;Drama;Mystery;Thriller,67,NOT RATED,0
-186140,186140,A_3173,B_0804,The New Batman Adventures,Action;Adventure;Animation,86,TV-PG,The Lost Bladesman (Guan yun chang)2011,Action;Adventure;Film-Noir,57,NOT RATED,0
-186633,186633,A_3176,B_2755,Rocko's Modern Life,Animation;Comedy;Family,80,TV-Y,Bullet,Action;Adventure;Drama;Mystery;Thriller,11,NOT RATED,0
-187828,187828,A_3194,B_0832,Sailor Moon,Action;Adventure;Animation,77,TV-14,The 24 Hour War,Documentary,100,NOT RATED,0
-188426,188426,A_3199,B_1280,Courage the Cowardly Dog,Animation;Comedy;Family,83,TV-Y7,Night Will Fall,Documentary;Drama,100,NOT RATED,0
-188880,188880,A_3204,B_2656,The Boss Baby: Back in Business,Animation;Comedy;Family,0,TV-Y7,Flowers in the Attic,Documentary;Drama,52,NOT RATED,0
-189464,189464,A_3208,B_0068,TRON: Uprising,Action;Adventure;Animation,82,TV-Y7,Red Dog: True Blue,Drama;Family,100,NOT RATED,0
-190229,190229,A_3212,B_0261,Beavis and Butt-Head,Animation;Comedy;Musical,75,TV-14,Radius,Fantasy;Film-Noir;Mystery;Sci-Fi;Thriller,91,NOT RATED,0
-190655,190655,A_3218,B_0681,Animals.,Animation;Comedy,72,NOT RATED,Girlfriend's Day,Comedy,20,NOT RATED,0
-191725,191725,A_3232,B_2531,Wentworth,Drama,87,TV-MA,No Clue,Comedy,40,NOT RATED,0
+151328,151328,A_2419,B_2597,Dinosaurs,Comedy;Family;Fantasy,75,TV-PG,Mischief Night,Comedy;Drama;Family;Mystery;Thriller,100,R,0
+151764,151764,A_2430,B_0261,Witches of East End,Drama;Fantasy,76,TV-14,Radius,Fantasy;Film-Noir;Mystery;Sci-Fi;Thriller,91,NOT RATED,0
+152292,152292,A_2472,B_0987,Death Stranding,Action;Horror,0,NOT RATED,Guernica (Gernika),Drama,80,NOT RATED,0
+152989,152989,A_2490,B_2143,Spider-Man,Action;Adventure;Animation,83,TV-Y,All Things To All Men,Drama;Mystery;Thriller,25,NOT RATED,0
+153010,153010,A_2490,B_2531,Spider-Man,Action;Adventure;Animation,83,TV-Y,No Clue,Comedy,40,NOT RATED,0
+153340,153340,A_2493,B_1572,Psycho-Pass,Action;Animation,83,TV-MA,Hangar 10,Fantasy;Horror;Mystery;Sci-Fi;Thriller,14,NOT RATED,0
+153522,153522,A_2494,B_1535,Llama Llama,Animation,74,TV-Y,The Editor,Horror,55,NOT RATED,0
+153778,153778,A_2496,B_2815,Rocket Power,Animation;Family;Sport,69,TV-G,Antisocial,Horror,0,R,0
+154494,154494,A_2506,B_2040,Re: Zero kara hajimeru isekai seikatsu,Adventure;Animation;Drama,81,TV-14,Big Driver,Mystery;Thriller,50,NOT RATED,0
+154579,154579,A_2507,B_0476,Rurouni Kenshin: Wandering Samurai,Action;Adventure;Animation,86,TV-14,Love at First Child (Ange et Gabrielle),Comedy;Film-Noir,50,NOT RATED,0
+154602,154602,A_2507,B_0840,Rurouni Kenshin: Wandering Samurai,Action;Adventure;Animation,86,TV-14,Schneider vs. Bax,Comedy;Drama;Mystery;Thriller,63,NOT RATED,0
+154727,154727,A_2507,B_2922,Rurouni Kenshin: Wandering Samurai,Action;Adventure;Animation,86,TV-14,Harold's Going Stiff,Comedy;Horror,100,NOT RATED,0
+158394,158394,A_2589,B_1143,Disjointed,Comedy,66,TV-MA,Special Correspondents,Comedy,16,NOT RATED,0
+158940,158940,A_2604,B_0539,Sharp Objects,Drama;Mystery,0,NOT RATED,Bad Rap,Documentary;Musical,67,NOT RATED,0
+159002,159002,A_2604,B_1443,Sharp Objects,Drama;Mystery,0,NOT RATED,Cut Snake,Mystery;Thriller,67,R,0
+159451,159451,A_2607,B_2787,Covert Affairs,Action;Drama,73,TV-PG,Killing Kennedy,Drama,56,NOT RATED,0
+159700,159700,A_2614,B_0328,Leverage,Mystery;Thriller,79,TV-PG,Haunters: The Art of the Scare,Documentary;Horror,100,NOT RATED,0
+159801,159801,A_2614,B_1903,Leverage,Mystery;Thriller,79,TV-PG,WolfCop,Comedy;Horror,63,NOT RATED,0
+160919,160919,A_2628,B_1572,Re: Mind,Mystery,50,NOT RATED,Hangar 10,Fantasy;Horror;Mystery;Sci-Fi;Thriller,14,NOT RATED,0
+161506,161506,A_2665,B_1143,Ally McBeal,Comedy;Drama;Fantasy,68,TV-PG,Special Correspondents,Comedy,16,NOT RATED,0
+161684,161684,A_2673,B_0830,Knight Squad,Adventure;Comedy;Family,45,TV-G,The Ivory Game,Documentary,80,NOT RATED,0
+161791,161791,A_2673,B_2592,Knight Squad,Adventure;Comedy;Family,45,TV-G,The Patrol,Action;Adventure;Drama,64,NOT RATED,0
+161825,161825,A_2674,B_0353,Fallen,Adventure;Drama;Fantasy,55,PG-13,The Good Catholic,Comedy;Drama;Romance,45,PG-13,0
+162292,162292,A_2703,B_0182,Boo 2! A Madea Halloween,Comedy;Horror,35,PG-13,Killing Gunther,Action;Adventure;Comedy,58,NOT RATED,0
+162415,162415,A_2715,B_0681,He-Man and the Masters of the Universe,Action;Adventure;Animation,75,TV-Y7,Girlfriend's Day,Comedy,20,NOT RATED,0
+162756,162756,A_2717,B_0160,Animaniacs,Animation;Comedy;Family,79,TV-Y7,Axolotl Overkill,Drama;Film-Noir,64,NOT RATED,0
+162813,162813,A_2717,B_0955,Animaniacs,Animation;Comedy;Family,79,TV-Y7,XOXO,Comedy,71,NOT RATED,0
+162851,162851,A_2717,B_1529,Animaniacs,Animation;Comedy;Family,79,TV-Y7,The Last Impresario,Documentary,93,NOT RATED,0
+162929,162929,A_2717,B_2993,Animaniacs,Animation;Comedy;Family,79,TV-Y7,Clear History,Comedy,55,NOT RATED,0
+163788,163788,A_2724,B_1409,Justice League,Action;Adventure;Animation,86,TV-PG,Mr. Dynamite: The Rise of James Brown,Documentary;Musical,100,NOT RATED,0
+165573,165573,A_2750,B_2755,Recess,Adventure;Animation;Comedy,79,TV-Y,Bullet,Action;Adventure;Drama;Mystery;Thriller,11,NOT RATED,0
+165731,165731,A_2752,B_2009,Daria,Animation;Comedy;Drama,81,TV-14,Justice League: Throne Of Atlantis,Action;Adventure;Animation,40,PG-13,0
+166181,166181,A_2759,B_0068,The Tudors,Documentary;Drama;Romance,81,TV-MA,Red Dog: True Blue,Drama;Family,100,NOT RATED,0
+166218,166218,A_2759,B_0548,The Tudors,Documentary;Drama;Romance,81,TV-MA,Mommy Dead and Dearest,Documentary,100,NOT RATED,0
+167182,167182,A_2776,B_0724,The Shield,Drama;Thriller,87,TV-MA,A Month Of Sundays,Comedy;Film-Noir,63,PG-13,0
+167635,167635,A_2792,B_1004,Barry,Comedy,93,NOT RATED,No Men Beyond This Point,Comedy;Drama;Fantasy;Film-Noir;Sci-Fi,43,NOT RATED,0
+167833,167833,A_2793,B_1148,Heathers,Comedy,45,TV-MA,The Nightingale (Ye Ying - Le promeneur d'oiseau),Drama;Family;Film-Noir,90,NOT RATED,0
+168352,168352,A_2801,B_0444,Last Week Tonight with John Oliver,Comedy;Television,90,TV-MA,Message from the King,Drama;Mystery;Thriller,43,R,0
+169045,169045,A_2824,B_1599,Cold Case,Drama;Mystery,76,TV-14,Cub (Welp),Action;Adventure;Drama;Film-Noir;Horror,38,NOT RATED,0
+169464,169464,A_2833,B_2415,Unforgettable,Drama;Mystery,67,TV-14,Justin and the Knights of Valour,Action;Adventure;Animation;Fantasy;Film-Noir;Sci-Fi,7,PG,0
+170168,170168,A_2841,B_1443,Case Histories,Drama;Mystery,80,NOT RATED,Cut Snake,Mystery;Thriller,67,R,0
+170758,170758,A_2847,B_1854,London Fields,Mystery;Thriller,0,NOT RATED,Batman Vs. Robin,Action;Adventure;Animation,100,PG-13,0
+171520,171520,A_2865,B_1787,V,Drama;Sci-Fi;Thriller,68,TV-14,My Mistress,Drama;Romance,33,NOT RATED,0
+171627,171627,A_2868,B_0395,Naked and Afraid,Adventure;Television,67,TV-14,The Sea,Drama,47,NOT RATED,0
+172164,172164,A_2873,B_1892,Wild,Adventure;Documentary;Drama,71,R,Night at the Museum: Secret of the Tomb,Action;Adventure;Comedy,49,PG,0
+172554,172554,A_2885,B_2815,Mako Mermaids,Adventure;Comedy;Drama,72,NOT RATED,Antisocial,Horror,0,R,0
+172767,172767,A_2892,B_1314,The Last Witch Hunter,Action;Adventure;Fantasy,60,PG-13,Bone Tomahawk,Action;Adventure;Horror;Western,90,NOT RATED,0
+173135,173135,A_2896,B_2607,Legend of the Seeker,Action;Adventure;Drama,77,NOT RATED,The Legend of Hercules,Action;Adventure;Fantasy;Sci-Fi,3,PG-13,0
+173681,173681,A_2921,B_1737,The Addams Family,Comedy;Family;Horror,80,TV-G,Minuscule: Valley of the Lost Ants (Minuscule - La vallÃ©e des fourmis perdues),Action;Adventure;Animation;Comedy;Film-Noir,89,NOT RATED,0
+173790,173790,A_2933,B_0093,Being Human,Comedy;Drama;Fantasy,78,NOT RATED,Hellraiser: Judgment,Horror,50,NOT RATED,0
+173799,173799,A_2933,B_0188,Being Human,Comedy;Drama;Fantasy,78,NOT RATED,Conor McGregor: Notorious,Documentary,54,R,0
+175280,175280,A_2965,B_0577,Aladdin,Adventure;Animation;Comedy,72,TV-Y,Tramps,Comedy;Romance,95,NOT RATED,0
+175743,175743,A_2971,B_1854,Codename: Kids Next Door,Action;Adventure;Animation,72,TV-Y7,Batman Vs. Robin,Action;Adventure;Animation,100,PG-13,0
+177249,177249,A_2981,B_1985,Neo Yokio,Animation;Comedy;Fantasy,58,TV-MA,Valentine Road,Documentary,91,NOT RATED,0
+178123,178123,A_2989,B_0963,Transformers Prime,Action;Adventure;Animation,79,TV-Y7,Sea Fog (Haemoo),Drama;Film-Noir,67,NOT RATED,0
+178868,178868,A_3006,B_0160,Bad Banks,Drama;Thriller,81,NOT RATED,Axolotl Overkill,Drama;Film-Noir,64,NOT RATED,0
+179536,179536,A_3015,B_1529,Drake & Josh,Comedy;Family,77,TV-Y7,The Last Impresario,Documentary,93,NOT RATED,0
+179739,179739,A_3016,B_1749,Mike & Molly,Comedy,64,TV-14,Let Us Prey,Horror,75,NOT RATED,0
+179759,179759,A_3016,B_2182,Mike & Molly,Comedy,64,TV-14,I am Yours,Drama,100,NOT RATED,0
+180064,180064,A_3022,B_0804,Private Practice,Comedy;Drama;Romance,66,NOT RATED,The Lost Bladesman (Guan yun chang)2011,Action;Adventure;Film-Noir,57,NOT RATED,0
+180155,180155,A_3022,B_2246,Private Practice,Comedy;Drama;Romance,66,NOT RATED,Mystery Road,Mystery;Thriller,91,NOT RATED,0
+180754,180754,A_3026,B_2900,Boston Legal,Comedy;Drama,84,TV-14,Twenty8k,Drama;Film-Noir;Mystery;Thriller,20,NOT RATED,0
+180902,180902,A_3032,B_2143,The Doris Day Show,Comedy,75,NOT RATED,All Things To All Men,Drama;Mystery;Thriller,25,NOT RATED,0
+181187,181187,A_3043,B_0602,Action Team,Comedy,46,NOT RATED,Sandy Wexler,Comedy,30,NOT RATED,0
+182381,182381,A_3061,B_0788,Moonlighting,Comedy;Drama;Mystery,76,TV-PG,Oddball and the Penguins (Oddball),Action;Adventure;Family;Film-Noir,86,NOT RATED,0
+182388,182388,A_3061,B_0862,Moonlighting,Comedy;Drama;Mystery,76,TV-PG,Orange Sunshine,Action;Adventure;Documentary,100,NOT RATED,0
+182782,182782,A_3067,B_1102,Zone Blanche,Drama;Mystery;Thriller,77,NOT RATED,,,0,NOT RATED,0
+183350,183350,A_3075,B_1004,3%,Action;Drama;Sci-Fi,76,NOT RATED,No Men Beyond This Point,Comedy;Drama;Fantasy;Film-Noir;Sci-Fi,43,NOT RATED,0
+184068,184068,A_3105,B_0032,Touched by an Angel,Drama;Family;Fantasy,60,TV-G,Prodigy,Drama;Fantasy;Mystery;Sci-Fi;Thriller,80,NOT RATED,0
+184456,184456,A_3110,B_0188,Hercules: The Legendary Journeys,Action;Adventure;Drama,65,NOT RATED,Conor McGregor: Notorious,Documentary,54,R,0
+184797,184797,A_3113,B_2656,The Witcher,Action;Adventure;Drama,0,NOT RATED,Flowers in the Attic,Documentary;Drama,52,NOT RATED,0
+186408,186408,A_3174,B_2009,Foster's Home for Imaginary Friends,Animation;Comedy;Family,78,TV-Y7,Justice League: Throne Of Atlantis,Action;Adventure;Animation,40,PG-13,0
+186767,186767,A_3180,B_1719,Teenage Mutant Ninja Turtles,Action;Adventure;Animation,77,TV-Y7,Der Samurai,Fantasy;Horror;Mystery;Sci-Fi;Thriller,100,NOT RATED,0
+187075,187075,A_3184,B_0738,Fraggle Rock,Adventure;Animation;Comedy,80,TV-Y,Roger Corman's Death Race 2050,Action;Adventure,100,R,0
+187555,187555,A_3192,B_2449,Kakegurui,Animation;Drama;Mystery,71,TV-14,Breath Of The Gods,Documentary,44,NOT RATED,0
+187708,187708,A_3193,B_1765,Blazing Samurai,Action;Animation;Comedy,0,NOT RATED,La religieuse (The Nun),Drama,75,NOT RATED,0
+188191,188191,A_3197,B_0681,Leo the Lion,Animation;Family,16,NOT RATED,Girlfriend's Day,Comedy,20,NOT RATED,0
+188489,188489,A_3199,B_2447,Courage the Cowardly Dog,Animation;Comedy;Family,83,TV-Y7,Vinyl,Comedy,60,NOT RATED,0
+189371,189371,A_3207,B_1332,Samurai Champloo,Action;Adventure;Animation,86,TV-MA,The Inhabitants,Horror;Mystery;Thriller,60,NOT RATED,0
+189453,189453,A_3207,B_2819,Samurai Champloo,Action;Adventure;Animation,86,TV-MA,The Sound Of Music Live!,Musical,44,NOT RATED,0
+190165,190165,A_3211,B_2182,Johnny Bravo,Animation;Comedy;Family,73,TV-Y7,I am Yours,Drama,100,NOT RATED,0
+191252,191252,A_3222,B_1042,21 Thunder,Drama,61,TV-MA,The Fundamentals of Caring,Drama,77,NOT RATED,0
+191959,191959,A_3245,B_0656,Miss Sloane,Drama;Thriller,75,R,The Brand New Testament (Le tout nouveau testament),Comedy,84,NOT RATED,0
+192184,192184,A_3247,B_0360,Mayans MC,Drama;Thriller,0,NOT RATED,Jerry Before Seinfeld,Comedy,92,NOT RATED,0
+192314,192314,A_3247,B_2449,Mayans MC,Drama;Thriller,0,NOT RATED,Breath Of The Gods,Documentary,44,NOT RATED,0
+192330,192330,A_3247,B_2785,Mayans MC,Drama;Thriller,0,NOT RATED,Burton And Taylor,Drama,100,PG,0
+192487,192487,A_3248,B_2211,Cardinal,Drama;Thriller,77,NOT RATED,LFO: The Movie,Drama;Fantasy;Sci-Fi,100,NOT RATED,0
