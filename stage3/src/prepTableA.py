@@ -28,8 +28,10 @@ def prep_title(title):
 
 # Range Input = NA or [0.0, 10.0] map to NA or [0-100]
 def prep_score(score):
-    if score == 'NA' or score == score_str:
+    if score == score_str:
         return score
+    elif score == 'NA':
+        return 0
     else:
         return int(float(score) * 10)
 
@@ -89,7 +91,7 @@ def prep_genre(genre):
         if len(ret_genre) == 0:
             return 'NA'
         else:
-            return ';'.join(str(s) for s in ret_genre)
+            return ';'.join(str(s) for s in sorted(ret_genre))
 
 
 # String of ; separated authors.
@@ -101,23 +103,31 @@ def prep_directed(directed):
 def prep_written(written):
     return prep_sep_and_sort(written, written_str)
 
+
 # Input $num,ber; output integer
 def prep_box_office(box_office):
-    if box_office == 'NA' or box_office == box_office_str:
+    if box_office == box_office_str:
         return box_office
+    elif box_office == 'NA':
+        return 0
     else:
         return int(box_office.replace('$', '').replace(',', ''))
 
 
 # Input Year-Month-Year
 def prep_release_date(release_date):
-    return release_date
+    if release_date == 'NA':
+        return '1900-1-1'
+    else:
+        return release_date
 
 
 # Input NA or PT156M;  output number of minutes
 def prep_runtime(runtime):
-    if runtime == 'NA' or runtime == runtime_str:
+    if runtime == runtime_str:
         return runtime
+    elif runtime == 'NA':
+        return 0
     else:
         return int(runtime[2:].split('M', 1)[0])
 
@@ -157,7 +167,7 @@ remove_fields = {url_str}
 def prep_row(input_row, id_val):
     new_row = dict()
     new_row[id_str] = id_val
-    #print("ID: ", id_val)
+    # print("ID: ", id_val)
     for field in input_fieldnames:
         if field not in remove_fields:
             # print("field: ", field)
@@ -188,16 +198,17 @@ for row in reader:
 
     # # !!!DEBUG CODE!!!
     # preped_row = prep_row(row, (id_prepend + '{:04d}'.format(i)))
-    # value = preped_row[directed_str]
+    # # score_str, box_office_str, runtime_str, release_date_str
+    # value = preped_row[release_date_str]
     # # Single Value fields
-    # # if value not in values:
-    # #     values.append(value)
+    # if value not in values:
+    #     values.append(value)
     #
     # # Multiple ";" separated fields
-    # value_array = value.split(';')
-    # for v in value_array:
-    #     if v not in values:
-    #         values.append(v)
+    # # value_array = value.split(';')
+    # # for v in value_array:
+    # #     if v not in values:
+    # #         values.append(v)
 
     i = i + 1
     # end the lop.

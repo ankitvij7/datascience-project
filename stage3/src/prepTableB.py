@@ -30,7 +30,12 @@ def prep_title(title):
 
 # String Input: NA , 0-100
 def prep_score(score):
-    return score
+    if score == score_str:
+        return score
+    elif score == 'NA':
+        return 0
+    else:
+        return score
 
 
 # Comes in the form of: String with Rating(description)
@@ -104,7 +109,7 @@ def prep_genre(genre):
         if len(ret_genre) == 0:
             return 'NA'
         else:
-            return ';'.join(str(s) for s in ret_genre)
+            return ';'.join(str(s) for s in sorted(ret_genre))
 
 
 # String of ; separated authors.
@@ -117,25 +122,32 @@ def prep_written(written):
     return prep_sep_and_sort(written, written_str)
 
 
+# Input $num,ber; output integer
 def prep_box_office(box_office):
-    if box_office == 'NA' or box_office == box_office_str:
+    if box_office == box_office_str:
         return box_office
+    elif box_office == 'NA':
+        return 0
     else:
         return int(box_office.replace('$', '').replace(',', ''))
 
 
 # Input Mon day, year, output year-month-day
 def prep_release_date(release_date):
-    if release_date == 'NA' or release_date == release_date_str:
+    if release_date == release_date_str:
         return release_date
+    elif release_date == 'NA':
+        return '1900-1-1'
     else:
         return f"{datetime.strptime(release_date, '%b %d, %Y'):%Y-%m-%d}"
 
 
 # input NA, integer minutes, output integer number of minutes
 def prep_runtime(runtime):
-    if runtime == 'NA' or runtime == runtime_str:
+    if runtime == runtime_str:
         return runtime
+    elif runtime == 'NA':
+        return 0
     else:
         return int(runtime.split(' ', 1)[0].strip())
 
@@ -211,16 +223,17 @@ for row in reader:
 
     # # !!!DEBUG CODE!!!
     # preped_row = prep_row(row, (id_prepend + '{:04d}'.format(i)))
-    # value = preped_row[directed_str]
+    # # score_str, box_office_str, runtime_str, release_date_str
+    # value = preped_row[release_date_str]
     # # Single Value fields
-    # # if value not in values:
-    # #     values.append(value)
+    # if value not in values:
+    #     values.append(value)
     #
     # # Multiple ";" separated fields
-    # value_array = value.split(';')
-    # for v in value_array:
-    #     if v not in values:
-    #         values.append(v)
+    # # value_array = value.split(';')
+    # # for v in value_array:
+    # #     if v not in values:
+    # #         values.append(v)
 
     i = i + 1
     # end the lop.
