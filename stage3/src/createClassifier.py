@@ -32,21 +32,27 @@ ln = em.LinRegMatcher(name='LinReg')
 # need A and B csv files
 feature_table = em.get_features_for_matching(A, B, validate_inferred_attr_types=False)
 
+#print(feature_table.feature_name)
+
 H = em.extract_feature_vecs(I,
                             feature_table=feature_table,
                             attrs_after='label',
                             show_progress=False)
+H.fillna(value=0, inplace=True)
+#print(H.head())
+#labelled = H['label'] == 1
+#print(H[labelled])
 
 # select best matcher
 # precision
-result = em.select_matcher([dt, rf, svm, ln, lg], table=H,
+result = em.select_matcher([dt, svm, rf, lg, ln], table=H,
                            exclude_attrs=['_id', 'ltable_ID', 'rtable_ID', 'label'],
                            k=5,
                            target_attr='label', metric_to_select_matcher='precision', random_state=0)
 print(result['cv_stats'])
 
 # recall
-result = em.select_matcher([dt, rf, svm, ln, lg], table=H,
+result = em.select_matcher([dt, svm, rf, lg, ln], table=H,
                            exclude_attrs=['_id', 'ltable_ID', 'rtable_ID', 'label'],
                            k=5,
                            target_attr='label', metric_to_select_matcher='recall', random_state=0)
@@ -54,10 +60,11 @@ print(result['cv_stats'])
 
 L = em.extract_feature_vecs(J, feature_table=feature_table,
                             attrs_after='label', show_progress=False)
+L.fillna(value=0, inplace=True)
 
 # select the best classifier using the above precision and recall results - for now choosing random forest
 rf.fit(table=H,
-       exclude_attrs=['_id', 'ltable_v', 'rtable_ID', 'label'],
+       exclude_attrs=['_id', 'ltable_ID', 'rtable_ID', 'label'],
        target_attr='label')
 
 predictions = rf.predict(table=L, exclude_attrs=['_id', 'ltable_ID', 'rtable_ID', 'label'],
@@ -66,5 +73,5 @@ predictions = rf.predict(table=L, exclude_attrs=['_id', 'ltable_ID', 'rtable_ID'
 eval_result = em.eval_matches(predictions, 'label', 'predicted')
 em.print_eval_summary(eval_result)
 
-I.to_csv(os.fdopen(os.open("I.csv", os.O_RDWR | os.O_CREAT), 'w+'), index=False)
-J.to_csv(os.fdopen(os.open("J.csv", os.O_RDWR | os.O_CREAT), 'w+'), index=False)
+I.to_csv(os.fdopen(os.open("../data/I.csv", os.O_RDWR | os.O_CREAT), 'w+'), index=False)
+J.to_csv(os.fdopen(os.open("../data/J.csv", os.O_RDWR | os.O_CREAT), 'w+'), index=False)
