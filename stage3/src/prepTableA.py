@@ -91,7 +91,8 @@ def prep_genre(genre):
         if len(ret_genre) == 0:
             return 'NA'
         else:
-            return ';'.join(str(s) for s in sorted(ret_genre))
+            return ret_genre.pop()
+            # return ';'.join(str(s) for s in sorted(ret_genre))
 
 
 # String of ; separated authors.
@@ -146,8 +147,9 @@ def prep_sep_and_sort(sep_string, comp_str):
             return 'NA'
         else:
             sep_strings = sep_string.split(';')
-            sep_strings.sort()
-            return ';'.join(str(s) for s in sep_strings)
+            return sep_strings[0]
+            # sep_strings.sort()
+            # return ';'.join(str(s) for s in sep_strings)
 
 
 prep_field_fns = {url_str: prep_url,
