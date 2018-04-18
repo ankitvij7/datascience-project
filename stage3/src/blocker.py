@@ -147,9 +147,6 @@ print(len(G))
 #Code to calculate true matches b/w A and B:
 # A_title = A[['Title']]
 # B_title = B[['Title']]
-# #
-#
-#
 # i = 0
 # for index, row in A_title.iterrows():
 #     for index2, row2 in B_title.iterrows():
