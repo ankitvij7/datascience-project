@@ -31,7 +31,7 @@ ln = em.LinRegMatcher(name='LinReg')
 nb = em.NBMatcher(name='NaiveBayes')
 
 # need A and B csv files
-feature_table = em.get_features_for_matching(A, B, validate_inferred_attr_types=False)
+feature_table = em.get_features_for_matching(A, B, validate_inferred_attr_types=True)
 
 print(feature_table.feature_name)
 
@@ -40,9 +40,6 @@ H = em.extract_feature_vecs(I,
                             attrs_after='label',
                             show_progress=False)
 H.fillna(value=0, inplace=True)
-#print(H.head())
-#labelled = H['label'] == 1
-#print(H[labelled])
 
 # select best matcher
 # precision
