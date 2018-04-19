@@ -41,8 +41,8 @@ H = em.extract_feature_vecs(I,
                             show_progress=False)
 H.fillna(value=0, inplace=True)
 #print(H.head())
-#labelled = H['label'] == 1
-#print(H[labelled])
+labelled = H['label'] == 1
+print(H[labelled])
 
 # select best matcher
 # precision
