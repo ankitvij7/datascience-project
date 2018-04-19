@@ -24,7 +24,7 @@ J = IJ['test']
 
 # prepare classifiers
 dt = em.DTMatcher(name='DecisionTree', random_state=0)
-svm = em.SVMMatcher(name='SVM', random_state=0)
+svm = em.SVMMatcher(name='SVM', kernel='linear', random_state=0)
 rf = em.RFMatcher(name='RF', random_state=0)
 lg = em.LogRegMatcher(name='LogReg', random_state=0)
 ln = em.LinRegMatcher(name='LinReg')
@@ -59,7 +59,6 @@ result = em.select_matcher([dt, svm, rf, lg, ln, nb], table=H,
 print(result['cv_stats'])
 
 print(result['drill_down_cv_stats']['precision'])
-
 
 L = em.extract_feature_vecs(J, feature_table=feature_table,
                             attrs_after='label', show_progress=False)
