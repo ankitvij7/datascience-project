@@ -24,14 +24,14 @@ J = IJ['test']
 
 # prepare classifiers
 dt = em.DTMatcher(name='DecisionTree', random_state=0)
-svm = em.SVMMatcher(name='SVM', random_state=0)
+svm = em.SVMMatcher(name='SVM', kernel='linear', random_state=0)
 rf = em.RFMatcher(name='RF', random_state=0)
 lg = em.LogRegMatcher(name='LogReg', random_state=0)
 ln = em.LinRegMatcher(name='LinReg')
 nb = em.NBMatcher(name='NaiveBayes')
 
 # need A and B csv files
-feature_table = em.get_features_for_matching(A, B, validate_inferred_attr_types=False)
+feature_table = em.get_features_for_matching(A, B, validate_inferred_attr_types=True)
 
 print(feature_table.feature_name)
 
@@ -40,9 +40,6 @@ H = em.extract_feature_vecs(I,
                             attrs_after='label',
                             show_progress=False)
 H.fillna(value=0, inplace=True)
-#print(H.head())
-#labelled = H['label'] == 1
-#print(H[labelled])
 
 # select best matcher
 # precision
@@ -59,7 +56,6 @@ result = em.select_matcher([dt, svm, rf, lg, ln, nb], table=H,
 print(result['cv_stats'])
 
 print(result['drill_down_cv_stats']['precision'])
-
 
 L = em.extract_feature_vecs(J, feature_table=feature_table,
                             attrs_after='label', show_progress=False)
