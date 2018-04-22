@@ -32,7 +32,7 @@
  - [Stage 3 Report](https://github.com/ankitvij7/datascience-project/blob/master/stage3/CS839%20Spring%202018%20-%20Project%20Stage%203%20-%20Team%2010%20Report.pdf)
 
 
- # Project Stage 4 -- Integration and Analysis.
+# Project Stage 4 -- Integration and Analysis.
  - [All Files](https://github.com/ankitvij7/datascience-project/tree/master/stage4)
  - [DATA](https://github.com/ankitvij7/datascience-project/tree/master/stage4/data)
  - [README](https://github.com/ankitvij7/datascience-project/blob/master/stage4/data/README.md)
