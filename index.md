@@ -41,4 +41,5 @@
 
 # Team Logo
  - Team Koala Ninja is an anagram of {A Ankit Aman Joel} <-> {aaaaeijklmnnot} <-> {team koala ninja}
-![TeamLog](https://github.com/ankitvij7/datascience-project/tree/master/stage4/TeamLogo.png)
+
+![TeamLogo](TeamLogo.png)
