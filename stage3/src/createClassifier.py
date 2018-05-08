@@ -1,5 +1,6 @@
 import py_entitymatching as em
 import os
+import pandas as pd
 
 # read A and B
 path_A = '../data/A.csv'
@@ -16,7 +17,6 @@ print('Number of tuples in A: ' + str(len(A)))
 print('Number of tuples in B: ' + str(len(B)))
 print('Number of tuples in G: ' + str(len(G)))
 
-
 # create I and J sets
 IJ = em.split_train_test(G, train_proportion=0.7, random_state=0)
 I = IJ['train']
@@ -31,7 +31,7 @@ ln = em.LinRegMatcher(name='LinReg')
 nb = em.NBMatcher(name='NaiveBayes')
 
 # need A and B csv files
-feature_table = em.get_features_for_matching(A, B, validate_inferred_attr_types=True)
+feature_table = em.get_features_for_matching(A, B, validate_inferred_attr_types=False)
 
 print(feature_table.feature_name)
 
@@ -73,7 +73,6 @@ eval_result = em.eval_matches(predictions, 'label', 'predicted')
 print('\n Linear Regression Result-')
 em.print_eval_summary(eval_result)
 
-
 dt.fit(table=H,
        exclude_attrs=['_id', 'ltable_ID', 'rtable_ID', 'label'],
        target_attr='label')
@@ -86,11 +85,11 @@ print('\n Decision Tree Result-')
 em.print_eval_summary(eval_result)
 
 svm.fit(table=H,
-       exclude_attrs=['_id', 'ltable_ID', 'rtable_ID', 'label'],
-       target_attr='label')
+        exclude_attrs=['_id', 'ltable_ID', 'rtable_ID', 'label'],
+        target_attr='label')
 
 predictions = svm.predict(table=L, exclude_attrs=['_id', 'ltable_ID', 'rtable_ID', 'label'],
-                         append=True, target_attr='predicted', inplace=False)
+                          append=True, target_attr='predicted', inplace=False)
 
 eval_result = em.eval_matches(predictions, 'label', 'predicted')
 print('\n SVM Result-')
@@ -129,7 +128,27 @@ eval_result = em.eval_matches(predictions, 'label', 'predicted')
 print('\n Naive Bayes Result-')
 em.print_eval_summary(eval_result)
 
-
-
 I.to_csv(os.fdopen(os.open("../data/I.csv", os.O_RDWR | os.O_CREAT), 'w+'), index=False)
 J.to_csv(os.fdopen(os.open("../data/J.csv", os.O_RDWR | os.O_CREAT), 'w+'), index=False)
+
+path_C = '../data/C.csv'
+C = em.read_csv_metadata(path_C,
+                         key='_id',
+                         ltable=A, rtable=B,
+                         fk_ltable='ltable_ID', fk_rtable='rtable_ID')
+
+print('Number of tuples in C: ' + str(len(C)))
+
+C_FeatureVectors = em.extract_feature_vecs(C, feature_table=feature_table, show_progress=False)
+C_FeatureVectors.fillna(value=0, inplace=True)
+
+predictions_entire = rf.predict(table=C_FeatureVectors, exclude_attrs=['_id', 'ltable_ID', 'rtable_ID'],
+                                append=True, target_attr='predicted', inplace=False)
+
+P = predictions_entire.predicted
+Mathched_Predictions = C[P == 1]
+
+entiredPredictedData = pd.concat(
+    [Mathched_Predictions.ltable_ID, Mathched_Predictions.ltable_Title, Mathched_Predictions.rtable_ID,
+     Mathched_Predictions.rtable_Title], axis=1)
+entiredPredictedData.to_csv('../DATA/PredictedMatchedTuples.csv', index=False)
