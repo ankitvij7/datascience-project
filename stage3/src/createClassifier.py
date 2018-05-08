@@ -149,6 +149,10 @@ P = predictions_entire.predicted
 Mathched_Predictions = C[P == 1]
 
 entiredPredictedData = pd.concat(
-    [Mathched_Predictions.ltable_ID, Mathched_Predictions.ltable_Title, Mathched_Predictions.rtable_ID,
-     Mathched_Predictions.rtable_Title], axis=1)
-entiredPredictedData.to_csv('../DATA/PredictedMatchedTuples.csv', index=False)
+    [Mathched_Predictions.ltable_ID + Mathched_Predictions.rtable_ID, Mathched_Predictions.ltable_ID,
+     Mathched_Predictions.ltable_Title, Mathched_Predictions.rtable_ID,
+     Mathched_Predictions.rtable_Title], names=['ID', 'ltable_ID', 'ltable_Title', 'rtable_ID', 'rtable_Title'], axis=1)
+entiredPredictedData.to_csv('../data/PredictedMatchedTuples.csv', index=False)
+df = pd.read_csv('../data/PredictedMatchedTuples.csv')
+df = df.rename(columns=({'0':'ID'}))
+df.to_csv('../data/PredictedMatchedTuples.csv', index=False)
