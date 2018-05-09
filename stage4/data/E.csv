@@ -1,0 +1,615 @@
+,ID,Title,Score,Rating,Genre,Directed By,Written By,Box Office,Release Date,Runtime,Studio
+0,A_0005,Jumanji: Welcome to the Jungle,73,PG-13,Comedy; Drama,Jake Kasdan,Chris McKenna,400818450,2017-12-20,112,Matt Tolmach Productions; Columbia Pictures
+1,A_0007,Thor: Ragnarok,86,PG-13,Comedy; Drama,Taika Waititi,Eric Pearson,315058289,2017-11-03,130,Marvel Entertainment; Walt Disney Pictures
+2,A_0012,Justice League,54,PG-13,Fantasy; Drama,Zack Snyder,Chris Terrio,229024295,2017-11-17,110,Atlas Entertainment; Warner Bros. Pictures
+3,A_2724,Justice League,63,TV-PG,Adventure; Drama,Zack Snyder,Chris Terrio,227032490,1900-1-1,22,Warner Bros. Animation; Warner Bros. Pictures
+4,A_0027,Wonder Woman,83,PG-13,Fantasy; Drama,Patty Jenkins,Allan Heinberg,412563408,2017-06-02,141,Warner Bros.; Warner Bros. Pictures
+5,A_1483,Wonder Woman,81,TV-G,Drama,Patty Jenkins,William Moulton Marston,412400625,1900-1-1,60,Bruce Lansbury Productions; Warner Bros. Pictures
+6,A_0031,Dunkirk,86,PG-13,Drama,Christopher Nolan,Christopher Nolan,188373161,2017-07-21,106,Syncopy; Warner Bros. Pictures
+7,A_0037,Spider-Man: Homecoming,83,PG-13,Sci-Fi; Drama,Jon Watts,John Francis Daley,334201140,2017-07-07,0,Columbia Pictures; Sony Pictures
+8,A_0040,Baby Driver,85,R,Musical; Drama,Edgar Wright,Edgar Wright,107825862,2017-06-28,112,TriStar Pictures; Sony Pictures
+9,A_0043,Guardians of the Galaxy Vol. 2,80,PG-13,Sci-Fi; Action,James Gunn (II),James Gunn (II),389813101,2017-05-05,136,Marvel Studios; Walt Disney Pictures
+10,A_0048,Valerian and the City of a Thousand Planets,57,PG-13,Fantasy; Drama,Luc Besson,Pierre Christin,40479370,2017-07-21,137,EuropaCorp; EuropaCorp / STXfilms
+11,A_0052,Coco,91,PG,Comedy,Lee Unkrich,Matthew Aldrich,209242528,2017-11-21,0,Walt Disney Pictures; nan
+12,A_0054,Love,58,TV-MA,Comedy; Drama,Gaspar NoÃÂ©,Gaspar NoÃÂ©,176061,1900-1-1,50,Apatow Productions; nan
+13,A_1596,Love,49,NOT RATED,Drama,Gaspar NoÃÂ©,Gaspar NoÃÂ©,176061,2015-10-30,130,Les Cinémas de la Zone; nan
+14,A_0056,"I, Tonya",83,R,Comedy; Drama,Craig Gillespie,Steven Rogers,29820004,2018-01-19,119,Clubhouse Pictures (II); NEON
+15,A_0057,Lady Bird,87,R,Comedy; Drama,Greta Gerwig,Greta Gerwig,48882989,2017-12-01,93,Scott Rudin Productions; A24
+16,A_0062,Ferdinand,69,PG,Comedy; Drama,Carlos Saldanha,Robert L. Baird,83802059,2017-12-15,0,Blue Sky Studios; nan
+17,A_0063,Pitch Perfect 3,46,PG-13,Comedy,Trish Sie,Mike White,104897530,2017-12-22,0,Gold Circle Films; nan
+18,A_0068,Downsizing,54,R,Comedy; Drama,Alexander Payne,Alexander Payne,24449754,2017-12-22,0,Paramount Pictures; nan
+19,A_0072,The Disaster Artist,83,R,Comedy,James Franco,Scott Neustadter,21120616,2017-12-08,104,Good Universe; A24
+20,A_0098,The Outsider,42,TV-MA,Drama,Martin Zandvliet,Andrew Baldwin,0,2018-03-09,0,Linson Entertainment; nan
+21,A_0098,The Outsider,34,TV-MA,Drama; Adventure,Martin Zandvliet,Craig Fairbrass,0,2018-03-09,94,Linson Entertainment; nan
+22,A_0107,Get Out,88,R,Thriller,Jordan Peele,Jordan Peele,176040665,2017-02-24,104,Universal Pictures
+23,A_0110,Blade Runner 2049,84,R,Sci-Fi; Drama,Denis Villeneuve,Hampton Fancher,92054159,2017-10-06,164,Alcon Entertainment; Warner Bros. Pictures
+24,A_0112,Wind River,82,R,Drama,Taylor Sheridan,Taylor Sheridan,33800859,2017-08-18,107,Acacia Filmed Entertainment; nan
+25,A_0115,Mute,33,TV-MA,Sci-Fi; Drama,Duncan Jones,Michael Robert Johnson,0,2018-02-23,126,Liberty Films UK; nan
+26,A_0121,Ex Machina,84,R,Sci-Fi; Drama,Alex Garland,Alex Garland,25442958,2015-04-24,108,Universal Pictures International (UPI); A24 Films
+27,A_0141,The Shape of Water,83,R,Fantasy; Drama,Guillermo del Toro,Guillermo del Toro,63028065,2017-12-22,119,Bull Productions; Fox Searchlight Pictures
+28,A_0144,Fantastic Beasts and Where to Find Them,74,PG-13,Fantasy; Action,David Yates (II),J.K. Rowling,234037575,2016-11-18,132,Heyday Films; Warner Bros. Pictures
+29,A_0145,Deadpool,81,R,Comedy; Action,Tim Miller,Rhett Reese,363070709,2016-02-12,103,Twentieth Century Fox; 20th Century Fox
+30,A_2092,Deadpool,69,R,Fantasy; Action,Tim Miller,Rhett Reese,328674489,1900-1-1,11,Blinky Productions; 20th Century Fox
+31,A_2727,Deadpool,41,R,Adventure; Action,Tim Miller,Rhett Reese,328674489,1900-1-1,0,ABC Signature Studios; 20th Century Fox
+32,A_0146,Captain America: Civil War,84,PG-13,Sci-Fi,Anthony Russo,Christopher Markus,408084349,2016-05-06,146,Marvel Studios; Walt Disney Pictures
+33,A_0147,Kingsman: The Golden Circle,60,R,Comedy; Adventure,Matthew Vaughn,Jane Goldman,100234838,2017-09-22,0,Twentieth Century Fox; 20th Century Fox
+34,A_0148,Transformers: The Last Knight,34,PG-13,Sci-Fi; Drama,Michael Bay,Art Marcum,130168683,2017-06-21,0,Paramount Pictures
+35,A_0156,Beauty and the Beast,72,PG,Fantasy; Sci-Fi,Bill Condon,Evan Spiliotopoulos,504014165,2017-03-17,129,Mandeville Films; Walt Disney Pictures
+36,A_0226,Beauty and the Beast,75,G,Fantasy; Sci-Fi,Gary Trousdale,Evan Spiliotopoulos,503974884,1991-11-22,84,Walt Disney Pictures
+37,A_0717,Beauty and the Beast,71,TV-14,Drama; Sci-Fi,Bill Condon,Sherri Cooper-Landsman,503974884,1900-1-1,60,Take 5 Productions; Walt Disney Pictures
+38,A_2088,Beauty and the Beast,71,PG,Fantasy; Sci-Fi,Bill Condon,Evan Spiliotopoulos,503974884,1900-1-1,60,Witt/Thomas Productions; Walt Disney Pictures
+39,A_0157,Suicide Squad,43,PG-13,Fantasy; Adventure,David Ayer,David Ayer,325100054,2016-08-05,123,Atlas Entertainment; Warner Bros. Pictures
+40,A_0161,Moana,85,PG,Comedy; Adventure,Ron Clements,Jared Bush,248757044,2016-11-23,103,Walt Disney Animation Studios; Walt Disney Pictures
+41,A_0164,Bright,45,TV-MA,Fantasy; Drama,David Ayer,Max Landis,0,2017-12-22,0,Clubhouse Pictures (II); Netflix
+42,A_0165,When We First Met,49,TV-14,Fantasy; Comedy,Ari Sandel,John Whittington,0,2018-02-09,97,Footprint Features; nan
+43,A_0171,It,80,R,Thriller; Drama,Andy Muschietti,Chase Palmer,327481748,2017-09-08,135,New Line Cinema; Warner Bros. Pictures
+44,A_0436,It,77,TV-14,Drama,Andy Muschietti,Chase Palmer,326898358,1900-1-1,135,Green/Epstein Productions; Warner Bros. Pictures
+45,A_0174,Alien: Covenant,66,R,Thriller,Ridley Scott,Dan O'Bannon,74262031,2017-05-19,120,Twentieth Century Fox; 20th Century Fox
+46,A_0176,The Ritual,67,TV-MA,Horror; Film-Noir,David Bruckner,Adam Nevill,0,2018-02-09,94,Entertainment One; nan
+47,A_0183,Split,74,PG-13,Thriller; Drama,M. Night Shyamalan,M. Night Shyamalan,138291365,2017-01-20,116,Blinding Edge Pictures; Universal Pictures
+48,A_0189,Demon House,59,NOT RATED,Documentary; Horror,Zak Bagans,Zak Bagans,0,2018-03-16,111,nan
+49,A_0190,Jigsaw,46,R,Horror; Drama,Michael Spierig,Pete Goldfinger,38052832,2017-10-27,91,Serendipity Productions; Lionsgate
+50,A_0191,Monster Family,28,PG,Comedy; Horror,Holger Tappe,Catharina Junk,112014,2018-02-09,93,Ambient Entertainment GmbH; nan
+51,A_0198,My Friend Dahmer,73,R,Horror; Drama,Marc Meyers,Marc Meyers,1355664,2018-06-01,107,Ibid Filmworks; nan
+52,A_0200,Leap!,52,PG,Comedy; Adventure,Eric Summer,Carol Noble,24479155,2017-08-25,89,Quad Productions; The Weinstein Company
+53,A_0205,Zootopia,89,PG,Comedy,Byron Howard,Byron Howard,341268248,2016-03-04,108,Walt Disney Pictures; Walt Disney Animation Studios
+54,A_0206,Sing,72,PG,Comedy; Musical,Garth Jennings,Garth Jennings,270329045,2016-12-21,108,Dentsu; Illumination Entertainment
+55,A_0211,Frozen,82,PG,Comedy; Animation,Jennifer Lee,Jennifer Lee,400738009,2013-11-27,102,Walt Disney Animation Studios; Walt Disney Pictures
+56,A_0213,Cars 3,68,G,Comedy; Animation,Brian Fee,Kiel Murray,152901115,2017-06-16,102,Pixar Animation Studios; Walt Disney Pictures
+57,A_0214,The Emoji Movie,20,PG,Comedy; Animation,Anthony Leondis,Anthony Leondis,86089513,2017-07-28,86,Columbia Pictures; Sony Pictures Animation
+58,A_0216,Trolls,69,PG,Comedy; Animation,Mike Mitchell,Jonathan Aibel,153707064,2016-11-04,92,DreamWorks Animation
+59,A_0217,Inside Out,90,PG,Comedy; Animation,Pete Docter,Meg LeFauve,356461711,2015-06-19,94,Pixar Animation Studios; Disney/Pixar
+60,A_0227,The Boss Baby,57,PG,Comedy; Animation,Tom McGrath,Michael McCullers,175003033,2017-03-31,97,DreamWorks Animation
+61,A_0229,Loving Vincent,81,PG-13,Documentary; Drama,Dorota Kobiela,Dorota Kobiela,6735118,2017-09-22,0,BreakThru Productions; Good Deed Entertainment
+62,A_0230,Paddington,85,PG,Comedy,Paul King (VII),Hamish McColl,85879985,2015-01-16,95,StudioCanal; The Weinstein Company
+63,A_0236,The Star,51,PG,Comedy,Timothy Reckart,Carlos Kotkin,40852824,2017-11-17,0,Affirm Films; nan
+64,A_0239,"Three Billboards Outside Ebbing, Missouri",87,R,Drama,Martin McDonagh,Martin McDonagh,54020238,2017-12-01,115,Blueprint Pictures; Fox Searchlight Pictures
+65,A_0244,Call Me by Your Name,87,R,Drama,Luca Guadagnino,James Ivory,17814174,2018-01-19,130,Frenesy Film Company; nan
+66,A_0245,The Theory of Everything,77,PG-13,Documentary; Drama,James Marsh,Anthony McCarten,35893537,2014-11-26,123,Working Title Films; Focus Features
+67,A_0261,Guardians of the Galaxy,86,PG-13,Sci-Fi,James Gunn (II),Nicole Perlman,333176600,2014-08-01,121,Marvel Studios; Walt Disney Pictures
+68,A_1264,Guardians of the Galaxy,83,TV-Y7,Adventure; Sci-Fi,James Gunn (II),Nicole Perlman,270592504,1900-1-1,22,Marvel Animation; Walt Disney Pictures
+69,A_0262,Baywatch,37,R,Comedy; Adventure,Seth Gordon,Robert Ben Garant,58060186,2017-05-25,116,Paramount Pictures
+70,A_1339,Baywatch,35,TV-PG,Drama; Adventure,Seth Gordon,Robert Ben Garant,58009442,1900-1-1,60,GTG Entertainment; Paramount Pictures
+71,A_0263,Avengers: Age of Ultron,74,PG-13,Sci-Fi,Joss Whedon,Joss Whedon,459005868,2015-05-01,141,Marvel Studios; Walt Disney Pictures
+72,A_0276,Logan,87,R,Drama,James Mangold,James Mangold,226277068,2017-03-03,135,Twentieth Century Fox; 20th Century Fox
+73,A_0280,Pirates of the Caribbean: Dead Men Tell No Tales,48,PG-13,Fantasy; Drama,Joachim R�nning,Jeff Nathanson,172558876,2017-05-26,129,Walt Disney Pictures
+74,A_0286,Mad Max: Fury Road,89,R,Sci-Fi,George Miller,Brendan McCarthy,129483877,2015-05-15,120,Warner Bros. Pictures; Warner Bros.
+75,A_0293,Doctor Strange,82,PG-13,Fantasy; Sci-Fi,Scott Derrickson,Thomas Dean Donnelly,232641920,2016-11-04,115,Marvel Studios; Walt Disney Pictures
+76,A_0295,John Wick: Chapter 2,82,R,Thriller; Drama,Chad Stahelski,Derek Kolstad,92029184,2017-02-10,122,Summit Entertainment
+77,A_0300,The Square,79,R,Comedy; Drama,Ruben Ãâstlund,Ruben Ãâstlund,1502347,2017-08-25,142,Plattform Produktion; Magnolia Pictures
+78,A_0315,Logan Lucky,82,PG-13,Comedy,Steven Soderbergh,Rebecca Blunt,27780977,2017-08-18,118,Trans-Radial Pictures; Fingerprint Releasing / Bleecker Street
+79,A_0318,Dear Dictator,31,NOT RATED,Comedy,Lisa Addario,Lisa Addario,0,2018-03-16,90,Hector Coup; nan
+80,A_0321,The Wolf of Wall Street,80,R,Comedy; Drama,Martin Scorsese,Terence Winter,116900694,2013-12-25,179,Red Granite Pictures; Paramount Studios
+81,A_0338,The Killing of a Sacred Deer,75,R,Drama,Yorgos Lanthimos,Yorgos Lanthimos,2291901,2017-11-03,119,Element Pictures; A24
+82,A_0340,My Cousin Rachel,68,PG-13,Drama,Roger Michell,Roger Michell,2711003,2017-06-09,0,Fox Searchlight Pictures
+83,A_0348,Atomic Blonde,72,R,Thriller; Drama,David Leitch,Kurt Johnstad,51573925,2017-07-28,115,87Eleven; Focus Features
+84,A_0356,The Gift,81,R,Drama; Thriller,Joel Edgerton,Joel Edgerton,43771291,2015-08-07,108,Blumhouse Productions; STX Entertainment
+85,A_0357,The Vanishing of Sidney Hall,38,R,Drama,Shawn Christensen,Shawn Christensen,0,2018-03-02,119,Super Crispy Entertainment; nan
+86,A_0359,Gone Girl,84,R,Drama,David Fincher,Gillian Flynn,167767189,2014-10-03,145,Twentieth Century Fox; 20th Century Fox
+87,A_0360,Sicario,84,R,Drama,Denis Villeneuve,Taylor Sheridan,46889293,2015-10-02,121,Black Label Media; Lionsgate
+88,A_0365,Interstellar,78,PG-13,Sci-Fi,Christopher Nolan,Christopher Nolan,188020017,2014-11-07,169,Paramount Pictures
+89,A_0368,The Martian,85,PG-13,Sci-Fi,Ridley Scott,Drew Goddard,228433663,2015-10-02,144,Twentieth Century Fox; 20th Century Fox
+90,A_0371,Geostorm,33,PG-13,Thriller; Drama,Dean Devlin,Dean Devlin,33700160,2017-10-20,0,Warner Bros.; Warner Bros. Pictures
+91,A_0373,Batman v Superman: Dawn of Justice,46,PG-13,Fantasy; Sci-Fi,Zack Snyder,Chris Terrio,330360194,2016-03-25,151,Warner Bros.; Warner Bros. Pictures
+92,A_0375,Thor: The Dark World,68,PG-13,Sci-Fi,Alan Taylor,Christopher Yost,206362140,2013-11-08,112,Marvel Studios; Walt Disney Pictures
+93,A_0394,The Jungle Book,85,PG,Drama; Adventure,Jon Favreau,Justin Marks,364001123,2016-04-15,106,Fairview Entertainment; Walt Disney Pictures
+94,A_0774,The Jungle Book,85,G,Adventure,Wolfgang Reitherman,Larry Clemmons,363995937,1967-10-18,78,Walt Disney Productions; Walt Disney Pictures
+95,A_0396,Kong: Skull Island,71,PG-13,Fantasy; Thriller,Jordan Vogt-Roberts,Dan Gilroy,168052812,2017-03-10,118,Warner Bros.; Warner Bros. Pictures/Legendary Pictures
+96,A_0399,The Mummy,35,PG-13,Fantasy; Drama,Alex Kurtzman,David Koepp,80101125,2017-06-09,110,Universal Pictures; Universal
+97,A_0675,The Mummy,43,PG-13,Fantasy; Drama,Stephen Sommers,Stephen Sommers,155247825,1999-05-07,120,Universal Pictures; Universal
+98,A_0401,Ghostbusters,75,PG,Fantasy; Action,Ivan Reitman,Dan Aykroyd,238632124,1984-06-08,105,Columbia Pictures Corporation; Sony Pictures
+99,A_0673,Ghostbusters,63,PG-13,Fantasy; Action,Paul Feig,Katie Dippold,128344089,2016-07-15,105,Columbia Pictures; Sony Pictures
+100,A_0409,Crimson Peak,68,R,Fantasy; Horror,Guillermo del Toro,Guillermo del Toro,31056945,2015-10-16,119,Double Dare You (DDY); Universal Pictures
+101,A_0410,Warcraft,48,PG-13,Fantasy; Sci-Fi,Duncan Jones,Charles Leavitt,47365290,2016-06-10,100,Legendary Entertainment; Universal Pictures
+102,A_0413,Cinderella,76,PG,Fantasy; Sci-Fi,Kenneth Branagh,Aline Brosh McKenna,201151353,2015-03-13,105,Allison Shearmur Productions; Walt Disney Pictures
+103,A_1036,Cinderella,78,G,Fantasy; Sci-Fi,Kenneth Branagh,Aline Brosh McKenna,183327144,1950-03-04,74,Walt Disney Productions; Walt Disney Pictures
+104,A_0415,Happy Death Day,68,PG-13,Thriller; Horror,Christopher Landon,Scott Lobdell,55683845,2017-10-13,0,Blumhouse Productions; Universal Studios
+105,A_0422,Annabelle: Creation,67,R,Thriller; Drama,David F. Sandberg,Gary Dauberman,102092201,2017-08-11,109,Atomic Monster; New Line Cinema
+106,A_0423,10 Cloverfield Lane,81,PG-13,Drama,Dan Trachtenberg,Josh Campbell,71897215,2016-03-11,90,Paramount Pictures; Bad Robot Productions
+107,A_0424,The Dark Tower,36,PG-13,Fantasy; Sci-Fi,Nikolaj Arcel,Akiva Goldsman,50701325,2017-08-04,0,Sony Pictures Entertainment (SPE); nan
+108,A_0428,47 Meters Down,56,PG-13,Drama; Thriller,Johannes Roberts,Johannes Roberts,44307191,2017-06-16,89,thefyzz; Entertainment Studios Motion Pictures
+109,A_0432,Life,66,R,Thriller; Drama,Daniel Espinosa,Paul Wernick,30234022,2017-03-24,103,Columbia Pictures; Skydance Films
+110,A_0432,Life,64,R,Thriller; Drama,Daniel Espinosa,Luke Davies,30234022,2017-03-24,104,Columbia Pictures; nan
+111,A_0434,Gerald's Game,79,TV-MA,Thriller; Drama,Mike Flanagan,Mike Flanagan,0,2017-09-29,103,Intrepid Pictures; nan
+112,A_0435,The Babysitter,69,TV-MA,Comedy; Horror,McG,Brian Duffield,0,2017-10-13,0,Boies / Schiller Film Group; nan
+113,A_0445,It Comes at Night,75,R,Horror; Drama,Trey Edward Shults,Trey Edward Shults,13985117,2017-06-09,91,Animal Kingdom; A24
+114,A_0447,It Follows,83,R,Horror,David Robert Mitchell,David Robert Mitchell,14673301,2015-03-27,94,Northern Lights Films; Radius-TWC
+115,A_0451,Hellraiser: Judgment,46,NOT RATED,Horror,Gary J. Tunnicliffe,Gary J. Tunnicliffe,0,2018-02-03,81,Dimension Films; nan
+116,A_0456,A Cure for Wellness,52,R,Fantasy; Thriller,Gore Verbinski,Justin Haythe,8106986,2017-02-17,146,Regency Enterprises; 20th Century Fox
+117,A_0457,Scouts Guide to the Zombie Apocalypse,53,R,Comedy; Horror,Christopher Landon,Carrie Lee Wilson,3931256,2015-10-30,93,Paramount Pictures; Broken Road Productions
+118,A_0459,The Neon Demon,60,R,Thriller; Horror,Nicolas Winding Refn,Nicolas Winding Refn,1333124,2016-06-24,110,Space Rocket Nation
+119,A_0466,The Breadwinner,85,PG-13,Drama,Nora Twomey,Anita Doron,312381,2017-11-17,93,Aircraft Pictures; nan
+120,A_0471,The Secret Life of Pets,70,PG,Comedy; Animation,Yarrow Cheney,Cinco Paul,368384330,2016-07-08,87,Universal Pictures
+121,A_0472,Big Hero 6,83,PG,Adventure; Animation,Chris Williams (IX),Jordan Roberts,222527828,2014-11-07,93,FortyFour Studios; Walt Disney Pictures
+122,A_0480,Hercules,66,G,Comedy; Sci-Fi,Brett Ratner,Ron Clements,99046791,1997-06-27,93,Walt Disney Pictures; Paramount Pictures
+123,A_0669,Hercules,59,PG-13,Fantasy; Sci-Fi,Brett Ratner,Ryan J. Condal,72688614,2014-07-25,98,Paramount Pictures
+124,A_0481,Finding Dory,83,PG,Comedy; Animation,Andrew Stanton,Andrew Stanton,486295561,2016-06-17,97,Pixar Animation Studios; Walt Disney Pictures/PIXAR
+125,A_0483,Sausage Party,72,R,Comedy; Animation,Conrad Vernon,Kyle Hunter,97661826,2016-08-12,89,Annapurna Pictures; Sony Pictures
+126,A_0495,Batman: Gotham by Gaslight,75,R,Adventure; Animation,Sam Liu,James Krieg,0,2018-01-23,72,DC Entertainment; nan
+127,A_0499,Minions,60,PG,Adventure; Animation,Pierre Coffin,Brian Lynch,336045770,2015-07-10,91,Illumination Entertainment; Universal Pictures
+128,A_0506,Despicable Me 2,74,PG,Comedy; Animation,Pierre Coffin,Cinco Paul,368061265,2013-07-03,98,Universal Pictures
+129,A_0511,Darkest Hour,79,PG-13,Documentary; Drama,Joe Wright,Anthony McCarten,56361300,2017-12-22,125,Perfect World Pictures; Focus Features
+130,A_0514,Wonder,82,PG,Drama,Stephen Chbosky,Stephen Chbosky,132422809,2017-11-17,113,Lionsgate
+131,A_0536,Fifty Shades of Grey,33,R,Drama; Romance,Sam Taylor-Johnson,Kelly Marcel,189859585,2015-02-13,110,Focus Features
+132,A_0538,American Made,79,R,Comedy; Drama,Doug Liman,Gary Spinelli,51342000,2017-09-29,115,Cross Creek Pictures; Universal Pictures
+133,A_0541,The Fate of the Furious,66,PG-13,Thriller; Drama,F. Gary Gray,Gary Scott Thompson,225764765,2017-04-14,136,Universal Pictures; nan
+134,A_0543,Kingsman: The Secret Service,75,R,Comedy; Thriller,Matthew Vaughn,Matthew Vaughn,128261724,2015-02-13,128,Twentieth Century Fox; 20th Century Fox
+135,A_0544,X-Men: Apocalypse,59,PG-13,Sci-Fi,Bryan Singer,Simon Kinberg,155442489,2016-05-27,136,Twentieth Century Fox; 20th Century Fox
+136,A_0548,John Wick,79,R,Thriller; Adventure,Chad Stahelski,Derek Kolstad,43037835,2014-10-24,96,Thunder Road Pictures; LionsGate Entertainment
+137,A_0551,The Hitman's Bodyguard,54,R,Thriller; Adventure,Patrick Hughes,Tom O'Connor,75468583,2017-08-18,111,Bodyguard Productions; Summit Entertainment
+138,A_0555,7 Guardians of the Tomb,24,TV-MA,Action; Adventure,Kimble Rendall,Kimble Rendall,0,2018-02-23,90,Nest Holdings; nan
+139,A_0559,La La Land,86,PG-13,Comedy; Drama,Damien Chazelle,Damien Chazelle,151101803,2016-12-25,128,Summit Entertainment; Liongate Films
+140,A_0566,The Big Sick,87,R,Comedy,Michael Showalter,Kumail Nanjiani,42872467,2017-07-14,119,Apatow Productions; Amazon Studios
+141,A_0580,Ant-Man,77,PG-13,Comedy; Thriller,Peyton Reed,Edgar Wright,180202163,2015-07-17,115,Gary Sanchez Productions; Disney/Marvel
+142,A_0587,A Bad Moms Christmas,42,R,Comedy,Jon Lucas,Jon Lucas,72110659,2017-11-01,0,Huayi Brothers Media; STXfilms
+143,A_0591,The Hateful Eight,76,R,Drama; Western,Quentin Tarantino,Quentin Tarantino,54117416,2015-12-30,167,Visiona Romantica; The Weinstein Company
+144,A_0592,Arrival,86,PG-13,Sci-Fi; Drama,Denis Villeneuve,Eric Heisserer,100546139,2016-11-11,116,Lava Bear Films; 21 Laps Entertainment
+145,A_0594,Hangman,28,R,Thriller; Drama,Johnny Martin,Michael Caissie,0,2017-11-24,98,Patriot Pictures; nan
+146,A_0595,The Snowman,29,R,Drama,Tomas Alfredson,Peter Straughan,6670765,2017-10-20,0,Universal Pictures; Universal Studios
+147,A_0597,Suburbicon,42,R,Drama; Comedy,George Clooney,Ethan Coen,5775178,2017-10-27,105,Black Bear Pictures; Paramount Pictures
+148,A_0599,The Maze Runner,66,PG-13,Sci-Fi; Thriller,Wes Ball,Noah Oppenheim,102427862,2014-09-19,113,Twentieth Century Fox; 20th Century Fox
+149,A_0603,What Happened to Monday,64,TV-MA,Action; Drama,Tommy Wirkola,Max Botkin,0,2017-08-18,123,Nexus Factory; nan
+150,A_0608,The Girl on the Train,54,R,Drama,Tate Taylor,Erin Cressida Wilson,75395035,2016-10-07,112,Amblin Partners; nan
+151,A_0609,Prisoners,81,R,Drama,Denis Villeneuve,Aaron Guzikowski,61002302,2013-09-20,153,Alcon Entertainment; Warner Bros.
+152,A_0613,Divergent,54,PG-13,Sci-Fi,Neil Burger,Vanessa Taylor,150947895,2014-03-21,139,Summit Entertainment; Lionsgate Films/Summit Entertainment
+153,A_0615,Ghost in the Shell,54,PG-13,Drama,Rupert Sanders,Jonathan Herman,40533014,2017-03-31,106,Paramount Pictures
+154,A_1275,Ghost in the Shell,62,PG-13,Action; Drama,Rupert Sanders,Jonathan Herman,40533014,1996-03-29,83,Kôdansha; Paramount Pictures
+155,A_0631,War for the Planet of the Apes,84,PG-13,Drama,Matt Reeves,Mark Bomback,146880162,2017-07-14,140,Twentieth Century Fox; 20th Century Fox
+156,A_0633,Jurassic World,70,PG-13,Sci-Fi; Thriller,Colin Trevorrow,Rick Jaffa,652270625,2015-06-12,123,Universal Pictures
+157,A_0636,Captain America: The Winter Soldier,83,PG-13,Sci-Fi,Anthony Russo,Christopher Markus,259766572,2014-04-04,136,Marvel Entertainment; Walt Disney Pictures
+158,A_0642,Terminator Genisys,45,PG-13,Sci-Fi; Adventure,Alan Taylor,Laeta Kalogridis,89760956,2015-07-01,119,Paramount Pictures
+159,A_0643,The Revenant,80,R,Documentary; Drama,Alejandro GonzÃÂ¡lez IÃÂ±ÃÂ¡rritu,Mark L. Smith,183637894,2016-01-08,156,Regency Enterprises; 20th Century Fox
+160,A_0647,The Mountain Between Us,52,PG-13,Drama,Hany Abu-Assad,J. Mills Goodloe,30348555,2017-10-06,100,Chernin Entertainment; 20th Century Fox
+161,A_0648,Spectre,65,PG-13,Thriller; Adventure,Sam Mendes,Ian Fleming (II),208777731,2015-11-06,148,B24; Sony Pictures
+162,A_0652,Gods of Egypt,34,PG-13,Fantasy; Sci-Fi,Alex Proyas,Burk Sharpless,31153464,2016-02-26,127,Pyramania; Lionsgate
+163,A_0656,Man of Steel,63,PG-13,Fantasy; Sci-Fi,Zack Snyder,Christopher Nolan,291045518,2013-06-14,143,Warner Bros.; Warner Bros. Pictures
+164,A_0670,The Legend of Tarzan,49,PG-13,Drama; Adventure,David Yates (II),Adam Cozad,126643061,2016-07-01,109,Village Roadshow Pictures; Lionsgate Pictures
+165,A_0679,Knock Knock,42,R,Thriller; Drama,Eli Roth,Guillermo Amoedo,285363,2015-10-09,99,Black Bear Pictures; Lionsgate Premiere
+166,A_0680,Cult of Chucky,67,R,Thriller; Horror,Don Mancini,Don Mancini,0,2017-10-24,91,Universal 1440 Entertainment; nan
+167,A_0685,Carrie,61,R,Horror,Kimberly Peirce,Roberto Aguirre-Sacasa,33800000,1976-11-16,98,Red Bank Films; Sony Pictures
+168,A_0686,Carrie,54,R,Drama; Horror,Kimberly Peirce,Roberto Aguirre-Sacasa,35266619,2013-10-18,99,Metro-Goldwyn-Mayer (MGM); Sony Pictures
+169,A_0688,Death Note,43,TV-MA,Drama,Adam Wingard,Charley Parlapanides,0,2017-08-25,101,Lin Pictures; nan
+170,A_0689,Don't Breathe,79,R,Thriller,Fede Alvarez,Fede Alvarez,89217875,2016-08-26,88,Screen Gems; Ghost House Pictures
+171,A_0691,The Conjuring 2,76,R,Thriller; Horror,James Wan,Chad Hayes,102470008,2016-06-10,133,New Line Cinema; Warner Bros. Pictures
+172,A_0694,The Belko Experiment,56,R,Thriller,Greg McLean,James Gunn (II),10164675,2017-03-17,82,BH Tilt; nan
+173,A_0695,The Shallows,70,PG-13,Thriller; Drama,Jaume Collet-Serra,Anthony Jaswinski,55121623,2016-06-24,86,Columbia Pictures; Ombra Films
+174,A_0708,Nails,45,NOT RATED,Horror; Film-Noir,Dennis Bartok,Tom Abrams,0,2017-06-16,85,Fantastic Films; Dark Sky Films
+175,A_0715,Dracula Untold,43,PG-13,Fantasy; Drama,Gary Shore (IV),Bram Stoker,56280355,2014-10-10,92,Universal Pictures
+176,A_0719,The Bad Batch,47,R,Drama,Ana Lily Amirpour,Ana Lily Amirpour,180851,2017-06-23,115,Human Stew Factory; NEON
+177,A_0720,Morgan,48,R,Horror; Drama,Luke Scott,Seth W. Owen,3912052,2016-09-02,92,Scott Free Productions; Scott Free Films
+178,A_0722,Underworld: Blood Wars,39,R,Fantasy; Drama,Anna Foerster,Cory Goodman,30348260,2017-01-06,91,Lakeshore Entertainment
+179,A_0730,How to Train Your Dragon 2,84,PG,Adventure; Action,Dean DeBlois,Dean DeBlois,177002924,2014-06-13,102,DreamWorks Animation; 20th Century Fox
+180,A_0733,My Little Pony: The Movie,54,PG,Comedy,Jayson Thiessen,Meghan McCarthy,21885107,2017-10-06,0,Lionsgate; nan
+181,A_0735,The Book of Life,77,PG,Comedy; Animation,Jorge R. Gutierrez,Jorge R. Gutierrez,50151543,2014-10-17,95,Reel FX Creative Studios; 20th Century Fox
+182,A_0736,Tarzan,45,G,Adventure; Film-Noir,Reinhard Klooss,Reinhard Klooss,171091819,1999-06-18,88,Walt Disney Pictures; nan
+183,A_3186,Tarzan,33,PG,Adventure; Film-Noir,Reinhard Klooss,Reinhard Klooss,1519035,2014-02-20,94,Constantin Film; nan
+184,A_0744,Kung Fu Panda 3,78,PG,Adventure; Animation,Alessandro Carloni,Jonathan Aibel,143528619,2016-01-29,94,China Film Co.; DreamWorks Animation
+185,A_0760,A Monster Calls,80,PG-13,Fantasy; Drama,J.A. Bayona,Patrick Ness,3730982,2017-01-06,108,Apaches Entertainment; Focus Features
+186,A_0762,Ice Age: Collision Course,36,PG,Comedy; Animation,Mike Thurmeier,Michael J. Wilson,64063008,2016-07-22,94,Blue Sky Studios; 20th Century Fox
+187,A_0765,Monsters University,76,G,Comedy; Action,Dan Scanlon,Daniel Gerson,268492764,2013-06-21,95,Walt Disney Pictures
+188,A_0773,Storks,65,PG,Comedy; Animation,Nicholas Stoller,Nicholas Stoller,72679278,2016-09-23,87,RatPac-Dune Entertainment; Warner Bros. Pictures
+189,A_0779,The Florida Project,86,R,Drama,Sean Baker (II),Chris Bergoch,5904366,2017-11-10,111,Cre Film; A24 Films
+190,A_0786,Bullet Head,52,R,Drama,Paul Solet,Paul Solet,0,2017-12-08,93,Millennium Media; nan
+191,A_0788,Josie,30,NOT RATED,Drama,Eric England,Anthony Ragnone II,0,2018-03-16,87,Coalition Group; Screen Media Films
+192,A_0790,Icarus,86,TV-MA,Sport; Documentary,Bryan Fogel,Bryan Fogel,0,2017-08-04,110,Alex Productions; Netflix
+193,A_0791,Patriots Day,77,R,Drama,Peter Berg,Peter Berg,31886361,2017-01-13,130,Bluegrass Films; CBS Films
+194,A_0796,The Equalizer,66,R,Thriller,Antoine Fuqua,Richard Wenk,101530738,2014-09-26,131,Columbia Pictures; Sony Pictures
+195,A_0802,Snatched,40,R,Comedy; Adventure,Jonathan Levine,Katie Dippold,45850343,2017-05-12,90,Chernin Entertainment; 20th Century Fox
+196,A_0804,The Magnificent Seven,66,PG-13,Western; Drama,Antoine Fuqua,Nic Pizzolatto,93432655,2016-09-23,132,Metro-Goldwyn-Mayer (MGM); nan
+197,A_0814,Mission: Impossible - Rogue Nation,83,PG-13,Thriller; Adventure,Christopher McQuarrie,Christopher McQuarrie,195042377,2015-07-31,131,Paramount Pictures
+198,A_0816,Battle of the Sexes,76,PG-13,Comedy; Drama,Jonathan Dayton,Simon Beaufoy,12638526,2017-09-29,121,Cloud Eight Films; Fox Searchlight Pictures
+199,A_0837,The House,37,R,Comedy,Andrew Jay Cohen,Andrew Jay Cohen,25563273,2017-06-30,0,Gary Sanchez Productions; Warner Bros. Pictures
+200,A_0843,Just Getting Started,22,PG-13,Comedy; Adventure,Ron Shelton,Ron Shelton,6069605,2017-12-08,0,Broad Green Pictures
+201,A_0860,The Hunger Games: Catching Fire,82,PG-13,Mystery; Sci-Fi,Francis Lawrence,Simon Beaufoy,424668047,2013-11-22,146,Color Force; Lionsgate Films
+202,A_0865,The Nice Guys,83,R,Comedy; Drama,Shane Black,Shane Black,36261763,2016-05-20,116,Misty Mountains; Warner Bros. Pictures
+203,A_0878,Thelma,82,NOT RATED,Fantasy; Film-Noir,Joachim Trier,Joachim Trier,147391,2017-09-15,116,Motlys; The Orchard
+204,A_0880,1922,74,TV-MA,Drama,Zak Hilditch,Zak Hilditch,0,2017-10-20,101,Campfire; nan
+205,A_0883,Wonderstruck,66,PG,Drama,Todd Haynes,Brian Selznick,1033632,2017-10-20,116,Amazon Studios; Amazon Studios and Roadside Attractions
+206,A_0885,Passengers,50,PG-13,Drama,Morten Tyldum,Jon Spaihts,100014699,2016-12-21,116,Columbia Pictures
+207,A_0886,Her,87,R,Drama,Spike Jonze,Spike Jonze,25568251,2014-01-10,126,Annapurna Pictures; Warner Bros. Pictures
+208,A_0887,The Circle,34,PG-13,Drama,James Ponsoldt,James Ponsoldt,20476391,2017-04-28,0,1978 Films; EuropaCorp / STXfilms
+209,A_0887,The Circle,76,PG-13,Drama,James Ponsoldt,James Ponsoldt,20476391,2017-04-28,102,1978 Films; Wolfe Releasing
+210,A_0889,The Space Between Us,40,PG-13,Drama; Sci-Fi,Peter Chelsom,Allan Loeb,7829766,2017-02-03,120,Los Angeles Media Fund (LAMF); STX Entertainment
+211,A_0896,Fantastic Four,26,PG-13,Sci-Fi; Adventure,Josh Trank,Jeremy Slater,56117548,2015-08-07,100,Twentieth Century Fox; 20th Century Fox
+212,A_2886,Fantastic Four,33,PG-13,Family; Adventure,Josh Trank,Jack Kirby,154696080,2005-07-08,100,Twentieth Century Fox; 20th Century Fox
+213,A_0898,Flatliners,28,PG-13,Drama,Niels Arden Oplev,Peter Filardi,16877430,2017-09-29,108,Columbia Pictures
+214,A_1527,Flatliners,35,R,Drama,Niels Arden Oplev,Peter Filardi,61490000,1990-08-10,108,Columbia Pictures Corporation; Columbia Pictures
+215,A_0899,Gravity,87,PG-13,Drama,Alfonso CuarÃ³n,Alfonso CuarÃ³n,274092705,2013-10-04,91,Warner Bros.; Warner Bros. Pictures
+216,A_0900,Maze Runner: The Scorch Trials,54,PG-13,Thriller; Adventure,Wes Ball,T.S. Nowlin,81670090,2015-09-18,120,Gotham Group; 20th Century Fox
+217,A_0912,The Lost City of Z,76,PG-13,Documentary; Drama,James Gray,James Gray,8580410,2017-04-21,140,Keep Your Head; Amazon Studios/Bleecker Street Media
+218,A_0913,San Andreas,55,PG-13,Drama; Adventure,Brad Peyton,Jeremy Passmore,155190832,2015-05-29,114,Village Roadshow Pictures; Warner Bros.
+219,A_0917,About Time,73,R,Fantasy; Drama,Richard Curtis,Richard Curtis,18472384,2013-11-08,123,Translux; Universal Pictures
+220,A_0919,The Hobbit: The Battle of the Five Armies,66,PG-13,Fantasy; Sci-Fi,Peter Jackson,Philippa Boyens,255119788,2014-12-17,144,New Line Cinema; Warner Bros.
+221,A_0920,Assassin's Creed,38,PG-13,Fantasy; Drama,Justin Kurzel,Michael Lesslie,54647948,2016-12-21,115,Regency Enterprises; 20th Century Fox
+222,A_0923,Miss Peregrine's Home for Peculiar Children,65,PG-13,Drama; Sci-Fi,Tim Burton,Jane Goldman,87242834,2016-09-30,127,Twentieth Century Fox; 20th Century Fox
+223,A_0928,A Ghost Story,80,R,Fantasy; Drama,David Lowery,David Lowery,1596371,2017-07-27,87,Sailor Bear; Ideaman Studios
+224,A_0929,Maleficent,60,PG,Family; Sci-Fi,Robert Stromberg,Linda Woolverton,241410378,2014-05-30,97,Roth Films; Walt Disney Pictures
+225,A_0930,Into the Woods,65,PG,Comedy; Musical,Rob Marshall,Rob Marshall,128002372,2014-12-25,125,Lucamar Productions; Walt Disney Pictures
+226,A_0933,300: Rise of an Empire,52,R,Fantasy; Drama,Noam Murro,Zack Snyder,106580051,2014-03-07,102,Warner Bros.; Warner Bros. Pictures
+227,A_0936,Pan,42,PG,Fantasy; Sci-Fi,Joe Wright,Jason Fuchs,35914825,2015-10-09,111,Warner Bros.
+228,A_0937,Tomorrowland,57,PG,Family; Sci-Fi,Brad Bird,Damon Lindelof,93436322,2015-05-22,107,Walt Disney Pictures
+229,A_0939,The Babadook,83,NOT RATED,Drama,Jennifer Kent,Jennifer Kent,924279,2014-11-28,93,Screen Australia; IFC Films
+230,A_0940,The Purge: Election Year,56,R,Horror; Thriller,James DeMonaco,James DeMonaco,79003080,2016-07-01,105,Universal Pictures
+231,A_0941,Leatherface,40,R,Thriller,Alexandre Bustillo,Seth M. Sherwood,0,2017-09-14,90,Campbell Grobman Films; nan
+232,A_0942,Resident Evil: The Final Chapter,46,R,Horror; Action,Paul W.S. Anderson,Paul W.S. Anderson,26844692,2017-01-27,106,Constantin Film; Sony Pictures
+233,A_0946,Bone Tomahawk,80,NOT RATED,Drama; Adventure,S. Craig Zahler,S. Craig Zahler,0,2016-02-19,132,Caliber Media Company; nan
+234,A_0948,Pride and Prejudice and Zombies,50,PG-13,Horror,Burr Steers,Burr Steers,10907291,2016-02-05,107,Cross Creek Pictures; nan
+235,A_0951,Green Room,80,R,Thriller; Horror,Jeremy Saulnier,Jeremy Saulnier,3219029,2016-05-13,94,Broad Green Pictures; A24 Films
+236,A_0952,The Autopsy of Jane Doe,77,R,Thriller; Film-Noir,AndrÃÂ© Ovredal,Ian B. Goldberg,0,2016-12-21,86,42; nan
+237,A_0953,Hush,80,R,Thriller; Horror,Mike Flanagan,Mike Flanagan,0,2016-04-08,81,Intrepid Pictures; nan
+238,A_0955,Better Watch Out,75,R,Thriller; Drama,Chris Peckover,Zack Kahn,20369,2017-10-06,89,Storm Vision Entertainment; Well Go USA Entertainment
+239,A_0956,The Boy,44,PG-13,Thriller,William Brent Bell,Stacey Menear,35794166,2016-01-22,97,Lakeshore Entertainment; STX Entertainment
+240,A_0956,The Boy,62,PG-13,Thriller; Drama,Craig William Macneill,Craig William Macneill,35794166,2016-01-22,97,Lakeshore Entertainment; Chiller Films
+241,A_0957,Insidious: Chapter 2,52,PG-13,Thriller,James Wan,Leigh Whannell,83586447,2013-09-13,106,FilmDistrict
+242,A_0964,Insidious: Chapter 3,59,PG-13,Thriller; Horror,Leigh Whannell,Leigh Whannell,52218558,2015-06-05,97,Gramercy Pictures (I); Focus Features
+243,A_0977,The Visit,63,PG-13,Thriller,M. Night Shyamalan,M. Night Shyamalan,65206105,2015-09-11,94,Blinding Edge Pictures; Universal Pictures
+244,A_0978,The Mortal Instruments: City of Bones,36,PG-13,Fantasy; Drama,Harald Zwart,Jessica Postigo Paquette,31165421,2013-08-21,130,Constantin Film; Sony Pictures
+245,A_0982,Carnage Park,55,NOT RATED,Horror; Thriller,Mickey Keating,Mickey Keating,0,2016-07-01,81,Diablo Entertainment (II); nan
+246,A_0983,Lights Out,69,PG-13,Horror,David F. Sandberg,Eric Heisserer,67235683,2016-07-22,81,New Line Cinema; RatPac-Dune Entertainment
+247,A_0984,Cabin Fever,18,R,Horror,Travis Zariwny,Randy Pearlstein,0,2016-05-13,99,Contend; nan
+248,A_1530,Cabin Fever,28,R,Horror,Travis Zariwny,Randy Pearlstein,21158188,2003-09-12,93,Tonic Films; nan
+249,A_0991,Kubo and the Two Strings,87,PG,Adventure; Action,Travis Knight (II),Marc Haimes,48023088,2016-08-19,101,Focus Features
+250,A_1005,Hotel Transylvania 2,61,PG,Comedy; Animation,Genndy Tartakovsky,Robert Smigel,169700110,2015-09-25,89,Columbia Pictures; Sony Pictures
+251,A_1009,Kingsglaive: Final Fantasy XV,40,PG-13,Adventure; Film-Noir,Takeshi Nozue,Takashi Hasegawa,233569,2016-07-09,110,Digic Pictures; nan
+252,A_1017,Smurfs: The Lost Village,48,PG,Comedy; Animation,Kelly Asbury,Stacey Harman,45020282,2017-04-07,0,Columbia Pictures; nan
+253,A_1021,The Good Dinosaur,72,PG,Comedy,Peter Sohn,Bob Peterson,123087120,2015-11-25,93,Pixar Animation Studios; Disney/Pixar
+254,A_1028,The Nut Job 2: Nutty by Nature,33,PG,Adventure; Animation,Cal Brunker,Cal Brunker,28370522,2017-08-11,86,Lotte Entertainment; Open Road Films
+255,A_1043,The Danish Girl,69,R,Documentary; Drama,Tom Hooper,David Ebershoff,12706393,2016-01-22,119,Working Title Films; Focus Features
+256,A_1049,Only the Brave,82,PG-13,Documentary; Drama,Joseph Kosinski,Sean Flynn,18340051,2017-10-20,0,Black Label Media; Columbia Pictures
+257,A_1054,Good Time,82,R,Drama,Benny Safdie,Ronald Bronstein,2009484,2017-08-25,100,Elara Pictures; nan
+258,A_1058,Nocturnal Animals,74,R,Drama,Tom Ford (VIII),Tom Ford (VIII),10639114,2016-12-09,115,Focus Features; nan
+259,A_1060,The Forgiven,53,R,Thriller; Drama,Roland JoffÃÂ©,Roland JoffÃÂ©,0,2018-03-09,0,Light and Dark Films; nan
+260,A_1061,Jason Bourne,60,PG-13,Thriller; Drama,Paul Greengrass,Paul Greengrass,162434410,2016-07-29,123,Universal Pictures; Universal
+261,A_1063,Furious 7,76,PG-13,Thriller,James Wan,Chris Morgan,353007020,2015-04-03,137,Universal Pictures
+262,A_1065,Fury,76,R,Drama,David Ayer,David Ayer,85817906,2014-10-17,134,Columbia Pictures; Sony Pictures
+263,A_1071,Spy,82,R,Comedy,Paul Feig,Paul Feig,110825712,2015-06-05,117,Twentieth Century Fox; 20th Century Fox
+264,A_1079,Jungle,61,R,Documentary; Drama,Greg McLean,Yossi Ghinsberg,0,2017-10-20,115,Babber Films; nan
+265,A_1080,Pitch Perfect 2,64,PG-13,Comedy,Elizabeth Banks,Mickey Rapkin,184296230,2015-05-15,114,Brownstone Productions (II); Universal Pictures
+266,A_1083,Rough Night,48,R,Comedy,Lucia Aniello,Lucia Aniello,22092592,2017-06-16,101,Paulilu Productions; Columbia Pictures
+267,A_1085,Girls Trip,76,R,Comedy; Drama,Malcolm D. Lee,Erica Rivinoja,115108515,2017-07-21,122,Universal Pictures
+268,A_1093,Entourage,59,TV-MA,Comedy,Doug Ellin,Doug Ellin,0,1900-1-1,28,Home Box Office (HBO); Warner Bros. Pictures
+269,A_1097,The DUFF,68,PG-13,Comedy,Ari Sandel,Josh A. Cagan,34017854,2015-02-20,100,CBS Films; Lionsgate Films
+270,A_1102,The Big Short,83,R,Comedy; Drama,Adam McKay,Charles Randolph,70259870,2015-12-23,130,Plan B Entertainment; Paramount Pictures
+271,A_1128,Inherent Vice,70,R,Comedy; Drama,Paul Thomas Anderson,Paul Thomas Anderson,8110975,2015-01-09,148,Ghoulardi Film Company; Warner Bros. Pictures
+272,A_1129,Veronica Mars,81,TV-14,Drama,Rob Thomas (II),Diane Ruggiero,2664765,1900-1-1,44,Silver Pictures Television; Warner Bros.
+273,A_2324,Veronica Mars,73,PG-13,Drama,Rob Thomas (II),Diane Ruggiero,3319109,2014-03-13,107,Warner Bros. Digital Distribution; Warner Bros.
+274,A_1132,Midnight Special,74,PG-13,Sci-Fi; Drama,Jeff Nichols,Jeff Nichols,3707794,2016-04-21,111,Warner Bros.; Warner Bros. Pictures
+275,A_1134,Now You See Me 2,49,PG-13,Comedy; Thriller,Jon M. Chu,Ed Solomon,65075540,2016-06-10,115,K/O Paper Products; Lionsgate
+276,A_1145,Crooked House,67,PG-13,Drama; Thriller,Gilles Paquet-Brenner,Julian Fellowes,0,2017-11-21,115,Brilliant Films; nan
+277,A_1151,Jack Reacher: Never Go Back,49,PG-13,Action; Drama,Edward Zwick,Richard Wenk,58697076,2016-10-21,118,Paramount Pictures
+278,A_1153,Nerve,66,PG-13,Action; Thriller,Ariel Schulman,Jessica Sharzer,38562379,2016-07-27,96,Allison Shearmur Productions; Keep Your Head
+279,A_1154,The Hunger Games: Mockingjay - Part 2,67,PG-13,Sci-Fi; Drama,Francis Lawrence,Danny Strong,281723902,2015-11-20,137,Color Force; Lionsgate Films
+280,A_1166,The Hunger Games: Mockingjay - Part 1,68,PG-13,Sci-Fi; Drama,Francis Lawrence,Danny Strong,337135885,2014-11-21,123,Color Force; Lionsgate Films
+281,A_1154,The Hunger Games: Mockingjay - Part 2,65,PG-13,Sci-Fi; Drama,Francis Lawrence,Danny Strong,295457212,2015-11-20,125,Color Force; Lionsgate Films
+282,A_1166,The Hunger Games: Mockingjay - Part 1,66,PG-13,Sci-Fi; Drama,Francis Lawrence,Danny Strong,337135885,2014-11-21,123,Color Force; Lionsgate Films
+283,A_1155,Jupiter Ascending,39,PG-13,Sci-Fi,Lana Wachowski,Lilly Wachowski,47387723,2015-02-06,125,Warner Bros.; Warner Bros. Pictures
+284,A_1161,X-Men: Days of Future Past,85,PG-13,Sci-Fi,Bryan Singer,Simon Kinberg,233921534,2014-05-23,131,Twentieth Century Fox; 20th Century Fox
+285,A_1171,The Lobster,79,R,Comedy; Drama,Yorgos Lanthimos,Yorgos Lanthimos,9078073,2015-10-16,118,Film4; A24 Films
+286,A_1173,Insurgent,45,PG-13,Sci-Fi; Drama,Robert Schwentke,Akiva Goldsman,130179072,2015-03-20,119,Summit Entertainment; Lionsgate Films
+287,A_1181,xXx: Return of Xander Cage,48,PG-13,Thriller; Drama,D.J. Caruso,Rich Wilkes,44898413,2017-01-20,107,Huahua Media; Paramount Pictures
+288,A_1182,Everest,72,PG-13,Drama,Baltasar KormÃÂ¡kur,William Nicholson,46529055,2015-09-25,94,Working Title Films; nan
+289,A_1187,The Shack,41,PG-13,Fantasy; Drama,Stuart Hazeldine,John Fusco,57330873,2017-03-03,132,Summit Entertainment; Lionsgate
+290,A_1192,The Hobbit: The Desolation of Smaug,76,PG-13,Fantasy; Sci-Fi,Peter Jackson,J.R.R. Tolkien,258366855,2013-12-13,161,Metro-Goldwyn-Mayer (MGM); Warner Bros.
+291,A_1194,Ender's Game,64,PG-13,Fantasy; Sci-Fi,Gavin Hood,Gavin Hood,61737191,2013-11-01,113,MWM (MadisonWellsMedia); Summit Entertainment
+292,A_1196,The Great Wall,47,PG-13,Fantasy; Drama,Yimou Zhang,Carlo Bernard,45540830,2017-02-17,103,Legendary East; Universal Pictures
+293,A_1197,Colossal,71,R,Comedy,Nacho Vigalondo,Nacho Vigalondo,3027134,2017-04-21,109,Toy Fight Productions; nan
+294,A_1203,The Age of Adaline,64,PG-13,Fantasy; Drama,Lee Toland Krieger,Salvador Paskowitz,42478175,2015-04-24,112,Lakeshore Entertainment; Lionsgate
+295,A_1204,Pixels,36,PG-13,Fantasy; Drama,Chris Columbus,Tim Herlihy,78747585,2015-07-24,105,Columbia Pictures; Sony Pictures
+296,A_1210,The Huntsman: Winter's War,39,PG-13,Drama,Cedric Nicolas-Troyan,Evan Spiliotopoulos,48390190,2016-04-22,114,Universal Pictures
+297,A_1212,Mr. Nobody,72,R,Fantasy; Film-Noir,Jaco Van Dormael,Jaco Van Dormael,3600,2013-09-26,141,Pan Européenne; Magnolia Pictures
+298,A_1221,The Void,66,NOT RATED,Sci-Fi; Horror,Jeremy Gillespie,Jeremy Gillespie,150372,2017-04-07,90,120dB Films; Screen Media Films
+299,A_1222,The Limehouse Golem,68,NOT RATED,Thriller; Film-Noir,Juan Carlos Medina,Jane Goldman,0,2017-09-08,105,Number 9 Films; nan
+300,A_1231,The Vault,36,NOT RATED,Thriller,Dan Bush,Dan Bush,5728,2017-09-01,91,Redwire Pictures; nan
+301,A_1236,The Green Inferno,44,R,Thriller,Eli Roth,Guillermo Amoedo,7192291,2015-09-25,100,Worldview Entertainment; High Top Releasing
+302,A_1242,Victor Crowley,50,NOT RATED,Comedy; Horror,Adam Green,Adam Green,0,2018-02-06,83,ArieScope Pictures; nan
+303,A_1247,Goosebumps,69,PG,Comedy; Thriller,Rob Letterman,Darren Lemke,80080379,2015-10-16,103,Columbia Pictures; Sony Pictures
+304,A_1968,Goosebumps,77,TV-Y7,Fantasy; Thriller,Rob Letterman,Darren Lemke,76079946,1900-1-1,22,Lenz Entertainment; Sony Pictures
+305,A_1253,You're Next,70,R,Thriller; Drama,Adam Wingard,Simon Barrett,25064090,2013-08-23,94,Snoot Entertainment; Lionsgate
+306,A_1310,The SpongeBob Movie: Sponge Out of Water,70,PG,Comedy; Animation,Paul Tibbitt,Glenn Berger,162994032,2015-02-06,92,Paramount Animation; Paramount Pictures
+307,A_1320,Fifty Shades Darker,28,R,Drama,James Foley,Niall Leonard,114376885,2017-02-10,115,Universal Pictures
+308,A_1322,Detroit,79,R,Drama,Kathryn Bigelow,Mark Boal,16790139,2017-08-04,142,Annapurna Pictures
+309,A_1324,The Imitation Game,85,PG-13,Documentary; Drama,Morten Tyldum,Graham Moore,91125683,2014-12-25,114,Black Bear Pictures; The Weinstein Company
+310,A_1332,Hell or High Water,86,R,Drama,David Mackenzie,Taylor Sheridan,26973524,2016-08-26,102,Sidney Kimmel Entertainment; Film 44
+311,A_1338,American Sniper,72,R,Documentary; Drama,Clint Eastwood,Jason Hall,350126372,2015-01-16,133,Warner Bros.
+312,A_1364,Bad Moms,60,R,Comedy,Jon Lucas,Jon Lucas,113257297,2016-07-29,100,STX Entertainment; Block Entertainment
+313,A_1366,The Layover,23,R,Comedy,William H. Macy,David Hornsby,0,2017-08-03,88,Unified Pictures; nan
+314,A_1375,The Man Who Invented Christmas,75,PG,Comedy; Drama,Bharat Nalluri,Susan Coyne,5676486,2017-11-22,104,Mazur / Kaplan Company; Bleecker Street
+315,A_1377,A Futile and Stupid Gesture,65,TV-MA,Comedy,David Wain,Michael Colton,0,2018-01-26,0,Principato-Young Entertainment; nan
+316,A_1379,Before I Fall,63,PG-13,Drama,Ry Russo-Young,Maria Maggenti,12230791,2017-03-03,98,Awesomeness Films; Open Road Films
+317,A_1384,The Invitation,77,NOT RATED,Drama; Thriller,Karyn Kusama,Phil Hay,231703,2016-04-08,100,Gamechanger Films; nan
+318,A_1389,Kidnap,48,R,Drama,Luis Prieto,Knate Lee,30718107,2017-08-04,82,Di Bonaventura Pictures; nan
+319,A_1393,"Hail, Caesar!",74,PG-13,Comedy,Ethan Coen,Joel Coen,30080225,2016-02-05,106,Universal Pictures
+320,A_1399,Inferno,42,PG-13,Action; Drama,Ron Howard,David Koepp,34343574,2016-10-28,121,Columbia Pictures; Sony Pictures
+321,A_1404,All I See Is You,40,R,Drama,Marc Forster,Marc Forster,217644,2017-10-27,109,2DUX²; Open Road Films
+322,A_1406,The Loft,38,R,Romance; Drama,Erik Van Looy,Wesley Strick,5981749,2015-01-30,103,Open Road Films
+323,A_1410,Secret in Their Eyes,51,PG-13,Drama,Billy Ray,Billy Ray,20180155,2015-11-20,90,IM Global; STX Entertainment
+324,A_1416,Transformers: Age of Extinction,37,PG-13,Sci-Fi,Michael Bay,Ehren Kruger,245439076,2014-06-27,157,Paramount Pictures
+325,A_1421,Okja,79,TV-MA,Drama,Bong Joon Ho,Bong Joon Ho,0,2017-06-28,118,Kate Street Picture Company; Netflix
+326,A_1426,RoboCop,55,PG-13,Action; Sci-Fi,JosÃ© Padilha,Joshua Zetumer,58607007,2014-02-12,117,Metro-Goldwyn-Mayer (MGM); Sony Pictures Releasing
+327,A_2860,RoboCop,62,R,Action; Sci-Fi,Paul Verhoeven,Edward Neumeier,53424681,1987-07-17,102,Orion Pictures; Sony Pictures Releasing
+328,A_1427,The 5th Wave,33,PG-13,Sci-Fi; Thriller,J Blakeson,Susannah Grant,34912982,2016-01-22,112,Columbia Pictures; Sony Pictures
+329,A_1429,Lucy,65,R,Thriller; Adventure,Luc Besson,Luc Besson,126663600,2014-07-25,89,EuropaCorp; Universal Pictures
+330,A_1432,Snowpiercer,82,R,Sci-Fi,Bong Joon Ho,Bong Joon Ho,4563650,2014-07-11,126,SnowPiercer; Radius-TWC
+331,A_1441,Godzilla,69,PG-13,Sci-Fi; Thriller,Gareth Edwards (V),Max Borenstein,200676069,2014-05-16,123,Warner Bros.; Warner Bros Pictures
+332,A_2352,Godzilla,63,PG-13,Thriller,Gareth Edwards (V),Dan Callahan,172962996,1998-05-20,138,Centropolis Film Productions; Warner Bros Pictures
+333,A_1442,The Amazing Spider-Man 2,59,PG-13,Sci-Fi; Drama,Marc Webb,Alex Kurtzman,202853933,2014-05-02,142,Marvel Enterprises; Sony Pictures
+334,A_1445,Silence,78,R,Documentary; Drama,Martin Scorsese,Jay Cocks,7079191,2017-01-13,161,Cappa Defina Productions; Paramount Pictures
+335,A_1445,Silence,81,R,Documentary; Drama,Marquette Williams,Marquette Williams,7079191,2017-01-13,91,Cappa Defina Productions; Indican Pictures
+336,A_1448,Last Knights,38,R,Action; Adventure,Kazuaki Kiriya,Michael Konyves,0,2015-04-03,115,Grindstone Entertainment Group; nan
+337,A_1450,The Brothers Grimsby,49,R,Comedy,Louis Leterrier,Sacha Baron Cohen,6864016,2016-03-11,83,Big Talk Productions; nan
+338,A_1468,Legend,63,PG,Fantasy; Film-Noir,Brian Helgeland,William Hjortsberg,15502112,1986-04-18,89,Legend Production Company; Universal Studios
+339,A_1606,Legend,65,R,Documentary; Film-Noir,Brian Helgeland,Brian Helgeland,14146549,2015-11-20,132,Cross Creek Pictures; Universal Studios
+340,A_1470,A Dog's Purpose,51,PG,Comedy; Drama,Lasse Hallstrom,W. Bruce Cameron,64304940,2017-01-27,100,Amblin Entertainment
+341,A_1482,Alice Through the Looking Glass,45,PG,Fantasy; Action,James Bobin,Linda Woolverton,77042381,2016-05-27,108,Walt Disney Pictures
+342,A_1484,Poltergeist,53,PG,Thriller; Horror,Tobe Hooper,Steven Spielberg,76606280,1982-06-04,1,Metro-Goldwyn-Mayer (MGM); 20th Century Fox
+343,A_2689,Poltergeist,40,PG-13,Thriller; Horror,Gil Kenan,David Lindsay-Abaire,47425125,2015-05-22,1,Fox 2000 Pictures; 20th Century Fox
+344,A_1485,Oculus,69,R,Horror; Drama,Mike Flanagan,Mike Flanagan,27695246,2014-04-11,104,Intrepid Pictures; Relativity Media
+345,A_1488,Creep,79,R,Thriller; Horror,Patrick Brice,Patrick Brice,0,2015-06-23,77,Blumhouse Productions; nan
+346,A_1490,Mayhem,73,NOT RATED,Horror; Adventure,Joe Lynch (V),Matias Caruso,0,2017-11-10,0,Circle of Confusion; nan
+347,A_1494,Vampire Academy,34,PG-13,Fantasy,Mark Waters (VIII),Daniel Waters,7791146,2014-02-07,104,Angry Films; The Weinstein Company
+348,A_1497,Unfriended,59,R,Drama; Thriller,Levan Gabriadze,Nelson Greaves,32482090,2015-04-17,82,Bazelevs Production; Universal Pictures
+349,A_1499,Only Lovers Left Alive,79,R,Fantasy; Drama,Jim Jarmusch,Jim Jarmusch,1879534,2013-12-25,122,Recorded Picture Company (RPC); Sony Pictures Classics
+350,A_1508,Rings,26,PG-13,Drama,F. Javier GutiÃÂ©rrez,Jacob Aaron Estes,27780085,2017-02-03,102,Macari/Edelstein; Paramount Pictures
+351,A_1514,Leviathan,78,R,Mystery; Drama,Andrey Zvyagintsev,Andrey Zvyagintsev,15704614,1989-03-17,98,Filmauro; Sony Pictures Classics
+352,A_1518,Creep 2,82,NOT RATED,Thriller,Patrick Brice,Patrick Brice,0,2017-10-24,78,Blumhouse Productions; nan
+353,A_1520,Tusk,47,R,Comedy; Horror,Kevin Smith,Kevin Smith,1821983,2014-09-19,102,SModcast Pictures; A24 Films
+354,A_1521,Ouija: Origin of Evil,71,PG-13,Thriller,Mike Flanagan,Mike Flanagan,34904885,2016-10-21,99,Allspark Pictures; Universal Pictures
+355,A_1522,31,50,R,Thriller; Horror,Rob Zombie,Rob Zombie,779820,2016-09-16,102,Bow and Arrow Entertainment; nan
+356,A_1525,Annabelle,41,R,Thriller; Horror,John R. Leonetti,Gary Dauberman,84273813,2014-10-03,98,New Line Cinema
+357,A_1537,Alvin and the Chipmunks: The Road Chip,33,PG,Comedy; Animation,Walt Becker,Ross Bagdasarian,85886987,2015-12-18,86,Fox 2000 Pictures; 20th Century Fox
+358,A_1550,Cloudy with a Chance of Meatballs 2,67,PG,Adventure; Action,Cody Cameron,Jonathan Goldstein,119793567,2013-09-27,95,Columbia Pictures; Sony Pictures
+359,A_1563,Rio 2,54,G,Comedy; Animation,Carlos Saldanha,Carlos Saldanha,131538435,2014-04-11,101,Twentieth Century Fox Animation; 20th Century Fox
+360,A_1573,Teenage Mutant Ninja Turtles,51,TV-Y7,Adventure; Sci-Fi,Jonathan Liebesman,Josh Appelbaum,163911409,1900-1-1,24,Lowbar Productions; Paramount Pictures
+361,A_1924,Teenage Mutant Ninja Turtles,40,PG-13,Comedy; Sci-Fi,Jonathan Liebesman,Josh Appelbaum,191204754,2014-08-08,101,Paramount Pictures
+362,A_2986,Teenage Mutant Ninja Turtles,50,TV-Y7,Adventure; Sci-Fi,Jonathan Liebesman,Josh Appelbaum,163911409,1900-1-1,30,Murakami Wolf Swenson; Paramount Pictures
+363,A_3079,Teenage Mutant Ninja Turtles,44,PG,Comedy; Sci-Fi,Jonathan Liebesman,Josh Appelbaum,163911409,1990-03-30,93,888 Productions; Paramount Pictures
+364,A_3180,Teenage Mutant Ninja Turtles,49,TV-Y7,Adventure; Sci-Fi,Jonathan Liebesman,Josh Appelbaum,163911409,1900-1-1,30,Mirage Studios; Paramount Pictures
+365,A_1581,Justice League Dark,71,R,Fantasy; Action,Jay Oliva,Ernie Altbacker,0,2017-02-07,66,Warner Bros. Animation; nan
+366,A_1585,"Roman J. Israel, Esq.",57,PG-13,Drama,Dan Gilroy,Dan Gilroy,11962712,2017-11-22,117,Bron Studios; Sony Pictures
+367,A_1591,Mudbound,85,R,Drama,Dee Rees,Virgil Williams,0,2017-11-17,134,Armory Films; nan
+368,A_1592,Victoria,82,TV-PG,Documentary; Drama,Sebastian Schipper,Olivia Neergaard-Holm,108602,1900-1-1,60,Mammoth Screen; Adopt Films
+369,A_1594,Moonlight,86,R,Drama,Barry Jenkins (III),Barry Jenkins (III),27850912,2016-11-18,110,A24; A24 Films
+370,A_2137,Moonlight,87,R,Fantasy; Drama,Barry Jenkins (III),Barry Jenkins (III),27850910,1900-1-1,60,Silver Pictures Television; A24 Films
+371,A_1595,Wonder Wheel,46,PG-13,Drama,Woody Allen,Woody Allen,1403237,2017-12-15,101,Amazon Studios
+372,A_1597,Hacksaw Ridge,84,R,Documentary; Drama,Mel Gibson,Robert Schenkkan,67209615,2016-11-04,139,Cross Creek Pictures; Summit Entertainment
+373,A_1599,Shot Caller,68,R,Drama,Ric Roman Waugh,Ric Roman Waugh,0,2017-08-18,121,Bold Films; Saban Films
+374,A_1600,Inconceivable,41,R,Drama; Thriller,Jonathan Baker (III),Chloe King,0,2017-06-30,105,Baker Entertainment Group; nan
+375,A_1603,The Beguiled,71,R,Drama,Sofia Coppola,Thomas Cullinan,10576669,2017-06-30,0,American Zoetrope; Focus Features
+376,A_1607,The Accountant,63,R,Drama,Gavin O'Connor,Bill Dubuque,86260045,2016-10-14,128,Warner Bros.; Warner Bros. Pictures
+377,A_1608,Point Break,41,R,Thriller; Adventure,Kathryn Bigelow,Kurt Wimmer,43218387,1991-07-12,113,Largo Entertainment; Warner Bros. Pictures
+378,A_2785,Point Break,31,PG-13,Sport; Adventure,Ericson Core,Kurt Wimmer,28782481,2015-12-25,113,Alcon Entertainment; Warner Bros. Pictures
+379,A_1610,Central Intelligence,66,PG-13,Comedy; Adventure,Rawson Marshall Thurber,Ike Barinholtz,127440871,2016-06-17,107,New Line Cinema; Warner Bros. Pictures
+380,A_1615,Allied,65,R,Drama,Robert Zemeckis,Steven Knight,40069087,2016-11-23,124,GK Films; Paramount Pictures
+381,A_1619,Mother's Day,31,PG-13,Comedy; Drama,Garry Marshall,Anya Kochoff,32463917,2016-04-29,118,Open Road Films (II); Open Road Films
+382,A_1621,Irreplaceable You,45,NOT RATED,Comedy; Drama,Stephanie Laing,Bess Wohl,0,2018-02-16,96,Rocliffe Ltd.; nan
+383,A_1629,Why Him?,50,R,Comedy,John Hamburg,John Hamburg,60312925,2016-12-23,111,Twentieth Century Fox; 20th Century Fox
+384,A_1633,Home Again,44,PG-13,Comedy,Hallie Meyers-Shyer,Hallie Meyers-Shyer,27020284,2017-09-08,0,Black Bicycle Entertainment; nan
+385,A_1639,Captain Fantastic,81,R,Comedy; Drama,Matt Ross,Matt Ross,5875006,2016-07-29,118,Electric City Entertainment
+386,A_1641,Going in Style,57,PG-13,Comedy,Zach Braff,Theodore Melfi,45003463,2017-04-07,96,De Line Pictures; nan
+387,A_1646,Blended,39,PG-13,Comedy,Frank Coraci,Ivan Menchell,46294610,2014-05-23,91,Gulfstream Pictures; Warner Bros. Pictures
+388,A_1647,Unlocked,43,R,Drama; Thriller,Michael Apted,Peter O'Brien,0,2017-05-05,98,Bloom; nan
+389,A_1648,Predestination,79,R,Sci-Fi; Thriller,Michael Spierig,Michael Spierig,201560,2015-01-09,97,Screen Australia; Sony Pictures
+390,A_1650,Enemy,71,R,Thriller,Denis Villeneuve,Javier GullÃ³n,1007088,2014-02-06,90,Pathé International; A24 Films
+391,A_1652,Criminal,46,R,Drama,Ariel Vromen,Douglas S. Cook,14268533,2016-04-15,113,BenderSpink; Summit Entertainment
+392,A_1654,Oldboy,49,R,Drama,Spike Lee,Mark Protosevich,2162593,2013-11-27,104,Good Universe; FilmDistrict
+393,A_1657,The Guest,78,R,Thriller,Adam Wingard,Simon Barrett,642285,2014-09-05,97,HanWay Films; Picturehouse Films
+394,A_1682,Small Town Crime,70,R,Thriller; Drama,Eshom Nelms,Eshom Nelms,0,2018-01-19,91,6 Foot Films; Saban Films
+395,A_1693,The World's End,79,R,Comedy,Edgar Wright,Edgar Wright,33408732,2013-08-23,109,Universal Pictures; Focus Features
+396,A_1696,Teenage Mutant Ninja Turtles: Out of the Shadows,47,PG-13,Comedy; Action,Dave Green,Josh Appelbaum,82051601,2016-06-03,97,Paramount Pictures
+397,A_1700,Elysium,66,R,Drama,Neill Blomkamp,Neill Blomkamp,93050117,2013-08-09,97,TriStar Pictures
+398,A_1708,Under the Skin,73,R,Drama; Sci-Fi,Jonathan Glazer,Walter Campbell,2605039,2014-03-14,108,Film4; A24
+399,A_1713,The Wolverine,68,PG-13,Sci-Fi; Adventure,James Mangold,Christopher McQuarrie,132556852,2013-07-26,126,Twentieth Century Fox; 20th Century Fox
+400,A_1726,Mike and Dave Need Wedding Dates,47,R,Comedy,Jake Szymanski,Andrew Jay Cohen,46007113,2016-07-08,98,Twentieth Century Fox; 20th Century Fox
+401,A_1729,Swiss Army Man,69,R,Comedy; Drama,Daniel Scheinert,Daniel Scheinert,4208879,2016-07-01,95,Blackbird; Blackbird Films
+402,A_1731,The Secret Life of Walter Mitty,62,PG,Comedy; Drama,Ben Stiller,Steven Conrad,58236838,2013-12-25,114,Twentieth Century Fox; 20th Century Fox
+403,A_1734,The BFG,69,PG,Fantasy; Sci-Fi,Steven Spielberg,Melissa Mathison,55483770,2016-07-01,115,Walt Disney Pictures
+404,A_1741,Exodus: Gods and Kings,44,PG-13,Drama,Ridley Scott,Steven Zaillian,65014513,2014-12-12,142,Chernin Entertainment; 20th Century Fox
+405,A_1743,Percy Jackson: Sea of Monsters,51,PG,Fantasy; Drama,Thor Freudenthal,Larry Karaszewski,68559554,2013-08-07,106,Fox 2000 Pictures; 20th Century Fox
+406,A_1757,Amityville: The Awakening,39,PG-13,Thriller,Franck Khalfoun,Franck Khalfoun,742,2017-10-12,85,Dimension Films; nan
+407,A_1759,Most Beautiful Island,75,NOT RATED,Thriller; Drama,Ana Asensio,Ana Asensio,0,2017-11-03,80,Glass Eye Pix
+408,A_1761,The Purge: Anarchy,60,R,Horror,James DeMonaco,James DeMonaco,71962800,2014-07-18,103,Universal Pictures
+409,A_1771,The Bye Bye Man,33,PG-13,Thriller; Horror,Stacy Title,Jonathan Penner,22377458,2017-01-13,96,Huayi Brothers Media; nan
+410,A_1772,Outcast,40,TV-MA,Drama; Adventure,Nicholas Powell,Robert Kirkman,0,1900-1-1,60,Circle of Confusion; Eone Films
+411,A_1773,Wish Upon,33,PG-13,Fantasy; Horror,John R. Leonetti,Barbara Marshall,14301505,2017-07-14,89,Broad Green Pictures
+412,A_1789,Berlin Syndrome,68,R,Drama,Cate Shortland,Shaun Grant (II),28660,2017-05-26,116,Aquarius Films; nan
+413,A_1796,Incarnate,35,PG-13,Fantasy; Drama,Brad Peyton,Ronnie Christensen,4848658,2016-12-02,0,IM Global; nan
+414,A_1809,Batman and Harley Quinn,57,PG-13,Adventure,Sam Liu,James Krieg,0,2017-08-15,74,DC Entertainment; nan
+415,A_1810,Batman: The Killing Joke,55,R,Action; Drama,Sam Liu,Brian Azzarello,3775000,2016-07-25,72,Warner Bros. Animation; nan
+416,A_1813,Ratchet & Clank,36,PG,Adventure; Comedy,Kevin Munroe,Kevin Munroe,8549740,2016-04-29,94,Gramercy Pictures (I); Focus Features
+417,A_1831,The Peanuts Movie,79,G,Comedy; Animation,Steve Martino,Bryan Schulz,130178411,2015-11-06,88,Twentieth Century Fox Animation; 20th Century Fox
+418,A_1835,Turbo,66,PG,Comedy; Animation,David Soren,Darren Lemke,83028128,2013-07-17,95,DreamWorks Animation
+419,A_1844,Mr. Peabody & Sherman,74,PG,Comedy,Rob Minkoff,Michael McCullers,111506430,2014-03-07,92,Bullwinkle Studios; 20th Century Fox
+420,A_1848,Middle School: The Worst Years of My Life,59,PG,Comedy,Steve Carr,Chris Bowman,19985196,2016-10-07,92,CBS Films; James Patterson Entertainment
+421,A_1854,The Smurfs 2,33,PG,Comedy; Animation,Raja Gosnell,David N. Weiss,71017784,2013-07-31,105,Columbia Pictures; Sony Pictures
+422,A_1859,Goodbye Christopher Robin,67,PG,Documentary; Drama,Simon Curtis,Frank Cottrell Boyce,1735251,2017-09-29,0,DJ Films; Fox Searchlight Pictures
+423,A_1861,Hidden Figures,85,PG,Documentary; Drama,Theodore Melfi,Allison Schroeder,169387004,2017-01-06,127,Fox 2000 Pictures; 20th Century Fox
+424,A_1872,Me Before You,65,PG-13,Drama,Thea Sharrock,Jojo Moyes,56245075,2016-06-03,106,Metro-Goldwyn-Mayer (MGM); Warner Bros. Pictures
+425,A_1875,Nightcrawler,87,R,Drama,Dan Gilroy,Dan Gilroy,32381218,2014-10-31,117,Bold Films; Open Road Films
+426,A_1878,Mark Felt: The Man Who Brought Down the White House,50,PG-13,Documentary; Drama,Peter Landesman,Peter Landesman,768946,2017-09-29,0,Endurance Media; Sony Pictures Classics
+427,A_1882,The Stanford Prison Experiment,76,R,Documentary; Drama,Kyle Patrick Alvarez,Tim Talbott,643557,2015-07-17,120,Coup d'Etat Films; IFC Films
+428,A_1885,2:22,39,PG-13,Thriller; Drama,Paul Currie,Todd Stein,0,2017-06-30,98,Lightstream Entertainment; Magnolia Pictures
+429,A_1886,24 Hours to Live,50,R,Thriller; Drama,Brian Smrz,Zach Dean,0,2018-01-26,92,Fundamental Films; nan
+430,A_1894,Scorched Earth,31,R,Action; Sci-Fi,Peter Howitt,Kevin Leeson,0,2018-02-02,93,Lighthouse Pictures; nan
+431,A_1898,Horrible Bosses 2,48,R,Comedy,Sean Anders,Jonathan Goldstein,54445357,2014-11-26,108,BenderSpink; Warner Bros. Pictures
+432,A_1899,Bomb City,79,TV-MA,Drama,Jameson Brooks,Jameson Brooks,50523,2017-03-31,95,3rd Identity Films; nan
+433,A_1908,The Finest Hours,65,PG-13,Drama,Craig Gillespie,Eric Johnson,27550735,2016-01-29,117,Walt Disney Pictures
+434,A_1912,Independence Day: Resurgence,41,PG-13,Sci-Fi; Drama,Roland Emmerich,Nicolas Wright,103144286,2016-06-24,119,Twentieth Century Fox; 20th Century Fox
+435,A_1916,London Has Fallen,42,R,Thriller; Adventure,Babak Najafi,Creighton Rothenberger,62524260,2016-03-04,99,Millennium Films; Focus Features
+436,A_1917,First Kill,31,R,Thriller; Drama,Steven C. Miller,Nick Gordon,0,2017-07-21,97,Kirk Shaw Productions; nan
+437,A_1918,Noah,67,PG-13,Drama,Darren Aronofsky,Darren Aronofsky,101200044,2014-03-28,137,Paramount Pictures
+438,A_1934,Don Jon,73,R,Comedy; Drama,Joseph Gordon-Levitt,Joseph Gordon-Levitt,24477704,2013-09-27,90,Voltage Pictures; Relativity Media
+439,A_1938,The Dressmaker,62,R,Comedy; Drama,Jocelyn Moorhouse,Jocelyn Moorhouse,2021399,2015-10-29,118,Screen Australia; Amazon Studios & Broad Green Pictures
+440,A_1947,Dirty Grandpa,35,R,Comedy,Dan Mazer,John Phillips,35537564,2016-01-22,102,Lionsgate; nan
+441,A_1949,Magic Mike XXL,60,R,Comedy,Gregory Jacobs,Channing Tatum,66013057,2015-07-01,115,Warner Bros.; Warner Bros. Pictures
+442,A_1959,Coherence,79,NOT RATED,Sci-Fi; Drama,James Ward Byrkit,James Ward Byrkit,68877,2014-08-06,89,Bellanova Films; Oscilloscope Pictures
+443,A_1962,Mortdecai,33,R,Comedy; Adventure,David Koepp,Eric Aronson,7605668,2015-01-23,106,MWM (MadisonWellsMedia); Liongate Films
+444,A_1971,The Forest,28,PG-13,Thriller; Drama,Jason Zada,Sarah Cornwell,26583369,2016-01-08,93,Gramercy Pictures (I); nan
+445,A_1975,Risen,57,PG-13,Drama,Kevin Reynolds,Kevin Reynolds,36874745,2016-02-19,107,LD Entertainment; Sony Pictures
+446,A_1976,Wheelman,76,TV-MA,Action; Thriller,Jeremy Rush,Jeremy Rush,0,2017-10-20,82,Solution Entertainment Group; Netflix
+447,A_1981,The Zero Theorem,55,R,Fantasy; Drama,Terry Gilliam,Pat Rushin,219438,2014-08-19,107,Voltage Pictures; Amplify Releasing
+448,A_2001,Blackhat,43,R,Drama,Michael Mann,Morgan Davis Foehl,8005980,2015-01-16,133,Forward Pass; Universal Studios
+449,A_2008,Transcendence,41,PG-13,Drama,Wally Pfister,Jack Paglen,23022309,2014-04-18,119,Alcon Entertainment; Warner Bros. Pictures
+450,A_2011,The Discovery,54,TV-MA,Drama,Charlie McDowell,Charlie McDowell,0,2017-03-31,101,Endgame Entertainment; nan
+451,A_2054,Chef,80,R,Comedy,Jon Favreau,Jon Favreau,30640336,2014-05-30,114,Aldamisa Entertainment; Open Road Films
+452,A_2065,If I Stay,51,PG-13,Fantasy; Drama,R.J. Cutler,Shauna Cross,50474843,2014-08-22,106,DiNovi Pictures; Warner Bros. Pictures
+453,A_2077,Byzantium,65,R,Fantasy; Drama,Neil Jordan,Moira Buffini,84293,2013-05-31,118,Demarest Films; IFC Films
+454,A_2104,The Final Girls,68,PG-13,Comedy; Horror,Todd Strauss-Schulson,Joshua John Miller,0,2015-11-05,88,Groundswell Productions; Stage 6 Films
+455,A_2124,The Monster,67,R,Fantasy; Drama,Bryan Bertino,Bryan Bertino,12133,2016-10-06,91,Atlas Independent; nan
+456,A_2125,Odd Thomas,52,NOT RATED,Fantasy; Thriller,Stephen Sommers,Stephen Sommers,0,2014-02-28,96,Fusion Films (II); nan
+457,A_2127,Blair Witch,42,R,Thriller; Horror,Adam Wingard,Simon Barrett,20777061,2016-09-16,89,Lionsgate; Vertigo Entertainment
+458,A_2128,A Dark Song,75,NOT RATED,Drama,Liam Gavin,Liam Gavin,0,2017-04-28,100,Samson Films; nan
+459,A_2134,Horns,52,R,Fantasy; Drama,Alexandre Aja,Keith Bunin,511848,2014-10-03,120,Red Granite Pictures; Radius-TWC
+460,A_2144,The Boxtrolls,71,PG,Comedy; Action,Anthony Stacchi,Irena Brignull,52098992,2014-09-26,96,Focus Features
+461,A_2195,Brawl in Cell Block 99,82,NOT RATED,Drama; Thriller,S. Craig Zahler,S. Craig Zahler,0,2017-10-06,132,Assemble Media; nan
+462,A_2202,Dallas Buyers Club,86,R,Documentary; Drama,Jean-Marc VallÃ©e,Craig Borten,27298285,2013-11-22,117,Truth Entertainment (II); Focus Features
+463,A_2204,"Everything, Everything",55,PG-13,Drama,Stella Meghie,J. Mills Goodloe,34091886,2017-05-19,0,Alloy Entertainment; Warner Bros. Pictures
+464,A_2207,The Signal,60,PG-13,Thriller,William Eubank,William Eubank,600896,2014-07-10,95,Automatik; Focus Features
+465,A_2216,Sleepless,39,R,Thriller; Drama,Baran bo Odar,Andrea Berloff,20757977,2017-01-13,95,FilmNation Entertainment; Open Road Films
+466,A_2222,The Expendables 3,46,PG-13,Thriller; Adventure,Patrick Hughes,Sylvester Stallone,39322544,2014-08-15,126,Lionsgate; Lionsgate Pictures
+467,A_2229,The Book of Henry,42,PG-13,Drama,Colin Trevorrow,Gregg Hurwitz,4219536,2017-06-23,105,Double Nickel Entertainment; Focus Features
+468,A_2234,The Lone Ranger,48,PG-13,Western; Adventure,Gore Verbinski,Justin Haythe,89302115,2013-07-03,149,Walt Disney Pictures
+469,A_2238,In the Heart of the Sea,55,PG-13,Documentary; Drama,Ron Howard,Charles Leavitt,25020758,2015-12-11,121,Warner Bros.; Warner Bros. Pictures
+470,A_2252,Killing Gunther,52,R,Comedy; Adventure,Taran Killam,Taran Killam,0,2017-09-22,92,Folktale Productions; nan
+471,A_2269,Get Hard,44,R,Comedy,Etan Cohen,Jay Martel,90411453,2015-03-27,100,Gary Sanchez Productions; Warner Bros. Pictures
+472,A_2279,Ted 2,54,R,Comedy,Seth MacFarlane,Seth MacFarlane,81476385,2015-06-26,115,Universal Pictures
+473,A_2297,White Bird in a Blizzard,59,R,Drama,Gregg Araki,Gregg Araki,33518,2014-09-25,91,Desperate Pictures; Magnolia Pictures
+474,A_2301,"As Above, So Below",44,R,Thriller,John Erick Dowdle,John Erick Dowdle,21197315,2014-08-29,93,Legendary Entertainment; Universal Pictures
+475,A_2308,Left Behind,16,PG-13,Fantasy; Thriller,Vic Armstrong,Jerry B. Jenkins,13998282,2014-10-03,110,Stoney Lake Entertainment; Freestyle Releasing
+476,A_2313,Marjorie Prime,77,NOT RATED,Drama,Michael Almereyda,Michael Almereyda,180608,2017-10-19,97,Passage Pictures (II); FilmRise
+477,A_2317,Walking Out,75,PG-13,Mystery; Drama,Andrew J. Smith,Andrew J. Smith,101947,2017-10-06,95,Harbinger Pictures; nan
+478,A_2329,Deliver Us from Evil,45,R,Thriller; Adventure,Scott Derrickson,Paul Harris Boardman,30577122,2014-07-02,118,Screen Gems; Sony Pictures
+479,A_2338,Curvature,21,NOT RATED,Sci-Fi; Drama,Diego Hallivis,Brian DeLeeuw,0,2018-02-23,89,1inMM Productions; Screen Media Films
+480,A_2339,I Origins,63,R,Drama,Mike Cahill,Mike Cahill,334658,2014-09-19,106,Verisimilitude; Fox Searchlight
+481,A_2351,Self/less,41,PG-13,Sci-Fi; Drama,Tarsem Singh,Alex Pastor,12276810,2015-07-10,117,Endgame Entertainment; Focus Features
+482,A_2363,Hot Tub Time Machine 2,32,R,Comedy,Steve Pink,Josh Heald,12282677,2015-02-20,93,Paramount Pictures
+483,A_2371,The Road,70,R,Drama,John Hillcoat,Cormac McCarthy,62816,2009-12-18,110,Dimension Films; Freestyle Releasing
+484,A_2376,Seventh Son,33,PG-13,Fantasy; Drama,Sergey Bodrov,Charles Leavitt,17223265,2015-02-06,102,Beijing Skywheel Entertainment Co.; Universal
+485,A_2382,American Honey,74,R,Drama,Andrea Arnold,Andrea Arnold,662786,2016-10-14,162,Parts and Labor
+486,A_2398,Ben-Hur,53,G,Documentary; Drama,Timur Bekmambetov,John Ridley,74700000,1960-01-29,124,Metro-Goldwyn-Mayer (MGM); Paramount Pictures
+487,A_2399,Hitman: Agent 47,33,R,Action; Adventure,Aleksander Bach,Skip Woods,22467450,2015-08-21,96,Twentieth Century Fox; 20th Century Fox
+488,A_2410,Jem and the Holograms,30,PG,Fantasy; Action,Jon M. Chu,Ryan Landels,2184640,2015-10-23,118,Allspark Pictures; Universal Pictures
+489,A_2417,The Returned,64,TV-14,Fantasy; Film-Noir,Manuel Carballo,Hatem Khraiche,0,1900-1-1,42,A&E; nan
+490,A_2425,47 Ronin,39,PG-13,Drama,Carl Erik Rinsch,Chris Morgan,38362475,2013-12-25,127,H2F Entertainment; Universal Pictures
+491,A_2429,Monster Trucks,44,PG,Comedy,Chris Wedge,Derek Connolly,33370166,2017-01-13,104,Disruption Entertainment; Paramount Pictures
+492,A_2438,Cooties,50,R,Comedy; Horror,Jonathan Milott,Leigh Whannell,55749,2015-09-18,87,SpectreVision; Lionsgate Premiere
+493,A_2441,Mohawk,63,NOT RATED,Drama,Ted Geoghegan,Ted Geoghegan,0,2018-03-02,91,Snowfort Pictures; Dark Sky Films
+494,A_2442,The Darkness,23,PG-13,Thriller; Horror,Greg McLean,Greg McLean,10732841,2016-05-13,92,Blumhouse Productions; nan
+495,A_2453,Cell,26,R,Horror,Tod Williams,Stephen King,0,2016-06-10,98,"Genre Co., The; nan"
+496,A_2457,Clown,51,R,Fantasy; Horror,Jon Watts,Christopher Ford,55007,2016-06-17,99,Cross Creek Pictures; nan
+497,A_2461,Sinister 2,33,R,Thriller; Horror,Ciaran Foy,C. Robert Cargill,27736779,2015-08-21,97,Entertainment One; Focus Features
+498,A_2469,Rupture,34,NOT RATED,Thriller; Drama,Steven Shainberg,Brian Nelson,0,2017-04-28,100,Ambi Pictures; nan
+499,A_2471,Honeymoon,65,R,Thriller; Drama,Leigh Janiak,Phil Graziadei,9168,2014-09-12,87,Fewlas Entertainment; Magnolia Pictures/Magnet Releasing
+500,A_2473,Viral,52,R,Drama; Horror,Henry Joost,Barbara Marshall,0,2016-07-29,85,Blumhouse Productions; nan
+501,A_2481,Devil's Gate,43,NOT RATED,Thriller; Drama,Clay Staub,Peter Aperlo,0,2018-01-05,94,Caramel Film; IFC Films
+502,A_2482,Don't Knock Twice,38,R,Horror; Thriller,Caradog W. James,Mark Huckerby,0,2017-02-03,93,Red & Black Films
+503,A_2483,Stonehearst Asylum,61,PG-13,Drama; Thriller,Brad Anderson,Edgar Allan Poe,0,2014-10-24,112,Icon Productions; Millenium Entertainment
+504,A_2526,The Congress,69,NOT RATED,Sci-Fi,Ari Folman,Stanislaw Lem,137815,2014-07-24,122,Bridgit Folman Film Gang; Drafthouse Films
+505,A_2535,Marshall,77,PG-13,Documentary; Drama,Reginald Hudlin,Jacob Koskoff,10051659,2017-10-13,118,Chestnut Ridge Productions; Open Road Films
+506,A_2541,Brooklyn,86,PG-13,Drama,John Crowley,Nick Hornby,38317535,2015-11-25,111,Wildgaze Films; Fox Searchlight Pictures
+507,A_2542,The Light Between Oceans,65,PG-13,Drama,Derek Cianfrance,Derek Cianfrance,12545979,2016-09-02,132,Heyday Films; nan
+508,A_2548,Tulip Fever,35,R,Drama,Justin Chadwick,Deborah Moggach,2425664,2017-09-01,105,Worldview Entertainment; nan
+509,A_2549,Newness,66,NOT RATED,Drama,Drake Doremus,Ben York Jones,0,2017-11-03,112,Lost City; nan
+510,A_2550,Money Monster,61,R,Drama,Jodie Foster,Alan DiFiore,41012075,2016-05-13,90,TriStar Pictures; Smokehouse Pictures
+511,A_2556,Snowden,67,R,Thriller; Drama,Oliver Stone,Kieran Fitzgerald,21587519,2016-09-16,134,Endgame Entertainment; Open Road Films
+512,A_2558,Aftermath,49,R,Drama,Elliott Lester,Javier GullÃÂ³n,0,2017-04-07,92,Emmett/Furla/Oasis Films (EFO Films); nan
+513,A_2558,Aftermath,70,R,Drama,Elliott Lester,Thomas Farone,0,2017-04-07,94,Emmett/Furla/Oasis Films (EFO Films); Freestyle Releasing
+514,A_2558,Aftermath,52,R,Drama; Thriller,Elliott Lester,Christian McDonald,0,2017-04-07,92,Emmett/Furla/Oasis Films (EFO Films); nan
+515,A_2565,Kickboxer: Retaliation,70,R,Drama,Dimitri Logothetis,Dimitri Logothetis,4537,2018-02-01,110,Our House Films; Well Go USA Entertainment
+516,A_2568,Deepwater Horizon,77,PG-13,Thriller; Drama,Peter Berg,Matthew Michael Carnahan,73098411,2016-09-30,99,Summit Entertainment; Lionsgate
+517,A_2573,CHIPS,38,R,Comedy; Drama,Dax Shepard,Dax Shepard,18591819,2017-03-24,100,Primate Pictures; Warner Bros. Pictures
+518,A_2576,Daddy's Home,46,PG-13,Comedy,John Morris,John Morris,150357137,2015-12-25,96,Paramount Pictures
+519,A_2580,Ingrid Goes West,76,R,Comedy,Matt Spicer,David Branson Smith,3024308,2017-08-25,97,Mighty Engine; NEON
+520,A_2581,Focus,61,R,Comedy; Drama,Glenn Ficarra,Glenn Ficarra,53862963,2015-02-27,104,Kramer & Sigman Films; Warner Bros. Pictures
+521,A_2584,Grown Ups 2,30,PG-13,Comedy,Dennis Dugan,Adam Sandler,133668525,2013-07-12,101,Columbia Pictures; Sony Pictures
+522,A_2585,Brad's Status,73,R,Comedy; Drama,Mike White,Mike White,2133158,2017-09-15,101,Amazon Studios
+523,A_2590,Last Flag Flying,72,R,Comedy; Drama,Richard Linklater,Richard Linklater,965481,2017-11-03,124,Amazon Studios
+524,A_2591,The Interview,58,R,Comedy,Evan Goldberg,Dan Sterling,6105175,2014-12-24,112,Columbia Pictures; Sony Pictures
+525,A_2593,Burnt,47,R,Comedy,John Wells,Steven Knight,13650738,2015-10-30,100,3 Arts Entertainment; The Weinstein Company
+526,A_2600,War Dogs,65,R,Comedy; Drama,Todd Phillips,Stephen Chin,43017433,2016-08-19,114,BZ Entertainment; Warner Bros. Pictures
+527,A_2608,Solace,44,R,Drama,Afonso Poyart,Ted Griffin,403050,2016-12-16,101,Eden Rock Media; nan
+528,A_2624,Paper Towns,59,PG-13,Drama,Jake Schreier,Scott Neustadter,32000304,2015-07-24,109,Fox 2000 Pictures; 20th Century Fox
+529,A_2643,The Giver,50,PG-13,Drama,Phillip Noyce,Robert B. Weide,45089048,2014-08-15,97,Tonik Productions; The Weinstein Company
+530,A_2650,Hunt for the Wilderpeople,88,PG-13,Comedy; Adventure,Taika Waititi,Taika Waititi,5202582,2016-03-31,101,Piki Films
+531,A_2653,Gold,54,R,Drama,Stephen Gaghan,Patrick Massett,7222964,2017-01-27,120,Black Bear Pictures; TWC-Dimension
+532,A_2657,Vacation,43,R,Comedy; Adventure,Jonathan M. Goldstein,John Francis Daley,58884188,2015-07-29,99,BenderSpink; Warner Bros. Pictures
+533,A_2674,Fallen,31,PG-13,Fantasy; Drama,Scott Hicks,Michael Arlen Ross,0,2017-09-08,91,Apex Entertainment; nan
+534,A_2675,Night at the Museum: Secret of the Tomb,55,PG,Comedy; Adventure,Shawn Levy,Michael Handelman,113746621,2014-12-19,90,Twentieth Century Fox; 20th Century Fox
+535,A_2683,Still/Born,71,R,Thriller,Brandon Christensen (II),Brandon Christensen (II),0,2018-02-09,87,Digital Interference Productions; nan
+536,A_2685,Sharknado 5: Global Swarming,37,TV-14,Comedy; Sci-Fi,Anthony C. Ferrante,Thunder Levin,0,2017-08-06,90,"Asylum, The; Syfy"
+537,A_2687,Little Evil,73,TV-MA,Comedy; Horror,Eli Craig,Eli Craig,0,2017-09-01,94,Bluegrass Films; nan
+538,A_2691,Maggie,57,PG-13,Drama,Henry Hobson,John Scott 3,187112,2015-05-08,95,Lionsgate; Lionsgate Films
+539,A_2698,Victor Frankenstein,42,PG-13,Drama,Paul McGuigan,Max Landis,5775076,2015-11-25,109,Davis Entertainment; nan
+540,A_2699,The Human Centipede III (Final Sequence),23,NOT RATED,Comedy; Horror,Tom Six,Tom Six,470,2015-06-18,100,Six Entertainment Company; nan
+541,A_2702,Ouija,25,PG-13,Thriller,Stiles White,Juliet Snowden,50856010,2014-10-24,83,Universal Pictures
+542,A_2705,Psychopaths,26,NOT RATED,Horror,Mickey Keating,Mickey Keating,0,2017-12-01,85,Glass Eye Pix; Samuel Goldwyn Films
+543,A_2742,Resident Evil: Vendetta,56,R,Adventure; Thriller,Takanori Tsujimoto,Makoto Fukami,0,2017-05-27,97,Capcom Company; nan
+544,A_2758,Pete's Dragon,75,G,Comedy; Family,David Lowery,Malcolm Marmorstein,76228119,1977-11-03,90,Walt Disney Productions; Walt Disney Pictures
+545,A_2877,Pete's Dragon,77,PG,Comedy; Family,David Lowery,David Lowery,76228119,2016-08-12,90,Walt Disney Pictures
+546,A_2760,Creed,85,PG-13,Sport; Drama,Ryan Coogler,Ryan Coogler,109767581,2015-11-25,132,Metro-Goldwyn-Mayer (MGM); Warner Bros.
+547,A_2763,Whiplash,89,R,Musical; Drama,Damien Chazelle,Damien Chazelle,13092000,2014-10-15,106,Bold Films; Sony Pictures Classics
+548,A_2777,Brimstone,55,R,Western; Film-Noir,Martin Koolhoven,Martin Koolhoven,0,2017-01-12,148,N279 Entertainment
+549,A_2784,Rush,85,R,Documentary; Drama,Ron Howard,Peter Morgan,26947624,2013-09-27,123,Exclusive Media Group; Universal Pictures
+550,A_2788,Kick-Ass 2,49,R,Comedy; Adventure,Jeff Wadlow,Jeff Wadlow,28800000,2013-08-16,103,Universal Pictures
+551,A_2789,Lone Survivor,75,R,Documentary; Drama,Peter Berg,Peter Berg,125095601,2014-01-10,121,Film 44; Universal Studios
+552,A_2792,Barry,87,NOT RATED,Comedy; Drama,Vikram Gandhi,Adam Mansbach,0,1900-1-1,30,Home Box Office (HBO); Netflix
+553,A_2796,Trainwreck,74,R,Comedy,Judd Apatow,Amy Schumer,110212700,2015-07-17,125,Universal Pictures
+554,A_2806,Zoolander 2,35,PG-13,Comedy,Ben Stiller,Justin Theroux,29782560,2016-02-12,101,Panorama Films; Paramount Pictures
+555,A_2809,The Intern,65,PG-13,Comedy,Nancy Meyers,Nancy Meyers,75764672,2015-09-25,121,Waverly Films; Warner Bros. Pictures
+556,A_2810,The Edge of Seventeen,84,R,Comedy; Drama,Kelly Fremon Craig,Kelly Fremon Craig,14260193,2016-11-18,98,Gracie Films; STX Entertainment
+557,A_2812,Me and Earl and the Dying Girl,80,PG-13,Comedy; Drama,Alfonso Gomez-Rejon,Jesse Andrews,6743776,2015-07-01,104,Indian Paintbrush; Fox Searchlight
+558,A_2819,"Love, Rosie",51,R,Comedy,Christian Ditter,Juliette Towhidi,14893,2014-10-22,102,Canyon Creek Films; Film Arcade
+559,A_2821,Sex Tape,34,R,Comedy,Jake Kasdan,Kate Angelo,38543473,2014-07-18,94,Columbia Pictures; Sony Pictures
+560,A_2833,Unforgettable,46,TV-14,Drama,Denise Di Novi,Christina Hodson,11274490,1900-1-1,60,Timberman-Beverly Productions; Warner Bros. Pictures
+561,A_2839,Winter's Tale,37,PG-13,Fantasy; Drama,Akiva Goldsman,Akiva Goldsman,10628616,2014-02-14,118,Village Roadshow Pictures; Warner Bros. Pictures
+562,A_2842,The Best Offer,66,R,Drama,Giuseppe Tornatore,Giuseppe Tornatore,85433,2014-01-01,131,Paco Cinematografica; IFC Films
+563,A_2850,Lost River,44,R,Fantasy; Thriller,Ryan Gosling,Ryan Gosling,43282,2015-04-10,95,Bold Films; Warner Bros. Pictures
+564,A_2866,Riddick,60,R,Thriller; Sci-Fi,David Twohy,David Twohy,42025135,2013-09-06,119,Entertainment One; Universal Classics
+565,A_2871,Survivor,39,TV-PG,Television; Thriller,James McTeigue,Charlie Parsons,130307,1900-1-1,60,Mark Burnett Productions; Alchemy
+566,A_2873,Wild,80,R,Documentary; Drama,Jean-Marc VallÃ©e,Nick Hornby,37880356,2014-12-19,115,Bob Industries; 20th Century Fox
+567,A_2881,R.I.P.D.,35,PG-13,Comedy; Adventure,Robert Schwentke,Phil Hay,33618855,2013-07-19,96,Universal Pictures
+568,A_2892,The Last Witch Hunter,38,PG-13,Fantasy; Sci-Fi,Breck Eisner,Cory Goodman,27367660,2015-10-23,105,Summit Entertainment; Summit Entertainment.
+569,A_2923,The Quiet Ones,44,PG-13,Horror,John Pogue,Craig Rosenberg,8496112,2014-04-25,97,Exclusive Media Group; Lionsgate/Summit
+570,A_2925,"I, Frankenstein",27,PG-13,Fantasy; Thriller,Stuart Beattie,Stuart Beattie,19075290,2014-01-24,92,Hopscotch Features; Lionsgate Films
+571,A_2932,Shut In,27,PG-13,Thriller,Farren Blackburn,Christina Hodson,6883951,2016-11-11,91,EuropaCorp
+572,A_2935,Friend Request,34,R,Thriller; Film-Noir,Simon Verhoeven,Matthew Ballen,3759046,2017-09-22,92,Wiedemann & Berg Filmproduktion; nan
+573,A_2939,I Am the Pretty Thing That Lives in the House,53,NOT RATED,Thriller; Drama,Oz Perkins,Oz Perkins,0,2016-10-28,87,Paris Film; nan
+574,A_2941,Home,57,PG,Comedy; Animation,Tim Johnson,Tom J. Astle,177397510,2015-03-27,93,DreamWorks Animation; Dreamworks
+575,A_2941,Home,77,PG,Comedy; Drama,Jono Oliver,Tom J. Astle,177397510,2015-03-27,94,DreamWorks Animation; eOne
+576,A_2944,The Nut Job,34,PG,Comedy; Animation,Peter Lepeniotis,Lorne Cameron,64251541,2014-01-17,85,Gulfstream Pictures; Open Road Films
+577,A_2947,Rock Dog,53,PG,Comedy; Animation,Ash Brannon,Ash Brannon,9404922,2017-02-24,80,Summit Premiere
+578,A_2991,Churchill,56,PG,Documentary; Drama,Jonathan Teplitzky,Alex von Tunzelmann,1279681,2017-06-02,105,Salon Pictures; Cohen Media Group
+579,A_2994,12 Years a Slave,88,R,Documentary; Drama,Steve McQueen (III),John Ridley,56671993,2013-11-08,134,Regency Enterprises; Fox Searchlight
+580,A_2997,45 Years,84,R,Drama,Andrew Haigh,Andrew Haigh,4250507,2015-08-28,91,BFI Film Fund; Sundance Selects
+581,A_3000,Spotlight,89,R,Drama,Tom McCarthy,Tom McCarthy,45055776,2015-11-20,128,Participant Media; Open Road Films
+582,A_3005,Bridge of Spies,83,PG-13,Drama,Steven Spielberg,Matt Charman,72313754,2015-10-16,135,DreamWorks; Dreamworks Pictures
+583,A_3012,Keanu,70,R,Comedy; Adventure,Peter Atencio,Jordan Peele,20566327,2016-04-29,98,New Line Cinema; Warner Bros. Pictures
+584,A_3038,Half Magic,51,R,Comedy,Heather Graham,Heather Graham,0,2018-02-23,94,"Bubble Factory, The; nan"
+585,A_3044,The Meyerowitz Stories (New and Selected),81,TV-MA,Comedy; Drama,Noah Baumbach,Noah Baumbach,0,2017-10-13,0,Netflix; nan
+586,A_3047,The Captive,44,R,Drama; Thriller,Atom Egoyan,Atom Egoyan,0,2014-12-12,112,Ego Film Arts; A24
+587,A_3051,Marauders,38,R,Action; Drama,Steven C. Miller,Chris Sivertson,0,2016-07-01,107,Emmett/Furla/Oasis Films (EFO Films); nan
+588,A_3054,Non-Stop,64,PG-13,Thriller,Jaume Collet-Serra,John J. Richardson,92168600,2014-02-28,106,StudioCanal; Universal Pictures
+589,A_3055,Dark Places,43,R,Drama,Gilles Paquet-Brenner,Gilles Paquet-Brenner,208588,2015-06-18,113,Exclusive Media Group; nan
+590,A_3060,A Walk Among the Tombstones,65,R,Drama,Scott Frank,Lawrence Block,26307600,2014-09-19,114,1984 Private Defense Contractors; Universal Studios
+591,A_3073,Regression,36,R,Drama,Alejandro AmenÃÂ¡bar,Alejandro AmenÃÂ¡bar,54734,2015-10-02,106,Mod Producciones; nan
+592,A_3086,Hardcore Henry,58,R,Sci-Fi,Ilya Naishuller,Ilya Naishuller,9244565,2016-04-08,90,Bazelevs Production; nan
+593,A_3089,Radius,76,NOT RATED,Thriller; Film-Noir,Caroline LabrÃÂ¨che,Caroline LabrÃÂ¨che,0,2018-01-04,87,EMA Films; nan
+594,A_3092,Prodigy,74,TV-MA,Drama,Alex Haughey,Alex Haughey,0,2018-03-13,80,High Noon California; Gravitas Ventures
+595,A_3119,Love the Coopers,38,PG-13,Fantasy; Comedy,Jessie Nelson,Steven Rogers,26284475,2015-11-13,106,CBS Films; Groundswell
+596,A_3140,The Lazarus Effect,33,PG-13,Sci-Fi; Horror,David Gelb,Luke Dawson,25799043,2015-02-27,83,Blumhouse Productions; Relativity Media
+597,A_3143,Krampus,63,PG-13,Fantasy; Horror,Michael Dougherty,Michael Dougherty,42592530,2015-12-04,98,Legendary Entertainment; Universal Pictures
+598,A_3148,The Crucifixion,25,R,Thriller; Horror,Xavier Gens,Chad Hayes,0,2017-10-06,90,Motion Picture Capital; nan
+599,A_3159,The Devil's Candy,77,NOT RATED,Horror; Drama,Sean Byrne,Sean Byrne,0,2017-03-17,79,Snoot Entertainment; nan
+600,A_3162,Yoga Hosers,31,PG-13,Fantasy; Adventure,Kevin Smith,Kevin Smith,0,2016-09-02,88,Abbolita Productions; nan
+601,A_3166,Open Water 3: Cage Dive,33,R,Thriller; Drama,Gerald Rascionato,Gerald Rascionato,0,2017-08-18,80,Just One More Productions; nan
+602,A_3168,The Voices,69,R,Comedy,Marjane Satrapi,Michael R. Perry,0,2015-02-06,103,1984 Private Defense Contractors; Lionsgate Films
+603,A_3200,Shaun the Sheep Movie,86,PG,Comedy; Animation,Mark Burton,Mark Burton,19375982,2015-08-05,84,StudioCanal; Lionsgate
+604,A_3214,Strange Magic,38,PG,Comedy; Animation,Gary Rydstrom,David Berenbaum,12427046,2015-01-23,99,Filmbox; Walt Disney Pictures
+605,A_3225,Manchester by the Sea,86,R,Drama,Kenneth Lonergan,Kenneth Lonergan,47695120,2016-12-16,135,Amazon Studios
+606,A_3230,Lion,83,PG-13,Documentary; Drama,Garth Davis,Saroo Brierley,51694854,2017-01-06,118,The Weinstein Company; See-Saw Films
+607,A_3231,The Notebook,73,PG-13,Drama,Nick Cassavetes,AndrÃ¡s SzekÃ©r,81001787,2004-06-25,112,New Line Cinema; Sony Pictures Classics
+608,A_3233,Gifted,74,PG-13,Drama,Marc Webb,Tom Flynn,24801212,2017-04-12,101,Dayday Films; nan
+609,A_3235,Breathe,68,PG-13,Documentary; Drama,Andy Serkis,William Nicholson,490131,2017-10-27,0,Imaginarium Productions; nan
+610,A_3235,Breathe,81,PG-13,Documentary; Drama,MÃÂ©lanie Laurent,MÃÂ©lanie Laurent,490131,2017-10-27,91,Imaginarium Productions; nan
+611,A_3237,American Hustle,83,R,Drama,David O. Russell,Eric Warren Singer,150117807,2013-12-20,129,Columbia Pictures; Sony Pictures
+612,A_3240,The Neighbor,57,R,Drama; Horror,Marcus Dunstan,Marcus Dunstan,0,2018,87,Michael Bruce Pictures; nan
+613,A_3245,Miss Sloane,75,R,Drama; Thriller,John Madden,Jonathan Perera,3439171,2016-12-09,132,Transfilm; EuropaCorp
