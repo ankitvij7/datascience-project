@@ -31,6 +31,8 @@ print(list(M))
 A_M = pd.merge(A, M, left_on = 'ID', right_on = 'ltable_ID')
 # join further with B
 merged_df = pd.merge(A_M, B, left_on = 'rtable_ID', right_on = 'ID')
+print(list(merged_df))
+
 
 # data merging step
 def average_cols(x, y):
@@ -71,11 +73,11 @@ merged_df['Studio'] = merged_df.apply(lambda x: add_if_different(x['Studio_x'], 
 merged_df['Rating'] = merged_df.apply(lambda x: retain_if_not_na(x['Rating_x'], x['Rating_y']), axis = 1)
 
 # TODO: change ID_x to Ankit's Matches ID
-# basic select operation
-Z = merged_df[['ID_x', 'Title_x', 'Score', 'Rating', 'Genre', 'Directed By', \
+# basic select operation - ID_y is the ID of the matches table
+Z = merged_df[['ID_y', 'Title_x', 'Score', 'Rating', 'Genre', 'Directed By', \
                'Written By', 'Box Office', 'Release Date_x', 'Runtime', 'Studio']]
 # rename to match the required schema
-E = Z.rename(columns={'ID_x': 'ID', 'Title_x': 'Title', 'Release Date_x': 'Release Date' })
+E = Z.rename(columns={'ID_y': 'ID', 'Title_x': 'Title', 'Release Date_x': 'Release Date' })
 print(list(Z))
 print(list(E))
 
