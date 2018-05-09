@@ -112,10 +112,8 @@ A_0432B_0473,Life,66,R,Thriller; Drama,Daniel Espinosa,Paul Wernick,30234022,201
 A_0432B_1208,Life,64,R,Thriller; Drama,Daniel Espinosa,Luke Davies,30234022,2017-03-24,104,Columbia Pictures; nan
 A_0434B_0359,Gerald's Game,79,TV-MA,Thriller; Drama,Mike Flanagan,Mike Flanagan,0,2017-09-29,103,Intrepid Pictures; nan
 A_0435B_0273,The Babysitter,69,TV-MA,Comedy; Horror,McG,Brian Duffield,0,2017-10-13,0,Boies / Schiller Film Group; nan
-A_0445B_0352,It Comes at Night,75,R,Horror; Drama,Trey Edward Shults,Trey Edward Shults,13985117,2017-06-09,91,Animal Kingdom; A24
 A_0447B_1658,It Follows,83,R,Horror,David Robert Mitchell,David Robert Mitchell,14673301,2015-03-27,94,Northern Lights Films; Radius-TWC
 A_0451B_0093,Hellraiser: Judgment,46,NOT RATED,Horror,Gary J. Tunnicliffe,Gary J. Tunnicliffe,0,2018-02-03,81,Dimension Films; nan
-A_0456B_0495,A Cure for Wellness,52,R,Fantasy; Thriller,Gore Verbinski,Justin Haythe,8106986,2017-02-17,146,Regency Enterprises; 20th Century Fox
 A_0457B_1328,Scouts Guide to the Zombie Apocalypse,53,R,Comedy; Horror,Christopher Landon,Carrie Lee Wilson,3931256,2015-10-30,93,Paramount Pictures; Broken Road Productions
 A_0459B_0872,The Neon Demon,60,R,Thriller; Horror,Nicolas Winding Refn,Nicolas Winding Refn,1333124,2016-06-24,110,Space Rocket Nation
 A_0466B_0010,The Breadwinner,85,PG-13,Drama,Nora Twomey,Anita Doron,312381,2017-11-17,93,Aircraft Pictures; nan
@@ -161,7 +159,6 @@ A_0642B_1400,Terminator Genisys,45,PG-13,Sci-Fi; Adventure,Alan Taylor,Laeta Kal
 A_0643B_1116,The Revenant,80,R,Documentary; Drama,Alejandro GonzÃÂ¡lez IÃÂ±ÃÂ¡rritu,Mark L. Smith,183637894,2016-01-08,156,Regency Enterprises; 20th Century Fox
 A_0647B_0145,The Mountain Between Us,52,PG-13,Drama,Hany Abu-Assad,J. Mills Goodloe,30348555,2017-10-06,100,Chernin Entertainment; 20th Century Fox
 A_0648B_1243,Spectre,65,PG-13,Thriller; Adventure,Sam Mendes,Ian Fleming (II),208777731,2015-11-06,148,B24; Sony Pictures
-A_0652B_1057,Gods of Egypt,34,PG-13,Fantasy; Sci-Fi,Alex Proyas,Burk Sharpless,31153464,2016-02-26,127,Pyramania; Lionsgate
 A_0656B_2947,Man of Steel,63,PG-13,Fantasy; Sci-Fi,Zack Snyder,Christopher Nolan,291045518,2013-06-14,143,Warner Bros.; Warner Bros. Pictures
 A_0670B_0839,The Legend of Tarzan,49,PG-13,Drama; Adventure,David Yates (II),Adam Cozad,126643061,2016-07-01,109,Village Roadshow Pictures; Lionsgate Pictures
 A_0679B_1353,Knock Knock,42,R,Thriller; Drama,Eli Roth,Guillermo Amoedo,285363,2015-10-09,99,Black Bear Pictures; Lionsgate Premiere
@@ -279,11 +276,9 @@ A_1145B_0132,Crooked House,67,PG-13,Drama; Thriller,Gilles Paquet-Brenner,Julian
 A_1151B_0717,Jack Reacher: Never Go Back,49,PG-13,Action; Drama,Edward Zwick,Richard Wenk,58697076,2016-10-21,118,Paramount Pictures
 A_1153B_0852,Nerve,66,PG-13,Action; Thriller,Ariel Schulman,Jessica Sharzer,38562379,2016-07-27,96,Allison Shearmur Productions; Keep Your Head
 A_1154B_1180,The Hunger Games: Mockingjay - Part 2,67,PG-13,Sci-Fi; Drama,Francis Lawrence,Danny Strong,281723902,2015-11-20,137,Color Force; Lionsgate Films
-A_1166B_1180,The Hunger Games: Mockingjay - Part 1,68,PG-13,Sci-Fi; Drama,Francis Lawrence,Danny Strong,337135885,2014-11-21,123,Color Force; Lionsgate Films
-A_1154B_1890,The Hunger Games: Mockingjay - Part 2,65,PG-13,Sci-Fi; Drama,Francis Lawrence,Danny Strong,295457212,2015-11-20,125,Color Force; Lionsgate Films
-A_1166B_1890,The Hunger Games: Mockingjay - Part 1,66,PG-13,Sci-Fi; Drama,Francis Lawrence,Danny Strong,337135885,2014-11-21,123,Color Force; Lionsgate Films
 A_1155B_1708,Jupiter Ascending,39,PG-13,Sci-Fi,Lana Wachowski,Lilly Wachowski,47387723,2015-02-06,125,Warner Bros.; Warner Bros. Pictures
 A_1161B_2230,X-Men: Days of Future Past,85,PG-13,Sci-Fi,Bryan Singer,Simon Kinberg,233921534,2014-05-23,131,Twentieth Century Fox; 20th Century Fox
+A_1166B_1890,The Hunger Games: Mockingjay - Part 1,66,PG-13,Sci-Fi; Drama,Francis Lawrence,Danny Strong,337135885,2014-11-21,123,Color Force; Lionsgate Films
 A_1171B_0976,The Lobster,79,R,Comedy; Drama,Yorgos Lanthimos,Yorgos Lanthimos,9078073,2015-10-16,118,Film4; A24 Films
 A_1173B_1611,Insurgent,45,PG-13,Sci-Fi; Drama,Robert Schwentke,Akiva Goldsman,130179072,2015-03-20,119,Summit Entertainment; Lionsgate Films
 A_1181B_0522,xXx: Return of Xander Cage,48,PG-13,Thriller; Drama,D.J. Caruso,Rich Wilkes,44898413,2017-01-20,107,Huahua Media; Paramount Pictures
@@ -401,7 +396,6 @@ A_1708B_2429,Under the Skin,73,R,Drama; Sci-Fi,Jonathan Glazer,Walter Campbell,2
 A_1713B_2920,The Wolverine,68,PG-13,Sci-Fi; Adventure,James Mangold,Christopher McQuarrie,132556852,2013-07-26,126,Twentieth Century Fox; 20th Century Fox
 A_1726B_0868,Mike and Dave Need Wedding Dates,47,R,Comedy,Jake Szymanski,Andrew Jay Cohen,46007113,2016-07-08,98,Twentieth Century Fox; 20th Century Fox
 A_1729B_0879,Swiss Army Man,69,R,Comedy; Drama,Daniel Scheinert,Daniel Scheinert,4208879,2016-07-01,95,Blackbird; Blackbird Films
-A_1731B_2635,The Secret Life of Walter Mitty,62,PG,Comedy; Drama,Ben Stiller,Steven Conrad,58236838,2013-12-25,114,Twentieth Century Fox; 20th Century Fox
 A_1734B_0779,The BFG,69,PG,Fantasy; Sci-Fi,Steven Spielberg,Melissa Mathison,55483770,2016-07-01,115,Walt Disney Pictures
 A_1741B_1893,Exodus: Gods and Kings,44,PG-13,Drama,Ridley Scott,Steven Zaillian,65014513,2014-12-12,142,Chernin Entertainment; 20th Century Fox
 A_1743B_2888,Percy Jackson: Sea of Monsters,51,PG,Fantasy; Drama,Thor Freudenthal,Larry Karaszewski,68559554,2013-08-07,106,Fox 2000 Pictures; 20th Century Fox

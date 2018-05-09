@@ -1,7 +1,6 @@
 import sys
 import py_entitymatching as em
 import pandas as pd
-import os
 
 # Display the versions
 print('python version: ' + sys.version)
@@ -21,6 +20,7 @@ print('Number of tuples in B: ' + str(len(B)))
 print('Number of tuples in A X B (i.e the cartesian product): ' + str(len(A) * len(B)))
 
 ################################## Blocker Portion ##################################
+print('Begin blocking stage')
 # Display the key attributes of table A and B.
 em.get_key(A), em.get_key(B)
 
@@ -31,7 +31,6 @@ C1 = ab.block_tables(A, B, 'Release Date', 'Release Date',
                      l_output_attrs=['Title', 'Genre', 'Score', 'Release Date', 'Rating', 'Directed By', 'Written By', 'Studio'],
                      r_output_attrs=['Title', 'Genre', 'Score', 'Release Date', 'Rating', 'Directed By', 'Written By', 'Studio']
                      )
-print("C1", len(C1))
 
 #  Initializeoverlap blocker
 ob = em.OverlapBlocker()
@@ -47,7 +46,6 @@ C2 = ob.block_tables(A, B, 'Title', 'Title', show_progress=False, overlap_size=2
                      r_output_attrs=['Title', 'Genre', 'Score', 'Release Date', 'Rating', 'Directed By', 'Written By',
                                      'Studio']
                      )
-print("C2", len(C2))
 
 # Attribute Equivalence Blocker for Title
 C3 = ab.block_tables(A, B, 'Title', 'Title',
@@ -56,12 +54,10 @@ C3 = ab.block_tables(A, B, 'Title', 'Title',
                      r_output_attrs=['Title', 'Genre', 'Score', 'Release Date', 'Rating', 'Directed By', 'Written By',
                                      'Studio']
                      )
-print("C3", len(C3))
 
 # Combine the outputs from attr. equivalence blocker and overlap blocker
 # union because if there is an error in the release date, at least the movies should have their names in common
 D = em.combine_blocker_outputs_via_union([C1, C2, C3])
-print("D Set Size: ", len(D))
 
 # Rule based blocker after D
 block_f = em.get_features_for_blocking(A, B, validate_inferred_attr_types=False)
@@ -69,68 +65,50 @@ rb = em.RuleBasedBlocker()
 # print(block_f)
 rb.add_rule(['Title_Title_lev_sim(ltuple, rtuple) < 0.4'], block_f)
 C = rb.block_candset(D, show_progress=False)
-print("C Set Size: ", len(C))
+print('Candidate Match set C Size: ', len(C))
+print('Finish Blocking stage')
 
 ################################## Matcher Portion ##################################
-
+# Open up out labeled data from the last Project.
 path_G = '../data/G.csv'
 G = em.read_csv_metadata(path_G, key='_id', ltable=A, rtable=B, fk_ltable='ltable_ID', fk_rtable='rtable_ID')
-print('Number of tuples in G: ' + str(len(G)))
+print('Number of tuples in Labeled Training Data G: ' + str(len(G)))
 
 # prepare RF classifier
 rf = em.RFMatcher(name='RF', random_state=0)
 
 # need A and B csv files
-feature_table = em.get_features_for_matching(A, B, validate_inferred_attr_types=True)
+feature_table = em.get_features_for_matching(A, B, validate_inferred_attr_types=False)
 
-print(feature_table.feature_name)
-
+# generate our feature vectors for our labeled data.
 H_total = em.extract_feature_vecs(G, feature_table=feature_table, attrs_after='label', show_progress=False)
 H_total.fillna(value=0, inplace=True)
 
+print("Train our Random Forest")
 # generate our Random forest classifier
-
 rf.fit(table=H_total, exclude_attrs=['_id', 'ltable_ID', 'rtable_ID', 'label'], target_attr='label')
 
-predictions = rf.predict(table=C, exclude_attrs=['_id', 'ltable_ID', 'rtable_ID'], append=True, target_attr='predicted', inplace=False)
-print(predictions)
+# generate our Feature vectors for the full table.
+C_FeatureVectors = em.extract_feature_vecs(C, feature_table=feature_table, show_progress=False)
+C_FeatureVectors.fillna(value=0, inplace=True)
 
-# eval_result = em.eval_matches(predictions, 'label', 'predicted')
-# print('\n Random Forest Result-')
-# em.print_eval_summary(eval_result)
+print("Make our Match using our Random Forest Model.")
+# Use the trained random forest to find our ML matches.
+predictions_entire = rf.predict(table=C_FeatureVectors, exclude_attrs=['_id', 'ltable_ID', 'rtable_ID'],
+                                append=True, target_attr='predicted', inplace=False)
 
-# # create I and J sets
-# IJ = em.split_train_test(G, train_proportion=0.7, random_state=0)
-# I = IJ['train']
-# J = IJ['test']
-#
-# # prepare RF classifier
-# rf = em.RFMatcher(name='RF', random_state=0)
-#
-# # need A and B csv files
-# feature_table = em.get_features_for_matching(A, B, validate_inferred_attr_types=True)
-#
-# print(feature_table.feature_name)
-#
-# H = em.extract_feature_vecs(I,
-#                             feature_table=feature_table,
-#                             attrs_after='label',
-#                             show_progress=False)
-# H.fillna(value=0, inplace=True)
-#
-# L = em.extract_feature_vecs(J, feature_table=feature_table,
-#                             attrs_after='label', show_progress=False)
-# L.fillna(value=0, inplace=True)
-#
-# # generate our Random forest classifier
-#
-# rf.fit(table=H,
-#        exclude_attrs=['_id', 'ltable_ID', 'rtable_ID', 'label'],
-#        target_attr='label')
-#
-# predictions = rf.predict(table=L, exclude_attrs=['_id', 'ltable_ID', 'rtable_ID', 'label'],
-#                          append=True, target_attr='predicted', inplace=False)
-#
-# eval_result = em.eval_matches(predictions, 'label', 'predicted')
-# print('\n Random Forest Result-')
-# em.print_eval_summary(eval_result)
+################################## File Output Portion ##################################
+print("Build and output our matches")
+# Build up our matched set
+Matched_Predictions = C[predictions_entire.predicted == 1]
+
+entiredPredictedData = pd.concat(
+    [Matched_Predictions.ltable_ID + Matched_Predictions.rtable_ID, Matched_Predictions.ltable_ID,
+     Matched_Predictions.ltable_Title, Matched_Predictions.rtable_ID,
+     Matched_Predictions.rtable_Title], names=['ID', 'ltable_ID', 'ltable_Title', 'rtable_ID', 'rtable_Title'], axis=1)
+
+# Save out to disk in the intermediate format / Schema we want.
+entiredPredictedData.to_csv('../data/PredictedMatchedTuples.csv', index=False)
+df = pd.read_csv('../data/PredictedMatchedTuples.csv')
+df = df.rename(columns=({'0': 'ID'}))
+df.to_csv('../data/PredictedMatchedTuples.csv', index=False)
