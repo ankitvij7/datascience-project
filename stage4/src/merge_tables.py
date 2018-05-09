@@ -27,9 +27,11 @@ print(list(B))
 print(list(M))
 
 # join A with M
-A_M = pd.merge(A, M, left_on='ID', right_on='ltable_ID')
+A_M = pd.merge(A, M, how='outer', left_on='ID', right_on='ltable_ID')
+print('num A_M: ' + str(len(A_M)))
 # join further with B
-merged_df = pd.merge(A_M, B, left_on='rtable_ID', right_on='ID')
+merged_df = pd.merge(A_M, B, how='outer', left_on='rtable_ID', right_on='ID')
+print('num merged_df: ' + str(len(merged_df)))
 print(list(merged_df))
 
 
