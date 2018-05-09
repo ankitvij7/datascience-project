@@ -83,4 +83,4 @@ print(list(E))
 
 print(E.head(3))
 
-E.to_csv('E.csv')
+E.to_csv('E.csv', index = False)
