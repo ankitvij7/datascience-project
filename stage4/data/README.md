@@ -4,7 +4,7 @@
 * B.csv - Cleaned version of RottenTomatoesMovieDatabase.csv
 * PredictedMatchedTuples.csv - Matched set Movies from A and B, using Best matcher from stage #2
 * E.csv - Merged sets A and B
-# G.csv - Labeled data for training our classifier.
+* G.csv - Labeled data for training our classifier.
 * README.md - this file.
 
 # Data Details
