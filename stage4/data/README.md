@@ -1,7 +1,5 @@
 # Files Listing
 
-* ImdbMovieDatabase.csv - Raw output from stage # 2
-* RottenTomatoesMovieDatabase.csv - Raw output from Stage # 2
 * A.csv - Cleaned version of ImdbMovieDatabase.csv
 * B.csv - Cleaned version of RottenTomatoesMovieDatabase.csv
 * PredictedMatchedTuples.csv - Matched set Movies from A and B, using Best matcher from stage #2
