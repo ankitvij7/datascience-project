@@ -1,7 +1,7 @@
 # Code Files:
-1. blocker_n_matcher.py: Take sets A, B, & G and create PredictedMatchedTuples.csv
-1. merge_tables.py: Take PredictedMatchedTuples.csv and create set E
-1. analysis.py: Take Set E and generate graphs and insights.
+1. blocker_n_matcher.py: Take sets A, B, & G and creates Predicted Matched Tuples
+1. merge_tables.py: Take set Predicted Matched Tuples and creates set E
+1. analysis.py: Takes set E and generate graphs and insights.
 
 # Using PyCharm include in project interpreter:
 1. python v3.6
