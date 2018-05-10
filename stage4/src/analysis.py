@@ -15,7 +15,7 @@ writer_map_count = {}
 studio_map_earnings = {}
 studio_map_count = {}
 for index, row in df.iterrows():
-    current_genres = row['Genre'].split(';')
+    current_genres = str(row['Genre']).split(';')
     for genre in current_genres:
         genres_map_box_office[genre] = 0
         genres_map_count[genre] = 0
@@ -41,7 +41,7 @@ for index, row in df.iterrows():
 
 
 for index, row in df.iterrows():
-    current_genres = row['Genre'].split(';')
+    current_genres = str(row['Genre']).split(';')
     box_office = row['Box Office']
     for genre in current_genres:
         genres_map_box_office[genre] = genres_map_box_office[genre] + box_office
@@ -69,7 +69,7 @@ for index, row in df.iterrows():
             studio_map_count[studio] = studio_map_count[studio] + 1
 
 
-# Popular genres with the average box office earnings above 60000000
+# Popular genres with the average box office earnings above 70000000
 removal_list_genre = []
 for genre in genres_map_box_office:
     genres_map_box_office[genre] = genres_map_box_office[genre]/genres_map_count[genre]
@@ -85,24 +85,6 @@ plt.ylabel('Average Box Office Earnings')
 plt.xlabel('Genres')
 plt.show()
 
-
-# Popular directors with the overall average score above 88
-removal_list_director = []
-for director in directors_map_score:
-    directors_map_score[director] = directors_map_score[director]/directors_map_count[director]
-    if directors_map_score[director] < 88:
-        removal_list_director.append(director)
-
-for director in removal_list_director:
-    del directors_map_score[director]
-
-print(directors_map_score)
-
-plt.bar(directors_map_score.keys(), directors_map_score.values(), align='center')
-plt.ylabel('Average Movie Rating')
-plt.xlabel('Directors')
-plt.show()
-
 # which rating is most viewed
 for rating in rating_map_viewed:
     rating_map_viewed[rating] = rating_map_viewed[rating]/rating_map_count[rating]
@@ -116,11 +98,11 @@ plt.ylabel('Average Box Office Earnings')
 plt.xlabel('Ratings')
 plt.show()
 
-# which writer writes the longest scripts (close to 3 hour movies)
+# which writer write long scripts ( 3 hour+ movies)
 removal_list_writer = []
 for writer in writer_map_length:
     writer_map_length[writer] = writer_map_length[writer]/writer_map_count[writer]
-    if writer_map_length[writer] < 160:
+    if writer_map_length[writer] < 190:
         removal_list_writer.append(writer)
 
 for writer in removal_list_writer:
@@ -133,11 +115,11 @@ plt.ylabel('Average Run time')
 plt.xlabel('Writers')
 plt.show()
 
-# most profitable studios per movie (> 40 million earnings)
+# most profitable studios per movie (> 33 million earnings)
 removal_list_studio = []
 for studio in studio_map_earnings:
     studio_map_earnings[studio] = studio_map_earnings[studio]/studio_map_count[studio]
-    if studio_map_earnings[studio] < 400000000:
+    if studio_map_earnings[studio] < 330000000:
         removal_list_studio.append(studio)
 
 for studio in removal_list_studio:
