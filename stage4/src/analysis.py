@@ -14,6 +14,7 @@ writer_map_length = {}
 writer_map_count = {}
 studio_map_earnings = {}
 studio_map_count = {}
+# Initialize maps to zero.
 for index, row in df.iterrows():
     current_genres = str(row['Genre']).split(';')
     for genre in current_genres:
@@ -39,7 +40,7 @@ for index, row in df.iterrows():
             studio_map_earnings[studio] = 0
             studio_map_count[studio] = 0
 
-
+# roll-up some data and populate maps with values
 for index, row in df.iterrows():
     current_genres = str(row['Genre']).split(';')
     box_office = row['Box Office']
@@ -68,11 +69,10 @@ for index, row in df.iterrows():
             studio_map_earnings[studio] = studio_map_earnings[studio] + box_office
             studio_map_count[studio] = studio_map_count[studio] + 1
 
-
 # Popular genres with the average box office earnings above 70000000
 removal_list_genre = []
 for genre in genres_map_box_office:
-    genres_map_box_office[genre] = genres_map_box_office[genre]/genres_map_count[genre]
+    genres_map_box_office[genre] = genres_map_box_office[genre] / genres_map_count[genre]
     if genres_map_box_office[genre] < 70000000:
         removal_list_genre.append(genre)
 
@@ -87,7 +87,7 @@ plt.show()
 
 # which rating is most viewed
 for rating in rating_map_viewed:
-    rating_map_viewed[rating] = rating_map_viewed[rating]/rating_map_count[rating]
+    rating_map_viewed[rating] = rating_map_viewed[rating] / rating_map_count[rating]
 
 del rating_map_viewed['NOT RATED']
 
@@ -101,7 +101,7 @@ plt.show()
 # which writer write long scripts ( 3 hour+ movies)
 removal_list_writer = []
 for writer in writer_map_length:
-    writer_map_length[writer] = writer_map_length[writer]/writer_map_count[writer]
+    writer_map_length[writer] = writer_map_length[writer] / writer_map_count[writer]
     if writer_map_length[writer] < 190:
         removal_list_writer.append(writer)
 
@@ -118,7 +118,7 @@ plt.show()
 # most profitable studios per movie (> 33 million earnings)
 removal_list_studio = []
 for studio in studio_map_earnings:
-    studio_map_earnings[studio] = studio_map_earnings[studio]/studio_map_count[studio]
+    studio_map_earnings[studio] = studio_map_earnings[studio] / studio_map_count[studio]
     if studio_map_earnings[studio] < 330000000:
         removal_list_studio.append(studio)
 

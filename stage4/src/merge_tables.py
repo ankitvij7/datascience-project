@@ -29,10 +29,24 @@ print(list(M))
 # join A with M
 A_M = pd.merge(A, M, how='outer', left_on='ID', right_on='ltable_ID')
 print('num A_M: ' + str(len(A_M)))
+
 # join further with B
 merged_df = pd.merge(A_M, B, how='outer', left_on='rtable_ID', right_on='ID')
 print('num merged_df: ' + str(len(merged_df)))
 print(list(merged_df))
+
+
+# test merging the other direction.
+# M_B = pd.merge(M, B, how='outer', left_on='rtable_ID', right_on='ID')
+# print('num M_B: ' + str(len(M_B)))
+# merged_df2 = pd.merge(A, M_B, how='outer', left_on='ID', right_on='ltable_ID')
+# print('num merged_df2: ' + str(len(merged_df2)))
+
+# Numbers come to (Check!)
+#   num A_M: 3259
+#   num merged_df: 5691
+#   num M_B: 3040
+#   num merged_df2: 5691
 
 
 def pick_title(x, y):
@@ -156,12 +170,13 @@ merged_df['Genre'] = merged_df.apply(lambda x: add_if_different(x['Genre_x'], x[
 merged_df['Studio'] = merged_df.apply(lambda x: add_if_different(x['Studio_x'], x['Studio_y']), axis=1)
 merged_df['Rating'] = merged_df.apply(lambda x: retain_if_not_na(x['Rating_x'], x['Rating_y']), axis=1)
 merged_df['Release Date'] = merged_df.apply(lambda x: pick_title(x['Release Date_x'], x['Release Date_y']), axis=1)
+merged_df['ID_new'] = merged_df.apply(lambda x: add_if_different(x['ID_x'], x['ID']), axis=1)
+
 # TODO: change ID_x to Ankit's Matches ID
 # basic select operation - ID_y is the ID of the matches table
-Z = merged_df[['ID_y', 'Title', 'Score', 'Rating', 'Genre', 'Directed By', \
-               'Written By', 'Box Office', 'Release Date', 'Runtime', 'Studio']]
+Z = merged_df[['ID_new', 'Title', 'Score', 'Rating', 'Genre', 'Directed By', 'Written By', 'Box Office', 'Release Date', 'Runtime', 'Studio']]
 # rename to match the required schema
-E = Z.rename(columns={'ID_y': 'ID'})
+E = Z.rename(columns={'ID_new': 'ID'})
 print(list(Z))
 print(list(E))
 
